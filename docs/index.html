@@ -1,0 +1,2321 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>IPO Watchlist — 23 Sep 2026, 10:51 PM IST</title>
+<style>
+  :root {
+    --bg: #f5f6f8; --card: #fff; --text: #1d2330; --muted: #6b7280; --line: #e5e7eb;
+    --green: #0f7b45; --green-bg: #e6f5ec; --red: #b42318; --red-bg: #fdecea;
+    --amber: #9a6700; --amber-bg: #fff4d6; --blue: #1d4ed8; --blue-bg: #e8efff; --violet: #6d28d9; --violet-bg: #f1eaff;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0f1216; --card: #181c22; --text: #e6e8eb; --muted: #9aa3ae; --line: #2a3039;
+      --green: #4ade80; --green-bg: #12301f; --red: #f87171; --red-bg: #3a1515;
+      --amber: #fbbf24; --amber-bg: #33280d; --blue: #93b4ff; --blue-bg: #1a2545; --violet: #c4a8ff; --violet-bg: #2a1d45;
+    }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; font: 15px/1.45 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; background: var(--bg); color: var(--text); }
+  a { color: var(--blue); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .wrap { max-width: 1280px; margin: 0 auto; padding: 16px; }
+  .top { display: flex; flex-wrap: wrap; align-items: baseline; gap: 8px 16px; margin-bottom: 12px; }
+  .top h1 { font-size: 22px; margin: 0; }
+  .top .updated { color: var(--muted); font-size: 13px; }
+  .controls { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin: 8px 0 16px; }
+  .seg { display: inline-flex; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; background: var(--card); }
+  .seg button { border: 0; background: none; color: var(--text); padding: 6px 12px; font: inherit; cursor: pointer; }
+  .seg button + button { border-left: 1px solid var(--line); }
+  .seg button.on { background: var(--blue-bg); color: var(--blue); font-weight: 600; }
+  select { font: inherit; padding: 6px 8px; border-radius: 8px; border: 1px solid var(--line); background: var(--card); color: var(--text); }
+  .warn { background: var(--amber-bg); color: var(--amber); border-radius: 8px; padding: 8px 12px; margin-bottom: 12px; font-size: 13px; }
+  .warn ul { margin: 4px 0 0; padding-left: 18px; }
+  h2 { font-size: 17px; margin: 20px 0 10px; }
+  h2 .count { color: var(--muted); font-weight: 400; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(340px, 100%), 1fr)); gap: 14px; }
+  .card { min-width: 0; overflow-wrap: anywhere; background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 14px; display: flex; flex-direction: column; gap: 12px; }
+  .card[hidden] { display: none; }
+  .card h3 { margin: 0 0 6px; font-size: 17px; }
+  .card h3 a { color: var(--text); }
+  .badges { display: flex; flex-wrap: wrap; gap: 6px; }
+  .badge { font-size: 12px; padding: 2px 8px; border-radius: 999px; background: var(--line); }
+  .badge.mainboard { background: var(--blue-bg); color: var(--blue); }
+  .badge.sme { background: var(--violet-bg); color: var(--violet); }
+  .badge.urgent { background: var(--red-bg); color: var(--red); font-weight: 600; }
+  .badge.stale, .stale { background: var(--amber-bg); color: var(--amber); font-size: 11px; padding: 1px 6px; border-radius: 999px; }
+  .dates { color: var(--muted); font-size: 13px; margin-top: 6px; }
+  .stats { display: grid; grid-template-columns: 1fr 1fr; gap: 8px 12px; }
+  .stats .k { display: block; color: var(--muted); font-size: 12px; }
+  .stats .v { font-weight: 600; }
+  .stats small { display: block; font-weight: 400; color: var(--muted); font-size: 12px; }
+  .live { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+  .gmp, .subs { min-width: 0; border-radius: 10px; padding: 10px; background: var(--bg); }
+  .label { display: block; font-size: 12px; color: var(--muted); }
+  .big { font-size: 22px; font-weight: 700; }
+  .pct { font-weight: 600; margin-left: 4px; }
+  .gmp.pos .big, .gmp.pos .pct { color: var(--green); }
+  .gmp.mild .big, .gmp.mild .pct { color: var(--amber); }
+  .gmp.neg .big, .gmp.neg .pct { color: var(--red); }
+  .gmp.flat .big { color: var(--muted); }
+  .sub { font-size: 12px; color: var(--muted); margin-top: 4px; }
+  .subs table { width: 100%; font-size: 13px; border-collapse: collapse; margin-top: 4px; }
+  .subs td:last-child { text-align: right; font-weight: 600; }
+  .muted { color: var(--muted); }
+  h4 { margin: 0 0 4px; font-size: 13px; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); }
+  h5 { margin: 8px 0 2px; font-size: 13px; }
+  .about p, .signals p { margin: 4px 0; }
+  details summary { cursor: pointer; color: var(--blue); font-size: 13px; margin-top: 4px; }
+  details ul { margin: 6px 0; padding-left: 18px; }
+  details li { margin-bottom: 4px; font-size: 14px; }
+  .flags { display: flex; flex-wrap: wrap; gap: 6px; margin: 4px 0; }
+  .flag { font-size: 12px; padding: 3px 8px; border-radius: 6px; font-weight: 600; }
+  .flag.good { background: var(--green-bg); color: var(--green); }
+  .flag.bad { background: var(--red-bg); color: var(--red); }
+  .flag.warn { background: var(--amber-bg); color: var(--amber); }
+  .devs { list-style: none; padding: 0; margin: 4px 0; }
+  .devs li { font-size: 14px; margin-bottom: 6px; padding-left: 18px; position: relative; }
+  .devs li::before { content: "•"; position: absolute; left: 4px; color: var(--muted); }
+  .devs li.good::before { content: "▲"; color: var(--green); font-size: 11px; top: 2px; }
+  .devs li.bad::before { content: "▼"; color: var(--red); font-size: 11px; top: 2px; }
+  .metrics { font-size: 14px; }
+  .objects { font-size: 14px; }
+  .card > footer { margin-top: auto; display: flex; gap: 14px; font-size: 13px; border-top: 1px solid var(--line); padding-top: 8px; }
+  .empty { color: var(--muted); padding: 20px; background: var(--card); border-radius: 12px; border: 1px dashed var(--line); }
+  .upcoming-wrap > summary { font-size: 17px; font-weight: 700; color: var(--text); margin: 20px 0 10px; }
+  .disclaimer { color: var(--muted); font-size: 12px; margin: 28px 0 8px; }
+  @media (max-width: 420px) { .grid { grid-template-columns: 1fr; } .live { grid-template-columns: 1fr; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="top">
+    <h1>IPO Watchlist</h1>
+    <span class="updated">Last updated: 23 Sep 2026, 10:51 PM IST</span>
+  </div>
+
+
+  <div class="controls">
+    <div class="seg" id="typeFilter">
+      <button class="on" data-v="all">All</button>
+      <button data-v="Mainboard">Mainboard</button>
+      <button data-v="SME">SME</button>
+    </div>
+    <label>Sort
+      <select id="sortBy">
+        <option value="date">Closing soonest</option>
+        <option value="gmp">GMP % (high → low)</option>
+        <option value="sub">Subscription (high → low)</option>
+        <option value="size">Issue size (large → small)</option>
+      </select>
+    </label>
+  </div>
+
+  <h2>Open for application <span class="count" data-count-for="openGrid">(15)</span></h2>
+  <div class="grid" id="openGrid">
+<article class="card " data-type="SME"
+         data-gmp="61.32"
+         data-date="2026-09-23"
+         data-size="31.0"
+         data-sub="833.56">
+  <header>
+    <h3>
+<a href="https://www.chittorgarh.com/ipo/robokidz-eduventures-ipo/3205/" target="_blank" rel="noopener">Robokidz Eduventures</a>    </h3>
+    <div class="badges">
+      <span class="badge sme">SME</span>
+<span class="badge when urgent">Closes today</span>    </div>
+    <div class="dates">21 to 23 Sep, 2026 · BSE SME · lists Mon, Sep 28, 2026</div>
+  </header>
+
+  <div class="stats">
+    <div><span class="k">Price band</span><span class="v">₹100 to ₹106</span></div>
+    <div><span class="k">Lot size</span><span class="v">1,200 shares</span></div>
+    <div><span class="k">Min. investment</span><span class="v">
+₹2,54,400
+        <small>2 lots · 2,400 sh</small>
+    </span></div>
+    <div><span class="k">Issue size</span><span class="v">₹31 Cr</span></div>
+  </div>
+
+  <div class="live">
+        <div class="gmp pos">
+      <span class="label">GMP</span>
+      <span class="big">₹65</span>
+<span class="pct">(+61.3%)</span>      <div class="sub">
+Est. listing ₹171 · updated 23 Sept, 14:30
+      </div>
+    </div>
+
+    <div class="subs">
+      <span class="label">Subscription</span>
+        <span class="big">833.56x</span>
+        <table>
+          <tr><td>Qualified Institutional</td><td>306.73x</td></tr>
+          <tr><td>Non Institutional</td><td>1593.00x</td></tr>
+          <tr><td>Retail Individual</td><td>807.12x</td></tr>
+        </table>
+        <div class="sub">as of Sep 23, 2026 18:54</div>
+    </div>
+  </div>
+
+  <section class="about">
+    <h4>What they do</h4>
+    <p>Incorporated in December 2014, Robokidz Eduventures Limited is an education technology company engaged in providing technology-enabled learning and skill development solutions for K-12 students in Robotics, Artificial Intelligence (AI), Coding, Electronics, and STEM (Science, Technology, Engineering, and Mathematics). The company offers end-to-end educational laboratory setup solutions, subscription-based learning programs, teacher training, digital learning platforms, educational kits, and technical support to schools, educational institutions, and government organizations across India.</p>
+    <details>
+      <summary>More about the company</summary>
+<p>The company operates through a diversified business model comprising Educational Laboratory Setup Projects, subscription-based Young Engineers Garage (YEG) programs, STEM workshops, boot camps, and franchise-based Young Engineers Academy (YEA) activity centres. Its proprietary digital platforms, coding solutions, and learning management systems support experiential, application-based learning aligned with the National Education Policy (NEP) 2020, while its ISO-certified operations ensure high-quality educational delivery and technology integration.</p><p>Led by experienced promoter Sagar Lalit Sanghvi and a professional management team, the company focuses on expanding technology-driven education, strengthening its nationwide presence, and delivering innovative STEM learning solutions.</p><p>As of March 31, 2026, Robokidz Eduventures employed 24 professionals across technical, design &amp; development, sales, operations, finance, legal, HR, and management functions.</p>        <h5>Strengths</h5>
+        <ul><li>Integrated end-to-end technology-enabled STEM education solutions.</li><li>Proven track record in executing educational laboratory setup projects.</li><li>Proprietary digital platforms, educational kits, and subscription-based learning ecosystem.</li><li>Experienced management team with diversified revenue streams and pan-India presence.</li></ul>
+    </details>
+  </section>
+
+  <section class="signals">
+    <h4>Financial signals</h4>
+    <div class="flags"><span class="flag good">Strong growth: income +58%, profit +102%</span><span class="flag good">Profit up 3 years in a row</span><span class="flag warn">Borrowing up 94% (debt &gt; net worth)</span><span class="flag good">High ROE 56%</span></div>
+<p class="metrics">FY26 income ₹93.7 Cr · PAT ₹10.1 Cr · PAT margin 10.8% · Income +58% YoY · PAT +102% YoY · Post-issue P/E 11.4x</p>      <p class="objects"><b>Money raised will go to:</b>
+Funding the working capital requirements of the Company (₹23.5 Cr); Pre-payment or Repayment of all or a portion of certain outstanding borrowings availed by the Company (₹2.2 Cr)</p>
+      <p class="objects"><b>Key strengths:</b> Integrated end-to-end technology-enabled STEM education solutions. Proven track record in executing educational laboratory setup projects. Proprietary digital platforms, educational kits, and subscription-based learning ecosystem.</p>
+      <p class="objects muted"><b>Broker reviews:</b>
+none yet</p>
+  </section>
+
+  <details class="news">
+    <summary>IPO news (3)</summary>
+    <ul>
+      <li><a href="https://news.google.com/rss/articles/CBMi7gFBVV95cUxQLUx5d1Q4MU13N1VPT2k4bEVqT0hldngwNGxvSks5Y190dll5VE1nVEx4ZGZpOVEwZWVhbWFfTEp3cEtndGpuN0NrSmNmaHBzUmlyVlNlcnJCZk8wZnRjWGtxajN3TjhCQXE4UUsyTm9rYmswVHdzVEFjeDR3VG1LcG1RcWhaa1k5SmNNbHdBR0k2V0FhN3hKOG1aSW05M09jbWIyOU1NbDNtUC1KdmE1Qy1YRzQ4R3Fob2E2NzJ2ZUUzSXZlbjZaalZoOTF0cXN6Mml1SjJHNURLLXJqcEVVeTEzRkQ1dnpnMGE4YS1n0gHzAUFVX3lxTFBHSWlvczBSVzNaaEpLRjU2T0FlbVBDQUdvZFpDQS1oOGJySmlRMUhLOWk2TjVHVU1ZUE9ydEgxY1RRZUliNW9kNXFjZ0Rja2pLcEVhUkdORGxZS1ptX1lnS3UyRWZjN2luVGVzMURyUS1hYjVuNWlPMU1RRXNRbVlPV01oa2RxSzJIUTlzVVBQWmN1aUJORzFVb3hSLUlEU1A0YV82eTBmQ2s5VDVabmthdExwNU9NbE9fZlg1QTF2aUM4MDkwRFZqYzY4RnZoeWlQSWR0UU5KQk5aNlpXamItYmVlYUNaaU5ZckJVYThPZFFacw?oc=5" target="_blank" rel="noopener">Rs 115-crore Robokidz Eduventures attracts over Rs 17,000 crore in bids; IPO subscribed 769 times</a> <span class="muted">— Moneycontrol.com, 23 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxOWnlyemYzYUZ2cU5URUpnRHhwLUxQcnJ6NGdjX0V6MksyZW5kVno4UjRVUlNzbjUwVEdFWldxa1lVMlRMR0ZUaDRjT3hMVUtINnBMVkN5U3plelROeGMwTWFjSjAtdnE0czZYVVctaTVRcGhURFRRendTNXBuaDRZR21sOTlHS1RzM1lwTGRVTnc1RnEwMm9KXy10ZVJvOFRaS0Z3OGlUNGVEamZZWDJvVkUwNUp4S0hVY09PMmMxaGUtZUo1c3JKdzF6WQ?oc=5" target="_blank" rel="noopener">Robokidz Eduventures Limited Completes IPO Subscription Process with Strong Participation</a> <span class="muted">— Kalkine India, 23 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVU5iNllPWDFUMDVkV19lYmh1LVMzM3lPVk5kUDhWVnNBMmpxd3lLZElYVmFSRnpKMldrTWNoNXFGb2o0Uk5uREZzWWpfRERhOTQ0VE90cDk2Rk52aFRkV1ctNjE2eUp1QlpGR2VJbWotbTVNaGFRZGdnUVF0dU5CRXJ1SEZuTEp3UWhITHowQnRsM0Q3UkRDRDRDN29XLUI5ckU3Y01jT0F2SmQxSldJUlIwSjlHVk5LMW1r?oc=5" target="_blank" rel="noopener">Robokidz Eduventures IPO Day 3: Subscribed 171.18x; Retail demand hits 217.53x</a> <span class="muted">— scanx.trade, 23 Sep 2026</span></li>
+    </ul>
+  </details>
+
+  <footer>
+<a href="https://www.chittorgarh.com/ipo/robokidz-eduventures-ipo/3205/" target="_blank" rel="noopener">Chittorgarh</a><a href="https://ipowatch.in/robokidz-eduventures-ipo/" target="_blank" rel="noopener">IPOWatch</a>  </footer>
+</article>
+<article class="card " data-type="SME"
+         data-gmp="0.0"
+         data-date="2026-09-23"
+         data-size="22.0"
+         data-sub="1.79">
+  <header>
+    <h3>
+<a href="https://www.chittorgarh.com/ipo/vivekanand-cotspin-ipo/2062/" target="_blank" rel="noopener">Vivekanand Cotspin</a>    </h3>
+    <div class="badges">
+      <span class="badge sme">SME</span>
+<span class="badge when urgent">Closes today</span>    </div>
+    <div class="dates">21 to 23 Sep, 2026 · BSE SME · lists Mon, Sep 28, 2026</div>
+  </header>
+
+  <div class="stats">
+    <div><span class="k">Price band</span><span class="v">₹32 to ₹37</span></div>
+    <div><span class="k">Lot size</span><span class="v">3,000 shares</span></div>
+    <div><span class="k">Min. investment</span><span class="v">
+₹2,22,000
+        <small>2 lots · 6,000 sh</small>
+    </span></div>
+    <div><span class="k">Issue size</span><span class="v">₹22 Cr</span></div>
+  </div>
+
+  <div class="live">
+        <div class="gmp flat">
+      <span class="label">GMP</span>
+      <span class="big">₹0</span>
+<span class="pct">(+0.0%)</span>      <div class="sub">
+Est. listing ₹37 · updated 23 Sept, 14:30
+      </div>
+    </div>
+
+    <div class="subs">
+      <span class="label">Subscription</span>
+        <span class="big">1.79x</span>
+        <table>
+          <tr><td>Qualified Institutional</td><td>1.26x</td></tr>
+          <tr><td>Non Institutional</td><td>2.41x</td></tr>
+          <tr><td>Retail Individual</td><td>1.82x</td></tr>
+        </table>
+        <div class="sub">as of Sep 23, 2026 18:54</div>
+    </div>
+  </div>
+
+  <section class="about">
+    <h4>What they do</h4>
+    <p>Incorporated in July 2015, Vivekanand Cotspin Limited processes cotton and manufactures yarn through ginning and spinning, including trading.</p>
+    <details>
+      <summary>More about the company</summary>
+<p>The company&#39;s products include cotton bales, seeds, and yarn.</p><p>The company operates in two primary areas: cotton ginning and spinning.</p><p>The company focuses on spinning clean cotton fibres into yarn.</p><p>The company focuses on cotton yarn, offering carded and combed options for domestic and international markets. Vivekanand Cotspin caters to various industries needing high-quality yarn for fabric production and exporting beyond India. It operates spinning mills with efficient machinery to uphold quality control.</p><p>The company’s manufacturing facility is located in Rangpurda, Kadi, within the Mahesana District of Gujarat, close to the fertile cotton-growing regions of Maharashtra and Saurashtra in Gujarat. The company has established an annual production capacity of approximately 4,550 tons of cotton yarn and 8,000 tons of cotton bales.</p><p>As on May 30th, 2026, the Company has 146 employees on payroll.</p>        <h5>Competitive Strength</h5>
+        <ul><li>Establishing the Spinning Unit has achieved forward integration into the cotton textile industry.</li><li>Cost-effective production and timely fulfilment of orders.</li><li>Scalable model to optimize production, strengthen supplier relationships, and achieve economies of scale.</li><li>Emphasizing high-quality yarn is crucial for attracting and retaining customers in the competitive textile industry.</li><li>Experienced Promoters.</li></ul>
+    </details>
+  </section>
+
+  <section class="signals">
+    <h4>Financial signals</h4>
+    <div class="flags"><span class="flag bad">Profit fell 9% in FY26</span><span class="flag warn">High debt/equity 1.56</span></div>
+<p class="metrics">FY26 income ₹409.3 Cr · PAT ₹3.7 Cr · PAT margin 0.9% · Income +41% YoY · PAT -9% YoY · Post-issue P/E 22.8x</p>      <p class="objects"><b>Money raised will go to:</b>
+Funding for capital expenditure requirement towards installation of additional plant and machinery (₹5.3 Cr); To meet Working Capital requirements (₹11.0 Cr)</p>
+      <p class="objects"><b>Key strengths:</b> Establishing the Spinning Unit has achieved forward integration into the cotton textile industry. Cost-effective production and timely fulfilment of orders. Scalable model to optimize production, strengthen supplier relationships, and achieve economies of scale.</p>
+      <p class="objects muted"><b>Broker reviews:</b>
+none yet</p>
+  </section>
+
+  <details class="news">
+    <summary>IPO news (3)</summary>
+    <ul>
+      <li><a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxPdEFmdmM4UVgtcUZXTVNqNTJDNUdGNkJJT242dU05Zjl6M1hpOFZXcHY2cGVaTXdJVXFlMWM1cjJGTHpXdFdDckl3aWNEZUk4Vm5MSDNZRHJkcWsxUFdIbnE0WXRTNkltb0dvTTdMbHotWmZMb245SklHaUVYQlc2Zmp3NGRIZ3dza0VNamhDVy1qNURuNW1NQU8wYlI2ek9PdVRn?oc=5" target="_blank" rel="noopener">Vivekanand Cotspin IPO Subscription Status Day 3: Issue Subscribed 1.79 Times</a> <span class="muted">— HDFC Sky, 23 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQ1NObVFEenJyYmtlRXd2a19JQmRoNWV3RXV4N2ZncDZBRDVMblIzYzBVbXFqTnlfWUlodGMxYnJLbmVubVRCUF84WE9FcF9sRTNaV2xCYnZIZ2JCaHpfNW5HRFgtVTc5V1lUQ2xiZ0dGdllmOEpETGE5WER4dFJKSkV4aFVWU1BvTHpGWlhBRXd0d0prMVdmS3FGQ3ozbEVrOXBkWG9HNVJZZ2RtRW93R0V4UXJTV3ZTNHNrMnM5bzF1NmQ1b1B6aURTSzNDNXdwa0VsaGRWN2g?oc=5" target="_blank" rel="noopener">Vivekanand Cotspin IPO Closes After Public Subscription Period</a> <span class="muted">— Kalkine India, 23 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxOdkdPYnZBbkwyQ090cDlhbkZVYW1JNTRwYXdpRFgyTm1tTUZTM3VxbDJkYTRyczgydENFN2FNaTRCQmxOeHdFT01Ib29iUUdIZ2tsNThFbFhFa01ZemZ3X2pyOHdNUlJfU3dwelNlTXI3OFZTbUZweU41MEczOG1SN0ZJVEVtTlVfaXBpbGJ3aFJPQk5BR1hhRTVwcG9hTlg3ODBQTGhFUQ?oc=5" target="_blank" rel="noopener">Vivekanand Cotspin IPO Day 3 Subscription Status 23 Sep 2026</a> <span class="muted">— Univest, 23 Sep 2026</span></li>
+    </ul>
+  </details>
+
+  <footer>
+<a href="https://www.chittorgarh.com/ipo/vivekanand-cotspin-ipo/2062/" target="_blank" rel="noopener">Chittorgarh</a><a href="https://ipowatch.in/vivekanand-cotspin-ipo/" target="_blank" rel="noopener">IPOWatch</a>  </footer>
+</article>
+<article class="card " data-type="SME"
+         data-gmp="0.0"
+         data-date="2026-09-23"
+         data-size="45.0"
+         data-sub="17.72">
+  <header>
+    <h3>
+<a href="https://www.chittorgarh.com/ipo/fx-multitech-ipo/2849/" target="_blank" rel="noopener">FX Multitech</a>    </h3>
+    <div class="badges">
+      <span class="badge sme">SME</span>
+<span class="badge when urgent">Closes today</span>    </div>
+    <div class="dates">21 to 23 Sep, 2026 · BSE SME · lists Mon, Sep 28, 2026</div>
+  </header>
+
+  <div class="stats">
+    <div><span class="k">Price band</span><span class="v">₹110 to ₹116</span></div>
+    <div><span class="k">Lot size</span><span class="v">1,200 shares</span></div>
+    <div><span class="k">Min. investment</span><span class="v">
+₹2,78,400
+        <small>2 lots · 2,400 sh</small>
+    </span></div>
+    <div><span class="k">Issue size</span><span class="v">₹45 Cr</span></div>
+  </div>
+
+  <div class="live">
+        <div class="gmp flat">
+      <span class="label">GMP</span>
+      <span class="big">₹0</span>
+<span class="pct">(+0.0%)</span>      <div class="sub">
+Est. listing ₹116 · updated 23 Sept, 14:30
+      </div>
+    </div>
+
+    <div class="subs">
+      <span class="label">Subscription</span>
+        <span class="big">17.72x</span>
+        <table>
+          <tr><td>Qualified Institutional</td><td>20.95x</td></tr>
+          <tr><td>Non Institutional</td><td>25.98x</td></tr>
+          <tr><td>Retail Individual</td><td>12.31x</td></tr>
+        </table>
+        <div class="sub">as of Sep 23, 2026 18:53</div>
+    </div>
+  </div>
+
+  <section class="about">
+    <h4>What they do</h4>
+    <p>Incorporated in March 2008, FX Multitech Limited is engaged in the distribution and export of a diverse portfolio of products catering primarily to the HVAC (Heating, Ventilation and Air Conditioning) and industrial refrigeration industries. The Company offers a wide range of engineering and refrigeration products, including compressors, refrigeration and air-conditioning controls, industrial refrigeration controls, variable frequency drives and automation products, specialized components and tools, heat exchangers, cold room evaporators, refrigerants and ancillary products. It sources products from globally recognized manufacturers and supplies technologically advanced, reliable, energy-efficient and cost-effective solutions for industrial and commercial applications.</p>
+    <details>
+      <summary>More about the company</summary>
+<p>FX Multitech has a diversified distribution network with its headquarters in Ahmedabad, Gujarat, and warehouses in Hyderabad, Thane, Kolkata and Bangalore. This multi-city presence enables the Company to serve customers across India with timely product delivery, technical support and after-sales service. The Company also exports its products, expanding its presence in international markets.</p><p>The Company has established relationships with global suppliers, including Danfoss Industries Private Limited, Transfer Oil S.P.A., Quang Thang Mechanics and Refrigeration Company Ltd., KuzuFlex Metal San Ve Tic. A.S., Testo India Pvt. Limited, Refco Manufacturing Limited, US HVAC &amp; Weld Tools and Honeywell Automation India Limited, among others.</p><p>The Company also has a subsidiary, Everestt Chillers Private Limited (ECPL), in which it acquired a 51% equity stake in January 2025. ECPL manufactures customised industrial chillers, glycol chillers, chilled water air conditioners and effluent chillers, complementing FX Multitech’s existing refrigeration product portfolio.</p><p>As of July 31, 2026, the Company had a workforce of 48 personnel across sales and marketing, dispatch and logistics, administration, finance, purchase, legal and compliance, technical support and other functions.</p>        <h5>Competitive Strengths</h5>
+        <ul><li>Strong relationships with global suppliers.</li><li>Wide and established distribution network.</li><li>Efficient operations and supply chain management.</li><li>Diversified product portfolio across multiple industries.</li><li>Strong customer relationships supported by technical expertise.</li></ul>
+    </details>
+  </section>
+
+  <section class="signals">
+    <h4>Financial signals</h4>
+    <div class="flags"><span class="flag good">Profit up 3 years in a row</span><span class="flag good">High ROE 38%</span></div>
+<p class="metrics">FY26 income ₹111.9 Cr · PAT ₹11.5 Cr · PAT margin 9.6% · Income +9% YoY · PAT +20% YoY · Post-issue P/E 14.4x</p>      <p class="objects"><b>Money raised will go to:</b>
+Repayment/pre-payment, in full or part, of certain borrowings availed by the Company (₹10.0 Cr); Investment in the subsidiary namely Everestt Chillers Pvt.Ltd. for purchase of machineries (₹6.3 Cr)</p>
+      <p class="objects"><b>Key strengths:</b> Strong relationships with global suppliers. Wide and established distribution network. Efficient operations and supply chain management.</p>
+      <p class="objects muted"><b>Broker reviews:</b>
+none yet</p>
+      <h5>Recent developments</h5>
+      <ul class="devs">
+        <li class=""><a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZEtPcFY1WmlLb19WLXctUW8ydXlpalB4VkE3YnpnY3BGM1VhTnRyLVpqNGhTWnJlMHFNMEZXU192ZVAzZE9FSEhPNi05UnFFNHE4QWxsaS0zbk4wMjBiNkdZWWRGYW5ObXJSUGJPSmY0eVRrbnBOT2JCREFITFd3WlNwWnhEaE02R0RHMnNtaXAwaWFLdk5uT0xPVWhkSEpOU0R6el9HdWtVcmhfeVpfX3dxMWpjX1Vu?oc=5" target="_blank" rel="noopener">&#34;From 5 to 10&#34;: How FX Multitech is Building India&#39;s Refrigeration Backbone</a>
+          <span class="muted">— Ahmedabad Mirror, 18 Sep 2026</span></li>
+      </ul>
+  </section>
+
+  <details class="news">
+    <summary>IPO news (3)</summary>
+    <ul>
+      <li><a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE53Qnh1anI3RE5WS05uWDRsNVRkSEVQbHYxMGloM1NwcllPd2xDRlppMi14LVVhTlhBaW5UZkpYbHZUMl83M3FodmZsbU03OEExQzBiTmlJM1pmX1pKczFoM3lUdjVDOVJDZWNWVTNGeV8?oc=5" target="_blank" rel="noopener">FX Multitech IPO Date: Check Issue Date, Price, Lot size, Subscription, News and Details - Moneycontrol</a> <span class="muted">— Moneycontrol.com, 23 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ3dkTWhPUzRxajhQVkJ1SHJmWWtxVFQxalhrOE5WNzY2T2Q5UlM0TUFmS1F3WUdpdEVZZUwyUFFSN19RQ2tHNUFjYUs3dGxKZS1hcFJHdGwzLUQyYnRlYV9RdlIwU0lDa1NZdzc2UDV5N3JMNjVoLWNNbEdLY1dMNVlSQ1NrZk8xbmZ0QjQyaHE4cEdXSVZxVlpwU2w?oc=5" target="_blank" rel="noopener">FX Multitech IPO Allotment Status: 0.35x Subscribed, Check Online</a> <span class="muted">— Univest, 23 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxPem0tMGtTUk5jcGtrTnVzZC1Jb2VIaTA1bzhvdXdtMWJVanV0MzNTMnczeUpGOXpfSHRMS0dta215ZnFUWmtLdzBuQzRBQU1oa0NDM3ZQcnFjQzJ6N09lUk4zMmhjSWRFME9ISVRnVmtlLURheG5vMUpVZDJzdkZONDBhbmNTbnpfXzJRM2JRNXlmQ3pNM1N6aUs5VDBOb1k?oc=5" target="_blank" rel="noopener">FX Multitech IPO Day 3 Subscription Status 23 Sep 2026</a> <span class="muted">— Univest, 23 Sep 2026</span></li>
+    </ul>
+  </details>
+
+  <footer>
+<a href="https://www.chittorgarh.com/ipo/fx-multitech-ipo/2849/" target="_blank" rel="noopener">Chittorgarh</a><a href="https://ipowatch.in/fx-multitech-ipo/" target="_blank" rel="noopener">IPOWatch</a>  </footer>
+</article>
+<article class="card " data-type="Mainboard"
+         data-gmp="0.0"
+         data-date="2026-09-24"
+         data-size="708.0"
+         data-sub="0.27">
+  <header>
+    <h3>
+<a href="https://www.chittorgarh.com/ipo/varmora-granito-ipo/2563/" target="_blank" rel="noopener">Varmora Granito</a>    </h3>
+    <div class="badges">
+      <span class="badge mainboard">Mainboard</span>
+<span class="badge when urgent">Closes tomorrow</span>    </div>
+    <div class="dates">22 to 24 Sep, 2026 · BSE, NSE · lists Tue, Sep 29, 2026</div>
+  </header>
+
+  <div class="stats">
+    <div><span class="k">Price band</span><span class="v">₹140 to ₹148</span></div>
+    <div><span class="k">Lot size</span><span class="v">101 shares</span></div>
+    <div><span class="k">Min. investment</span><span class="v">
+₹14,948
+        <small>1 lot · 101 sh</small>
+    </span></div>
+    <div><span class="k">Issue size</span><span class="v">₹708 Cr</span></div>
+  </div>
+
+  <div class="live">
+        <div class="gmp flat">
+      <span class="label">GMP</span>
+      <span class="big">₹0</span>
+<span class="pct">(+0.0%)</span>      <div class="sub">
+Est. listing ₹148 · updated 23 Sept, 14:30
+      </div>
+    </div>
+
+    <div class="subs">
+      <span class="label">Subscription</span>
+        <span class="big">0.27x</span>
+        <table>
+          <tr><td>Qualified Institutional</td><td>0.11x</td></tr>
+          <tr><td>Non Institutional</td><td>0.18x</td></tr>
+          <tr><td>Retail Individual</td><td>0.41x</td></tr>
+        </table>
+        <div class="sub">as of Sep 23, 2026 17:06</div>
+    </div>
+  </div>
+
+  <section class="about">
+    <h4>What they do</h4>
+    <p>Varmora Granito Limited, incorporated in 2003, manufactures and markets ceramic and vitrified tiles, including Glazed Vitrified Tiles (GVT), Polished Vitrified Tiles (PVT) and ceramic tiles. The company focuses on premium, technology-driven products, with GVT and technical tiles accounting for around 84% of its tile revenue in Fiscal 2026.</p>
+    <details>
+      <summary>More about the company</summary>
+<p>The company operates eight manufacturing facilities in the Morbi cluster of Gujarat, with 81.72% of its revenue in Fiscal 2026 generated from in-house manufactured products. It has also adopted Integrated Stone Technology (IST) through a technology partnership with Italy-based SACMI, supporting its focus on innovative and premium tile products.</p><p>Varmora has a wide distribution network comprising 305 exclusive brand outlets and 2,758 multi-brand outlets across India and overseas, along with B2B sales to builders, contractors, developers and government entities.</p><p>The company also focuses on sustainability, with 16.22 MW of renewable energy capacity from wind and solar. As of March 2026, it had 1,153 permanent employees.</p>        <h5>Key Strength</h5>
+        <ul><li>Diversified premium product portfolio</li><li>Technology-led innovation, pan-India distribution</li><li>In-house manufacturing capabilities and a focus on sustainability.</li></ul>
+    </details>
+  </section>
+
+  <section class="signals">
+    <h4>Financial signals</h4>
+<p class="metrics">FY26 income ₹1,562.5 Cr · PAT ₹55.1 Cr · PAT margin 3.5% · Income +5% YoY · PAT +79% YoY · Post-issue P/E 60.7x</p>      <p class="objects"><b>Money raised will go to:</b>
+Repayment/ pre-payment, in full or in part, of all or certain outstanding borrowings and accrued interest thereon availed by: The company and wholly-owned subsidiaries namely Covertek Ceramica Pvt.Ltd. and Varmora Sanitarywares Pvt.Ltd. (formerly, Varmora Sanitarywares LLP), and of the subsidiary, Simola Tiles LLP, through investment in such Subsidiaries (₹245.0 Cr)</p>
+      <p class="objects"><b>Key strengths:</b> Diversified premium product portfolio Technology-led innovation, pan-India distribution In-house manufacturing capabilities and a focus on sustainability.</p>
+      <p class="objects muted"><b>Broker reviews:</b>
+3 subscribe · 2 neutral · 1 avoid</p>
+  </section>
+
+  <details class="news">
+    <summary>IPO news (3)</summary>
+    <ul>
+      <li><a href="https://news.google.com/rss/articles/CBMingFBVV95cUxPRWJDQkxMV1JQMVZtelFvSHBFOTZkekp3ajlCZWVtUlRLZVBHX2FXNEUxZjVqMmFVM3ZRdTZvY0ZsV0VGR0JxS3VGb0ZCSmc1Y2poYXQ0S0pMa0xJTWllNkV5U05BYXE2cVo3MVdWV3ZBSTZ6ZnRicHMtOVlRQ1FTQnVQVXNmNWY0bGNWS0ZQNWZLOHEtbGp4dS0zMEhLdw?oc=5" target="_blank" rel="noopener">Varmora Granito IPO Day 2 Subscription Status: 0.27x Update Today</a> <span class="muted">— HDFC Sky, 23 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWWhXT2lxR0UxYXllSGx4WWljLVJyQlZxdjBRRm9LUFRObktZUHJFNmpxd1lhSTBkZ3VxWEcyb0JIY2dPUEJTSTA1UEV0VmtfRFM0N2Q1c1RhM19rQ3I1dFR1a2p4VVhDdFE3WUl0V3ROWFNzbjFsTkxWendoRi1EYmVtZVhIaDFPY3JKRWEtdHVkYzFfWUFxT3ZDTkNUMzNYeFVXeVg1TzhRWFZZSE9XTXhrdThlNlplNjln0gG7AUFVX3lxTE5ZaFdPaXFHRTFheWVIbHhZaWMtUnJCVnF2MFFGb0tQVE5uS1lQckU2anF3WWFJMGRndXFYRzJvQkhjZ09QQlNJMDVQRXRWa19EUzQ3ZDVzVGEzX2tDcjV0VHVranhVWEN0UTdZSXRXdE5YU3NuMWxOTFZ6d2hGLURiZW1lWEhoMU9jckpFYS10dWRjMV9ZQXFPdkNOQ1QzM1h4VVd5WDVPOFFYVllIT1dNeGt1OGU2WmU2OWc?oc=5" target="_blank" rel="noopener">Varmora Granito IPO subscribed 27%</a> <span class="muted">— Business Standard, 23 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxNNkhCNGhpQkdTSGk4WTJoOEhZbW96bnFESEZ5RzdVY2lJRHg2Y29RY1VDQmZXRlhybkdkRUxMWjZuQlBjTmFTUEZVY3dZWXFscUoyLWJvaC1OODA4QkJGVWlhMjVIR1lzZ1prd2x5eGhIRnliSjhNZXUxcXJTR3hfT082MVBrOW5rT3htM2VlaExpbWR2Ym1mNTV2UXpySF8yY05ES0o3b05nT2ZVYTBDdDhjc2k2WjJvTVVremRmTUFGamxo?oc=5" target="_blank" rel="noopener">Varmora Granito IPO: Should you bet on this tiles company? What Anil Singhvi says</a> <span class="muted">— zeebiz.com, 23 Sep 2026</span></li>
+    </ul>
+  </details>
+
+  <footer>
+<a href="https://www.chittorgarh.com/ipo/varmora-granito-ipo/2563/" target="_blank" rel="noopener">Chittorgarh</a><a href="https://ipowatch.in/varmora-granito-ipo/" target="_blank" rel="noopener">IPOWatch</a>  </footer>
+</article>
+<article class="card " data-type="SME"
+         data-gmp="0.0"
+         data-date="2026-09-24"
+         data-size="26.0"
+         data-sub="0.4">
+  <header>
+    <h3>
+<a href="https://www.chittorgarh.com/ipo/himalaya-nutravedics-ipo/2970/" target="_blank" rel="noopener">Himalaya Nutravedics</a>    </h3>
+    <div class="badges">
+      <span class="badge sme">SME</span>
+<span class="badge when urgent">Closes tomorrow</span>    </div>
+    <div class="dates">22 to 24 Sep, 2026 · BSE SME · lists Tue, Sep 29, 2026</div>
+  </header>
+
+  <div class="stats">
+    <div><span class="k">Price band</span><span class="v">₹100 to ₹106</span></div>
+    <div><span class="k">Lot size</span><span class="v">1,200 shares</span></div>
+    <div><span class="k">Min. investment</span><span class="v">
+₹2,54,400
+        <small>2 lots · 2,400 sh</small>
+    </span></div>
+    <div><span class="k">Issue size</span><span class="v">₹26 Cr</span></div>
+  </div>
+
+  <div class="live">
+        <div class="gmp flat">
+      <span class="label">GMP</span>
+      <span class="big">₹0</span>
+<span class="pct">(+0.0%)</span>      <div class="sub">
+Est. listing ₹106 · updated 23 Sept, 14:30
+      </div>
+    </div>
+
+    <div class="subs">
+      <span class="label">Subscription</span>
+        <span class="big">0.40x</span>
+        <table>
+          <tr><td>Non Institutional</td><td>0.32x</td></tr>
+          <tr><td>Retail Individual</td><td>0.67x</td></tr>
+        </table>
+        <div class="sub">as of Sep 23, 2026 17:06</div>
+    </div>
+  </div>
+
+  <section class="about">
+    <h4>What they do</h4>
+    <p>Incorporated in June 2022, Himalaya Nutravedics India Limited is engaged in the manufacturing, marketing and distribution of Ayurvedic and nutraceutical formulations in India and also undertakes third-party contract manufacturing for other Ayurvedic and nutraceutical companies. The Company manufactures a diversified portfolio comprising classical (Shastric) Ayurvedic formulations, proprietary Ayurvedic formulations and nutraceutical supplements. Its products are available in multiple dosage forms, including soft gelatin capsules, hard gelatin capsules, tablets, liquid orals and medicated oils.</p>
+    <details>
+      <summary>More about the company</summary>
+<p>Himalaya Nutravedics operates through a hybrid business model comprising its own branded products and third-party contract manufacturing. Under its own-brand business, the Company develops, manufactures and markets Ayurvedic and nutraceutical products, while its third-party manufacturing business provides formulation, manufacturing, packaging and dispatch services based on client specifications. As of March 31, 2026, its own-brand business contributed approximately ₹2,202.54 lakh, representing about 51.14% of total revenue.</p><p>The Company operates an integrated manufacturing facility in Hyderabad, Telangana, where formulation, production, quality control, packaging and finished-goods release are carried out internally. The facility is compliant with WHO-GMP standards and holds registrations and licences from AYUSH and FSSAI, along with certifications including ISO 9001:2015, ISO 22000:2018, HACCP, HALAL and KOSHER.</p><p>As of July 31, 2026, the Company had 86 full-time employees across marketing, factory, finance, quality, compliance and administration functions.</p>        <h5>Competitive Strengths</h5>
+        <ul><li>Geographic expansion across India.</li><li>Long-standing supplier and customer relationships.</li><li>Integrated multi-dosage manufacturing capabilities.</li><li>Doctor acceptance supported by product performance.</li><li>Broad therapeutic coverage across Ayurvedic and nutraceutical segments</li></ul>
+    </details>
+  </section>
+
+  <section class="signals">
+    <h4>Financial signals</h4>
+    <div class="flags"><span class="flag good">Strong growth: income +105%, profit +231%</span><span class="flag good">Profit up 3 years in a row</span><span class="flag good">High ROE 64%</span></div>
+<p class="metrics">FY26 income ₹43.1 Cr · PAT ₹7.4 Cr · PAT margin 17.2% · Income +105% YoY · PAT +231% YoY · Post-issue P/E 12.6x</p>      <p class="objects"><b>Money raised will go to:</b>
+Funding Working Capital Requirements (₹13.8 Cr); Business Development and Digital Marketing Activities (₹7.5 Cr)</p>
+      <p class="objects"><b>Key strengths:</b> Geographic expansion across India. Long-standing supplier and customer relationships. Integrated multi-dosage manufacturing capabilities.</p>
+      <p class="objects muted"><b>Broker reviews:</b>
+none yet</p>
+  </section>
+
+  <details class="news">
+    <summary>IPO news (3)</summary>
+    <ul>
+      <li><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxObW9Zd21UUXowWlZLa09iVGlmMGx0elFHQkxtNjRtRGVJNHVISlVKTGhaNTNweU9hNjE3UGFYcGlMNnR3VGZsWnN3SWVlZ0F1c0NEWjhoaXFRQmFXNkpNUGhYdGZjVFBmSVE0M01LVnlQMUZrSkFlLTVnWU45dERpbjNZclE2OTlyTE93YXd1bG1IZ3p5eXJTaFVVdU00eGdHZ01hRnVVWlQ2SVY5MjBSS3hjYTliVUFoNjNHaQ?oc=5" target="_blank" rel="noopener">Himalaya Nutravedics IPO Day 2: Subscribed 0.16x; Retail leads at 0.3x, QIB nil</a> <span class="muted">— scanx.trade, 23 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxPeXdMRWs4OHlVcEpfUzJYcE9KTFNUdHhBUDlITFhGLTFLM1lEN0JULUVrT0g0Vkd0TzVXbVkyVGZiTXdySmtNZ0dJb1dSVnFxc0xoQm9pM1FBSFJRMnlMNWhjMWNyZ21HNXQ0UHpaQ19lVWN5X2l5SnVwSk5yZWE0YUY5Tk9yUHdJUXpzdzZELV9iMW42cl90UWtNWmZua2tWN1JXamdYVzROUmhSZmR4WFhn?oc=5" target="_blank" rel="noopener">Himalaya Nutravedics IPO Day 2 Subscription Status 23 Sep 2026</a> <span class="muted">— Univest, 23 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxNVmFTV0VHdDhtakZZWXRMZ1FzNFZnX2FEaDd2ejhacTFpTURqYXowZGJQQmhfLUxOdVBWRVNRVDdBMDlMU0pxR0FXQXE3X0ZtZWFTZmRnMjVuVGNrZFpSUjhnSW5VUzhGSWNQMWIwR3lMMjdxZ1RsOWtDTjVubGhjbGdZNUt6NUR3MkhaaVhlRkNaUHRhTFFGbF9SOGdkSE5tX2VXZVpuZnhWYUlCZHc?oc=5" target="_blank" rel="noopener">Himalaya Nutravedics India IPO Day 1 Subscription Status: 0.11x</a> <span class="muted">— HDFC Sky, 22 Sep 2026</span></li>
+    </ul>
+  </details>
+
+  <footer>
+<a href="https://www.chittorgarh.com/ipo/himalaya-nutravedics-ipo/2970/" target="_blank" rel="noopener">Chittorgarh</a><a href="https://ipowatch.in/himalaya-nutravedics-ipo/" target="_blank" rel="noopener">IPOWatch</a>  </footer>
+</article>
+<article class="card " data-type="SME"
+         data-gmp="0.0"
+         data-date="2026-09-24"
+         data-size="26.0"
+         data-sub="0.74">
+  <header>
+    <h3>
+<a href="https://www.chittorgarh.com/ipo/anand-seamless-ipo/3080/" target="_blank" rel="noopener">Anand Seamless</a>    </h3>
+    <div class="badges">
+      <span class="badge sme">SME</span>
+<span class="badge when urgent">Closes tomorrow</span>    </div>
+    <div class="dates">22 to 24 Sep, 2026 · BSE SME · lists Tue, Sep 29, 2026</div>
+  </header>
+
+  <div class="stats">
+    <div><span class="k">Price band</span><span class="v">₹72 per share</span></div>
+    <div><span class="k">Lot size</span><span class="v">1,600 shares</span></div>
+    <div><span class="k">Min. investment</span><span class="v">
+₹2,30,400
+        <small>2 lots · 3,200 sh</small>
+    </span></div>
+    <div><span class="k">Issue size</span><span class="v">₹26 Cr</span></div>
+  </div>
+
+  <div class="live">
+        <div class="gmp flat">
+      <span class="label">GMP</span>
+      <span class="big">₹0</span>
+<span class="pct">(+0.0%)</span>      <div class="sub">
+Est. listing ₹72 · updated 23 Sept, 14:30
+      </div>
+    </div>
+
+    <div class="subs">
+      <span class="label">Subscription</span>
+        <span class="big">0.74x</span>
+        <table>
+          <tr><td>Non Institutional</td><td>1.12x</td></tr>
+          <tr><td>Retail Individual</td><td>0.36x</td></tr>
+        </table>
+        <div class="sub">as of Sep 23, 2026 17:06</div>
+    </div>
+  </div>
+
+  <section class="about">
+    <h4>What they do</h4>
+    <p>Incorporated in 2005, Anand Seamless Limited is engaged in the production of seamless tubes, pipes, and finned tubes used in industrial applications. The company operates in the iron and steel manufacturing sector. The company specializes in manufacturing carbon steel and alloy steel seamless tubes, heat exchanger tubes, U-tubes, and various types of finned tubes.</p>
+    <details>
+      <summary>More about the company</summary>
+        <h5>Product Portfolio</h5>
+        <ul><li>Seamless Tubes and Pipes</li><li>Finned Tubes</li></ul>
+        <h5>Competitive Strengths</h5>
+        <ul><li>Diversified Product Range</li><li>International Accreditations and product approvals</li><li>Extensive and Effective Quality Control</li><li>Customer Diversification</li><li>Experienced and Qualified Team</li></ul>
+    </details>
+  </section>
+
+  <section class="signals">
+    <h4>Financial signals</h4>
+    <div class="flags"><span class="flag good">Strong growth: income +67%, profit +107%</span></div>
+<p class="metrics">FY26 income ₹56.2 Cr · PAT ₹5.5 Cr · PAT margin 9.3% · Income +67% YoY · PAT +107% YoY · Post-issue P/E 15.7x</p>      <p class="objects"><b>Money raised will go to:</b>
+Financing the cost towards capacity expansion, technological upgradation, cost optimization of the operations and support to the manufacturing facility at Survey No. 944, Ankhol Patiya, Chhatral-Kadi Road, Village Indrad, Mahesana, Kadi, Gujarat, India, 382715 (₹13.2 Cr); Full or part repayment and/or prepayment of certain outstanding secured and unsecured borrowings availed by the Company (₹5.5 Cr)</p>
+      <p class="objects"><b>Key strengths:</b> Diversified Product Range International Accreditations and product approvals Extensive and Effective Quality Control</p>
+      <p class="objects muted"><b>Broker reviews:</b>
+none yet</p>
+  </section>
+
+  <details class="news">
+    <summary>IPO news (3)</summary>
+    <ul>
+      <li><a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxNalRyNG0yS1ltaXNoUVg0SmN1Ti1mUWhCZ1Q2QXU4Y3JJSnVuTjdYcWlKSEZOWlFDWDJxTHFzakJHOHpicTB2a0V2OUNpSEhOcjNLcTc5Ml9IVGh2NnVjVGNJMERTazlleEtQN1JvZ3ZxY2Fid21fV0JpaGdoYkxDa0JTeDFlUXF0TksySTdtNHFqM291a2YtZ2JRTVZwZXA1RnN0MDNvVldjeHdOMHM0Skwta2ppa2RS?oc=5" target="_blank" rel="noopener">Anand Seamless IPO Day 2: Subscribed 0.61x; QIB demand absent; Retail interest low</a> <span class="muted">— scanx.trade, 23 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxNZmFwYmxXdG40RFBQY2tpNHhHaUhQYk4yaTFkM0EzOVFlVEhXc3dpVkhWNy1zaFBWdXgtT0ZaTXBsLXFTM19uTnlhVU93MUtDUnkwYWtXSDhXcEprYk5OUTcxaHZWQjR5NkhidmdnXzJUYmNkbmxvZGhNNFphQUZpM3BpbzUtZVA1bzNxRFdKRElGWVAzSWN1RUpia3I3ay1WS0E?oc=5" target="_blank" rel="noopener">Anand Seamless IPO Day 2: Subscription Status on 23 September 2026</a> <span class="muted">— Univest, 23 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxQak0xcld2X2NhdXdvMGxpTGtJaDNPY0JDSjZRZmQ5c0pzVDBHb3JISjV0cFBKdktNTERDR1JFVWtzUDBtdGRmZ1h0Wl9RMzc2TXZ1cDVCUXVzZ1hWT0hqZmNNZkNxZXA4a2h5VXNkMWtVcVJuUlZoNVR5dXRZZ01PZGlIRlJjdlZvenVMRlJzMS1NOWw1TUVvM3EwalhkQkd1b2c?oc=5" target="_blank" rel="noopener">Anand Seamless IPO Day 1 Subscription Status 22 Sep 2026</a> <span class="muted">— Univest, 22 Sep 2026</span></li>
+    </ul>
+  </details>
+
+  <footer>
+<a href="https://www.chittorgarh.com/ipo/anand-seamless-ipo/3080/" target="_blank" rel="noopener">Chittorgarh</a><a href="https://ipowatch.in/anand-seamless-ipo/" target="_blank" rel="noopener">IPOWatch</a>  </footer>
+</article>
+<article class="card " data-type="Mainboard"
+         data-gmp="25.37"
+         data-date="2026-09-25"
+         data-size="151.0"
+         data-sub="5.22">
+  <header>
+    <h3>
+<a href="https://www.chittorgarh.com/ipo/adroit-industries-ipo/3007/" target="_blank" rel="noopener">Adroit Industries</a>    </h3>
+    <div class="badges">
+      <span class="badge mainboard">Mainboard</span>
+<span class="badge when ">Closes in 2 days</span>    </div>
+    <div class="dates">23 to 25 Sep, 2026 · BSE, NSE · lists Wed, Sep 30, 2026</div>
+  </header>
+
+  <div class="stats">
+    <div><span class="k">Price band</span><span class="v">₹126 to ₹134</span></div>
+    <div><span class="k">Lot size</span><span class="v">111 shares</span></div>
+    <div><span class="k">Min. investment</span><span class="v">
+₹14,874
+        <small>1 lot · 111 sh</small>
+    </span></div>
+    <div><span class="k">Issue size</span><span class="v">₹151 Cr</span></div>
+  </div>
+
+  <div class="live">
+        <div class="gmp pos">
+      <span class="label">GMP</span>
+      <span class="big">₹34</span>
+<span class="pct">(+25.4%)</span>      <div class="sub">
+Est. listing ₹168 · updated 23 Sept, 14:30
+      </div>
+    </div>
+
+    <div class="subs">
+      <span class="label">Subscription</span>
+        <span class="big">5.22x</span>
+        <table>
+          <tr><td>Qualified Institutional</td><td>0.05x</td></tr>
+          <tr><td>Non Institutional</td><td>7.30x</td></tr>
+          <tr><td>Retail Individual</td><td>7.29x</td></tr>
+        </table>
+        <div class="sub">as of Sep 23, 2026 17:06</div>
+    </div>
+  </div>
+
+  <section class="about">
+    <h4>What they do</h4>
+    <p>Incorporated in January 1995, Adroit Industries (India) Limited is a vertically integrated manufacturer and supplier of propeller shafts and torque-transmission components used in driveline systems. The Company offers a portfolio of over 5,000 SKUs comprising precision-machined torque-transmission components, complete propeller shaft assemblies and forged components. Its vertically integrated manufacturing capabilities cover forging, precision machining, heat treatment, assembly, balancing and testing, enabling end-to-end control over the production process.</p>
+    <details>
+      <summary>More about the company</summary>
+<p>The Company supplies its products through distributors, Tier-1 driveline component suppliers and directly to OEMs, based on customer-specific technical requirements. Its products cater primarily to commercial vehicles, as well as SUVs, defence and emergency services, heavy equipment, off-highway machinery and industrial applications.</p><p>The Company has a strong export presence, supplying products to customers across North America, Europe, Latin America, the Middle East, Africa and Asia-Pacific. During Fiscal 2026, it supplied products to customers across more than 32 countries.</p><p>The Company is supported by its subsidiary, Adroit Driveshafts Private Limited, and together they had 367 permanent employees as of July 31, 2026.</p>        <h5>Competitive Strengths</h5>
+        <ul><li>Portfolio of over 5,000 SKUs.</li><li>Healthy financial performance.</li><li>Diversified international customer base.</li><li>Strong engineering and validation capabilities.</li><li>Vertically integrated manufacturing operations.</li><li>Experienced promoters and management team.</li><li>Established customer relationships and repeat business.</li></ul>
+    </details>
+  </section>
+
+  <section class="signals">
+    <h4>Financial signals</h4>
+    <div class="flags"><span class="flag good">Profit up 3 years in a row</span><span class="flag good">High ROE 23%</span></div>
+<p class="metrics">FY26 income ₹143.0 Cr · PAT ₹26.2 Cr · PAT margin 18.7% · Income +5% YoY · PAT +44% YoY · Post-issue P/E 22.9x</p>      <p class="objects"><b>Money raised will go to:</b>
+Funding capital expenditure by the Company towards procurement of; (i) machinery and equipment for enhancement of operations at Dewas Facility; and (ii) transportation vehicle for local transportation of goods between the Manufacturing Facilities (₹19.9 Cr); Investment in the Subsidiary, Adroit Driveshafts Private Limited, in the form of debt or equity or a combination thereof, for funding capital expenditure towards procurement of; (i) machinery and equipment for enhancement of operations at Pithampur Facility; and (ii) transportation vehicle for local transportation of goods between the Manufacturing Facilities (₹44.0 Cr)</p>
+      <p class="objects"><b>Key strengths:</b> Portfolio of over 5,000 SKUs. Healthy financial performance. Diversified international customer base.</p>
+      <p class="objects muted"><b>Broker reviews:</b>
+2 neutral</p>
+  </section>
+
+  <details class="news">
+    <summary>IPO news (3)</summary>
+    <ul>
+      <li><a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxQSkk1WGk3Zk5aUEsxd2VDTnpCTTEyUzZvMk44c1U2NzZIUFFQX0I1VGo3ZXBEQTFiZndLdVJwd3pteDA2WU1KVzFJYXVMYVp3cWtoWVMtSzVJb2twTVNmQl9WNjZJYmt5cWRhQkNrZEZMam50OXF6c2puZW9RVVNxd19xdE1kel9rT0dqZ3MxNEgxb1kwMG5jamgtSzVJakpu0gGmAUFVX3lxTE5Id2EwWHlMODVtcEF2UjhwdXJRQ3pHbURfejlmbnRMWlNyVVdrM1VzWXNYOWVsX1NWVTRQc2lfbTktdzhVZ2RHVV9NRUNydHFYQmJpREVCQWFkbEJ5VjdMT2ppZFhxZmJQajFUYy15MDVrNm1EeTRxdzNONU4zZi1Fa0k1SGZEM1U1QU03QXItNGJXT1A4b0x1UHVVMXhRa2JHdHJTUlE?oc=5" target="_blank" rel="noopener">Adroit Industries IPO Fully Subscribed on Day 1</a> <span class="muted">— Rediff MoneyWiz, 23 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxNcWtzNWZENWQyajkyZnI1UUZGWE1WTXpYMjgxbTdfRV9WNUN1a0huLXFuaDV1QWxJMHVsS0g1b3RJb1poUnh1RFRST0ZJanRqekFvc0xmUjFDSklmdDZYX2lmNFh3TUV0WU04allPT1hkUFphMno1ZnRFLURDaFEyZ2NMckhLdnlNdXc?oc=5" target="_blank" rel="noopener">IPO Review: Adroit Industries (India) Ltd</a> <span class="muted">— Moneylife, 23 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxPcHAzTjd1bkJFemNIM1JDWjBGcDJhVnVzT0pNYTgxN3JxTldpelZDZTR0dXJBQ3BRWXIxaVRnYk80dy1WUDRhenZhYmxVX0hmWThZLVVJc0dnc043U3F3bTRBd0hzMS1ES1lJUHJ3Q19LUVZIdk9XUThhNU02S2FsRjVITmFGai1GbGc?oc=5" target="_blank" rel="noopener">All You Need to Know About Adroit Industries IPO</a> <span class="muted">— HDFC Sky, 23 Sep 2026</span></li>
+    </ul>
+  </details>
+
+  <footer>
+<a href="https://www.chittorgarh.com/ipo/adroit-industries-ipo/3007/" target="_blank" rel="noopener">Chittorgarh</a><a href="https://ipowatch.in/adroit-industries-ipo/" target="_blank" rel="noopener">IPOWatch</a>  </footer>
+</article>
+<article class="card " data-type="Mainboard"
+         data-gmp="14.66"
+         data-date="2026-09-25"
+         data-size="300.0"
+         data-sub="0.57">
+  <header>
+    <h3>
+<a href="https://www.chittorgarh.com/ipo/armee-infotech-ipo/2140/" target="_blank" rel="noopener">ArMee Infotech</a>    </h3>
+    <div class="badges">
+      <span class="badge mainboard">Mainboard</span>
+<span class="badge when ">Closes in 2 days</span>    </div>
+    <div class="dates">23 to 25 Sep, 2026 · BSE, NSE · lists Wed, Sep 30, 2026</div>
+  </header>
+
+  <div class="stats">
+    <div><span class="k">Price band</span><span class="v">₹350 to ₹375</span></div>
+    <div><span class="k">Lot size</span><span class="v">40 shares</span></div>
+    <div><span class="k">Min. investment</span><span class="v">
+₹15,000
+        <small>1 lot · 40 sh</small>
+    </span></div>
+    <div><span class="k">Issue size</span><span class="v">₹300 Cr</span></div>
+  </div>
+
+  <div class="live">
+        <div class="gmp pos">
+      <span class="label">GMP</span>
+      <span class="big">₹55</span>
+<span class="pct">(+14.7%)</span>      <div class="sub">
+Est. listing ₹430 · updated 23 Sept, 14:30
+      </div>
+    </div>
+
+    <div class="subs">
+      <span class="label">Subscription</span>
+        <span class="big">0.57x</span>
+        <table>
+          <tr><td>Qualified Institutional</td><td>1.00x</td></tr>
+          <tr><td>Non Institutional</td><td>0.42x</td></tr>
+          <tr><td>Retail Individual</td><td>0.54x</td></tr>
+        </table>
+        <div class="sub">as of Sep 23, 2026 17:06</div>
+    </div>
+  </div>
+
+  <section class="about">
+    <h4>What they do</h4>
+    <p>Founded in 2003 and headquartered in Ahmedabad, Gujarat, ArMee Infotech Limited (AIL) is an IT infrastructure solutions and managed services company. As part of the ArMee Group, the company provides end-to-end technology solutions across sectors including government, corporates, banking, financial services and insurance (BFSI), and education. The company has also diversified into retail sales and renewable energy, expanding its business beyond its core IT services.</p>
+    <details>
+      <summary>More about the company</summary>
+        <h5>Services</h5>
+        <ul><li>IT Infrastructure: Provides IT hardware and software, along with installation, integration, maintenance, and related support services.</li><li>IT Managed Services: Offers technical manpower, skill development and training, and annual maintenance services.</li><li>Retail Sales: Operates Experience Zones focused on IT products, consumer electronics, gaming, and related merchandise.</li><li>Renewable Energy: Undertakes solar engineering, procurement and construction (EPC) projects and develops solar power projects under Power Purchase Agreements (PPAs), along with Battery Energy Storage System (BESS) projects.</li></ul>
+        <h5>Competitive Strengths</h5>
+        <ul><li>Proven track record in executing projects for Government / PSU clients</li><li>Consistent track record of financial performance</li><li>Ability to service clients and projects across diverse sectors</li><li>Experienced Board of Directors and management with extensive domain knowledge</li></ul>
+    </details>
+  </section>
+
+  <section class="signals">
+    <h4>Financial signals</h4>
+    <div class="flags"><span class="flag good">High ROE 29%</span></div>
+<p class="metrics">FY26 income ₹1,410.1 Cr · PAT ₹45.5 Cr · PAT margin 3.3% · Income +7% YoY · PAT +9% YoY · Post-issue P/E 26.2x</p>      <p class="objects"><b>Money raised will go to:</b>
+Expansion of business by procuring new Government/PSU projects. (₹155.0 Cr); Funding working capital requirements (₹60.0 Cr)</p>
+      <p class="objects"><b>Key strengths:</b> Proven track record in executing projects for Government / PSU clients Consistent track record of financial performance Ability to service clients and projects across diverse sectors</p>
+      <p class="objects muted"><b>Broker reviews:</b>
+1 may apply · 1 neutral · 1 avoid</p>
+      <h5>Recent developments</h5>
+      <ul class="devs">
+        <li class="good"><a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxOSmE1NGpYeHV6dkpGVGltdW1CeTdIdnFKQ1JBc0hUUDlIQlc1OG5obkJPTnZ5TUtqRFRCZ0hULU5aYThMMDJEeEJ3UzdtM0tKRnBFNWQwRzc1eUFsdV9QWUk5NEVwWFRMTDFiTVZmZjUxRUhXeUtXYTQwZ3A3V1g0Z0xYeFJ1T2U5dDFwU0dCQUVaXzhMVWplVTZuUFFmak1uWTd6NE45RXFBRW1xOERaTGthRGJJVHp0VVhOUjhmQkE2TnRrRTBV?oc=5" target="_blank" rel="noopener">Oriana, BSL Engineering, ArMee Infotech, GK Energy Among Winners in MSEDCL’s 4 GWh BESS Auction</a>
+          <span class="muted">— Energetica India Magazine, 22 Sep 2026</span></li>
+        <li class="good"><a href="https://news.google.com/rss/articles/CBMi1wFBVV95cUxQd2NReFlNTWxZamEtUlBKTWxxcTNacElZVUh6RWlPcFhwalhfSjVla0tadDJfei11UVczcXFCTjY1RzhoakkwMWx6bXlnYTlucThyX0p2WmdnanpvakhuUGxJaTV4VUQwLWxPXzNkR3pFSGJsSDViOWQ0aGZlM2w0YWlqU2pENVhIUjRXYTE2MEdCWl9leFRpbmRwT3ozTWtoLTRuTGgxdzI0eWRzOXIxOTE1b2xvMWJ1V3hIN09xbHZfanNEdXdSeXc2ell2NXlYeWU2NUp0MA?oc=5" target="_blank" rel="noopener">ArMee Infotech Secures Rs 7,409.7 mn Solar EPC Orders</a>
+          <span class="muted">— Construction World India, 02 Sep 2026</span></li>
+        <li class="good"><a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxPRHhwYXcxMFEySmZDZllpUFY3T2t1ZWF5MEhmR2tvYTlDcktaT3BUdDgxWDd1VllrZnAwLTJOcUw3OVlZY0ttTjNOQjMzTTdqeHJLVEZra0lRVkVuQ1QxaWszV244c2NHMS10SFItV0k5MWh5aUNiYTF5RWljMEhzQWVUeGtjNzBBLWt3MUduVXpVVlZNeS1ubGUtbXJrMmg4UHdYLUh4bDdlQ0owMlhyMUZidENmOThpekE?oc=5" target="_blank" rel="noopener">ArMee Infotech secures INR 741 crore solar EPC orders in Rajasthan</a>
+          <span class="muted">— Prop News Time, 30 Aug 2026</span></li>
+      </ul>
+  </section>
+
+  <details class="news">
+    <summary>IPO news (3)</summary>
+    <ul>
+      <li><a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxQTjJ4YTVEOWdRUkt3TXFPTWp2SWpLaGNvS1NYZm5YektERmp0ckFlS1FPRnEwM2NSSEZreHR2NkFKTWVnSTBHdUEzZXFIQlNsQVRodmdxWUh5eHFNRE9zejFyWlFOenVoQnlpeGlhZTVidHcweEI1X0lRYjVqcjhhcVd4Skpqc3UyOXFJeXNyRkVQYTJCNmNUT3o5cUF1eXdocW9XUXM4VVIyZHdZdnB1QmpiUHhFT0NlQk1qTXRzVktZUjRTS0RN?oc=5" target="_blank" rel="noopener">Armee Infotech Anchor Book: Rs 39.93 Crore Raised Pre-IPO</a> <span class="muted">— Kalkine India, 23 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMingFBVV95cUxPaEZBV1dJRWJMSGdPd2t1TnNjNnFkZVdabWtLWEdGMzJFVWptbnptZHJPZXFqdW92QmNwbEFUTHlEQ21LcUdMSVl4R2NLOF84Qk1RMXB3Vm1xaUhsUFYtUlVrOC1TalJ2QlZPSmllUF81d1BFWmpkZjM4V2h4c0xBbmtBcFl4a2p6eFlGWWVndENvR2Q0bXpEOEVQX3RCZw?oc=5" target="_blank" rel="noopener">ArMee Infotech IPO Day 1 Subscription Status: 0.57x Latest Update</a> <span class="muted">— HDFC Sky, 23 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcUxLY1FUVmFfZ3dZa2F1RVBTdEl2ZDZzMlBQelIyUl9CR2YxbENYaWpVRXFfTXFUeG00MkJpNFFUa3VvaUlpMlJPV3k1NVNrQkFqMThfbFB3YmhEc3RhaE1SM0hmdWYyU2RoTFVBMDhlUDhlY0hUWlpBTlFHcU41Q21xeE9GNG9mbHZsTzFUREE0RzBuZjJvR0c4d2hyUXVqd1ZIMDkxS2ZKYWxON2Q2UHV3QnpTNS1YeERGY29POULSAcYBQVVfeXFMUFRweG02dHlRLXNnWHdSWGR5OXlRa0s5YWtXdkVkSlp6elpuYUxZYzZYNF9ISGFkSGxIdHBaR21sYzVEdVhEX196M3dWX0tjVXZ0X2dnVWV2ZVJjdHhadVUzblp1ZHBydEpnYXRBa2FCMC1td1hYTlljZnRNRmVPZC0yVzZpSkhZMkQzckdQbFZYbTBDcFlpZFQ3SjNnbGxyaWEtOHgzWWl3TTNpWm5ZQU0zUjJRbnhLS09NSHNtS2tNUHBDZVRR?oc=5" target="_blank" rel="noopener">ArMee Infotech IPO subscribed 53% on day 1</a> <span class="muted">— Business Standard, 23 Sep 2026</span></li>
+    </ul>
+  </details>
+
+  <footer>
+<a href="https://www.chittorgarh.com/ipo/armee-infotech-ipo/2140/" target="_blank" rel="noopener">Chittorgarh</a><a href="https://ipowatch.in/armee-infotech-ipo/" target="_blank" rel="noopener">IPOWatch</a>  </footer>
+</article>
+<article class="card " data-type="SME"
+         data-gmp="5.56"
+         data-date="2026-09-25"
+         data-size="39.0"
+         data-sub="1.03">
+  <header>
+    <h3>
+<a href="https://www.chittorgarh.com/ipo/liqvd-digital-ipo/2750/" target="_blank" rel="noopener">Liqvd Digital</a>    </h3>
+    <div class="badges">
+      <span class="badge sme">SME</span>
+<span class="badge when ">Closes in 2 days</span>    </div>
+    <div class="dates">23 to 25 Sep, 2026 · BSE SME · lists Wed, Sep 30, 2026</div>
+  </header>
+
+  <div class="stats">
+    <div><span class="k">Price band</span><span class="v">₹51 to ₹54</span></div>
+    <div><span class="k">Lot size</span><span class="v">2,000 shares</span></div>
+    <div><span class="k">Min. investment</span><span class="v">
+₹2,16,000
+        <small>2 lots · 4,000 sh</small>
+    </span></div>
+    <div><span class="k">Issue size</span><span class="v">₹39 Cr</span></div>
+  </div>
+
+  <div class="live">
+        <div class="gmp mild">
+      <span class="label">GMP</span>
+      <span class="big">₹3</span>
+<span class="pct">(+5.6%)</span>      <div class="sub">
+Est. listing ₹57 · updated 23 Sept, 14:30
+      </div>
+    </div>
+
+    <div class="subs">
+      <span class="label">Subscription</span>
+        <span class="big">1.03x</span>
+        <table>
+          <tr><td>Qualified Institutional</td><td>1.00x</td></tr>
+          <tr><td>Non Institutional</td><td>3.77x</td></tr>
+          <tr><td>Retail Individual</td><td>0.04x</td></tr>
+        </table>
+        <div class="sub">as of Sep 23, 2026 17:06</div>
+    </div>
+  </div>
+
+  <section class="about">
+    <h4>What they do</h4>
+    <p>Incorporated in 2013, Liqvd Digital India Limited is a digital marketing and media solutions company that helps brands build their online presence, reach the right audience, and drive business growth. Its services include social media management, media planning and buying, online reputation management, creative content production, influencer marketing, SEO, performance marketing, and web and app development.</p>
+    <details>
+      <summary>More about the company</summary>
+<p>The Company works with a diverse range of clients, including large enterprises, mid-sized companies, and direct-to-consumer (D2C) brands across sectors such as IT and communications, FMCG, logistics, financial services, manufacturing, and healthcare. It operates in India through offices in Mumbai and Gurgaon, as well as an in-house studio in Mumbai for content production and related activities. Through its association with AdLift Inc., the Company also has a presence in the United States.</p><p>Its media business focuses on planning and buying digital and offline media with an emphasis on measurable results, return on investment, and audience reach. The Company uses data and creative strategies to develop media campaigns based on client requirements and negotiated contracts.</p><p>Its production business focuses on creating visual and multimedia content, including photography, video shoots, drone shoots, podcasts, animation, AI-generated videos, and other branded content. The acquisition of AdLift Marketing is expected to further expand the Company&#39;s marketing capabilities and client base.</p><p>As of July 31, 2026, the Company and AdLift Marketing had 53 and 119 permanent employees, respectively.</p>    </details>
+  </section>
+
+  <section class="signals">
+    <h4>Financial signals</h4>
+    <div class="flags"><span class="flag good">High ROE 25%</span></div>
+<p class="metrics">FY26 income ₹60.9 Cr · PAT ₹8.0 Cr · PAT margin 13.3% · Post-issue P/E 15.0x</p>      <p class="objects"><b>Money raised will go to:</b>
+Funding of purchase consideration for acquisition of stake in AdLift Marketing Pvt.Ltd. (₹9.0 Cr); Funding capital expenditure to be incurred for establishment of a Full Scale Video Content Production Hub (₹10.6 Cr)</p>
+      <p class="objects muted"><b>Broker reviews:</b>
+none yet</p>
+  </section>
+
+  <details class="news">
+    <summary>IPO news (3)</summary>
+    <ul>
+      <li><a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxQaGw0dTByMmpZWW56VjVBeEItYVk5ZGgxd1J1SUlPSF84ZlpPYW1WZXRnTmF4MFRvUkhRN1lyRS1MckplMUh4b3NLdUJWRWY5YnR2VE9pZkE1MjlxalZTSkdONGE5ODZTZ19EYS02a0tJU1p6RDFZNFlMaVVTM2c1TEtQMmFHVkcxTE5MSGhZQ2FVV280WG9v?oc=5" target="_blank" rel="noopener">Liqvd Digital India&#39;s $3.6M IPO fully subscribed on day one</a> <span class="muted">— Dealroom, 23 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbVl3NEluS0M1Ty1zWWdJLU1RMC1Fc0JmeTNmS0o2aDRLOXV5UWZyNnN3N0ctVlA0eEVqQjRiZlJzcks1VzRsdXJPakdxQjZmQldqSVZKNUFVWjJDWWhkRl9wZDJ5a2JENTdkNlY2NVlKQ19DVmNscHQyb2xDVlBhTnhsVzBsR2d6QXhrNUxVTFltbHI2RTdTbHFVb3JqR3pRaldEZGtCM0Q0NzNMZGJZMTVRRUNVZ1NDNTlrckVlN1Ftdkl6Q3laQ3F0OTJIcWU2UVU0?oc=5" target="_blank" rel="noopener">Liqvd Digital India Limited&#39;s IPO Sees Strong Demand, Issue Fully Subscribed on First Day</a> <span class="muted">— Investment Guru India, 23 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxOOURyMEtBcmFFbEQzMGxiZHlBLTBvU0ZiUlpwUDJJeW4xQmZXOVZpQmlYX042VHFWR1R4MnVLZ1hEUWRCbEdFTHBlSU5yemFOcjB1WjNQVGw0cGNNUnVMSkpJckRfeVI4a0QyNjNYWS1SOUtnSWd0RFF5OW10WUVZRzBsVzZDSzFVSks0ci0xU1BhYXpNTmUzR0dzczVOdFJ5MWdz?oc=5" target="_blank" rel="noopener">Liqvd Digital India IPO Subscription Status Day 1: Issue Subscribed 1.03 Times</a> <span class="muted">— HDFC Sky, 23 Sep 2026</span></li>
+    </ul>
+  </details>
+
+  <footer>
+<a href="https://www.chittorgarh.com/ipo/liqvd-digital-ipo/2750/" target="_blank" rel="noopener">Chittorgarh</a><a href="https://ipowatch.in/liqvd-digital-ipo/" target="_blank" rel="noopener">IPOWatch</a>  </footer>
+</article>
+<article class="card " data-type="Mainboard"
+         data-gmp="4.32"
+         data-date="2026-09-25"
+         data-size="161.0"
+         data-sub="1.0">
+  <header>
+    <h3>
+<a href="https://www.chittorgarh.com/ipo/swastika-infra-ipo/2287/" target="_blank" rel="noopener">Swastika Infra</a>    </h3>
+    <div class="badges">
+      <span class="badge mainboard">Mainboard</span>
+<span class="badge when ">Closes in 2 days</span>    </div>
+    <div class="dates">23 to 25 Sep, 2026 · BSE, NSE · lists Wed, Sep 30, 2026</div>
+  </header>
+
+  <div class="stats">
+    <div><span class="k">Price band</span><span class="v">₹175 to ₹185</span></div>
+    <div><span class="k">Lot size</span><span class="v">81 shares</span></div>
+    <div><span class="k">Min. investment</span><span class="v">
+₹14,985
+        <small>1 lot · 81 sh</small>
+    </span></div>
+    <div><span class="k">Issue size</span><span class="v">₹161 Cr</span></div>
+  </div>
+
+  <div class="live">
+        <div class="gmp mild">
+      <span class="label">GMP</span>
+      <span class="big">₹8</span>
+<span class="pct">(+4.3%)</span>      <div class="sub">
+Est. listing ₹193 · updated 23 Sept, 14:30
+      </div>
+    </div>
+
+    <div class="subs">
+      <span class="label">Subscription</span>
+        <span class="big">1.00x</span>
+        <table>
+          <tr><td>Qualified Institutional</td><td>0.71x</td></tr>
+          <tr><td>Non Institutional</td><td>1.99x</td></tr>
+          <tr><td>Retail Individual</td><td>0.74x</td></tr>
+        </table>
+        <div class="sub">as of Sep 23, 2026 17:06</div>
+    </div>
+  </div>
+
+  <section class="about">
+    <h4>What they do</h4>
+    <p>Incorporated in August 2019, Swastika Infra Limited is an engineering, procurement and construction (EPC) company specializing in power transmission and distribution (T&amp;D) infrastructure projects.The Company provides turnkey EPC solutions covering the supply, erection, installation, testing and commissioning of power infrastructure. Its key areas of work include underground cabling, construction of Gas Insulated Substations (GIS), Air Insulated Substations (AIS) and Grid Substations, rural and urban electrification, street lighting and renewable energy works. Its projects involve installation of power transformers, circuit breakers, ring main units and other electrical infrastructure required for power distribution.</p>
+    <details>
+      <summary>More about the company</summary>
+<p>As of July 31, 2026, the Company had completed 36 EPC Power Projects across six Indian states, covering 18,579.47 km of distribution lines, with an aggregate contract value of ₹76,467 lakh. Its order book comprised 18 ongoing EPC Power Projects across six states with an aggregate order value of ₹2,03,665 lakh. The Company has executed projects for government utilities including WBSEDCL, MGVCL, APDCL, GED, HPSEBL, UHBVN, JVVNL, UPCL, AVVNL, RSDCL, MSEDCL and RRVPNL. A significant portion of its projects are funded by the World Bank or supported by the Ministry of Power, Government of India.</p><p>The Company follows an asset-light business model, with erection work typically assigned to third-party contractors while its centralized procurement team supplies construction materials and electrical equipment. Its in-house project engineers and managers oversee project execution, quality, design specifications and timelines. The Company has a dedicated team of 65 engineers and technicians across electrical, mechanical and civil disciplines.</p><p>As of July 31, 2026, the Company had 182 full-time employees, including 65 Engineers &amp; Technicians and 52 Project Execution Supervisors &amp; Others.</p>        <h5>Competitive Strengths</h5>
+        <ul><li>Experienced promoters and management team.</li><li>Asset-light business model with centralized procurement.</li><li>Scalable business model supported by a strong order book.</li><li>Proven execution track record across multiple Indian states.</li><li>Established track record with government utilities and infrastructure clients.</li><li>Strong project management and execution capabilities in EPC Power Projects.</li><li>Diversified capabilities across power distribution, transmission and renewable energy.</li></ul>
+    </details>
+  </section>
+
+  <section class="signals">
+    <h4>Financial signals</h4>
+    <div class="flags"><span class="flag good">Strong growth: income +43%, profit +51%</span><span class="flag good">Profit up 3 years in a row</span><span class="flag good">High ROE 35%</span></div>
+<p class="metrics">FY26 income ₹505.6 Cr · PAT ₹41.4 Cr · PAT margin 8.2% · Income +43% YoY · PAT +51% YoY · Post-issue P/E 15.2x</p>      <p class="objects"><b>Money raised will go to:</b>
+Funding of incremental working capital requirements of the company (₹90.0 Cr)</p>
+      <p class="objects"><b>Key strengths:</b> Experienced promoters and management team. Asset-light business model with centralized procurement. Scalable business model supported by a strong order book.</p>
+      <p class="objects muted"><b>Broker reviews:</b>
+2 subscribe · 3 neutral</p>
+  </section>
+
+  <details class="news">
+    <summary>IPO news (3)</summary>
+    <ul>
+      <li><a href="https://news.google.com/rss/articles/CBMingFBVV95cUxQZTBXaWlKa2NZM05yY3lBT3I2YWJqVnl5Tlc5Vl8zRkNCcGstWXFnRHA1c3h5UG85UFZDTEdwazF5X3JQODl2MEdJamZQTEUyZWlwVnZmYWJJNDlOUTZkVzZvYkRUcjloTkppYTA4c2dCY2l2Wlk2RHp3MFl5bFZsU3Q2MnV2ZmtVcUxHWVJwOGc2Z0E2eHQ0NXNrcWZMZw?oc=5" target="_blank" rel="noopener">Swastika Infra IPO Day 1 Subscription Status: 1.00x Latest Update</a> <span class="muted">— HDFC Sky, 23 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNlFqTnBZYmxuOGdNaGc3ZDVaMDNfNi1HUFpfc0tvYnBrWEEyNHRQYnhqdUhKRUl3OHJFVE5idTU2Wl9ESjB6eEFyM1NpZC1ibTdlcVUySUFWSjd4aGZEUmpBbG85aE1BZkh5emlXR0c2dnVsT3BicHJtV2JNWXhwcEUxOTR2M2piNlZpYUdvclMxdjhXSDJ6THp3c1BxZWFuaHFUSllXVEpqM3JsRUdhdXhRSU1COXVjUm5iUHpFdXPSAcYBQVVfeXFMUHZDbmI1ejJZUFkxbzByU3M2ZnRzdTNOVG43RW1xbl9QLUV1azU0eUpvSGRNZGxmZzJPajY0MjhYUmZLaGQxYjB6VTNsUVZiNFJaNng3dEktdThyeEJKbXN6c2g2Y0hPMUNYWWFRbHpNTjF5UUlDaVhrcS1WS05oWHZ1eC1nODY4VUprVloxZG5ZQmlyMzZ2VkZUSlQ0U2k4SElSd1FWeUw4NWpYUGVHMGxZOGl5Q3ZQbk1mc2IzcTdLMUhwbVpR?oc=5" target="_blank" rel="noopener">Swastika Infra IPO subscribed 96% on day 1</a> <span class="muted">— Business Standard, 23 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxOUjB0bWNLaTNQaEM0V3lRdkN5RkN2ZEZJTlI2UWRqZ1dUa2xEaU13YU1OWnRGOFhwSFg1ZWJrdEVjMmpsdC05QThMM2h3UGZpTXpZaDd4TE5pX1ROaHJic2NwUUdlSmFBa3VDZlhmbmR4di1vajd5X1BtVzhKVnNZZ1VOTmtYS0pTVmJwUDVUbkltSXM2Rmg0Qjl1R0hfUl9ZT2plWEs4ZHVKUWdRYkHSAa4BQVVfeXFMTlIwdG1jS2kzUGhDNFd5UXZDeUZDdmRGSU5SNlFkamdXVGtsRGlNd2FNTlp0RjhYcEhYNWVia3RFYzJqbHQtOUE4TDNod1BmaU16WWg3eExOaV9UTmhyYnNjcFFHZUphQWt1Q2ZYZm5keHYtb2o3eV9QbVc4SlZzWWdVTk5rWEtKU1ZicFA1VG5JbUlzNkZoNEI5dUdIX1JfWU9qZVhLOGR1SlFnUWJB?oc=5" target="_blank" rel="noopener">Swastika Infra Limited Announces Launch of Initial Public Offering</a> <span class="muted">— TheWire.in, 23 Sep 2026</span></li>
+    </ul>
+  </details>
+
+  <footer>
+<a href="https://www.chittorgarh.com/ipo/swastika-infra-ipo/2287/" target="_blank" rel="noopener">Chittorgarh</a><a href="https://ipowatch.in/swastika-infra-ipo/" target="_blank" rel="noopener">IPOWatch</a>  </footer>
+</article>
+<article class="card " data-type="Mainboard"
+         data-gmp="0.83"
+         data-date="2026-09-25"
+         data-size="2100.0"
+         data-sub="0.21">
+  <header>
+    <h3>
+<a href="https://www.chittorgarh.com/ipo/elevate-campuses-ipo/2647/" target="_blank" rel="noopener">Elevate Campuses</a>    </h3>
+    <div class="badges">
+      <span class="badge mainboard">Mainboard</span>
+<span class="badge when ">Closes in 2 days</span>    </div>
+    <div class="dates">23 to 25 Sep, 2026 · BSE, NSE · lists Wed, Sep 30, 2026</div>
+  </header>
+
+  <div class="stats">
+    <div><span class="k">Price band</span><span class="v">₹343 to ₹362</span></div>
+    <div><span class="k">Lot size</span><span class="v">41 shares</span></div>
+    <div><span class="k">Min. investment</span><span class="v">
+₹14,842
+        <small>1 lot · 41 sh</small>
+    </span></div>
+    <div><span class="k">Issue size</span><span class="v">₹2,100 Cr</span></div>
+  </div>
+
+  <div class="live">
+        <div class="gmp mild">
+      <span class="label">GMP</span>
+      <span class="big">₹3</span>
+<span class="pct">(+0.8%)</span>      <div class="sub">
+Est. listing ₹364 · updated 23 Sept, 14:30
+      </div>
+    </div>
+
+    <div class="subs">
+      <span class="label">Subscription</span>
+        <span class="big">0.21x</span>
+        <table>
+          <tr><td>Qualified Institutional</td><td>0.19x</td></tr>
+          <tr><td>Non Institutional</td><td>0.32x</td></tr>
+          <tr><td>Retail Individual</td><td>0.14x</td></tr>
+        </table>
+        <div class="sub">as of Sep 23, 2026 17:05</div>
+    </div>
+  </div>
+
+  <section class="about">
+    <h4>What they do</h4>
+    <p>Incorporated in 2005, Elevate Campuses Ltd. is an education infrastructure company engaged in owning, operating and managing on-campus student accommodation for higher education institutions (HEIs) and owning K-12 school assets. The Company operates its student accommodation business under the Good Host Spaces and ScholarZ brands.</p>
+    <details>
+      <summary>More about the company</summary>
+<p>As of March 31, 2026, the Company’s Pre-Acquisition Group had a student accommodation capacity of 80,255 students across 15 cities in India and one city in the United Arab Emirates. Its portfolio included seven owned student accommodation campuses with 20,368 beds across six Indian cities and 14 managed campuses with 55,487 beds.</p><p>The Company provides operational services covering deal sourcing, site selection, development, asset acquisition, asset repositioning and community engagement. It also provides community and campus technology services, including media coverage of HEIs and community events.</p><p>The Company works with educational institutions including Manipal Academy of Higher Education, Manipal University, Jaipur and Meraki Education. As of March 31, 2026, its owned student accommodation portfolio recorded an occupancy rate of 89.37% for the Academic Year 2025-26.</p><p>Since commencing operations as an independent owner and operator of student accommodation in Financial Year 2018, the Company has expanded its owned student accommodation portfolio from 9,153 beds to 20,368 beds as of March 31, 2026.</p><p>As of the same date, it had 460 full-time employees in its Pre-Acquisition Group.</p>    </details>
+  </section>
+
+  <section class="signals">
+    <h4>Financial signals</h4>
+    <div class="flags"><span class="flag good">Strong growth: income +53%, profit +249%</span><span class="flag good">Profit up 3 years in a row</span><span class="flag warn">Borrowing up 241% (debt &gt; net worth)</span><span class="flag warn">High debt/equity 4.98</span></div>
+<p class="metrics">FY26 income ₹603.4 Cr · PAT ₹173.8 Cr · PAT margin 28.8% · Income +53% YoY · PAT +249% YoY · Post-issue P/E 35.1x</p>      <p class="objects"><b>Money raised will go to:</b>
+Payment of the purchase consideration for the acquisition of the K-12 Entities and Campuses (₹1,100.0 Cr); Repayment and/ or prepayment, in full or in part, of certain outstanding borrowings and prepayment penalties, as applicable of availed by Company and certain of Subsidiaries, namely GHS Shoolini, GHS Sonipat, Souk HIS UAE and Souk NLCS UAE, through investment in such Subsidiaries (₹750.0 Cr)</p>
+      <p class="objects muted"><b>Broker reviews:</b>
+1 subscribe · 2 neutral</p>
+      <h5>Recent developments</h5>
+      <ul class="devs">
+        <li class=""><a href="https://news.google.com/rss/articles/CBMikgJBVV95cUxOaG5tcDN0cXliNmdYbmhlMlNPekp1VEdGbG9wYnlXcUthMDN3RmlNNFo0am5uMllGSlZNaVJNMS1vSWk5NEloRHNSWmVDeUZsSEVkcWpEVUd6OUVTbTBYT2Z6d2JyY25WMUt0dnk1dmx5ZHFqR25KY2lIM2ZSTlZQZ2R5REhmSTF4MjZiTG9SbVppX2xFSGVzU0hqUkZSN2xRMWc1RmFKbzg3dWM4VjBwZjRoT0ExX0ZURmJhV2EweVIwekV1emhXSWtjWlhwRTlRem5QV1NKT0hPaGxZanVBdTVqRno5Uk5BVmJ0Tm5ncXFRSm5ONWRYck9MNXhoN2xPdS1JMnh5blQ2Y015eVRxNFNn0gGXAkFVX3lxTE9oWUVHVXhqZmxobmM2anVyOXUxeEhqOXVQZ1FWQkVOMmowV2tadk0wV2h2SEdqOC1RMnhVTHZjVUhxeFdHTzA1YTlheXk4MG1FeVlsczJNbmhxeTVmUFhHTkxTSTI5b2tOT3hXRzd6UF8xZlFFRmt3aTNqcG93RUF6MGFlSDhSQURTQ1BmSnpLTnR2UUJPTTlRTnJHQVZ1S3d5Z2QyQXJFUEN2U0RCTHBsS0hKZnpYMEEzYkVBbHFQclF4dTYyc1NwN2ZaNVl4YV9oOG1jUExXX3NoRGdTZWk1aE4xQ2NocS0xeGR1M2ZFbmtUQlhnWVUweE1KaGRaN1BMeXpqTl94TjBJRWFrVmJnQUx1SHBfcw?oc=5" target="_blank" rel="noopener">Elevate Campuses goes live on SAP S/4HANA Public Cloud, unifying finance across the group on a single AI-Rea..</a>
+          <span class="muted">— ET CIO, 28 Jul 2026</span></li>
+        <li class="good"><a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZkhBTldGVTFKTm1XOWx1MTNvbDVIMUFNT1R2RTkxMHk4eWlXM25LMndTM25WUVlWT3NsZnV4LTVpNUczb3NsUm1qLXAyZ0VGbjlaNi1jR09PS3FfR2M0SExFVl9TQkpVcVVpTllYWkxoNWNsbERlT29JZXUxQXR2a1NsVGdteEQyeTJrSzJNdDFGTW5iV2owbmJPZElDdXJCeExWWGkyYy1uUQ?oc=5" target="_blank" rel="noopener">Elevate Campuses executes student hostel project for IIT Madras</a>
+          <span class="muted">— Construction Week India, 29 Jun 2026</span></li>
+        <li class="good"><a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxORkt0ZnVINXRfZEYtYnRpWkpRczUwZFRDY3Nqb28tODQ5czNNSmRIUW5PTWJJSWR3Ujk1aXhUMUlIdU5KS1VaTWhlampPV0VCblVabzNTNm1HYWhiT05Yd2FoejVnWkptX0V3cEF5WWtJMWsyZ2t3ZFNKWlRKaDZaR0dNZDJwRlNzZkpqUF93X2hJemxTLXRrdG90YnhEYjZUR1l6TkdMMDlYbWt3dVNNY2dGNnNFcGk4UmNGSXZEQThpSWx1?oc=5" target="_blank" rel="noopener">IIT Madras and Elevate Campuses Collaborate to Build Housing for 1,800+ PhD Scholars and Staff</a>
+          <span class="muted">— Global Student Living, 26 Jun 2026</span></li>
+        <li class=""><a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxNSnRoZ01sNzM2M0UwMXpxNFdQQWxsdzJUNHZFSlQ1TVlabG5iZW5peWV0VHJUV0xYelYtdFF0NVByQmZ1NkhxdG4tOHZWQWdaaWplZk8yR0g0NjYwX3F2Z2U5X25pV3phZjN6ZTFDX2hWYk1FMEZSUkFlUm5tVEtLMGVvbTJHV2lpRVp1X3Zid1B2QVhDX0HSAaMBQVVfeXFMTzVTZ19qcWVrOHFnTjFkb2ppV0ZuSnBFWUlmOHJ6UVp5b1FzaU9OQTZVcnF6aTMtcWcxMC1MZEtkLW1VTVcyVEJPV0NTS21tRW9SMGkzMUN0Z2FUcTY4Y0x3RzQ4bWFrSVdkOTdJN0huZlc3M0pwOW44VnFrakIycHRfZmZSQ2NBVmo3d3ZnczhZYk01eWZiVlpSdlU4VmRaTjlLNA?oc=5" target="_blank" rel="noopener">Elevate campuses to build student facility at IIT-Madras</a>
+          <span class="muted">— DT Next, 26 Jun 2026</span></li>
+      </ul>
+  </section>
+
+  <details class="news">
+    <summary>IPO news (3)</summary>
+    <ul>
+      <li><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxObHZIVXQxRmI5ZWFsVkY3YkExaUxOaEJ1WDN1dndPdG5LRjZnMmpzM0s0S2s3bUNXVFlQVnljRi1ZWTFNYXBObF9abzkxRXgzTEZIcnJycmVEWWhHZVB2VmxEREtsbEVpQ0d4aE1CYXVSbzY3NkIzck1fMWtyM2VrRnBKRGxmMDVqZ21yVDVlMEhfRXpDZGUwT2x2NmRXZXlvQXQwVWlFQ2tUYTZUV1kxWFNR0gG_AUFVX3lxTE8ybV8zUUJQT2FPbjhpWDBjb1R6dXNFVGpRMHJyRktNT2F4Y0o1b3pMdEN2cm5yQkR4dy1YbGQ5SXJpWDFGM01hS043SlkzOUJCNlA2VGZELUJyWDF6Qlg0RmpudDg5R1QycHRWSFJ2cGprdE1XNVJ6VHFidF82bHdKakN3U2RaZUxyZlJUWmdEa1lfXzBaZVhLQkpaM1NPUDQ1anB0di1mak4zaEg4cFFpZ2wzZmRlNXFVWS1FUVJn?oc=5" target="_blank" rel="noopener">Elevate Campuses IPO Subscribed 5% on Day 1 as Brokerages Give Neutral Calls</a> <span class="muted">— Analytics Insight, 23 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxPRFYtTTRNZWFWR3p3c0ZLMWhXNVc0dTdOZ1JraUVVQ29xUGVCa0I4LURqN2ZLTGVVX1JKNTF6WHpsaE1KZEJVS0JXZWViR3hzTDJ3cjVRODJsRnd3TXM3ZjZyajZRclk4Q3o0ZnFOTkt0ZEZVblhVLVFzU2EwQnhrdmloNHUwaWFsekJycndEbDBibXRCekxwOHVqMEVUTC0zOWFTMklaNVpzZjFKdTBFYlRDMm44am82bGVQbzQ1eFJ4ZDZsZXdkcnpVYw?oc=5" target="_blank" rel="noopener">Elevate Campuses Anchor Book: Rs 945 Crore Raised Pre-IPO</a> <span class="muted">— Kalkine India, 23 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxPQzc5T1Bub3RmdEJubE5SUkotV0lFVHRwMnRBdTZaSkVEZkxWZkdxTWFBZDlpVk5FUEJEMXNCZGNNRGY3MTd0T01pN0xleW9YQ3Vpdng5Mm95TzU0UlpMcktpSE5NeVBRbFVXX3BVclg1eElJenVUWXEzZE9HSnpmeTUtdFp3QUc0bDdCZDlJcE55ekxnVkJ3cHNrWnZmb0FI?oc=5" target="_blank" rel="noopener">Elevate Campuses IPO Day 1 Subscription Status: 0.21x Update</a> <span class="muted">— HDFC Sky, 23 Sep 2026</span></li>
+    </ul>
+  </details>
+
+  <footer>
+<a href="https://www.chittorgarh.com/ipo/elevate-campuses-ipo/2647/" target="_blank" rel="noopener">Chittorgarh</a><a href="https://ipowatch.in/elevate-campuses-ipo/" target="_blank" rel="noopener">IPOWatch</a>  </footer>
+</article>
+<article class="card " data-type="SME"
+         data-gmp="0.0"
+         data-date="2026-09-25"
+         data-size="22.0"
+         data-sub="0.14">
+  <header>
+    <h3>
+<a href="https://www.chittorgarh.com/ipo/core-integra-consulting-ipo/2605/" target="_blank" rel="noopener">Coreintegra Consulting</a>    </h3>
+    <div class="badges">
+      <span class="badge sme">SME</span>
+<span class="badge when ">Closes in 2 days</span>    </div>
+    <div class="dates">23 to 25 Sep, 2026 · NSE SME · lists Wed, Sep 30, 2026</div>
+  </header>
+
+  <div class="stats">
+    <div><span class="k">Price band</span><span class="v">₹74 to ₹78</span></div>
+    <div><span class="k">Lot size</span><span class="v">1,600 shares</span></div>
+    <div><span class="k">Min. investment</span><span class="v">
+₹2,49,600
+        <small>2 lots · 3,200 sh</small>
+    </span></div>
+    <div><span class="k">Issue size</span><span class="v">₹22 Cr</span></div>
+  </div>
+
+  <div class="live">
+        <div class="gmp flat">
+      <span class="label">GMP</span>
+      <span class="big">₹0</span>
+<span class="pct">(+0.0%)</span>      <div class="sub">
+Est. listing ₹78 · updated 23 Sept, 14:30
+      </div>
+    </div>
+
+    <div class="subs">
+      <span class="label">Subscription</span>
+        <span class="big">0.14x</span>
+        <table>
+          <tr><td>Qualified Institutional</td><td>1.05x</td></tr>
+          <tr><td>Non Institutional</td><td>0.02x</td></tr>
+          <tr><td>Retail Individual</td><td>0.06x</td></tr>
+        </table>
+        <div class="sub">as of Sep 23, 2026 18:24</div>
+    </div>
+  </div>
+
+  <section class="about">
+    <h4>What they do</h4>
+    <p>Incorporated in 2009, Core Integra Consulting Services Limited is an integrated human resource solutions provider offering staffing, payroll outsourcing, labour law compliance, HR advisory, vendor management, and proprietary HR-Tech and Reg Tech platforms under one umbrella. The human resource services offer targeted support in recruitment, staffing, payroll processing, HR advisory including labour compliances, licenses and registration, policy drafting, just in time hiring solutions, retainership and assurance services which are designed to support regulatory compliance for businesses.</p>
+    <details>
+      <summary>More about the company</summary>
+        <h5>Services</h5>
+        <ul><li>Compliance and Advisory Services</li><li>HR Services</li><li>Reg Tech</li><li>HR Tech Solutions</li><li>Vendor Management services</li></ul>
+        <h5>Competitive Strengths</h5>
+        <ul><li>Technology Platforms built in-house covering all aspects of the human resource value chain</li><li>Deep domain expertise delivered through comprehensive solutions across industries</li><li>Wide geographic presence with efficient labour law compliance capabilities</li><li>Established long term relationship with clients leading to recurring business</li><li>Experience of our Promoter and management team</li></ul>
+    </details>
+  </section>
+
+  <section class="signals">
+    <h4>Financial signals</h4>
+    <div class="flags"><span class="flag good">Strong growth: income +28%, profit +30%</span></div>
+<p class="metrics">FY26 income ₹516.3 Cr · PAT ₹4.5 Cr · PAT margin 0.9% · Income +28% YoY · PAT +30% YoY · Post-issue P/E 18.1x</p>      <p class="objects"><b>Money raised will go to:</b>
+Augmenting Leadership Team for the Company (₹5.8 Cr); Enhancing the visibility and awareness of the brand (₹0.5 Cr)</p>
+      <p class="objects"><b>Key strengths:</b> Technology Platforms built in-house covering all aspects of the human resource value chain Deep domain expertise delivered through comprehensive solutions across industries Wide geographic presence with efficient labour law compliance capabilities</p>
+      <p class="objects muted"><b>Broker reviews:</b>
+none yet</p>
+  </section>
+
+  <details class="news">
+    <summary>IPO news (3)</summary>
+    <ul>
+      <li><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxOazFBb3hscW9HSkNNQWoxeWFQRnJMRXV6aWtZZ3RCSVdlbEttdHRTcV9PSjdZUU1DWEtTYk5ONS1xTlUzc3NNYXhFLWlNTTBKU0dJUy1PYW5Pc0x4dnFYcEZsV0RWUVFoa0hheW14QlV4SWdUeHk4ZjNxQTVlZjh3dlFQZWZla3k4ZC1HWEEwTW14dXJUS2hrRm1ueE1vM2dfQ1ktZGNvNzJxbk1mWk5pcXZMdGEydEVxa1VIcQ?oc=5" target="_blank" rel="noopener">Coreintegra Consulting Services IPO Day 1: Subscribed 0.11x; QIB demand at 1.05x</a> <span class="muted">— scanx.trade, 23 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbTVnWkE2QWhvLVBuVGJlcVFIMXRaODZmekRacGw0VXBOM3pxR25CbmF4VXlWUlRHODBUU0h5cTY0dXJjNkM0YnltY0pRWk9DOWR6N0Z3OERnSnVqdWZPemxkQjdRRzNZdW9KeHpsRTlCdFZ5dWMxbFp5SWx6YlpPZFdXVERoTU53XzRINUctbnhiTUxmLWNhbDIzUWdqdF9iVnM2Y1Z6elJzQ0UtdkhYd1cySExtWlE3?oc=5" target="_blank" rel="noopener">Coreintegra Consulting IPO Day 1 Subscription Status 23 Sep 2026</a> <span class="muted">— Univest, 23 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxPYkIxRUtndTRUNzk0RGJEWmh0QV9FT3ZTQkJ5dDZGYmZyNEowMGRULXBmcG1OYmhJSG5KU2Q1SEJ5ZHk2Z25Pbk94dnBBdjdndHFFVXdseTdqNnBxc1c5dWJTRW5DTzYzMEdvZEI3V2RwUUMtNkRCUk9FZlNyV1ZCdGdnbkF1VnItR3ZJQkN5dUVrSWZwQUg0?oc=5" target="_blank" rel="noopener">Coreintegra Consulting Services Share Price</a> <span class="muted">— The Economic Times, 23 Sep 2026</span></li>
+    </ul>
+  </details>
+
+  <footer>
+<a href="https://www.chittorgarh.com/ipo/core-integra-consulting-ipo/2605/" target="_blank" rel="noopener">Chittorgarh</a><a href="https://ipowatch.in/coreintegra-consulting-ipo/" target="_blank" rel="noopener">IPOWatch</a>  </footer>
+</article>
+<article class="card " data-type="SME"
+         data-gmp="0.0"
+         data-date="2026-09-25"
+         data-size="44.0"
+         data-sub="0.34">
+  <header>
+    <h3>
+<a href="https://www.chittorgarh.com/ipo/pooja-logistics-ipo/2724/" target="_blank" rel="noopener">Pooja Logistics</a>    </h3>
+    <div class="badges">
+      <span class="badge sme">SME</span>
+<span class="badge when ">Closes in 2 days</span>    </div>
+    <div class="dates">23 to 25 Sep, 2026 · NSE SME · lists Wed, Sep 30, 2026</div>
+  </header>
+
+  <div class="stats">
+    <div><span class="k">Price band</span><span class="v">₹109 to ₹115</span></div>
+    <div><span class="k">Lot size</span><span class="v">1,200 shares</span></div>
+    <div><span class="k">Min. investment</span><span class="v">
+₹2,76,000
+        <small>2 lots · 2,400 sh</small>
+    </span></div>
+    <div><span class="k">Issue size</span><span class="v">₹44 Cr</span></div>
+  </div>
+
+  <div class="live">
+        <div class="gmp flat">
+      <span class="label">GMP</span>
+      <span class="big">₹0</span>
+<span class="pct">(+0.0%)</span>      <div class="sub">
+Est. listing ₹115 · updated 23 Sept, 14:30
+      </div>
+    </div>
+
+    <div class="subs">
+      <span class="label">Subscription</span>
+        <span class="big">0.34x</span>
+        <table>
+          <tr><td>Non Institutional</td><td>0.26x</td></tr>
+          <tr><td>Retail Individual</td><td>0.57x</td></tr>
+        </table>
+        <div class="sub">as of Sep 23, 2026 17:19</div>
+    </div>
+  </div>
+
+  <section class="about">
+    <h4>What they do</h4>
+    <p>Incorporated in 2011, Pooja Logistics Ltd. is engaged in providing temperature-controlled logistics services for the transportation of perishable goods across India through refrigerated trucks (“reefers”). The company offers cold chain logistics services to a range of industries. Their in-house fleet as on March 31, 2026 comprises over 424 GPS-enabled vehicles dedicated to the transportation of temperature-sensitive goods.</p>
+    <details>
+      <summary>More about the company</summary>
+        <h5>Services</h5>
+        <ul><li>Confectionery &amp; Bakery: Temperature-controlled transport for chocolates, pastries, and baked goods.</li><li>Dairy Products: Cold-chain logistics for milk, butter, cheese, yogurt, and ice cream.</li><li>QSRs: Timely transportation of frozen and fresh food, including poultry and seafood.</li><li>Pharmaceuticals &amp; Healthcare: Temperature-monitored transportation of vaccines, medicines, and medical devices.</li><li>E-commerce &amp; Retail: Delivery of groceries, meats, and other temperature-sensitive products.</li></ul>
+        <h5>Competitve Strengths</h5>
+        <ul><li>Owned Refrigerated Vehicle Fleet</li><li>Long-standing Relationship with Key Customers</li><li>Geographic Reach of the Company</li><li>Organizational stability along with Promoter’s experience</li></ul>
+    </details>
+  </section>
+
+  <section class="signals">
+    <h4>Financial signals</h4>
+    <div class="flags"><span class="flag good">Profit up 3 years in a row</span></div>
+<p class="metrics">FY26 income ₹167.8 Cr · PAT ₹12.3 Cr · PAT margin 7.4% · Income +11% YoY · PAT +12% YoY · Post-issue P/E 13.3x</p>      <p class="objects"><b>Money raised will go to:</b>
+Purchase of Vehicles (₹34.0 Cr)</p>
+      <p class="objects"><b>Key strengths:</b> Owned Refrigerated Vehicle Fleet Long-standing Relationship with Key Customers Geographic Reach of the Company</p>
+      <p class="objects muted"><b>Broker reviews:</b>
+none yet</p>
+  </section>
+
+  <details class="news">
+    <summary>IPO news (3)</summary>
+    <ul>
+      <li><a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxQTEhfY1c1dU9LN2F0aUVmUUJUdTFqZEpJbFp0UnllNkF0QlVRYm1oRFo1SXdBemtlRHVsajg5WTdhSE54VW91aUNXYVJTQ2lsaHZqbVNUamhySUFUaWNXdWRDZFNwMVY5ZTV6cU1rN213N0xMb3dpWkxBLXVEMHc0cFpoYjdhN0hzZzB5c20wbDljZHZqSFRsdlRUNUZENVU?oc=5" target="_blank" rel="noopener">Pooja Logistics IPO Subscription Status Day 1: Issue Subscribed 0.34 Times</a> <span class="muted">— HDFC Sky, 23 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxQa1daZ2RGanR6N25PWmlCUFh0T2Qxd1BIVXNWQUxmWDk3V20zSEUyekJ4ZFl1ZFpHUzh1OVNnNGRtVFQzX0dFLXFtbkdITTRDcHFTWUtoUDRKMGZjTl9jemIwQTc0N2tEUXNwbndzMHYzVExwdlVZVVJlUVV6ckx6SzNUbF8xSXd1X3hQUWdySjVmb2xrN2M3TUU2Q29MbVRPb1ZoLTQwdHJKcDc0SFBZQm1Ld1M1Y2ttTVFNSlg5UQ?oc=5" target="_blank" rel="noopener">Pooja Logistics Charts a Disciplined Course for Growth, Says MD Deepak Khanna</a> <span class="muted">— Ahmedabad Mirror, 23 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdmcydnpjdjVMamdhVHB4ZkFXOEV1RWI5cTlnOXl2d1hUSldFRHlmQ05pdnBoZTBVOWZ2NWJnYjVWOEptQ1RmZmotMjVhQjJRTjZfOVM1cmYyZk5pZlVrcklkVlBhY1U0SHV5Rlo1ME1PMDBnV2JtaFg5Nk5IRnc1ekZjN09WempDRzFiRlNlaTI2TXJmXzROZGVOMS1vNVplS2NxR21LdG9BcHlJdWhEQ3FSaUdWb2FLdS1JcEVBNTV3Q2cyOTRrN2NzUjc2NHBIVWkzX3A4T2p2MEFHS1p3?oc=5" target="_blank" rel="noopener">Pooja Logistics Limited Announces Opening of Initial Public Offering (IPO) on 23rd September 2026</a> <span class="muted">— ANI News, 23 Sep 2026</span></li>
+    </ul>
+  </details>
+
+  <footer>
+<a href="https://www.chittorgarh.com/ipo/pooja-logistics-ipo/2724/" target="_blank" rel="noopener">Chittorgarh</a><a href="https://ipowatch.in//pooja-logistics-ipo/" target="_blank" rel="noopener">IPOWatch</a>  </footer>
+</article>
+<article class="card " data-type="SME"
+         data-gmp="0.0"
+         data-date="2026-09-25"
+         data-size="29.0"
+         data-sub="0.12">
+  <header>
+    <h3>
+<a href="https://www.chittorgarh.com/ipo/skoffset-ipo/3150/" target="_blank" rel="noopener">S.K.Offset</a>    </h3>
+    <div class="badges">
+      <span class="badge sme">SME</span>
+<span class="badge when ">Closes in 2 days</span>    </div>
+    <div class="dates">23 to 25 Sep, 2026 · BSE SME · lists Wed, Sep 30, 2026</div>
+  </header>
+
+  <div class="stats">
+    <div><span class="k">Price band</span><span class="v">₹119 to ₹125</span></div>
+    <div><span class="k">Lot size</span><span class="v">1,000 shares</span></div>
+    <div><span class="k">Min. investment</span><span class="v">
+₹2,50,000
+        <small>2 lots · 2,000 sh</small>
+    </span></div>
+    <div><span class="k">Issue size</span><span class="v">₹29 Cr</span></div>
+  </div>
+
+  <div class="live">
+        <div class="gmp flat">
+      <span class="label">GMP</span>
+      <span class="big">₹0</span>
+<span class="pct">(+0.0%)</span>      <div class="sub">
+Est. listing ₹125 · updated 23 Sept, 14:30
+      </div>
+    </div>
+
+    <div class="subs">
+      <span class="label">Subscription</span>
+        <span class="big">0.12x</span>
+        <table>
+          <tr><td>Qualified Institutional</td><td>0.50x</td></tr>
+          <tr><td>Retail Individual</td><td>0.02x</td></tr>
+        </table>
+        <div class="sub">as of Sep 23, 2026 17:06</div>
+    </div>
+  </div>
+
+  <section class="about">
+    <h4>What they do</h4>
+    <p>Incorporated in February 2007, S. K. Offset Limited is engaged in providing integrated printing and packaging solutions.The Company started its operations with offset printing and has gradually expanded into labelling and packaging solutions.</p>
+    <details>
+      <summary>More about the company</summary>
+<p>The Company&#39;s product offerings are classified into Printing, Packaging and Labelling. Its packaging portfolio includes mono cartons, master cartons, boxes and other customised packaging products, while its labelling business covers stickers, product labels, barcodes and promotional materials in different sizes, formats and finishes. The Company also provides digital design services for packaging artwork, layout preparation, colour formatting and print-ready files.</p><p>The Company has undertaken forward integration across printing, packaging and labelling, enabling customers to source multiple products from a single supplier. It also trades, imports and exports printing and packaging materials such as paper, paperboard, foils and inks. Its integrated operations support product diversification and manufacturing capacity utilisation across different customer requirements.The Company serves customers across multiple industries and operates with an in-house production and operational structure.</p><p>As of the date of the Red Herring Prospectus, the Company had approximately 111 employees, comprising skilled, semi-skilled and unskilled personnel across production, administration, sales and marketing, finance, stock management and other functions.</p>        <h5>Competitive Strengths</h5>
+        <ul><li>Diversified product offerings.</li><li>Commitment to quality standards.</li><li>Presence across multiple industries.</li><li>Established client and supplier relationships.</li><li>In-house operational and production structure.</li><li>Experienced Promoters and management team.</li><li>Integrated printing, packaging and labelling capabilities.</li></ul>
+    </details>
+  </section>
+
+  <section class="signals">
+    <h4>Financial signals</h4>
+    <div class="flags"><span class="flag good">Strong growth: income +38%, profit +386%</span><span class="flag good">Profit up 3 years in a row</span><span class="flag good">High ROE 38%</span><span class="flag warn">High debt/equity 1.75</span></div>
+<p class="metrics">FY26 income ₹67.0 Cr · PAT ₹7.5 Cr · PAT margin 11.2% · Income +38% YoY · PAT +386% YoY · Post-issue P/E 12.9x</p>      <p class="objects"><b>Money raised will go to:</b>
+To fund the Capital expenditure towards purchase of Plant and Machinery at Meerut (₹2.1 Cr); Funding incremental working capital requirements of the Company (₹18.7 Cr)</p>
+      <p class="objects"><b>Key strengths:</b> Diversified product offerings. Commitment to quality standards. Presence across multiple industries.</p>
+      <p class="objects muted"><b>Broker reviews:</b>
+none yet</p>
+  </section>
+
+  <details class="news">
+    <summary>IPO news (3)</summary>
+    <ul>
+      <li><a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxQd3hKUVpYUVJmVFhLWUFnanJ1WlFqZU4yb2ZnRnllM2RXaE1uSkNUeXBvMFBsZm5Ya3owT19JUDhBZUhQMEVyaTdaWHJwWUxRUW9GWXNQOFJqWURxQ3VJNXdRRE84WGtoTjBLQVNKR25XM0NqLXF3U2ZRZElpMkgwZ19jTlQyd2owbkZveUZjclI4QlZWQTF6OA?oc=5" target="_blank" rel="noopener">S.K.Offset IPO Subscription Status Day 1: Issue Subscribed 0.12 Times</a> <span class="muted">— HDFC Sky, 23 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxOM0stTUtGcjUxeS1UODBhWVBtXzBRb0JTR1dOYklLcWpUQmNCajBvamk5U0w3WUlmM2RzbkxKZEtDX1F3Mmp0WkFIekdGNjdIRjR5b3hYSEZxT3BvUVNDRTFnaE0wSnBBMnFuQ1ZHZTNwVmo3TERIVm5wWVRsMVl0cWRCbUxRcmZ3cTJLUzM0Z2x5eXdZS1REcE1Ebw?oc=5" target="_blank" rel="noopener">S.K.Offset IPO Day 1 Subscription Status 23 Sep 2026</a> <span class="muted">— Univest, 23 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMiV0FVX3lxTFBXWGNtQVNPXzNlLUQ1M1lPZ2NSbjZpajhQUWdVZW5SSDhzLVlBN3NQQm95SHpUSHhfWlFFSWdtTnVoempvcGxfSGRhbjRHTlByc1MtMTlSRQ?oc=5" target="_blank" rel="noopener">S.K.Offset Ltd IPO: Check Issue Date, Price Band, Lot Size, Subscription</a> <span class="muted">— Upstox, 18 Sep 2026</span></li>
+    </ul>
+  </details>
+
+  <footer>
+<a href="https://www.chittorgarh.com/ipo/skoffset-ipo/3150/" target="_blank" rel="noopener">Chittorgarh</a><a href="https://ipowatch.in/skoffset-ipo/" target="_blank" rel="noopener">IPOWatch</a>  </footer>
+</article>
+<article class="card " data-type="SME"
+         data-gmp="0.0"
+         data-date="2026-09-25"
+         data-size="34.0"
+         data-sub="0.13">
+  <header>
+    <h3>
+<a href="https://www.chittorgarh.com/ipo/unitec-fibres-ipo/3171/" target="_blank" rel="noopener">Unitec Fibres</a>    </h3>
+    <div class="badges">
+      <span class="badge sme">SME</span>
+<span class="badge when ">Closes in 2 days</span>    </div>
+    <div class="dates">23 to 25 Sep, 2026 · BSE SME · lists Wed, Sep 30, 2026</div>
+  </header>
+
+  <div class="stats">
+    <div><span class="k">Price band</span><span class="v">₹83 to ₹88</span></div>
+    <div><span class="k">Lot size</span><span class="v">1,600 shares</span></div>
+    <div><span class="k">Min. investment</span><span class="v">
+₹2,81,600
+        <small>2 lots · 3,200 sh</small>
+    </span></div>
+    <div><span class="k">Issue size</span><span class="v">₹34 Cr</span></div>
+  </div>
+
+  <div class="live">
+        <div class="gmp flat">
+      <span class="label">GMP</span>
+      <span class="big">₹0</span>
+<span class="pct">(+0.0%)</span>      <div class="sub">
+Est. listing ₹88 · updated 23 Sept, 14:30
+      </div>
+    </div>
+
+    <div class="subs">
+      <span class="label">Subscription</span>
+        <span class="big">0.13x</span>
+        <table>
+          <tr><td>Non Institutional</td><td>0.43x</td></tr>
+          <tr><td>Retail Individual</td><td>0.06x</td></tr>
+        </table>
+        <div class="sub">as of Sep 23, 2026 17:06</div>
+    </div>
+  </div>
+
+  <section class="about">
+    <h4>What they do</h4>
+    <p>Incorporated in February 2005, Unitec Fibres Limited is a manufacturer of Recycled Polyester Staple Fibre (RPSF), producing sustainable polyester fibres from recycled PET flakes, PET chips, and other post-consumer polyester waste. The company supplies RPSF to industries such as automobiles, home furnishings, and textiles, where its products are used in carpets, roof liners, trunks, sofas, curtains, and spinning applications.</p>
+    <details>
+      <summary>More about the company</summary>
+<p>The company operates two manufacturing facilities at the M.I.D.C. Tarapur Industrial Area, Maharashtra, with a combined installed production capacity of 27,984 MTPA. It is also establishing a third manufacturing unit in Valsad, Gujarat to expand production capacity. Unitec Fibres follows stringent quality standards and holds ISO 9001:2015, ISO 14001:2015, OEKO-TEX®, and Global Recycled Standard (GRS) certifications, reflecting its commitment to quality, environmental sustainability, and recycled product manufacturing.</p><p>Led by an experienced management team with over two decades of industry expertise, the company focuses on sustainable manufacturing, efficient production processes, and long-term customer relationships.</p><p>As of March 31, 2026, Unitec Fibres employed 171 permanent personnel across production, quality, maintenance, finance, procurement, dispatch, import-export, human resources, and administrative functions.</p><p>Strengths</p>    </details>
+  </section>
+
+  <section class="signals">
+    <h4>Financial signals</h4>
+    <div class="flags"><span class="flag bad">Profit fell 8% in FY26</span><span class="flag warn">Borrowing up 111% (debt &gt; net worth)</span></div>
+<p class="metrics">FY26 income ₹224.9 Cr · PAT ₹7.6 Cr · PAT margin 3.4% · Income -1% YoY · PAT -8% YoY · Post-issue P/E 16.7x</p>      <p class="objects"><b>Money raised will go to:</b>
+Repayment/prepayment of all or certain of borrowings availed by the Company (₹31.0 Cr)</p>
+      <p class="objects muted"><b>Broker reviews:</b>
+none yet</p>
+  </section>
+
+  <details class="news">
+    <summary>IPO news (3)</summary>
+    <ul>
+      <li><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxQcFhWUDdIMHk5ZG5pTC1XNkFMa0FsTVJzaUtacU1jVEhpblg1NUduUlpWUy1KQ3NOUkVxUEdoTjcteFdfWlgxUC1qWFVqYlVnNXVIeTRPa2tqX3lNRW8wZElUbmg4SlRnNVpxYzBmTFAyNUtkVlR5dFdCRHBDTW51LVZSbnUtSVN0VS0yRUVkZ2J2V2IwTXJ0TnVyNXZGVENKb2pYRkVuQTA4dG5EUEExLWJRa3ctTGtPY1p0eg?oc=5" target="_blank" rel="noopener">Unitec Fibres IPO Day 1: Subscribed 0.02x; Retail leads marginal demand</a> <span class="muted">— scanx.trade, 23 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxOdHVCY2JTNmVtSG9NYlBiOE1oZW9qWjc1LV8wcmFLaVVidXFLTWE1cjZNdzBuSlJ6bURIOG54bnVqdHhvd3dCUHgySEN1OUJia0Z2UklOWVlzUlhlY1BGMVI2Ul9ZemJQTGhrTkYyVEpFN2NQX3lsa21zYm9CLXUwYlNFcFdRbVd4YXptMWtvbEV4UWd5UGgwMHlJTEltb3ZX?oc=5" target="_blank" rel="noopener">Unitec Fibres IPO Day 1 Subscription Status 23 Sep 2026</a> <span class="muted">— Univest, 23 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxNLURXRkx3WVp1Nk8yaVdPWk82SWQxV3kxTjZnWWFQZVVQOWI0NEVndFdEYXBqdmFwWVBpaWYxcnBaME5PZGFTTllodDJDSkdLbFFmdkMzZGRxaGoyWFhpN2s1c0dNdmtpZlVLVDBDOURSLWswdjRyTGdhRDZtWVR0LXZZLUFLbDF2UXZ3SlRZU1BCMHdtRFJTWm81c3NGM19NY0RqanZEMUF4Z2o0NTVMTUp3THZoUQ?oc=5" target="_blank" rel="noopener">Unitec Fibres IPO DRHP: ₹31.00 crore fresh issue; opens 23-Sep-2026; listing on 30-Sep-2026</a> <span class="muted">— scanx.trade, 21 Sep 2026</span></li>
+    </ul>
+  </details>
+
+  <footer>
+<a href="https://www.chittorgarh.com/ipo/unitec-fibres-ipo/3171/" target="_blank" rel="noopener">Chittorgarh</a><a href="https://ipowatch.in/unitec-fibres-ipo/" target="_blank" rel="noopener">IPOWatch</a>  </footer>
+</article>
+  </div>
+
+  <details class="upcoming-wrap">
+    <summary>Opening soon <span class="count muted" data-count-for="upGrid">(14)</span></summary>
+    <div class="grid" id="upGrid">
+<article class="card compact" data-type="Mainboard"
+         data-gmp="32.35"
+         data-date="2026-09-24"
+         data-size="1092.0"
+         data-sub="0">
+  <header>
+    <h3>
+<a href="https://www.chittorgarh.com/ipo/moneyview-ipo/2936/" target="_blank" rel="noopener">Moneyview</a>    </h3>
+    <div class="badges">
+      <span class="badge mainboard">Mainboard</span>
+<span class="badge when ">Opens tomorrow</span>    </div>
+    <div class="dates">24 to 28 Sep, 2026 · BSE, NSE · lists Thu, Oct 1, 2026</div>
+  </header>
+
+  <div class="stats">
+    <div><span class="k">Price band</span><span class="v">₹32 to ₹34</span></div>
+    <div><span class="k">Lot size</span><span class="v">441 shares</span></div>
+    <div><span class="k">Min. investment</span><span class="v">
+₹14,994
+        <small>1 lot · 441 sh</small>
+    </span></div>
+    <div><span class="k">Issue size</span><span class="v">₹1,092 Cr</span></div>
+  </div>
+
+  <div class="live">
+        <div class="gmp pos">
+      <span class="label">GMP</span>
+      <span class="big">₹11</span>
+<span class="pct">(+32.4%)</span>      <div class="sub">
+Est. listing ₹45 · updated 23 Sept, 14:30
+      </div>
+    </div>
+
+  </div>
+
+  <section class="about">
+    <h4>What they do</h4>
+    <p>Incorporated in 2014, Moneyview Ltd. is a fintech company incorporated in India that provides digital financial services through its mobile platform. The company focuses on offering accessible and technology-driven financial solutions to individuals. The company operates a digital platform that provides personal loans, credit tracking, and financial management services.</p>
+    <details>
+      <summary>More about the company</summary>
+        <h5>Product Offerings</h5>
+        <ul><li>Personal Loans – Our Flagship Product</li><li>Our Users – Serving the Credit Needs of Middle India</li></ul>
+        <h5>Competitive Strengths</h5>
+        <ul><li>Large, growing and sticky user base with a flywheel effect for growth</li><li>Self reinforcing growth engine</li><li>Data-driven approach for user segmentation and risk assessment</li><li>Technological and AI capabilities enabling scalable and efficient growth</li><li>Capital-light model with a diversified network of capital partners</li><li>Experienced management team with a track record of building and managing successful businesses</li></ul>
+    </details>
+  </section>
+
+  <section class="signals">
+    <h4>Financial signals</h4>
+    <div class="flags"><span class="flag good">Profit up 3 years in a row</span><span class="flag warn">Borrowing up 51% (debt &gt; net worth)</span></div>
+<p class="metrics">FY26 income ₹3,404.3 Cr · PAT ₹242.7 Cr · PAT margin 7.1% · Income +43% YoY · PAT +1% YoY · Post-issue P/E 8.6x</p><p class="metrics muted">Period to 30 Jun 2026: income ₹1,065.1 Cr, PAT ₹173.8 Cr (part-year, not compared)</p>      <p class="objects"><b>Money raised will go to:</b>
+Investment to drive growth in loan disbursals under default loss guarantee (DLG) arrangements (₹325.0 Cr); Investment in WFPL, the Material Subsidiary, for the purpose of augmenting its capital base (₹250.0 Cr)</p>
+      <p class="objects"><b>Key strengths:</b> Large, growing and sticky user base with a flywheel effect for growth Self reinforcing growth engine Data-driven approach for user segmentation and risk assessment</p>
+      <p class="objects muted"><b>Broker reviews:</b>
+1 subscribe</p>
+      <h5>Recent developments</h5>
+      <ul class="devs">
+        <li class=""><a href="https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kVDgxZ1QtNGxvSG0tTFF2N3Rndmx0WHlzeHFJV3NhVUJPS2lmQklURUMxdmxYRjVUNmt1TnpoZ09Sd1dDVnRDczhrdnpDZjRHQTYwZnNB?oc=5" target="_blank" rel="noopener">MoneyView Revenue 2025: $290M ARR, $1.2B Valuation (2022)</a>
+          <span class="muted">— GetLatka, 20 Aug 2026</span></li>
+      </ul>
+  </section>
+
+  <details class="news">
+    <summary>IPO news (3)</summary>
+    <ul>
+      <li><a href="https://news.google.com/rss/articles/CBMi_AFBVV95cUxORVYza3VqUXNQZlJYYzZJWjU0Qzd2X2YwZFplMzBFMEFzY2tGbl9nWi1zd0ZHX0VLQlloRjE2dGFsOGEyVG1GQV9JUTM4elpVckVydlVxZ2FsQ2Y4R1Z3NEJ6WkU4eldPalNFX1NfOFlMckVHOVZJTTNzRlNqMVlFNC1jaEhSaUd3NEtsTThjMlMwaV9VdWpJMExnYmNqTjE3OVVjSFRIM2FEZ05yWmxHaEFOaHRXNFVTdG8zM25jRWpzZFdKVUJsZ3VHVVNyYk5CRDE0eFRnQU5Gd0t1SzBveGZKd2NIMnJ2eE43cHZDREZtTUdsWi1PSTZ2ZzfSAfwBQVVfeXFMTkVWM2t1alFzUGZSWGM2SVo1NEM3dl9mMGRaZTMwRTBBc2NrRm5fZ1otc3dGR19FS0JZaEYxNnRhbDhhMlRtRkFfSVEzOHpaVXJFcnZVcWdhbENmOEdWdzRCelpFOHpXT2pTRV9TXzhZTHJFRzlWSU0zc0ZTajFZRTQtY2hIUmlHdzRLbE04YzJTMGlfVXVqSTBMZ2Jjak4xNzlVY0hUSDNhRGdOclpsR2hBTmh0VzRVU3RvMzNuY0Vqc2RXSlVCbGd1R1VTcmJOQkQxNHhUZ0FORndLdUswb3hmSndjSDJydnhON3B2Q0RGbU1HbFotT0k2dmc3?oc=5" target="_blank" rel="noopener">Digital lending platform Moneyview raises over Rs 327 crore via anchor book ahead of Rs 1,092-crore IPO</a> <span class="muted">— Moneycontrol.com, 23 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxPRXNHc1VvdzF3NEl4ZnVaSWNDbnc5S2FBRUVrV2JOMzd4NlllMW1Pa1pzdjhfdS1rekh6eFluUkNOZVg0WGV2MGt2dHc2amhPVzNQbG5sSXp1MzZIZlRkZnZEUVJfenhFREVjMTFnOGI3ZENuTW45eFlnQmVFaVRMeGstZFpPZTFjRjk0UXZmRmIwUQ?oc=5" target="_blank" rel="noopener">IPO-Bound Moneyview Nets ₹327.5 Cr From Anchor Investors</a> <span class="muted">— Inc42, 23 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMitAJBVV95cUxOMXdnOUJQMUVRQmtPTTBYWG9jTDJkRUdVdmlfRDRBN18wUUMya0d3TXA5dElyR3A1eEQ3dzZwSlVFeGlDTjlZSmNSTm9HU3BuZW1abGNsaG00clFGcVJLMFpNWWZSYndGcDIzR0VsZ3I2MGRhbGw0M09lZ3lOcWtpRFMwbGhxS2l6UHBReDlXZTRROG9GZUFkM3RsMGFtTXRzdXdkUy1yWGoybmpzNkJyZk53bzBJc2lDcl94ZFRxYmtkcEkxS0FkLXNNVmd6WjdySTNoWDg1eEVrVnBZNThDZkUyV21aZmF3V0c0RU5WdTRYT19DNWxWdlBZMTRRNFJrSlpHaEs2T2hVQ2l2YTFJWW0xOGRpOTU5dmhFSkhzUTk4dURhODRSdjNQYTR2WlZ1MUVrTw?oc=5" target="_blank" rel="noopener">Moneyview IPO: 5 Things to Know Before Investing in the IPO</a> <span class="muted">— Equitymaster, 23 Sep 2026</span></li>
+    </ul>
+  </details>
+
+  <footer>
+<a href="https://www.chittorgarh.com/ipo/moneyview-ipo/2936/" target="_blank" rel="noopener">Chittorgarh</a><a href="https://ipowatch.in/moneyview-ipo/" target="_blank" rel="noopener">IPOWatch</a>  </footer>
+</article>
+<article class="card compact" data-type="SME"
+         data-gmp="21.88"
+         data-date="2026-09-24"
+         data-size="19.0"
+         data-sub="0">
+  <header>
+    <h3>
+<a href="https://www.chittorgarh.com/ipo/roopa-screen-ipo/2651/" target="_blank" rel="noopener">Roopa Screen</a>    </h3>
+    <div class="badges">
+      <span class="badge sme">SME</span>
+<span class="badge when ">Opens tomorrow</span>    </div>
+    <div class="dates">24 to 28 Sep, 2026 · BSE SME · lists Thu, Oct 1, 2026</div>
+  </header>
+
+  <div class="stats">
+    <div><span class="k">Price band</span><span class="v">₹60 to ₹64</span></div>
+    <div><span class="k">Lot size</span><span class="v">2,000 shares</span></div>
+    <div><span class="k">Min. investment</span><span class="v">
+₹2,56,000
+        <small>2 lots · 4,000 sh</small>
+    </span></div>
+    <div><span class="k">Issue size</span><span class="v">₹19 Cr</span></div>
+  </div>
+
+  <div class="live">
+        <div class="gmp pos">
+      <span class="label">GMP</span>
+      <span class="big">₹14</span>
+<span class="pct">(+21.9%)</span>      <div class="sub">
+Est. listing ₹78 · updated 23 Sept, 14:30
+      </div>
+    </div>
+
+  </div>
+
+  <section class="about">
+    <h4>What they do</h4>
+    <p>Incorporated in 2013, Roopa Screen Ltd manufactures rotary nickel screens used in rotary screen-printing machines, mainly by textile manufacturers for continuous fabric printing. These cylindrical, perforated metal screens act as stencils, allowing printing paste to pass through and create patterns on fabric. In addition to rotary nickel screens, they are also engaged in the trading of nickel cathodes, which are primarily used as a key raw material in the production process of nickel screens.</p>
+    <details>
+      <summary>More about the company</summary>
+        <h5>Product Offerings</h5>
+        <ul><li>Delta Screens</li><li>Penta Screens</li><li>Standard Screens</li><li>Nova Screens</li></ul>
+        <h5>Competitive strengths</h5>
+        <ul><li>In-house Manufacturing Facility with Integrated Quality Control and Testing Capabilities</li><li>Geographically dispersed customer base</li><li>Long-term relationship with customers</li><li>Experienced Promoters with Industry Expertise</li></ul>
+    </details>
+  </section>
+
+  <section class="signals">
+    <h4>Financial signals</h4>
+    <div class="flags"><span class="flag good">Profit up 3 years in a row</span><span class="flag good">High ROE 49%</span></div>
+<p class="metrics">FY26 income ₹51.3 Cr · PAT ₹6.5 Cr · PAT margin 12.8% · Income +12% YoY · PAT +38% YoY · Post-issue P/E 10.9x</p>      <p class="objects"><b>Money raised will go to:</b>
+Funding of capital expenditure towards setup of a new manufacturing facility (₹9.9 Cr); Funding of Working Capital Requirements (₹6.0 Cr)</p>
+      <p class="objects"><b>Key strengths:</b> In-house Manufacturing Facility with Integrated Quality Control and Testing Capabilities Geographically dispersed customer base Long-term relationship with customers</p>
+      <p class="objects muted"><b>Broker reviews:</b>
+none yet</p>
+  </section>
+
+  <details class="news">
+    <summary>IPO news (3)</summary>
+    <ul>
+      <li><a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxNdC1KOUhhNy1MX3BZNlk0VGlPTGxNM2xDbzZBV2pxTXgxNkFyRExOR1lLNmVhTFlXSE4tWGpHeTRCTHVIeTdwd1FmU28zY0VUZGNWQm0zOVdtYkxxLTE4QWYyV3BrR2tJTW1yWDJZUlZNVUpOZGlxX0hTekRoMGV5djBSNDQ5SmJFdkdBZUJzUXRlVnpfY2I2a0tJZGwtME50OVctbVcxYmVIZlpCczRoRQ?oc=5" target="_blank" rel="noopener">Roopa Screen IPO DRHP: Fresh issue; capacity expansion planned</a> <span class="muted">— scanx.trade, 22 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMid0FVX3lxTFBIR29RSGVpa3MzM0RDc0hYdFVCSHdEejQyai00M1ZCdTQ4bWhwTk9wUG1OS0xMSktIR1NYdFd0VVlqTGpVUUpNQ3ExU2FzSUVROG1uQ3lBUjRqTVE5MTJiN3l5UEN2UEF0S25oVFRSazR3enExeUlF?oc=5" target="_blank" rel="noopener">Roopa Screen IPO 2026: Price and Full Review</a> <span class="muted">— Univest, 22 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aYndreFg3VGVnRXhORzBUd2o5TGpmcWFKZTVwYjBITUdVdjkzMHNXMDBYY0haOUlra3Yyc2lBR09VZzdqejQ0R1hqb0hiemRlZW96b0M4X1pCUTlFRk5V?oc=5" target="_blank" rel="noopener">Roopa Screen IPO Date, Price Band, GMP, Subscription &amp; Allotment</a> <span class="muted">— indiaipo.in, 21 Sep 2026</span></li>
+    </ul>
+  </details>
+
+  <footer>
+<a href="https://www.chittorgarh.com/ipo/roopa-screen-ipo/2651/" target="_blank" rel="noopener">Chittorgarh</a><a href="https://ipowatch.in/roopa-screen-ipo/" target="_blank" rel="noopener">IPOWatch</a>  </footer>
+</article>
+<article class="card compact" data-type="Mainboard"
+         data-gmp="12.35"
+         data-date="2026-09-24"
+         data-size="405.0"
+         data-sub="0">
+  <header>
+    <h3>
+<a href="https://www.chittorgarh.com/ipo/a-one-steels-ipo/2000/" target="_blank" rel="noopener">A-One Steels</a>    </h3>
+    <div class="badges">
+      <span class="badge mainboard">Mainboard</span>
+<span class="badge when ">Opens tomorrow</span>    </div>
+    <div class="dates">24 to 28 Sep, 2026 · BSE, NSE · lists Thu, Oct 1, 2026</div>
+  </header>
+
+  <div class="stats">
+    <div><span class="k">Price band</span><span class="v">₹385 to ₹405</span></div>
+    <div><span class="k">Lot size</span><span class="v">37 shares</span></div>
+    <div><span class="k">Min. investment</span><span class="v">
+₹14,985
+        <small>1 lot · 37 sh</small>
+    </span></div>
+    <div><span class="k">Issue size</span><span class="v">₹405 Cr</span></div>
+  </div>
+
+  <div class="live">
+        <div class="gmp pos">
+      <span class="label">GMP</span>
+      <span class="big">₹50</span>
+<span class="pct">(+12.3%)</span>      <div class="sub">
+Est. listing ₹455 · updated 23 Sept, 14:30
+      </div>
+    </div>
+
+  </div>
+
+  <section class="about">
+    <h4>What they do</h4>
+    <p>Incorporated in 2012, A-one Steels India Limited is a backward-integrated steel manufacturer with a diversified product portfolio, offering both long and flat steel products, as well as industrial products used in steel manufacturing.</p>
+    <details>
+      <summary>More about the company</summary>
+<p>The company manufactures HR and CR coils from MS billets, which are then converted into HR pipes, CR pipes, and galvanized tubes. It also produces TMT bars from MS billets in long steel products.</p><p>The company also manufactures industrial products like met coke and silicon manganese/ferrosilicon, which are sold in the open market. Ferrosilicon is essential in the steel industry for alloying.</p><p>The company sources significant green energy compared to peers (Source: CRISIL Report). Its TMT bars, certified as green products by CII, are produced in various sizes at the Gauribidanur and Hindupur plants.</p><p>The company relies on a steady power and fuel supply, with power purchase agreements for solar and wind energy (15 to 25 years) to support its manufacturing facilities in Karnataka and Andhra Pradesh.</p><p>The company has six manufacturing facilities: five in Karnataka (Gauribidanur, Bellary, Koppal, Chikkantapur) and one in Hindupur, Andhra Pradesh. The company&#39;s manufacturing facilities are located near major iron ore sources, within 450 km of ports like Ennore, New Mangalore, and Goa-Mormugao, allowing cost-effective product transportation.</p><p>The company products are used in various industries, including construction, infrastructure, power plants, dams, airports, bridges, flyovers, stadiums, highways, marine structures, industrial buildings, and high-rise residential constructions.</p><p>The company manufactures sponge iron at its Koppal facility (Vanya Steels) and Bellary Plant. It is setting up a 10 MW power plant with waste heat recovery on 39.29 acres of land.</p>        <h5>Products</h5>
+        <ul><li>Sponge iron : Primarily used in steel manufacturing as a raw material for the production of steel billets and other steel products.</li><li>MS billet : Used as raw material for rolling into bars, rods, and other structural steel products.</li><li>TMT : Construction and infrastructure for reinforcement in concrete structures.</li><li>HR coil : Manufacturing of pipes, tubes, automotive frames, and various industrial equipment.</li><li>CR coil: Used in precision instruments, automotive panels, appliances, and other finished goods requiring a smooth surface finish.</li><li>One of the largest backward integrated steel products manufacturers in southern India with a wide product portfolio.</li><li>Business operations capitalizing on the strategic location advantage.</li><li>Widespread, well-connected distribution network with a presence across multiple channels.</li><li>Well-positioned in an industry with high entry barriers to benefit from favorable trends; command in the pricing of products with the ability to control the cost of manufacturing.</li><li>Strong brand recall driven by high quality, innovative, and wide range of products.</li><li>Leading company in the use of green energy for manufacture of steel products.</li></ul>
+    </details>
+  </section>
+
+  <section class="signals">
+    <h4>Financial signals</h4>
+<p class="metrics">FY26 income ₹4,202.1 Cr · PAT ₹127.4 Cr · PAT margin 3.0% · Income +18% YoY · PAT +1553% YoY · Post-issue P/E 24.6x</p>      <p class="objects"><b>Money raised will go to:</b>
+Pre-payment or partial re-payment of a portion of certain outstanding borrowings availed by the Company (₹250.0 Cr)</p>
+      <p class="objects muted"><b>Broker reviews:</b>
+1 subscribe</p>
+      <h5>Recent developments</h5>
+      <ul class="devs">
+        <li class=""><a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxQS21MaFRadm1MZjhCVEhQR0VHZ3Vfd2RvODZNNGMyZlZQOVZtSTFzUXpFUlRoLXROWmVKOG1adWY1QXlwQjNMb0Nfd05ZcUwwVFhQc25LSVBZX3UyWjlqTURteVduQnZROXl1dmxCSERmZ1JVaElWYWduT0RJMWpuT3lSS3VvcjR3WGxkcEJBa0lRYmtnYzVsa2hiaGhOMW5yR080S2hIN0V4NWZiNmNRVzRGNzJ5aUJWNFdjU01Bc9IBxAFBVV95cUxORUpFcUszQURVMUFkY1JWZ0JvNjhqaWFMd2hqSmpQbmItb08yUDNWaVdHdFlnV2dLel94VHlfQ214SXJtRkRERl9oTjJKTWNCTUVxUU9teDYyY0NHZWMyZDZtdUpsSkVZZUZLUHJLbU5kMW1Wbmx3SVlseTZXSEg2cTVfV3dMOEZJVlBCUC1BQkM3b1J1a2xBakZuXzNhcXUxem4zOTFtUWlsTWpGQzhUVGdld1ppdEVBV05RV0hndVBDZ040?oc=5" target="_blank" rel="noopener">A-One Steels signs 16 renewable power PPAs for 230 MW</a>
+          <span class="muted">— ET EnergyWorld, 17 Sep 2026</span></li>
+      </ul>
+  </section>
+
+
+  <footer>
+<a href="https://www.chittorgarh.com/ipo/a-one-steels-ipo/2000/" target="_blank" rel="noopener">Chittorgarh</a><a href="https://ipowatch.in/a-one-steels-ipo/" target="_blank" rel="noopener">IPOWatch</a>  </footer>
+</article>
+<article class="card compact" data-type="SME"
+         data-gmp="0.0"
+         data-date="2026-09-24"
+         data-size="54.0"
+         data-sub="0">
+  <header>
+    <h3>
+<a href="https://www.chittorgarh.com/ipo/peshwa-wheat-ipo/2809/" target="_blank" rel="noopener">Peshwa Wheat</a>    </h3>
+    <div class="badges">
+      <span class="badge sme">SME</span>
+<span class="badge when ">Opens tomorrow</span>    </div>
+    <div class="dates">24 to 28 Sep, 2026 · BSE SME · lists Thu, Oct 1, 2026</div>
+  </header>
+
+  <div class="stats">
+    <div><span class="k">Price band</span><span class="v">₹95 to ₹101</span></div>
+    <div><span class="k">Lot size</span><span class="v">1,200 shares</span></div>
+    <div><span class="k">Min. investment</span><span class="v">
+₹2,42,400
+        <small>2 lots · 2,400 sh</small>
+    </span></div>
+    <div><span class="k">Issue size</span><span class="v">₹54 Cr</span></div>
+  </div>
+
+  <div class="live">
+        <div class="gmp flat">
+      <span class="label">GMP</span>
+      <span class="big">₹0</span>
+<span class="pct">(+0.0%)</span>      <div class="sub">
+Est. listing ₹101 · updated 23 Sept, 14:30
+      </div>
+    </div>
+
+  </div>
+
+  <section class="about">
+    <h4>What they do</h4>
+    <p>Incorporated in 2023, Peshwa Wheat Ltd is engaged in the processing of wheat-based products such as Atta (wheat flour), Sortex Wheat, Broken Wheat, and other flour products including Gram Flour (Besan) and Maize Flour. The company supplies products mainly in 50 kg and 30 kg packaging. During production, by-products like wheat bran are used for cattle feed, to operate with zero waste and zero discharge.</p>
+    <details>
+      <summary>More about the company</summary>
+        <h5>Business Model</h5>
+        <ul><li>Sale through Super Stockiest</li><li>Direct Sale to Customers</li></ul>
+        <h5>Competitive strengths</h5>
+        <ul><li>Established Promoters and Skilled Management Team</li><li>Integrated Processing Operations</li><li>Strategic Procurement Relationship and strong Supply Chain</li><li>Strong focus on Quality and Food Safety Standards and maintaining Hygienic Processing Standards</li></ul>
+    </details>
+  </section>
+
+  <section class="signals">
+    <h4>Financial signals</h4>
+    <div class="flags"><span class="flag good">Strong growth: income +26%, profit +34%</span><span class="flag good">Profit up 3 years in a row</span><span class="flag good">High ROE 45%</span></div>
+<p class="metrics">FY26 income ₹216.0 Cr · PAT ₹15.8 Cr · PAT margin 7.3% · Income +26% YoY · PAT +34% YoY · Post-issue P/E 12.2x</p>      <p class="objects"><b>Money raised will go to:</b>
+Funding Capital Expenditure towards Purchase of Plant and Machineries (₹6.7 Cr); Funding Capital Expenditure towards Civil Construction (₹5.0 Cr)</p>
+      <p class="objects"><b>Key strengths:</b> Established Promoters and Skilled Management Team Integrated Processing Operations Strategic Procurement Relationship and strong Supply Chain</p>
+      <p class="objects muted"><b>Broker reviews:</b>
+none yet</p>
+  </section>
+
+  <details class="news">
+    <summary>IPO news (3)</summary>
+    <ul>
+      <li><a href="https://news.google.com/rss/articles/CBMieEFVX3lxTE9QSVdkWUpvQ1ZxUkNDNVZkU052aEh1RkUzclFUdUxDWktQZ2lOZF9Ya19lUERpbllYdjVFeThpX0h0dVV4aGdQNFZ4ZXVlR0oyU253TnNBTlk3bG1ycTQ2MHdkMUtUTXdBaGxwTDRfWDBwYmM2NWQxdw?oc=5" target="_blank" rel="noopener">Peshwa Wheat Limited IPO Status, GMP, Price &amp; Dates Today</a> <span class="muted">— Alice Blue, 23 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxQTG1sanZ4My01QkpVOGN0ejNRazkycURPbXF2YXhHN2NkYTBfYTYwRjNfQ1JLRWJ4ckRQUE1zV1FPdWZDWGdkd2Z1QnBNYXBRbmpFNFdTYWFZNW0xd2NnWmxRVW1ZZ1BEVXEzaXdVM2FUTUFFUTNMQUpVZDBmcEhURzAwMXNYQWVrcV9xR0loYVdQZHNy0gGaAUFVX3lxTE80QUVFM2FNUzZmQnlzeDhuRF94VEM3SU1VOE03ZF9iUU1EY01MNUxBR0RpT1d2bnYwLVQ1OFMxYzZDempkSDFpMnZjeWx5YWhoMmZ3bU9lRGNGX1lnbTd0SEVhZGhISHB5bmpKNVp6bTZMRGNyMjdETUtVSk1UT2xkRFhPa2Z5VGF0RUNWUlFoR2NvS0hBZ05lQXc?oc=5" target="_blank" rel="noopener">Peshwa Wheat Limited IPO Opens On September 24, 2026</a> <span class="muted">— TheWire.in, 23 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMi9wFBVV95cUxOTVFKSWNpckRfSDFWa3Q0LXdlQUlRNGRNV0ZheFRzWEU0Zkl0SGJmaV9fNGlwNm9JR3owVVI4NHlNU3Q0WVJTaHY4QnV1c0ZoTnM3QmZsNmV1Q2tGd1R0ZDVoUUVSMXpGeW44YjRSbFkySm5LRHRRR1E1ZXFoUlg3cUhSTXhXckpPUEJqdzUydlVzNDZ5MGtEUkZZVjhuZmxkamoxUnVjTndiLVpmdVBTTzNZeWtJclk4V3M4V295LTlNVjJRMktpQVpoUVpaa3YyRWR1UHpNQWpNTzc0elJyNnFWNlhDOTN5WW5walRhekJ1Q0ZxdEpn0gH3AUFVX3lxTE5NUUpJY2lyRF9IMVZrdDQtd2VBSVE0ZE1XRmF4VHNYRTRmSXRIYmZpX180aXA2b0lHejBVUjg0eU1TdDRZUlNodjhCdXVzRmhOczdCZmw2ZXVDa0Z3VHRkNWhRRVIxekZ5bjhiNFJsWTJKbktEdFFHUTVlcWhSWDdxSFJNeFdySk9QQmp3NTJ2VXM0Nnkwa0RSRllWOG5mbGRqajFSdWNOd2ItWmZ1UFNPM1l5a0lyWThXczhXb3ktOU1WMlEyS2lBWmhRWlprdjJFZHVQek1Bak1PNzR6UnI2cVY2WEM5M3lZbnBqVGF6QnVDRnF0Smc?oc=5" target="_blank" rel="noopener">Peshwa Wheat IPO: SME issue to open for subscription tomorrow; check price band, GMP, other key details</a> <span class="muted">— Moneycontrol.com, 23 Sep 2026</span></li>
+    </ul>
+  </details>
+
+  <footer>
+<a href="https://www.chittorgarh.com/ipo/peshwa-wheat-ipo/2809/" target="_blank" rel="noopener">Chittorgarh</a><a href="https://ipowatch.in/peshwa-wheat-ipo/" target="_blank" rel="noopener">IPOWatch</a>  </footer>
+</article>
+<article class="card compact" data-type="SME"
+         data-gmp="0.0"
+         data-date="2026-09-24"
+         data-size="60.0"
+         data-sub="0">
+  <header>
+    <h3>
+<a href="https://www.chittorgarh.com/ipo/green-asia-impex-ipo/2963/" target="_blank" rel="noopener">Green Asia Impex</a>    </h3>
+    <div class="badges">
+      <span class="badge sme">SME</span>
+<span class="badge when ">Opens tomorrow</span>    </div>
+    <div class="dates">24 to 28 Sep, 2026 · NSE SME · lists Thu, Oct 1, 2026</div>
+  </header>
+
+  <div class="stats">
+    <div><span class="k">Price band</span><span class="v">₹85 to ₹90</span></div>
+    <div><span class="k">Lot size</span><span class="v">1,600 shares</span></div>
+    <div><span class="k">Min. investment</span><span class="v">
+₹2,88,000
+        <small>2 lots · 3,200 sh</small>
+    </span></div>
+    <div><span class="k">Issue size</span><span class="v">₹60 Cr</span></div>
+  </div>
+
+  <div class="live">
+        <div class="gmp flat">
+      <span class="label">GMP</span>
+      <span class="big">₹0</span>
+<span class="pct">(+0.0%)</span>      <div class="sub">
+Est. listing ₹90 · updated 23 Sept, 14:30
+      </div>
+    </div>
+
+  </div>
+
+  <section class="about">
+    <h4>What they do</h4>
+    <p>Incorporated in 2014, Green Asia Impex Limited specialises in sourcing, processing, manufacturing, and exporting frozen shrimps and dried chillies. The company processes and exports frozen seafood and agri-commodities, mainly frozen shrimps and dried chillies. It supplies B2B customers, including importers, distributors, and food processors, domestically and internationally.</p>
+    <details>
+      <summary>More about the company</summary>
+        <h5>Product Portfolio</h5>
+        <ul><li>Shrimps: They are engaged in the sourcing, processing, and export of shrimps catering to both domestic and international markets.</li><li>Dried chillies: They are engaged in the sourcing, processing and export of dried chillies catering to both domestic and international markets</li></ul>
+        <h5>Competitive Strengths</h5>
+        <ul><li>Export-grade processing facilities compliant with global standards</li><li>We have strong, long-standing relationships with customers both in India and abroad</li><li>Trader-cum-commission agent network supporting procurement</li><li>Diversification across shrimp and chilli businesses with different product cycles</li><li>Cross-functional expertise and operational synergies driving efficiency</li><li>In-house Quality Assurance and Control Team Ensuring Compliance</li></ul>
+    </details>
+  </section>
+
+  <section class="signals">
+    <h4>Financial signals</h4>
+    <div class="flags"><span class="flag good">Profit up 3 years in a row</span><span class="flag good">High ROE 50%</span><span class="flag warn">High debt/equity 2.90</span></div>
+<p class="metrics">FY26 income ₹388.6 Cr · PAT ₹15.6 Cr · PAT margin 3.1% · Income +14% YoY · PAT +51% YoY · Post-issue P/E 12.3x</p>      <p class="objects"><b>Money raised will go to:</b>
+Funding the capital expenditure for setting up the proposed seafood processing facility including purchase and installation of plant, machinery &amp; equipment (₹40.0 Cr)</p>
+      <p class="objects"><b>Key strengths:</b> Export-grade processing facilities compliant with global standards We have strong, long-standing relationships with customers both in India and abroad Trader-cum-commission agent network supporting procurement</p>
+      <p class="objects muted"><b>Broker reviews:</b>
+none yet</p>
+  </section>
+
+  <details class="news">
+    <summary>IPO news (3)</summary>
+    <ul>
+      <li><a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SU0Y3eHdUVEQwaU9tOXJIT21hcERkY0xPOW1IemtGQ1RWTHRUSW5CTTFuUTVnZzN5dExIQkdBM1p1aE5sUHZVRUlBcnhBQ1ZXY09WUG1nVEw2Tno2?oc=5" target="_blank" rel="noopener">Green Asia Impex IPO Price Range, Listing Date, Subscription Data &amp; More</a> <span class="muted">— scanx.trade, 23 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeTNRbEdteVhsY2J3b0hFNnM4em91Ym5BakFlTklLUnVyTnQ4UDZOa1N3X0RGbmVPLWRVUzh3aTdfdWE2dGdCQWdxY1Z1dTBxOEU5N0JGZlNWclgzaUdqbzhMNWR0OU5zcktWNTIwY2ZhdnNtX3JCWFNkdXVCc2ExdC1sNUxLM3FzM0xvRFNfaVppWWg0ZDVINVBoS3JlUlpRblpvZXltTmJYVGFRZGQxWWJxN1NvanROcWlV0gHAAUFVX3lxTE1RRndYUXVZblJfVnFjZ0s0eS1ZM0F3cE90TVo2UWQyblBuQTJJMlBYR0RxZDdfZUFpTllVc1VUaklfb05TRzJyRnlfTFZ6eG5MWWRLVXJkTW9aWTlYTU04S0puZG0xLUkyMkpPRE5OaHVpOHlKVWZVX2ludmpxazhlOFVIZGtuem5DeExRNDU3Vl9rNExkUHhDb1pXYVVnLWNISE1LU2VUUDNrN1JhdnBudVhzendkNUlMOGc2c2lJeA?oc=5" target="_blank" rel="noopener">Green Asia Impex’s ₹60.10 Crore IPO Opens 24 September, Minimum Bid Costs ₹2.88 Lakh</a> <span class="muted">— Free Press Journal, 23 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxOTEJRekpmcFNiQlY4QlNvVDVwOXdLZlFNckpkMGRna0ZkeElWdVd6LUwtUUhJblBXX0dLZTJMYWhyRl9VdXZxRlhSb0thUVl5NEI5Szc3Nmg0b3BnUWFyREQxYTJ3bUd6ZW5KT1RJTEZodVQzZVlnSFJlMTRPM1pwSW9nR3ZMUERxWVVOMQ?oc=5" target="_blank" rel="noopener">Green Asia Impex Ltd. IPO Review - Green Asia Impex Ltd. IPO Dates, Issue Price, Subscription and Allotment Status</a> <span class="muted">— The Economic Times, 23 Sep 2026</span></li>
+    </ul>
+  </details>
+
+  <footer>
+<a href="https://www.chittorgarh.com/ipo/green-asia-impex-ipo/2963/" target="_blank" rel="noopener">Chittorgarh</a><a href="https://ipowatch.in/green-asia-impex-ipo/" target="_blank" rel="noopener">IPOWatch</a>  </footer>
+</article>
+<article class="card compact" data-type="Mainboard"
+         data-gmp="12.5"
+         data-date="2026-09-25"
+         data-size="552.0"
+         data-sub="0">
+  <header>
+    <h3>
+<a href="https://www.chittorgarh.com/ipo/orient-cables-ipo/2532/" target="_blank" rel="noopener">Orient Cables</a>    </h3>
+    <div class="badges">
+      <span class="badge mainboard">Mainboard</span>
+<span class="badge when ">Opens in 2 days</span>    </div>
+    <div class="dates">25 to 29 Sep, 2026 · BSE, NSE · lists Mon, Oct 5, 2026</div>
+  </header>
+
+  <div class="stats">
+    <div><span class="k">Price band</span><span class="v">₹258 to ₹272</span></div>
+    <div><span class="k">Lot size</span><span class="v">55 shares</span></div>
+    <div><span class="k">Min. investment</span><span class="v">
+₹14,960
+        <small>1 lot · 55 sh</small>
+    </span></div>
+    <div><span class="k">Issue size</span><span class="v">₹552 Cr</span></div>
+  </div>
+
+  <div class="live">
+        <div class="gmp pos">
+      <span class="label">GMP</span>
+      <span class="big">₹34</span>
+<span class="pct">(+12.5%)</span>      <div class="sub">
+Est. listing ₹306 · updated 23 Sept, 14:30
+      </div>
+    </div>
+
+  </div>
+
+  <section class="about">
+    <h4>What they do</h4>
+    <p>Incorporated in September 2005, Orient Cables (India) Limited is a manufacturer of networking cables and passive networking equipment. The Company has nearly two decades of experience in the networking cables and passive networking equipment industry and caters to industries including broadband, telecommunications, data centres, renewable energy, smart building automation and security, system integration, FMEG and automotive.</p>
+    <details>
+      <summary>More about the company</summary>
+<p>Its product portfolio includes CAT5, CAT5e, CAT6 and CAT6A networking cables, patch cords, CCTV and coaxial cables, instrumentation and control cables, power cables, optical fibre cables, fibre patch cords, keystone jacks, power strips and power cords. The Company also manufactures customized products based on customer requirements.</p><p>As of June 30, 2026, the Company had an installed capacity of 895,776 km. It has also expanded its product portfolio into E-beam irradiated specialty cables, solar junction boxes, tethered drone systems, cable harnesses, power cords and EV charging cables and guns. Its EV charging cables are TÜV certified.</p><p>According to the 1Lattice Report, the Company was among the top four networking cable players in India, with a market share of approximately 22.9% in Fiscal 2026, compared with approximately 16% in Fiscal 2022. The Company serves customers across telecom, broadband, data centres, renewable energy, e-mobility, FMEG, smart homes and offices, security and surveillance, railways, defence and aerospace.</p><p>As of June 30, 2026, the Company had 613 permanent employees and 1,327 contractual employees.</p>        <h5>Competitive Strengths</h5>
+        <ul><li>Long-standing customer relationships.</li><li>Strategically located manufacturing facilities.</li><li>Presence across diverse end-user industries.</li><li>Customized product development capabilities.</li><li>Established presence in the networking cables industry.</li><li>Focus on product innovation and new product development.</li><li>Diversified portfolio of networking and specialty cable products.</li></ul>
+    </details>
+  </section>
+
+  <section class="signals">
+    <h4>Financial signals</h4>
+    <div class="flags"><span class="flag good">Profit up 3 years in a row</span></div>
+<p class="metrics">FY26 income ₹1,181.7 Cr · PAT ₹53.6 Cr · PAT margin 6.8% · Income +42% YoY · PAT +0% YoY · Post-issue P/E 23.6x</p><p class="metrics muted">Period to 30 Jun 2026: income ₹490.9 Cr, PAT ₹32.8 Cr (part-year, not compared)</p>      <p class="objects"><b>Money raised will go to:</b>
+Funding of capital expenditure requirements of our Company towards purchase of machinery, equipment and civil works at our Manufacturing Facilities (₹91.5 Cr); Repayment or prepayment, in full or in part, of all or a portion of certain outstanding borrowings availed by our Company (₹155.5 Cr)</p>
+      <p class="objects"><b>Key strengths:</b> Long-standing customer relationships. Strategically located manufacturing facilities. Presence across diverse end-user industries.</p>
+      <p class="objects muted"><b>Broker reviews:</b>
+none yet</p>
+      <h5>Recent developments</h5>
+      <ul class="devs">
+        <li class=""><a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdXg1c2tfQlBSVm93TU54dnphOEpTYzROWE5DbXk3VzF4YUZKdEtyOGVUcXlsdU9GdjZZNkJsZGZRVkxzYzFoVmxTcUwzYkhDNnowOWNrMmZUeW9VdzhHcnNKTXZ0TDAzLVdZU0RzUGwtUnEzR0JtRmVRa3Jsa0hWWjV1VU9WY0M1cEpDekR5b3diWXF1eldJaWtCWDhDMFJWaEJBVGl6Z1FYU01HelVyQ0o2TTV6TlpaRzVCdTBTQ080c0dYTnowbWF4ZEtDbEJKb2d4aDJva0JzNk1idXFJ0gHsAUFVX3lxTE40ZTdkZGd0MHJoZFJwX2p5LVRnR2dpODM3ZUpVOHAyR0UwcmxxeE9mNVdtMlFib1JZMVl1Q185clAtcUpKUW82cHE4MTNXdWlVT0JMQWdZVzZsV1E4V3RHUktvaUNmbnVMTE1vY0cycFBCY0xxNERvSGYxVVJrM1g2WEZlelZ3X19RejcxUGhJQ21fSmNZZmN1blYweTJHSDI1ZHZ4d2hDX1BGRW1jMW9udUtFSDZOQ3dsRVdqQXJNaWVZdHkyNHlwNzVaamdBUHBrZ0I2MW45YkpRSkRhQWlrWTk1cUk1U2lpdXU2?oc=5" target="_blank" rel="noopener">Khaitan &amp; Co advises Aditya Infotech on connecting with Orient Cables for electric cable production</a>
+          <span class="muted">— Bar and Bench, 01 May 2026</span></li>
+        <li class=""><a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE93bG9PNmI0TFlzVHJwbUJyOGJpU0hoU2htbkwwdFVzaEVQdnRRLVhDOUczWFgyTmdFUENjamN0dmY2dnpjYUkwRUQ3VkgtWGJEc2Y2cDRpV0xoSDctWlVNR19ONVZ5NnZuN05WQ3VtcmY?oc=5" target="_blank" rel="noopener">Aditya Infotech, Orient Cables Sign JV to Manufacture Electric Cables</a>
+          <span class="muted">— Wire &amp; Cable India, 17 Apr 2026</span></li>
+      </ul>
+  </section>
+
+  <details class="news">
+    <summary>IPO news (3)</summary>
+    <ul>
+      <li><a href="https://news.google.com/rss/articles/CBMiWEFVX3lxTE5lZTJKb2RfZnVMczFvb0hmTmI1M0g5YkVDTHB0TC13S2Vjd1BGZW9FNFI2YjlzOE5DTEQ4bDRhaHlvVEpZOC1reTVvSkZVZUVvbDE0VHA0N1Q?oc=5" target="_blank" rel="noopener">Orient Cables Fixes Price Band to Raise INR 552 Crore through IPO</a> <span class="muted">— Wire &amp; Cable India, 23 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMibEFVX3lxTFBjY05UcW9UUVJGRmFRdFR4aTZ6VExCMUY4alUyX2pvZXpwNkV5N1ZKLWNMRnVoUTZUVmpRUXUzU1JfLTVBa2RGbVNMRWdIN2dsY20xZ2RHRlEtWlZWMWtnQ3VaQ2VYbHY0NzlEWA?oc=5" target="_blank" rel="noopener">Orient Cables Sets ₹552 Crore IPO as Demand From Data Centres and Smart Buildings Grows</a> <span class="muted">— grihik.com, 23 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxONXg4Y3FoaXZIbE0tX2dndkZhOThPLU0wcTl1WFZwc0F5bUJYU0xFTTJQbU5uV0xRQnVQS3hKNXljUnM0RmJ3QnlGblpBTkxWeFN3dFlsN1pfSXVad1ZXVWdoZWEwV05CSG1UUElSb0p0MWtxZWcwX29jdFRSdWduakxKUUNrZi1nMlZXb1YyZzl0TlotRF9odmgwZzk1eHV5cWk0Y0JIY2ZOMlVCM203VURUd29Hei12bjhwNzh3UHgtblBYaW13S0pWdDlpNjcx?oc=5" target="_blank" rel="noopener">Orient Cables sets price band of Rs 258-272 for Rs 5.52 billion IPO opening September 25, 2026</a> <span class="muted">— tele.net.in, 23 Sep 2026</span></li>
+    </ul>
+  </details>
+
+  <footer>
+<a href="https://www.chittorgarh.com/ipo/orient-cables-ipo/2532/" target="_blank" rel="noopener">Chittorgarh</a><a href="https://ipowatch.in/orient-cables-ipo/" target="_blank" rel="noopener">IPOWatch</a>  </footer>
+</article>
+<article class="card compact" data-type="SME"
+         data-gmp="10.91"
+         data-date="2026-09-25"
+         data-size="42.0"
+         data-sub="0">
+  <header>
+    <h3>
+<a href="https://www.chittorgarh.com/ipo/bench-mark-infotech-services-ipo/3212/" target="_blank" rel="noopener">Bench Mark Infotech Services</a>    </h3>
+    <div class="badges">
+      <span class="badge sme">SME</span>
+<span class="badge when ">Opens in 2 days</span>    </div>
+    <div class="dates">25 to 29 Sep, 2026 · NSE SME · lists Mon, Oct 5, 2026</div>
+  </header>
+
+  <div class="stats">
+    <div><span class="k">Price band</span><span class="v">₹104 to ₹110</span></div>
+    <div><span class="k">Lot size</span><span class="v">1,200 shares</span></div>
+    <div><span class="k">Min. investment</span><span class="v">
+₹2,64,000
+        <small>2 lots · 2,400 sh</small>
+    </span></div>
+    <div><span class="k">Issue size</span><span class="v">₹42 Cr</span></div>
+  </div>
+
+  <div class="live">
+        <div class="gmp pos">
+      <span class="label">GMP</span>
+      <span class="big">₹12</span>
+<span class="pct">(+10.9%)</span>      <div class="sub">
+Est. listing ₹122 · updated 23 Sept, 14:30
+      </div>
+    </div>
+
+  </div>
+
+  <section class="about">
+    <h4>What they do</h4>
+    <p>Incorporated in 2007, Bench Mark Infotech Services Limited is an integrated IT and digital infrastructure solutions company providing end-to-end technology infrastructure solutions to government departments, public sector undertakings, institutional customers, and private sector clients across India. The company specializes in turnkey execution of networking, communication systems, structured cabling, fibre optic infrastructure, surveillance systems, audio-visual solutions, data centre infrastructure, cloud solutions, and annual maintenance services.</p>
+    <details>
+      <summary>More about the company</summary>
+        <h5>Service Portfolio</h5>
+        <ul><li>Integrated IT solutions (Supply, Installation and Commissioning of IT Infrastructure Solutions)</li><li>Annual Maintenance Contracts (AMCs) and Facility Support Services</li><li>Fibre Optic Infrastructure Solutions</li></ul>
+        <h5>Strengths</h5>
+        <ul><li>Integrated end-to-end IT and digital infrastructure solutions under a single-roof execution model.</li><li>Established track record of executing diverse networking, fibre optic, surveillance, and system integration projects.</li><li>Long-standing customer relationships with repeat order flow from government and institutional clients.</li><li>Strong relationships with leading OEMs and authorized technology vendors.</li><li>Experienced promoter and management team with over 19 years of industry expertise.</li></ul>
+    </details>
+  </section>
+
+  <section class="signals">
+    <h4>Financial signals</h4>
+    <div class="flags"><span class="flag good">Strong growth: income +26%, profit +75%</span><span class="flag good">Profit up 3 years in a row</span><span class="flag good">High ROE 48%</span></div>
+<p class="metrics">FY26 income ₹64.0 Cr · PAT ₹10.2 Cr · PAT margin 16.9% · Income +26% YoY · PAT +75% YoY · Post-issue P/E 15.4x</p>      <p class="objects"><b>Money raised will go to:</b>
+Funding the working capital requirements of the company (₹30.0 Cr)</p>
+      <p class="objects"><b>Key strengths:</b> Integrated end-to-end IT and digital infrastructure solutions under a single-roof execution model. Established track record of executing diverse networking, fibre optic, surveillance, and system integration projects. Long-standing customer relationships with repeat order flow from government and institutional clients.</p>
+      <p class="objects muted"><b>Broker reviews:</b>
+none yet</p>
+  </section>
+
+  <details class="news">
+    <summary>IPO news (3)</summary>
+    <ul>
+      <li><a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZThLQmRfZnYtRG13Vk5wTERIemhlRnZDbVdfZTI2a0xhTTh5U3hDX0F0M2tFS09ZRVRvbGRLQkJha01XSndrXzE4SHRrTXZEc2VKaUdyVm1oS01pdFM0eW5WNkxLWU03VGZtMnZVbHE4VXk5QVpBX2o0VlpuU2NKZjRrNjhzR1BITDVwR1pfSndIU0ZUcGtkVjUzdUNxdm1IWmJpZjNQSlVtLWJXd05nSUNhYVdlTkM3?oc=5" target="_blank" rel="noopener">Bench Mark Infotech Services IPO DRHP: ₹30 crore fresh issue; revenue CAGR 33.24%; negative op cash flow</a> <span class="muted">— scanx.trade, 23 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdEJLLXl4MmxMd1JsTUh5bUtReVgtRUFTVzE3UHY1Wktld0lad3NpQnpRd2hPTlFzS0FYTHc0WXpVSUVlVF9TMDRsYlNSZWtqTUwxemEtb0tzMXlWWGdQWndSUzRHdnNwaDNGUHFicDk0a3dOc1ZjYkpyRHJPME9vSVZESWdmSGxJcGxyRXpyU3lVRjB1WG5GZTloV3l1TG1rVTFDd0xnVlRtY0YzWmNxMXNOSlUwdkEzOEFSOFN4b1AwYmFNLXJUNDlobzF0OGFYMnpXQlBJZzBxMXJQTGNv0gHsAUFVX3lxTE9VTHNnOEM2NWFZanVLdDF3Wk5WQTB5NDh6QllzcVhadTJKeE9ZRExoX2U0MVdIX1d1TGdsUUdmUWtQQVYtd3R3d3BlT2hpLTNMeWZSelF4Z1RwLTdsQ0I5ckxQQVFOck0zazlmR0g4c1lIVXYzUWJKUUp1VTIySFo4cWRHNEhWNnJ5ZGpwOHJwd2t1a3JiRWlaS0lqanVfZWJfemlRR24xaEMzUW5RdTNQcG54WlU5dHB1ZkNWT3NZNXJKVGI3T2gtc2w2SVIwaU1EZ2hCczcySDVQTWJkTkRCa204aV82d2NWME5u?oc=5" target="_blank" rel="noopener">Bench Mark Infotech Services Limited To Launch IPO On NSE Emerge; Offer Opens September 25, 2026</a> <span class="muted">— outlookbusiness.com, 22 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxOcWpPdnhUcVVQZVV2cjEyWkJENkRYWFRudWx4WUFWSEZqSmFJdDZibFhvQUR3UFJEZ0hKU09zMjc1c3RqS0xOX0FpczZFVDN4TG1xNVF5SjFYb3I1enVCWDhXUTFVS3FBREJGNHhYMVBmMGthMHNUTldKZ19mU3g1VWp2clQ2VnNyR2dyUGxmUDZfdXQ4RmF4X0RMaUVCNlNuRFRCYUh5ek5vV1NDWWc?oc=5" target="_blank" rel="noopener">Bench Mark Infotech Services Limited has no owned fibre network</a> <span class="muted">— Multibagg AI, 21 Sep 2026</span></li>
+    </ul>
+  </details>
+
+  <footer>
+<a href="https://www.chittorgarh.com/ipo/bench-mark-infotech-services-ipo/3212/" target="_blank" rel="noopener">Chittorgarh</a><a href="https://ipowatch.in/bench-mark-infotech-services-ipo/" target="_blank" rel="noopener">IPOWatch</a>  </footer>
+</article>
+<article class="card compact" data-type="Mainboard"
+         data-gmp="10.79"
+         data-date="2026-09-25"
+         data-size="304.0"
+         data-sub="0">
+  <header>
+    <h3>
+<a href="https://www.chittorgarh.com/ipo/german-green-steel-and-power-ipo/2497/" target="_blank" rel="noopener">German Green Steel</a>    </h3>
+    <div class="badges">
+      <span class="badge mainboard">Mainboard</span>
+<span class="badge when ">Opens in 2 days</span>    </div>
+    <div class="dates">25 to 29 Sep, 2026 · BSE, NSE · lists Mon, Oct 5, 2026</div>
+  </header>
+
+  <div class="stats">
+    <div><span class="k">Price band</span><span class="v">₹132 to ₹139</span></div>
+    <div><span class="k">Lot size</span><span class="v">107 shares</span></div>
+    <div><span class="k">Min. investment</span><span class="v">
+₹14,873
+        <small>1 lot · 107 sh</small>
+    </span></div>
+    <div><span class="k">Issue size</span><span class="v">₹304 Cr</span></div>
+  </div>
+
+  <div class="live">
+        <div class="gmp pos">
+      <span class="label">GMP</span>
+      <span class="big">₹15</span>
+<span class="pct">(+10.8%)</span>      <div class="sub">
+Est. listing ₹154 · updated 23 Sept, 14:30
+      </div>
+    </div>
+
+  </div>
+
+  <section class="about">
+    <h4>What they do</h4>
+    <p>Incorporated in 2008, German Green Steel and Power Limited is an iron and steel manufacturer primarily operating in the western region of India, with a strong presence in Gujarat and a focus on TMX Bars. The company is predominantly conducted on a business-to-business basis with three (3) major types of customers, namely (i) distributors, (ii) dealers and (iii) institutional customers. The brand “German TMT” has established strong recognition for TMT Bars in Gujarat.</p>
+    <details>
+      <summary>More about the company</summary>
+        <h5>Product Portfolio</h5>
+        <ul><li>TMT Bars,</li><li>MS Billets, and</li><li>Sponge Iron, with</li><li>TMT bar</li></ul>
+        <h5>Competitive Strengths</h5>
+        <ul><li>Vertically integrated manufacturing setup, including captive power capacity</li><li>Extensive distribution network in Gujarat with long-term customer relationships</li><li>Experienced promoters supported by a strong management and execution team</li><li>Strong brand recall driven by quality products</li><li>Track record of growth in financial performance</li></ul>
+    </details>
+  </section>
+
+  <section class="signals">
+    <h4>Financial signals</h4>
+    <div class="flags"><span class="flag good">Profit up 3 years in a row</span></div>
+<p class="metrics">FY26 income ₹1,685.4 Cr · PAT ₹79.9 Cr · PAT margin 4.8% · Income +11% YoY · PAT +33% YoY · Post-issue P/E 13.1x</p>      <p class="objects"><b>Money raised will go to:</b>
+Funding the capital expenditure requirements of its manufacturing facility at Samakhiyali, Kutch, Gujarat and hybrid wind and solar power plant (₹226.3 Cr); Prepayment or re-payment, in full or in part, of certain outstanding borrowings availed by the Company (₹7.7 Cr)</p>
+      <p class="objects"><b>Key strengths:</b> Vertically integrated manufacturing setup, including captive power capacity Extensive distribution network in Gujarat with long-term customer relationships Experienced promoters supported by a strong management and execution team</p>
+      <p class="objects muted"><b>Broker reviews:</b>
+none yet</p>
+  </section>
+
+  <details class="news">
+    <summary>IPO news (3)</summary>
+    <ul>
+      <li><a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxQWUp4aGJ2cjU1aUdQcV9VeWF3TkdiNDRobEhTYzY2TDhHY0ZRY2ZpcFNrRUVkNDI4UTI4NmJkTFRsZWN2OUQ0dWpOMkNrNThsTjBvX3l1amZWeHFSVVpMQlNPNDdqTjZyNG1JVDBBdVlDNVJxYm1tUHJyTTRKQ2FyTm5XYUFPb2RqT0ItdF81X1loMmRCQWZtVGlXN00?oc=5" target="_blank" rel="noopener">German Green Steel &amp; Pwr IPO Opens on Sept25</a> <span class="muted">— fintechbiznews.com, 22 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxOLWZaWFNkZzlpalpjUk1BN3VFQ0VPcEJ2RC10WVJ3NGloNWwySG90RV9mV1FISVcydGdSYlNwQ2g4Yl9ISng1OEU4aTBYc1NtNTlmc3pXaTJFNHhaVzZfYnVfYjZqTEFGanZaU3ZReDlkNGh0V1A5UWgzOE1sOTJ2bjJINUVLYzBrSnNzbzBwS2UwZw?oc=5" target="_blank" rel="noopener">German Green Steel &amp; Power IPO to Open on September 25; Price Band Fixed at Rs.132–139 per Share</a> <span class="muted">— Hindusthan Samachar English, 22 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxNdmNjOF9UZjY3eENqOWZCSE9WTllkbzBfeUc5aHdqam4zRllka2d3aldQeWpQcVNHZnBRYk0zYUNmMlN5d185dWh3RkItZnZPQnBURUE3V0VzNndKX0hvZTFOanZraEJzN0Ftd0trYjBGeVVMOVYzSFJ3ZXc3U2RBdW01UWp4bDAycWNxSTR3T1Y1T1pPTEZMYWItQ1owa1NLazBwOFlTajFYNHFoRzRyUm9LVnZFWkE?oc=5" target="_blank" rel="noopener">German Green Steel &amp; Power IPO DRHP: ₹226.33 crore capex plan; revenue CAGR at 21.91%</a> <span class="muted">— scanx.trade, 22 Sep 2026</span></li>
+    </ul>
+  </details>
+
+  <footer>
+<a href="https://www.chittorgarh.com/ipo/german-green-steel-and-power-ipo/2497/" target="_blank" rel="noopener">Chittorgarh</a><a href="https://ipowatch.in/german-green-steel-ipo/" target="_blank" rel="noopener">IPOWatch</a>  </footer>
+</article>
+<article class="card compact" data-type="Mainboard"
+         data-gmp="5.9"
+         data-date="2026-09-25"
+         data-size="500.0"
+         data-sub="0">
+  <header>
+    <h3>
+<a href="https://www.chittorgarh.com/ipo/runwal-enterprises-ipo/2298/" target="_blank" rel="noopener">Runwal Enterprises</a>    </h3>
+    <div class="badges">
+      <span class="badge mainboard">Mainboard</span>
+<span class="badge when ">Opens in 2 days</span>    </div>
+    <div class="dates">25 to 29 Sep, 2026 · BSE, NSE · lists Mon, Oct 5, 2026</div>
+  </header>
+
+  <div class="stats">
+    <div><span class="k">Price band</span><span class="v">₹290 to ₹305</span></div>
+    <div><span class="k">Lot size</span><span class="v">49 shares</span></div>
+    <div><span class="k">Min. investment</span><span class="v">
+₹14,945
+        <small>1 lot · 49 sh</small>
+    </span></div>
+    <div><span class="k">Issue size</span><span class="v">₹500 Cr</span></div>
+  </div>
+
+  <div class="live">
+        <div class="gmp mild">
+      <span class="label">GMP</span>
+      <span class="big">₹18</span>
+<span class="pct">(+5.9%)</span>      <div class="sub">
+Est. listing ₹323 · updated 23 Sept, 14:30
+      </div>
+    </div>
+
+  </div>
+
+  <section class="about">
+    <h4>What they do</h4>
+    <p>Incorporated in February 2016, Runwal Enterprises Limited is a real estate developer with a presence across the full spectrum of real estate development, with a focus on residential projects across affordable, mid-income and luxury segments, along with commercial spaces, retail malls and educational buildings. The Company has a strong presence in Mumbai and is a recognized brand in the real estate industry. The Company is ranked third in Mumbai in terms of new launches and sales, with approximate market shares of 2.33% and 2.46%, respectively, between January 2023 and March 31, 2026.</p>
+    <details>
+      <summary>More about the company</summary>
+<p>As of March 31, 2026, the Company had 19 Completed Projects, 28 Ongoing Projects and 33 Upcoming Projects. Its project experience includes greenfield developments involving land acquisition as well as asset-light models such as Joint Development Agreements (JDAs). The Company also has expertise in developing large townships incorporating schools, malls, retail shops and shopping arcades.</p><p>The Company has in-house expertise across design and architecture, construction management, sales and marketing, contracts and procurement, customer care and post-sales services, supported by tie-ups with reputed design and architecture firms. It also focuses on sustainable development and has the ability to sell projects at premium pricing and throughout the construction phase.</p><p>As of March 31, 2026, the Company, including its subsidiaries, had 1,181 permanent employees, with major functions including construction management, sales and marketing, customer care, accounts and billing, and contracts and procurement.</p>        <h5>Competitive Strengths</h5>
+        <ul><li>Focus on sustainable development.</li><li>Robust pipeline of ongoing and upcoming projects.</li><li>Expertise in developing large integrated townships.</li><li>Well-established brand and strong market presence.</li><li>Prominent residential real estate developer in Mumbai.</li><li>Ability to sell at premium pricing and during construction.</li><li>Strong project execution capabilities with in-house expertise.</li><li>Experienced Promoter, management team and financial partners.</li></ul>
+    </details>
+  </section>
+
+  <section class="signals">
+    <h4>Financial signals</h4>
+    <div class="flags"><span class="flag good">Strong growth: income +76%, profit +234%</span><span class="flag warn">High debt/equity 3.29</span></div>
+<p class="metrics">FY26 income ₹1,850.8 Cr · PAT ₹185.8 Cr · PAT margin 10.0% · Income +76% YoY · PAT +234% YoY · Post-issue P/E 24.3x</p>      <p class="objects"><b>Money raised will go to:</b>
+Repayment/ pre-payment, in full or in part, of certain outstanding borrowings availed by the Company (₹100.0 Cr); Investment in the Material Subsidiaries namely Susneh Infrapark Pvt.Ltd. and Runwal Residency Pvt.Ltd. and Subsidiary namely Evie Real Estate Pvt.Ltd., for repayment/ pre-payment, in full or in part, of all or a portion of certain of their outstanding borrowings. (₹225.0 Cr)</p>
+      <p class="objects"><b>Key strengths:</b> Focus on sustainable development. Robust pipeline of ongoing and upcoming projects. Expertise in developing large integrated townships.</p>
+      <p class="objects muted"><b>Broker reviews:</b>
+none yet</p>
+      <h5>Recent developments</h5>
+      <ul class="devs">
+        <li class=""><a href="https://news.google.com/rss/articles/CBMingFBVV95cUxOWkNJdjltejhGVWtGem1LZWwzZ1hXSzNaclcyZFdHd3BSVFJXWXVhVzZ5c3Ytbjg2YzFFbm1lQzNvMFd4R3ZQdXQtNDNFQmthUkItY2R5UzQyczdneGRkYUxpZWVnME5QRmdIN1paYUlpSDlpYVlHOVExbzNLX3dBVXBQZjhyb0dLQlZIekVzNkNXRUZWVl9ET1JPM2hMdw?oc=5" target="_blank" rel="noopener">Runwal Enterprises unveils 306 m tall tower in Mahalaxmi, Mumbai</a>
+          <span class="muted">— Construction Week India, 01 Jul 2026</span></li>
+        <li class=""><a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxPSW5JQW5ibjQzRzdvbkNUV1UzMEJlQzVkRFpsc3FIc3lJWDBQazQ5T2RQbDk3dXpncVdxRFFSN3dkNnloNXRJZEFVWkxGRVlOSV8tNEhsT0VNSElvNjAyM2RvRkp3NkJWMHNBUkNtWjZTMnlBUU9fRzBvQ0RSQVhZR2xQeTNST0pycUhaN05BLVJNdm5KTDhrRHJlRW9Scjg0aTRRbmV2T3M3MDhMcnNnOEc5dmlXUQ?oc=5" target="_blank" rel="noopener">Runwal Enterprises assigns its communications duties to Concept Public Relations</a>
+          <span class="muted">— manifest-media.in, 22 Jun 2026</span></li>
+        <li class=""><a href="https://news.google.com/rss/articles/CBMi5wFBVV95cUxOR0RkVGg4Rkh0NWt3MXF4akpiSURoTWc4bGNaVU9rLWtZUjBuWENYNzctZm9Cb3hRQ3g3TGo3X3FHMFFXTmpsUFNtbkh1ZEZqMm51LTQwRXNaUEhZRTJfVzRyU3dwcG96ZXJBOUNNZkt2dlBuWkJlbUkzNnZkYXRGbVBtTjY0QU1RUGp3Z1lyejRoRmowUEx5Wm1USDZOTFg1ekVkME9oUkVjRXducE96Rl96VlVfZUdmTFZ5cGNzVldTWGdqeDQwWVRsTTZmX2RTWHJnNnd6Ni1jR2dnOHJSckpCZVIzaWPSAecBQVVfeXFMTkdEZFRoOEZIdDVrdzFxeGpKYklEaE1nOGxjWlVPay1rWVIwblhDWDc3LWZvQm94UUN4N0xqN19xRzBRV05qbFBTbW5IdWRGajJudS00MEVzWlBIWUUyX1c0clN3cHBvemVyQTlDTWZLdnZQblpCZW1JMzZ2ZGF0Rm1QbU42NEFNUVBqd2dZcno0aEZqMFBMeVptVEg2TkxYNXpFZDBPaFJFY0V3bnBPekZfelZVX2VHZkxWeXBjc1ZXU1hnang0MFlUbE02Zl9kU1hyZzZ3ejYtY0dnZzhyUnJKQmVSM2lj?oc=5" target="_blank" rel="noopener">Runwal Enterprises appoints Concept Public Relations as official communications partner</a>
+          <span class="muted">— bestmediainfo.com, 22 Jun 2026</span></li>
+        <li class=""><a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxOMDgtRzlRY3A5SVE0b0d0VFdLTkJaNk5OUzRlazUzanBwYlZOMXZ6X0hWQTY3RUg2TFZKVDZmNWRpS3FPbTJEQTFsQjdobk5MemdycE12VTFaVzI4eEs4NWt5WkdPTU00WUV3dE9BNlhWT2JLN29BbVI4Y0dDTF9VYlAyQlVTSFJKZEtLVkRSSFVfWjEwMkFzRWlnVmJ6LVHSAaQBQVVfeXFMTmZFYjFjSTFiaXRlMzFuVENEVjhpbzBhc0EyNzRaMjlCZmxTcWNNZ1oyQTR4UVBNX0tBQmVVbFlkcU9mRjcwOExRVVpLc2JYdkpZNUZ2SHAtWGVnUy1wZThDY2ZmdlNNTEhVSFJnUmdaMWRabE9pOTBFOWZFenNoUEFCMXhlSWtTQl9KLUJLUVh0QVA2bmhTWU5jcHJWS0hjTkpNYVk?oc=5" target="_blank" rel="noopener">Concept PR signs on as Runwal Enterprises’ communications partner</a>
+          <span class="muted">— Indian Television Dot Com, 22 Jun 2026</span></li>
+      </ul>
+  </section>
+
+  <details class="news">
+    <summary>IPO news (3)</summary>
+    <ul>
+      <li><a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxNLXIzdkdCc2pZMnh1c0tqZGdON2Z5d3VtdWxmT3NwNThqTVZ6VEo5UGh3LVJLTHU2NUYxOUNEYVZmdFZWS1JsUWZJS0lJNXpUNnVLZEJOTTlrRlJFZFAzaGpsNjNnTDE0UXpHR2RkT3NHbV9RVy1vcXFvMnpvb0M3SEJ2VHpIVk1RMlk0NEFMWm1rd2t5Qk9ob3I1d1Npd2dmc0gtLVhHanBOaDBpYjhVcFVpV0tfR0dHcjN0QXZ3bkkwVXVxN1RNeC1kbWNLVGlHdVVSb9IB1AFBVV95cUxNLXIzdkdCc2pZMnh1c0tqZGdON2Z5d3VtdWxmT3NwNThqTVZ6VEo5UGh3LVJLTHU2NUYxOUNEYVZmdFZWS1JsUWZJS0lJNXpUNnVLZEJOTTlrRlJFZFAzaGpsNjNnTDE0UXpHR2RkT3NHbV9RVy1vcXFvMnpvb0M3SEJ2VHpIVk1RMlk0NEFMWm1rd2t5Qk9ob3I1d1Npd2dmc0gtLVhHanBOaDBpYjhVcFVpV0tfR0dHcjN0QXZ3bkkwVXVxN1RNeC1kbWNLVGlHdVVSbw?oc=5" target="_blank" rel="noopener">Runwal Enterprises targets 2:1 debt-equity ratio after IPO: Chairman</a> <span class="muted">— ET Realty, 23 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxPMEI3TjFlRXVCZDdob0RBeVdOS3gwNGVvU054R2I4emN1OU9qNVAwNTBya0lTQmxVdFM0eUJWTUtDVGpjZFBFMU1JOXktQ2dhVHRzNk1TZk5lU05UVEp0YlFtVW1PUFRrWUJQd1pBdnI5RUdhaE5rMDJpU3dEb3piLXN1dmZFVjBLZWhrSkVKdFU4eElSaW5saFdRdFF5SDN4UjdNcWphQXctZTc0bkJqOEF0b0NtRjl4bnlRYzdn?oc=5" target="_blank" rel="noopener">Runwal Enterprises’ ₹500-cr IPO to open for subscription on Sept 25</a> <span class="muted">— Construction Week India, 23 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeWtpd0VvTHAtaHl6Tk8yMGR2d09rcXJTRUJVdkszLU02ZEdWSXlJUnpsRHJFLURYelhBbk5NTzVndmFncUd3b1dJSGNnbmlJN3d6VGVOSW9kb2dGU3RHb1pYaUtqNndnV2NYS2NNUzNxelA3SkpHVTAzaW1OS0tEbVVGOWFLWGhIZ2FKRDFXYzdrSzgwM2RRdEJVaVRuNVM5X2RkZnIxd2phYUlfWXJtZmtGYTZfQ01MVEs1ZE1GMkg?oc=5" target="_blank" rel="noopener">Runwal Enterprises aims to boost balance sheet via ₹500 cr issue | Business Standard - newspaper</a> <span class="muted">— Magzter, 23 Sep 2026</span></li>
+    </ul>
+  </details>
+
+  <footer>
+<a href="https://www.chittorgarh.com/ipo/runwal-enterprises-ipo/2298/" target="_blank" rel="noopener">Chittorgarh</a><a href="https://ipowatch.in/runwal-enterprises-ipo/" target="_blank" rel="noopener">IPOWatch</a>  </footer>
+</article>
+<article class="card compact" data-type="Mainboard"
+         data-gmp="0.0"
+         data-date="2026-09-25"
+         data-size="420.0"
+         data-sub="0">
+  <header>
+    <h3>
+<a href="https://www.chittorgarh.com/ipo/acevector-ipo/2543/" target="_blank" rel="noopener">Acevector</a>    </h3>
+    <div class="badges">
+      <span class="badge mainboard">Mainboard</span>
+<span class="badge when ">Opens in 2 days</span>    </div>
+    <div class="dates">25 to 29 Sep, 2026 · BSE, NSE · lists Mon, Oct 5, 2026</div>
+  </header>
+
+  <div class="stats">
+    <div><span class="k">Price band</span><span class="v">₹30 to ₹32</span></div>
+    <div><span class="k">Lot size</span><span class="v">468 shares</span></div>
+    <div><span class="k">Min. investment</span><span class="v">
+₹14,976
+        <small>1 lot · 468 sh</small>
+    </span></div>
+    <div><span class="k">Issue size</span><span class="v">₹420 Cr</span></div>
+  </div>
+
+  <div class="live">
+        <div class="gmp flat">
+      <span class="label">GMP</span>
+      <span class="big">₹0</span>
+<span class="pct">(+0.0%)</span>      <div class="sub">
+Est. listing ₹32 · updated 23 Sept, 14:30
+      </div>
+    </div>
+
+  </div>
+
+  <section class="about">
+    <h4>What they do</h4>
+    <p>Incorporated in 2007, Acevector Ltd. operates an asset-light digital commerce ecosystem through its subsidiaries, spanning data, technology, and AI-driven businesses. Its operations include a value-focused e-commerce marketplace, e-commerce enablement SaaS platforms, and consumer brand businesses.</p>
+    <details>
+      <summary>More about the company</summary>
+<p>The ecosystem comprises: (i) Snapdeal, a value-driven lifestyle e-commerce marketplace offering affordable and quality merchandise across lifestyle categories (ii) Uniware, Convertway, and Shipway, providing a comprehensive suite of e-commerce enablement SaaS products that support end-to-end e-commerce operations; and (iii) Stellaro Brands, an omnichannel portfolio of value-focused consumer brands.</p><p>In FY 2026, Snapdeal served customers nation-wide across 18,972 pin codes in India, primarily catering to middle-income, value-conscious consumers in Tier 2+ and smaller cities—an important segment of the large untapped value e-commerce market.</p>        <h5>Competitive Strengths</h5>
+        <ul><li>Diversified ecosystem driving organic and inorganic growth across businesses with centralised strategy support</li><li>Leading value-focused e-commerce marketplace purpose built for value shoppers</li><li>Robust unit economics with operating leverage in effect, ensuring improved profitability</li><li>Proprietary technology stack powering discovery-led, personalised shopping experience</li><li>Ability to identify, acquire, and scale businesses across the e-commerce value chain</li><li>Robust governance practices, experienced management and marquee investors</li></ul>
+    </details>
+  </section>
+
+  <section class="signals">
+    <h4>Financial signals</h4>
+    <div class="flags"><span class="flag bad">Loss-making in FY26</span></div>
+<p class="metrics">FY26 income ₹537.7 Cr · PAT ₹-45.5 Cr · PAT margin -8.5% · Income +32% YoY</p>      <p class="objects"><b>Money raised will go to:</b>
+Funding a portion of the marketing and business promotion expense of the Marketplace business of Company (₹132.0 Cr); Funding the technology infrastructure costs of the Marketplace business of Company (₹50.0 Cr)</p>
+      <p class="objects"><b>Key strengths:</b> Diversified ecosystem driving organic and inorganic growth across businesses with centralised strategy support Leading value-focused e-commerce marketplace purpose built for value shoppers Robust unit economics with operating leverage in effect, ensuring improved profitability</p>
+      <p class="objects muted"><b>Broker reviews:</b>
+none yet</p>
+      <h5>Recent developments</h5>
+      <ul class="devs">
+        <li class=""><a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxPRzJpTFZON0kzelNfRjdwd1l6NUR4dEpGVDhVeTNuaGdKLTdZTEVkdkdKYVdHZk9OZktQQXhwb3B0aHYyR3IzcE5GWkF1WWZWNnVSX3VRQ1ZQWHpiQ2pQWW5DSHNSVHdHRlptU1R0bGxXVW8wRXk0WVdzcl9KMUVtSy1ENTJyZ2JnWmtwNUhTa0pGU1Fxa0NXbkVFenlaUGFMVk5Kd2lvQmdISEVBbGNTRTRfaGxwdHExblJlaVpOVXJtLU1JdTFMdWhWRjlhd9IB2wFBVV95cUxQT291ZVZsTHlLZEU1NFNLVzJLdzk2cDBQWDl6azlOTDBKV2ctUm9VLTlEVVVHRFJRZ2pjLTRRc2dmS0VGMWJfeTFYNnVZd1FNaVB2UjhMRkVwNXRQQ1FPSTN4OEU0aXl2S2NVZlhaMDBjZ2t2ZDNRTkZCaVdzTWo5NjFEVTcwaEVHaG5uUlJnOTRzTlNXYW1UTThKb3RmRWQ1RzBlSVZRUTdXS3NtRTd3TXdXZjJOYzRad2xmN2hPMFZPUGxqWWpHOFZ0MDBOVURSUEdoQWpyUTh1TWs?oc=5" target="_blank" rel="noopener">AceVector Limited’s Initial Public Offer of Equity Shares to open on September 25, 2026</a>
+          <span class="muted">— Metro Vaartha, 22 Sep 2026</span></li>
+      </ul>
+  </section>
+
+  <details class="news">
+    <summary>IPO news (3)</summary>
+    <ul>
+      <li><a href="https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaTdMM2JOS190eFZ0TW5odWdaLWY2SUVkQm00MnQwMUh6NkgtSTF3b0JqWDc5OVBrQjRHUVdKVEg3QVlPT3hRQzZJZ1VZLURzYmFyVkRISHViSnBBazdNSVI2eGlxeHhVcV9rc0dlSFVhNi1KQkNWMkVGT1dMTlJiT0VGYXBxMVJ4OVAzMDc5VnFBV1RMN3lLUkNtR1VDVEplRUtpMXZramZLM1VaVUtXbWZCYWV5VXdCNDRybFFmc1RUWFpaUGxPVXNzMUlXc0tqVEhZb2xhTGxxcVZCQWhpWTAxbEZjMHfSAewBQVVfeXFMTUdhQWduc0VlSFJwWk01WXhWVzNuYllaQ0wyYUk2MjlvMFJXWmVxYzJCV2FQbDlra211MVJ2MTdyRmJqcjVUYklhYVdzcmRSYlhNSDVzLXJCZmNsMGVFb1RoQkpCY2pVRW0yeGNRZG14SF9zVm02a0JLTFg5MVBScXM5dG1JNjc0YnV5RnNLWC02SXBjTU9BRnRDWmU4R1YwM2J2M0RtUG9Fc0QxdlVjZDF1ZkJlV3ZXQi00Sk0tRkloQXZ2VE50aldnZmZDbEpXVjRjeGZxWWpaWVRFMWFmdW8xTnNwSGZCOHpHdzA?oc=5" target="_blank" rel="noopener">Snapdeal IPO: GMP, price band among 10 things to know about AceVector public offer</a> <span class="muted">— The Economic Times, 23 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxOdGFncTFiemVabFJmN2ZkSTJ4QUdZcnY5cDQzVjJRRFc1MUljN19NN05rOVg1NS1RTVdFMDFBa3ZqWlhOSE11SHRjb3lKZ0NQVTFrYkt2LUFXQzB1akp1SGp0bnZYekl0VTY0Y1dqTEJ1RjlaZzQ2bk1wTy1PaUQzc3V2OFZwNkd4S2ctcnpEZkxmNEt0Mm9qOWRDcnN1aFFl?oc=5" target="_blank" rel="noopener">Snapdeal Parent AceVector Sets IPO Price Band for $182 Million Valuation</a> <span class="muted">— Retail News Asia, 23 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxQblRYbTY4ZzNmYXY1Wk1EUk5xdXBodEFfU3hzeGVPSlFmbENZdURhNXQwQWY4R0t5YjM2aDdrZUtwV2VGQl8xeDBUWmpiTHFBb3pnbEF5dXp0Q0xaVG9BLS1oZnZxbzM4Yk5vUkt1LXVpZHdCUWFiRXJBVXN4VDFQYw?oc=5" target="_blank" rel="noopener">Snapdeal Parent AceVector IPO Opens Sept 25, Targets ₹1,741 Cr Market Cap</a> <span class="muted">— Indianweb2.com, 23 Sep 2026</span></li>
+    </ul>
+  </details>
+
+  <footer>
+<a href="https://www.chittorgarh.com/ipo/acevector-ipo/2543/" target="_blank" rel="noopener">Chittorgarh</a><a href="https://ipowatch.in/acevector-ipo/" target="_blank" rel="noopener">IPOWatch</a>  </footer>
+</article>
+<article class="card compact" data-type="SME"
+         data-gmp="0.0"
+         data-date="2026-09-25"
+         data-size="25.0"
+         data-sub="0">
+  <header>
+    <h3>
+<a href="https://www.chittorgarh.com/ipo/sai-urja-indo-ipo/2655/" target="_blank" rel="noopener">Sai Urja Indo</a>    </h3>
+    <div class="badges">
+      <span class="badge sme">SME</span>
+<span class="badge when ">Opens in 2 days</span>    </div>
+    <div class="dates">25 to 29 Sep, 2026 · BSE SME · lists Mon, Oct 5, 2026</div>
+  </header>
+
+  <div class="stats">
+    <div><span class="k">Price band</span><span class="v">₹107 to ₹113</span></div>
+    <div><span class="k">Lot size</span><span class="v">1,200 shares</span></div>
+    <div><span class="k">Min. investment</span><span class="v">
+₹2,71,200
+        <small>2 lots · 2,400 sh</small>
+    </span></div>
+    <div><span class="k">Issue size</span><span class="v">₹25 Cr</span></div>
+  </div>
+
+  <div class="live">
+        <div class="gmp flat">
+      <span class="label">GMP</span>
+      <span class="big">₹0</span>
+<span class="pct">(+0.0%)</span>      <div class="sub">
+Est. listing ₹113 · updated 23 Sept, 14:30
+      </div>
+    </div>
+
+  </div>
+
+  <section class="about">
+    <h4>What they do</h4>
+    <p>Incorporated in 2012, Sai Urja Indo Ventures Limited is offers Operation and Maintenance (O&amp;M) and other support services in industrial plants, primarily in power generation industry and other industries like iron &amp; steel and agrochemicals. The company work includes managing electrical, mechanical, and instrumentation systems, operating coal handling and merry-go-round systems in power plants, as well as ensuring plant cleanliness and safety through industrial housekeeping, equipment overhauls, and manpower supply.</p>
+    <details>
+      <summary>More about the company</summary>
+        <h5>Services</h5>
+        <ul><li>Maintenance Services: Electrical systems, Control &amp; Instrumentation (C&amp;I), Mechanical Jobs</li><li>Operation Services: Coal Handling Plants (CHP), Merry-Go-Round (MGR), Boiler-Turbine-Generator (BTG),</li><li>Other Services: Industrial Housekeeping, Overhaul Works, Annual Overhaul (AOH) and Capital Overhaul (COH).</li></ul>
+        <h5>Competitve Strengths</h5>
+        <ul><li>Diversified O&amp;M service solutions for power and other industries</li><li>Increase in repeat orders from existing clients with larger project values</li><li>Large orderbook facilitating sustainable growth in financial performance</li><li>Leadership with a track record, powered by a sizable team</li></ul>
+    </details>
+  </section>
+
+  <section class="signals">
+    <h4>Financial signals</h4>
+    <div class="flags"><span class="flag good">Strong growth: income +30%, profit +34%</span><span class="flag good">Profit up 3 years in a row</span><span class="flag good">High ROE 42%</span></div>
+<p class="metrics">FY26 income ₹85.6 Cr · PAT ₹4.2 Cr · PAT margin 5.0% · Income +30% YoY · PAT +34% YoY · Post-issue P/E 27.6x</p>      <p class="objects"><b>Money raised will go to:</b>
+Funding the working capital requirements of the Company (₹8.0 Cr); Repayment/prepayment, in full or part, of certain loans availed by the Company (₹6.6 Cr)</p>
+      <p class="objects"><b>Key strengths:</b> Diversified O&amp;M service solutions for power and other industries Increase in repeat orders from existing clients with larger project values Large orderbook facilitating sustainable growth in financial performance</p>
+      <p class="objects muted"><b>Broker reviews:</b>
+none yet</p>
+  </section>
+
+  <details class="news">
+    <summary>IPO news (3)</summary>
+    <ul>
+      <li><a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XZjlfVkRzZEZWX2lRWmlkemcwaW44Wlg2dUFjOGpKSER6empKSXE4dDc0SjdMYzB4T2dVZ3paektST1g1c29JckpzQ1E5TWdtdUdvLVpCQkZkb1Z0V2EyalBJVF8?oc=5" target="_blank" rel="noopener">Sai Urja Indo Ventures IPO: Check IPO date, lot size &amp; Price</a> <span class="muted">— HDFC Sky, 22 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSFA5aWJVN3J1aWFDck1vVnlsbmVQRGhrdlNmbU9aR2ZyVWE5VU9JZEVxMlZDTFV4Z2tkb1JvdmlXWkdram1nYkRTSV9melJyajlPbzJIalhKendmRXBnOXdhV3BFWmxWbnJxcldHek4tNWVDVk9YSnRRYnhQazd3enp1aWc3YkpoSTdINE0zcERaZE51dUdFMTRobzVvZlJ6Y1Z6WlZMVjJ6LWFoYVpfMDFQRzZkZ1lJYklF?oc=5" target="_blank" rel="noopener">Sai Urja Indo Ventures IPO DRHP: ₹14.60 crore issue; revenue CAGR at 36.59%</a> <span class="muted">— scanx.trade, 18 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMidEFVX3lxTFAwR3A4ZFByY2NBOXBqRUdLYVB4dEp6d1NIT0RGNXhETmNpWkRZRHN2R1pvRnFUUk5fdWxYODl2aDZyOUhGUWN2NElOcllVYWgwX0piVHBvS0tOcTk0djBGcTlDZ3FtU3lFczB0QmFWdVN3ZWhV?oc=5" target="_blank" rel="noopener">Sai Urja Indo Ventures IPO Opens Soon: Know All About It</a> <span class="muted">— ipocentral.in, 17 Sep 2026</span></li>
+    </ul>
+  </details>
+
+  <footer>
+<a href="https://www.chittorgarh.com/ipo/sai-urja-indo-ipo/2655/" target="_blank" rel="noopener">Chittorgarh</a><a href="https://ipowatch.in/sai-urja-ipo/" target="_blank" rel="noopener">IPOWatch</a>  </footer>
+</article>
+<article class="card compact" data-type="SME"
+         data-gmp="0.0"
+         data-date="2026-09-25"
+         data-size="68.0"
+         data-sub="0">
+  <header>
+    <h3>
+<a href="https://www.chittorgarh.com/ipo/himalayan-solar-ipo/2716/" target="_blank" rel="noopener">Himalayan Solar</a>    </h3>
+    <div class="badges">
+      <span class="badge sme">SME</span>
+<span class="badge when ">Opens in 2 days</span>    </div>
+    <div class="dates">25 to 29 Sep, 2026 · NSE SME · lists Mon, Oct 5, 2026</div>
+  </header>
+
+  <div class="stats">
+    <div><span class="k">Price band</span><span class="v">₹98 to ₹103</span></div>
+    <div><span class="k">Lot size</span><span class="v">1,200 shares</span></div>
+    <div><span class="k">Min. investment</span><span class="v">
+₹2,47,200
+        <small>2 lots · 2,400 sh</small>
+    </span></div>
+    <div><span class="k">Issue size</span><span class="v">₹68 Cr</span></div>
+  </div>
+
+  <div class="live">
+        <div class="gmp flat">
+      <span class="label">GMP</span>
+      <span class="big">₹0</span>
+<span class="pct">(+0.0%)</span>      <div class="sub">
+Est. listing ₹103 · updated 23 Sept, 14:30
+      </div>
+    </div>
+
+  </div>
+
+  <section class="about">
+    <h4>What they do</h4>
+    <p>Incorporated in 2015, Himalayan Solar Limited is specializes in providing integrated turnkey solar energy solutions offering services including design, manufacturing, supply, installation, and commissioning of wide range of solar products, with a primary focus on Solar Water Pumping Systems. They provide solar energy solutions for Solar Inverter Charge Systems and Solar Rooftop Power Systems.</p>
+    <details>
+      <summary>More about the company</summary>
+        <h5>Business Verticals</h5>
+        <ul><li>Turnkey Solar Energy Solutions for Solar Projects: The EPC Contract offers comprehensive turnkey solar energy solutions which includes design, manufacturing, supply, installation &amp; commissioning services of wide range of solar products</li><li>Design, manufacturing, supply, installation &amp; commissioning of Solar Water Pumping System: The Solar water pumps and Solar Pump Controllers used in the system are manufactured through an Original Equipment Manufacturer (OEM) arrangement and are exclusively branded and marketed under the ‘Himalayan Solar’.</li><li>Support Services under Skill development training programme: The company has signed an MoU with NSDC as the Industry exclusive Franchisee Partner for the Solar to support the development and onboarding of up to 2,00,000 Panchayat-level micro-entrepreneurs with its brand under “National Entrepreneurship Drive (NED)”.</li><li>Sale of Solar Products: The company engaged in the supply of various solar products, including Solar PV (Photovoltaic) Modules, Solar cell, Solar Battery and other solar products.</li></ul>
+        <h5>Competitive Strengths</h5>
+        <ul><li>Experienced Solar PV Module Manufacturer</li><li>Experienced Promoters backed by a strong management team</li><li>Strong Presence in Government-Focused Renewable Energy Projects Across Multiple States</li><li>Strong relationship with customers and suppliers.</li><li>Ability to implement our Solar Products portfolio is Government-backed Solar Projects as supplemental value addition along with their manufacturing business.</li><li>Strong Order Book</li></ul>
+    </details>
+  </section>
+
+  <section class="signals">
+    <h4>Financial signals</h4>
+    <div class="flags"><span class="flag good">Profit up 3 years in a row</span><span class="flag good">High ROE 56%</span></div>
+<p class="metrics">FY26 income ₹171.7 Cr · PAT ₹20.7 Cr · PAT margin 12.1% · Income +20% YoY · PAT +26% YoY · Post-issue P/E 11.0x</p>      <p class="objects"><b>Money raised will go to:</b>
+Funding Capital Expenditure towards purchase of additional plant and machinery for expansion and upgradation of existing manufacturing facility. (₹13.0 Cr); Repayment and / or pre-payment, in full or in part, of certain outstanding borrowings availed by the Company. (₹2.1 Cr)</p>
+      <p class="objects"><b>Key strengths:</b> Experienced Solar PV Module Manufacturer Experienced Promoters backed by a strong management team Strong Presence in Government-Focused Renewable Energy Projects Across Multiple States</p>
+      <p class="objects muted"><b>Broker reviews:</b>
+none yet</p>
+  </section>
+
+  <details class="news">
+    <summary>IPO news (2)</summary>
+    <ul>
+      <li><a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcWZ5aGRKMDUtaWxDcmRLLWZCdUZ1WWNwOFFmemx3SlI2cmdLYUQ0Y1hwY3lSNnUxeFpWSmdtT011RVRfSjVLRU93SUJ5OE0zOXJCLVl0dVU5anByeGNQSWFaUmlPMlVQbjY1M04tbTVlQ0U4NlVrc2pZcVh4dWlRYnp1SkJGS0xGWi1rMkxSZlVDYTh1UkNNdjcxTHhkdWFZZzRqRUl5TGZSd1VubEVSX2xiMlpnNXds?oc=5" target="_blank" rel="noopener">Himalayan Solar IPO DRHP: ₹44.60 crore issue; PAT surges 317% to ₹20.67 Cr in FY26</a> <span class="muted">— scanx.trade, 23 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMie0FVX3lxTE1kQThvNHV1UHNnUjBicW9XSkVJQVZkd2xOT3FVc2FtX2xubG9vNUVXTmZoQk1kV0kxSEZydUlUaGVJYTBGQk15aFB3ckVKSm5pdGMxd196UUdJUzRiVlV1dURPUXFkMGxvVS1mbk93ZXJSZThnWExINGNqcw?oc=5" target="_blank" rel="noopener">Himalayan Solar IPO 2026: Review and Key Details</a> <span class="muted">— Univest, 21 Sep 2026</span></li>
+    </ul>
+  </details>
+
+  <footer>
+<a href="https://www.chittorgarh.com/ipo/himalayan-solar-ipo/2716/" target="_blank" rel="noopener">Chittorgarh</a><a href="https://ipowatch.in/himalayan-solar-ipo/" target="_blank" rel="noopener">IPOWatch</a>  </footer>
+</article>
+<article class="card compact" data-type="SME"
+         data-gmp="0.0"
+         data-date="2026-09-25"
+         data-size="11.0"
+         data-sub="0">
+  <header>
+    <h3>
+<a href="https://www.chittorgarh.com/ipo/dudani-retail-ipo/2998/" target="_blank" rel="noopener">Dudani Retail</a>    </h3>
+    <div class="badges">
+      <span class="badge sme">SME</span>
+<span class="badge when ">Opens in 2 days</span>    </div>
+    <div class="dates">25 to 29 Sep, 2026 · BSE SME · lists Mon, Oct 5, 2026</div>
+  </header>
+
+  <div class="stats">
+    <div><span class="k">Price band</span><span class="v">₹29 per share</span></div>
+    <div><span class="k">Lot size</span><span class="v">4,000 shares</span></div>
+    <div><span class="k">Min. investment</span><span class="v">
+₹2,32,000
+        <small>2 lots · 8,000 sh</small>
+    </span></div>
+    <div><span class="k">Issue size</span><span class="v">₹11 Cr</span></div>
+  </div>
+
+  <div class="live">
+        <div class="gmp flat">
+      <span class="label">GMP</span>
+      <span class="big">₹0</span>
+<span class="pct">(+0.0%)</span>      <div class="sub">
+Est. listing ₹29 · updated 23 Sept, 14:30
+      </div>
+    </div>
+
+  </div>
+
+  <section class="about">
+    <h4>What they do</h4>
+    <p>Incorporated in December 2015, Dudani Retail Limited is an apparel and lifestyle company engaged in the designing, manufacturing, sourcing and supply of apparel and related products through own-brand operations, licensed manufacturing arrangements with Fashion &amp; Lifestyle marketplaces and a supply arrangement with a Quick-Commerce Platform. The Company’s own-brand business primarily focuses on women’s ethnic and fusion wear sold under the brand “Divena”, including suit sets, kurtas, dresses, tops, tunics, kaftans, co-ord sets, sarees and bottom wear. These products are designed and manufactured through a combination of in-house production and outsourced value-added processes.</p>
+    <details>
+      <summary>More about the company</summary>
+<p>In addition to its own-brand operations, the Company undertakes licensed manufacturing for Fashion &amp; Lifestyle marketplaces, producing apparel against orders and according to specified design briefs, brand requirements and quality standards. The labels covered under these arrangements include Kalini, Corsica, Roadster, Anouk Rustic, All about you, Taavi, Navyaazri, Chandbaali, Baesd, ETC, Navibhu and Here &amp; Now. The Company’s role is limited to manufacturing and supplying products on a just-in-time basis, while the intellectual property rights in these labels remain with the respective licensors.</p><p>The Company also supplies products to a Quick-Commerce Platform under a sell-or-return arrangement, where goods are delivered to designated hubs and payments are made periodically based on actual sales to end customers, after applicable margins. Its manufacturing facility in Jaipur, Rajasthan undertakes key processes including cutting, stitching, finishing, quality checks and dispatch, while fabric dyeing, printing, embroidery and other value-added processes are carried out through third-party processors.</p><p>The Company follows an integrated workflow covering design development, fabric and material procurement, sampling, manufacturing, outsourced processing, finishing and dispatch. Its products are distributed through multiple e-commerce marketplaces, including Myntra, Amazon, Flipkart, Ajio, Nykaa Fashion, Tata Cliq and Snapdeal, as well as through its own brand websites.</p><p>As on August 31, 2026, the Company had 33 permanent employees, including directors, supported by 35 temporary personnel primarily engaged in stitching and pressing activities.</p>        <h5>Competitive Strengths</h5>
+        <ul><li>Presence across multiple operating verticals.</li><li>In-house manufacturing capabilities for women’s wear.</li><li>Defined supply arrangement with a Quick-Commerce Platform.</li><li>Asset-light model for men’s wear and selective trading categories.</li><li>Established supplier network for fabrics, trims and finished goods.</li><li>Multi-channel distribution through leading e-commerce marketplaces.</li><li>Established relationships with Fashion &amp; Lifestyle companies through licensed manufacturing.</li></ul>
+    </details>
+  </section>
+
+  <section class="signals">
+    <h4>Financial signals</h4>
+    <div class="flags"><span class="flag warn">Income fell 3% in FY26</span><span class="flag good">Profit up 3 years in a row</span></div>
+<p class="metrics">FY26 income ₹24.6 Cr · PAT ₹1.9 Cr · PAT margin 7.7% · Income -3% YoY · PAT +7% YoY · Post-issue P/E 15.8x</p>      <p class="objects"><b>Money raised will go to:</b>
+Funding Capital Expenditure towards purchase of machinery for expansion and upgradation of existing manufacturing facility (₹0.8 Cr); Repayment and / or pre-payment, in full or in part, of certain outstanding borrowings availed by the company. (₹3.0 Cr)</p>
+      <p class="objects"><b>Key strengths:</b> Presence across multiple operating verticals. In-house manufacturing capabilities for women’s wear. Defined supply arrangement with a Quick-Commerce Platform.</p>
+      <p class="objects muted"><b>Broker reviews:</b>
+none yet</p>
+  </section>
+
+  <details class="news">
+    <summary>IPO news (3)</summary>
+    <ul>
+      <li><a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxPdUhHQl9CaWRHWHZNdkdCUFFiV0YxZDF3RU5PTjRNa290TWpwSW90QVRacWoyTjBpcThLenU3cnRfSFZZSTA5dlNoZzZYd3JtTVRrVXBMU0pDamFiZnFHMnVEX3BCQTlsa1VRckM5Z2s3cVRzeVRxVnQ1Z3hmUEI5X0pwazBMMHNBZ2dpYTBPQjJBTEdHeW4tOGpJNVRPR0RVTlZxVXVfMmNPTmZfT3NyeGdYRUxWYlk?oc=5" target="_blank" rel="noopener">Dudani Retail IPO DRHP: ₹9.26 crore fresh issue; FY26 PAT at ₹1.90 crore</a> <span class="muted">— scanx.trade, 23 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMiYEFVX3lxTFBiVkJYbFc0OFNMZFgzQzQ4czVrY0tEaDR2ZW9tSEVmamx2V1k3WGRlU2VjS0d0OGpianNJQzduek5ESWhqNnUzaDRkc0pPWW1oTGFBWWg1TTFFdEVIbDZJeA?oc=5" target="_blank" rel="noopener">Dudani Retail IPO Date, Price Band, GMP, Subscription &amp; Allotment</a> <span class="muted">— indiaipo.in, 22 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMieEFVX3lxTE5GRE5tM2Y2SXhzLTFzT0syR1hiZnRfZjlUOUkwNFF5Slg3TzVrbnNvZThTRU12bDBmanJJVjFXaWJlRWZOR0dYTkotRGQ1ZE5NczVFd2VJVTF6b21WVmpXVlZCaVNPZ2dpRWU0U2FyX1piaDFJUjJETw?oc=5" target="_blank" rel="noopener">Dudani Retail IPO 2026: Price and Full Review</a> <span class="muted">— Univest, 22 Sep 2026</span></li>
+    </ul>
+  </details>
+
+  <footer>
+<a href="https://www.chittorgarh.com/ipo/dudani-retail-ipo/2998/" target="_blank" rel="noopener">Chittorgarh</a><a href="https://ipowatch.in/dudani-retail-ipo/" target="_blank" rel="noopener">IPOWatch</a>  </footer>
+</article>
+<article class="card compact" data-type="SME"
+         data-gmp="0.0"
+         data-date="2026-09-28"
+         data-size="18.0"
+         data-sub="0">
+  <header>
+    <h3>
+<a href="https://www.chittorgarh.com/ipo/pind-hospitality-ipo/2197/" target="_blank" rel="noopener">Pind Hospitality</a>    </h3>
+    <div class="badges">
+      <span class="badge sme">SME</span>
+<span class="badge when ">Opens in 5 days</span>    </div>
+    <div class="dates">28 to 30 Sep, 2026 · BSE SME · lists Tue, Oct 6, 2026</div>
+  </header>
+
+  <div class="stats">
+    <div><span class="k">Price band</span><span class="v">₹93 to ₹99</span></div>
+    <div><span class="k">Lot size</span><span class="v">1,200 shares</span></div>
+    <div><span class="k">Min. investment</span><span class="v">
+₹2,37,600
+        <small>2 lots · 2,400 sh</small>
+    </span></div>
+    <div><span class="k">Issue size</span><span class="v">₹18 Cr</span></div>
+  </div>
+
+  <div class="live">
+        <div class="gmp flat">
+      <span class="label">GMP</span>
+      <span class="big">₹0</span>
+<span class="pct">(+0.0%)</span>      <div class="sub">
+Est. listing ₹99 · updated 23 Sept, 14:30
+      </div>
+    </div>
+
+  </div>
+
+  <section class="about">
+    <h4>What they do</h4>
+    <p>Incorporated in June 15, 2021, Pind Hospitality Limited is engaged in the hospitality sector, specifically in hotels and restaurants. The company has completed over 5 lakh deliveries and is recognized as one of the long-standing restaurant partners in Pune by third-party food delivery apps.</p>
+    <details>
+      <summary>More about the company</summary>
+        <h5>Services</h5>
+        <ul><li>Restaurants: The company, along with its partnership firm Pind Punjab, operates six restaurants in Pune, Maharashtra, with no permanent closures since 2016.</li><li>Delivery: The company serves customers through third-party food delivery apps, its own mobile app, online bookings, and phone orders. It also offers mobile pre-ordering for pick-up within a 6 km radius.</li><li>Outdoor Catering: The company also offers outdoor catering services for special events and workplace canteens, with revenue of 528.61 lakhs, ₹ 125.37 lakhs and ₹ 64.38 lakhs in the Fiscal 2026, Fiscal 2025 and Fiscal 2024 in recent periods.</li><li>Advertising Strategy: The company targets middle and upper-middle-class consumers through advertising focused on fresh, affordable food. It uses various media, including internet, print, direct marketing, and social media, to increase brand awareness.</li></ul>
+        <h5>Competitive Strengths</h5>
+        <ul><li>Experienced Promoters, management team and dedicated staff</li><li>Attractive offerings at competitive prices based on constant menu innovation and customer focus.</li><li>Strong on-line presence</li><li>Strategic locations</li><li>Strong financial position and profitability</li></ul>
+    </details>
+  </section>
+
+  <section class="signals">
+    <h4>Financial signals</h4>
+    <div class="flags"><span class="flag bad">Profit fell 11% in FY26</span></div>
+<p class="metrics">FY26 income ₹24.9 Cr · PAT ₹2.3 Cr · PAT margin 9.3% · Income +8% YoY · PAT -11% YoY · Post-issue P/E 26.1x</p>      <p class="objects"><b>Money raised will go to:</b>
+Funding towards capital expenditure for setting up a hotel-cum-banquet hall in Lonavala, Maharashtra (Haveli Project (₹12.7 Cr)</p>
+      <p class="objects"><b>Key strengths:</b> Experienced Promoters, management team and dedicated staff Attractive offerings at competitive prices based on constant menu innovation and customer focus. Strong on-line presence</p>
+      <p class="objects muted"><b>Broker reviews:</b>
+none yet</p>
+  </section>
+
+  <details class="news">
+    <summary>IPO news (3)</summary>
+    <ul>
+      <li><a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxPNkFOZVdMa1hZdUFuT2dkZUFtcFEzQzlLeGVGQlNidm1jVGx4Q0FnaUZ1WHlEY25OdFdDLXV6c3FkZlRLNmwwN2l2cW5fS2N6a200MFp2UVBwQV9DeUxxR1l0Y01XMEp1YjJMTHdnamZtdEhIN3BCbUhRVnVFT05CZ0dUMjh0Zm8tQ1NnMGl5dmU1Sk9uS0JxaERQNm5ocjh4N1lQSlhBOHFMLU41RWU4WFJyMHd2dVlMX3E5OQ?oc=5" target="_blank" rel="noopener">Pind Hospitality’s ₹21.42 crore Haveli plan awaits approvals</a> <span class="muted">— Multibagg AI, 23 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWnJLOXZrajRoNW5mbThKV19QLTV4c0U3WFVUYWFGTm1yQk1vbWkwNUQtbm54YUZoZGI3Y0xxYXY1cjNSNWRVTXRpOHZnU1Zfdm5mSzY2WFNnb1BOdlhRaWlGaGhENURRUFVsZTljYk9XRWxIVXk4REdrd3NWWkwtUkxCcjVrSmt3R3cwU1FsRWZxWFlfQUVQYndXQlR6dDh4OGJEdE10NlBCUHlFZ3ZFYnFFYW1ERkxa?oc=5" target="_blank" rel="noopener">Pind Hospitality Limited drew 78% of FY26 revenue from apps</a> <span class="muted">— Multibagg AI, 23 Sep 2026</span></li>
+      <li><a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ0ZvZkNzbkhFbXVZbU5OR0NqUmQ2MDlkazVoaGg4NGtTZGEtUVNGRUM4WktWMkVBbmJvQjBCSVVhcGFrcGlsRExOb1psVHd6NGs1NGU1M3FjSW1EZzFnRXljY2lPbFd1ODl3X0pPeEhfVV85WnRrd1FjUE9mUXVQM1BSZE5vNUhFWXhpMkgxTzJiYXhtMkZseVdwMlRLV19BOVU3dUFJX3NEa190bGMwVE1HZ3hTcFQwaVM4ODhjYw?oc=5" target="_blank" rel="noopener">Pind Hospitality Limited discloses restaurant approval gaps</a> <span class="muted">— Multibagg AI, 23 Sep 2026</span></li>
+    </ul>
+  </details>
+
+  <footer>
+<a href="https://www.chittorgarh.com/ipo/pind-hospitality-ipo/2197/" target="_blank" rel="noopener">Chittorgarh</a><a href="https://ipowatch.in/pind-hospitality-ipo/" target="_blank" rel="noopener">IPOWatch</a>  </footer>
+</article>
+    </div>
+  </details>
+
+  <p class="disclaimer">
+    Data from <a href="https://www.chittorgarh.com/">chittorgarh.com</a>, <a href="https://www.ipowatch.in/">ipowatch.in</a>
+    and Google News, refreshed every morning. Grey market premium (GMP) is unofficial and can change quickly.
+    Financial signals are computed automatically from the restated financials in the offer documents.
+    This page is for information only and is not investment advice.
+  </p>
+</div>
+<script>
+(function () {
+  var grids = ['openGrid', 'upGrid'].map(function (id) { return document.getElementById(id); }).filter(Boolean);
+  var type = 'all';
+
+  function apply() {
+    var sort = document.getElementById('sortBy').value;
+    grids.forEach(function (grid) {
+      var cards = Array.prototype.slice.call(grid.children);
+      cards.sort(function (a, b) {
+        if (sort === 'date') return a.dataset.date.localeCompare(b.dataset.date) || (b.dataset.gmp - a.dataset.gmp);
+        return parseFloat(b.dataset[sort]) - parseFloat(a.dataset[sort]);
+      });
+      var shown = 0;
+      cards.forEach(function (c) {
+        c.hidden = type !== 'all' && c.dataset.type !== type;
+        if (!c.hidden) shown++;
+        grid.appendChild(c);
+      });
+      var counter = document.querySelector('[data-count-for="' + grid.id + '"]');
+      if (counter) counter.textContent = '(' + shown + ')';
+    });
+  }
+
+  document.querySelectorAll('#typeFilter button').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      document.querySelectorAll('#typeFilter button').forEach(function (b) { b.classList.remove('on'); });
+      btn.classList.add('on');
+      type = btn.dataset.v;
+      apply();
+    });
+  });
+  document.getElementById('sortBy').addEventListener('change', apply);
+})();
+</script>
+</body>
+</html>

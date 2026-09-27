@@ -1,0 +1,326 @@
+{% macro gmp_block(ipo) %}
+  {% set g = ipo.gmp %}
+  {% if g and g.gmp is not none %}
+    {% set tone = 'pos' if (g.gmp_pct or 0) >= 10 else ('neg' if (g.gmp or 0) < 0 else ('flat' if (g.gmp or 0) == 0 else 'mild')) %}
+    <div class="gmp {{ tone }}">
+      <span class="label">GMP</span>
+      <span class="big">₹{{ g.gmp|inr }}</span>
+      {% if g.gmp_pct is not none %}<span class="pct">({{ '%+.1f'|format(g.gmp_pct) }}%)</span>{% endif %}
+      <div class="sub">
+        {% if g.est_listing %}Est. listing ₹{{ g.est_listing|inr }} · {% endif %}updated {{ g.updated or '—' }}
+        {% if g.stale %}<span class="stale">last known</span>{% endif %}
+      </div>
+    </div>
+  {% else %}
+    <div class="gmp flat"><span class="label">GMP</span><span class="big">—</span><div class="sub">Not reported yet</div></div>
+  {% endif %}
+{% endmacro %}
+
+{% macro card(ipo, compact=false) %}
+{% set gm = ipo.gmp or {} %}
+<article class="card {{ 'compact' if compact }}" data-type="{{ ipo.type }}"
+         data-gmp="{{ gm.gmp_pct if gm.gmp_pct is not none else -999 }}"
+         data-date="{{ (ipo.close_date if ipo.status == 'open' else ipo.open_date) or '9999' }}"
+         data-size="{{ ipo.issue_size_cr or 0 }}"
+         data-sub="{{ (ipo.subscription or {}).total or 0 }}">
+  <header>
+    <h3>
+      {% if ipo.chittorgarh_url %}<a href="{{ ipo.chittorgarh_url }}" target="_blank" rel="noopener">{{ ipo.name }}</a>{% else %}{{ ipo.name }}{% endif %}
+    </h3>
+    <div class="badges">
+      <span class="badge {{ ipo.type|lower }}">{{ ipo.type }}</span>
+      {% if ipo.day_label %}<span class="badge when {{ 'urgent' if ipo.day_label in ('Closes today', 'Closes tomorrow') }}">{{ ipo.day_label }}</span>{% endif %}
+      {% if ipo.stale %}<span class="badge stale">stale data</span>{% endif %}
+    </div>
+    {% if ipo.ipo_date_text or ipo.listing_at %}
+    <div class="dates">{{ ipo.ipo_date_text or '' }}{% if ipo.listing_at %} · {{ ipo.listing_at }}{% endif %}{% if ipo.listing_date %} · lists {{ ipo.listing_date }}{% endif %}</div>
+    {% endif %}
+  </header>
+
+  <div class="stats">
+    <div><span class="k">Price band</span><span class="v">{{ ipo.price_band or '—' }}</span></div>
+    <div><span class="k">Lot size</span><span class="v">{% if ipo.lot_size %}{{ ipo.lot_size|inr }} shares{% else %}—{% endif %}</span></div>
+    <div><span class="k">Min. investment</span><span class="v">
+      {% if ipo.min_application %}₹{{ ipo.min_application.amount|inr }}
+        <small>{{ ipo.min_application.lots }} lot{{ 's' if ipo.min_application.lots != 1 }} · {{ ipo.min_application.shares|inr }} sh</small>
+      {% elif ipo.lot_size and ipo.price_high %}₹{{ (ipo.lot_size * ipo.price_high)|inr }}{% else %}—{% endif %}
+    </span></div>
+    <div><span class="k">Issue size</span><span class="v">{% if ipo.issue_size_cr %}₹{{ ipo.issue_size_cr|inr }} Cr{% else %}—{% endif %}</span></div>
+  </div>
+
+  <div class="live">
+    {{ gmp_block(ipo) }}
+    {% if ipo.status == 'open' %}
+    <div class="subs">
+      <span class="label">Subscription</span>
+      {% set s = ipo.subscription %}
+      {% if s and s.total %}
+        <span class="big">{{ '%.2f'|format(s.total) }}x</span>
+        <table>
+          {% for r in s.rows %}
+          <tr><td>{{ r.category }}</td><td>{{ '%.2f'|format(r.times) if r.times is not none else '—' }}x</td></tr>
+          {% endfor %}
+        </table>
+        <div class="sub">as of {{ s.as_of or '—' }}{% if s.stale %} <span class="stale">last known</span>{% endif %}</div>
+      {% else %}
+        <span class="big muted">—</span><div class="sub">Bidding not started yet</div>
+      {% endif %}
+    </div>
+    {% endif %}
+  </div>
+
+  {% if ipo.about %}
+  <section class="about">
+    <h4>What they do</h4>
+    <p>{{ ipo.about[0]|sentences(3) }}</p>
+    {% set lists = ipo.about_lists or {} %}
+    {% if ipo.about|length > 1 or lists %}
+    <details>
+      <summary>More about the company</summary>
+      {% for p in ipo.about[1:] %}<p>{{ p }}</p>{% endfor %}
+      {% for title, items in lists.items() %}
+        <h5>{{ title }}</h5>
+        <ul>{% for li in items %}<li>{{ li }}</li>{% endfor %}</ul>
+      {% endfor %}
+    </details>
+    {% endif %}
+  </section>
+  {% elif ipo.partial_source %}
+  <section class="about"><p class="muted">Company details not yet available on Chittorgarh.</p></section>
+  {% endif %}
+
+  {% set ins = ipo.insights or {} %}
+  {% set strengths = ipo.strengths or [] %}
+  {% set objects = (ipo.objects or [])|rejectattr('object', 'search', '(?i)general corporate') |list %}
+  {% if ins.flags or ins.metrics or objects or strengths or ipo.reviews or ipo.business_news %}
+  <section class="signals">
+    <h4>Financial signals</h4>
+    {% if ins.flags %}
+    <div class="flags">{% for f in ins.flags %}<span class="flag {{ f.tone }}">{{ f.text }}</span>{% endfor %}</div>
+    {% endif %}
+    {% if ins.metrics %}<p class="metrics">{{ ins.metrics|join(' · ') }}</p>{% endif %}
+    {% if ins.partial %}<p class="metrics muted">{{ ins.partial }}</p>{% endif %}
+    {% if objects %}
+      <p class="objects"><b>Money raised will go to:</b>
+      {% for o in objects[:2] %}{{ o.object }}{% if o.amount_cr %} (₹{{ o.amount_cr|inr(1) }} Cr){% endif %}{{ '; ' if not loop.last }}{% endfor %}</p>
+    {% endif %}
+    {% if strengths %}
+      <p class="objects"><b>Key strengths:</b> {{ strengths[:3]|join(' ') }}</p>
+    {% endif %}
+    {% if ipo.reviews %}
+      {% set rv = ipo.reviews %}
+      <p class="objects muted"><b>Broker reviews:</b>
+        {% for k, v in rv.items() if v %}{{ v }} {{ k|lower }}{{ ' · ' if not loop.last }}{% else %}none yet{% endfor %}</p>
+    {% endif %}
+    {% if ipo.business_news %}
+      <h5>Recent developments</h5>
+      <ul class="devs">
+        {% for n in ipo.business_news %}
+        <li class="{{ n.tone }}"><a href="{{ n.link }}" target="_blank" rel="noopener">{{ n.title }}</a>
+          <span class="muted">— {{ n.source }}{% if n.date %}, {{ n.date }}{% endif %}</span></li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+  </section>
+  {% endif %}
+
+  {% if ipo.news %}
+  <details class="news">
+    <summary>IPO news ({{ ipo.news|length }})</summary>
+    <ul>
+      {% for n in ipo.news %}
+      <li><a href="{{ n.link }}" target="_blank" rel="noopener">{{ n.title }}</a> <span class="muted">— {{ n.source }}{% if n.date %}, {{ n.date }}{% endif %}</span></li>
+      {% endfor %}
+    </ul>
+  </details>
+  {% endif %}
+
+  <footer>
+    {% if ipo.chittorgarh_url %}<a href="{{ ipo.chittorgarh_url }}" target="_blank" rel="noopener">Chittorgarh</a>{% endif %}
+    {% if ipo.ipowatch_url %}<a href="{{ ipo.ipowatch_url }}" target="_blank" rel="noopener">IPOWatch</a>{% endif %}
+  </footer>
+</article>
+{% endmacro %}
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>IPO Watchlist — {{ generated_display }}</title>
+<style>
+  :root {
+    --bg: #f5f6f8; --card: #fff; --text: #1d2330; --muted: #6b7280; --line: #e5e7eb;
+    --green: #0f7b45; --green-bg: #e6f5ec; --red: #b42318; --red-bg: #fdecea;
+    --amber: #9a6700; --amber-bg: #fff4d6; --blue: #1d4ed8; --blue-bg: #e8efff; --violet: #6d28d9; --violet-bg: #f1eaff;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0f1216; --card: #181c22; --text: #e6e8eb; --muted: #9aa3ae; --line: #2a3039;
+      --green: #4ade80; --green-bg: #12301f; --red: #f87171; --red-bg: #3a1515;
+      --amber: #fbbf24; --amber-bg: #33280d; --blue: #93b4ff; --blue-bg: #1a2545; --violet: #c4a8ff; --violet-bg: #2a1d45;
+    }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; font: 15px/1.45 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; background: var(--bg); color: var(--text); }
+  a { color: var(--blue); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .wrap { max-width: 1280px; margin: 0 auto; padding: 16px; }
+  .top { display: flex; flex-wrap: wrap; align-items: baseline; gap: 8px 16px; margin-bottom: 12px; }
+  .top h1 { font-size: 22px; margin: 0; }
+  .top .updated { color: var(--muted); font-size: 13px; }
+  .controls { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin: 8px 0 16px; }
+  .seg { display: inline-flex; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; background: var(--card); }
+  .seg button { border: 0; background: none; color: var(--text); padding: 6px 12px; font: inherit; cursor: pointer; }
+  .seg button + button { border-left: 1px solid var(--line); }
+  .seg button.on { background: var(--blue-bg); color: var(--blue); font-weight: 600; }
+  select { font: inherit; padding: 6px 8px; border-radius: 8px; border: 1px solid var(--line); background: var(--card); color: var(--text); }
+  .warn { background: var(--amber-bg); color: var(--amber); border-radius: 8px; padding: 8px 12px; margin-bottom: 12px; font-size: 13px; }
+  .warn ul { margin: 4px 0 0; padding-left: 18px; }
+  h2 { font-size: 17px; margin: 20px 0 10px; }
+  h2 .count { color: var(--muted); font-weight: 400; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(340px, 100%), 1fr)); gap: 14px; }
+  .card { min-width: 0; overflow-wrap: anywhere; background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 14px; display: flex; flex-direction: column; gap: 12px; }
+  .card[hidden] { display: none; }
+  .card h3 { margin: 0 0 6px; font-size: 17px; }
+  .card h3 a { color: var(--text); }
+  .badges { display: flex; flex-wrap: wrap; gap: 6px; }
+  .badge { font-size: 12px; padding: 2px 8px; border-radius: 999px; background: var(--line); }
+  .badge.mainboard { background: var(--blue-bg); color: var(--blue); }
+  .badge.sme { background: var(--violet-bg); color: var(--violet); }
+  .badge.urgent { background: var(--red-bg); color: var(--red); font-weight: 600; }
+  .badge.stale, .stale { background: var(--amber-bg); color: var(--amber); font-size: 11px; padding: 1px 6px; border-radius: 999px; }
+  .dates { color: var(--muted); font-size: 13px; margin-top: 6px; }
+  .stats { display: grid; grid-template-columns: 1fr 1fr; gap: 8px 12px; }
+  .stats .k { display: block; color: var(--muted); font-size: 12px; }
+  .stats .v { font-weight: 600; }
+  .stats small { display: block; font-weight: 400; color: var(--muted); font-size: 12px; }
+  .live { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+  .gmp, .subs { min-width: 0; border-radius: 10px; padding: 10px; background: var(--bg); }
+  .label { display: block; font-size: 12px; color: var(--muted); }
+  .big { font-size: 22px; font-weight: 700; }
+  .pct { font-weight: 600; margin-left: 4px; }
+  .gmp.pos .big, .gmp.pos .pct { color: var(--green); }
+  .gmp.mild .big, .gmp.mild .pct { color: var(--amber); }
+  .gmp.neg .big, .gmp.neg .pct { color: var(--red); }
+  .gmp.flat .big { color: var(--muted); }
+  .sub { font-size: 12px; color: var(--muted); margin-top: 4px; }
+  .subs table { width: 100%; font-size: 13px; border-collapse: collapse; margin-top: 4px; }
+  .subs td:last-child { text-align: right; font-weight: 600; }
+  .muted { color: var(--muted); }
+  h4 { margin: 0 0 4px; font-size: 13px; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); }
+  h5 { margin: 8px 0 2px; font-size: 13px; }
+  .about p, .signals p { margin: 4px 0; }
+  details summary { cursor: pointer; color: var(--blue); font-size: 13px; margin-top: 4px; }
+  details ul { margin: 6px 0; padding-left: 18px; }
+  details li { margin-bottom: 4px; font-size: 14px; }
+  .flags { display: flex; flex-wrap: wrap; gap: 6px; margin: 4px 0; }
+  .flag { font-size: 12px; padding: 3px 8px; border-radius: 6px; font-weight: 600; }
+  .flag.good { background: var(--green-bg); color: var(--green); }
+  .flag.bad { background: var(--red-bg); color: var(--red); }
+  .flag.warn { background: var(--amber-bg); color: var(--amber); }
+  .devs { list-style: none; padding: 0; margin: 4px 0; }
+  .devs li { font-size: 14px; margin-bottom: 6px; padding-left: 18px; position: relative; }
+  .devs li::before { content: "•"; position: absolute; left: 4px; color: var(--muted); }
+  .devs li.good::before { content: "▲"; color: var(--green); font-size: 11px; top: 2px; }
+  .devs li.bad::before { content: "▼"; color: var(--red); font-size: 11px; top: 2px; }
+  .metrics { font-size: 14px; }
+  .objects { font-size: 14px; }
+  .card > footer { margin-top: auto; display: flex; gap: 14px; font-size: 13px; border-top: 1px solid var(--line); padding-top: 8px; }
+  .empty { color: var(--muted); padding: 20px; background: var(--card); border-radius: 12px; border: 1px dashed var(--line); }
+  .upcoming-wrap > summary { font-size: 17px; font-weight: 700; color: var(--text); margin: 20px 0 10px; }
+  .disclaimer { color: var(--muted); font-size: 12px; margin: 28px 0 8px; }
+  @media (max-width: 420px) { .grid { grid-template-columns: 1fr; } .live { grid-template-columns: 1fr; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="top">
+    <h1>IPO Watchlist</h1>
+    <span class="updated">Last updated: {{ generated_display }}</span>
+  </div>
+
+  {% if warnings %}
+  <div class="warn">
+    <b>Some data could not be refreshed:</b>
+    <ul>{% for w in warnings[:8] %}<li>{{ w }}</li>{% endfor %}</ul>
+  </div>
+  {% endif %}
+
+  <div class="controls">
+    <div class="seg" id="typeFilter">
+      <button class="on" data-v="all">All</button>
+      <button data-v="Mainboard">Mainboard</button>
+      <button data-v="SME">SME</button>
+    </div>
+    <label>Sort
+      <select id="sortBy">
+        <option value="date">Closing soonest</option>
+        <option value="gmp">GMP % (high → low)</option>
+        <option value="sub">Subscription (high → low)</option>
+        <option value="size">Issue size (large → small)</option>
+      </select>
+    </label>
+  </div>
+
+  <h2>Open for application <span class="count" data-count-for="openGrid">({{ open|length }})</span></h2>
+  {% if open %}
+  <div class="grid" id="openGrid">
+    {% for ipo in open %}{{ card(ipo) }}{% endfor %}
+  </div>
+  {% else %}
+  <div class="empty">No IPOs are open for application today.</div>
+  {% endif %}
+
+  {% if upcoming %}
+  <details class="upcoming-wrap">
+    <summary>Opening soon <span class="count muted" data-count-for="upGrid">({{ upcoming|length }})</span></summary>
+    <div class="grid" id="upGrid">
+      {% for ipo in upcoming %}{{ card(ipo, compact=true) }}{% endfor %}
+    </div>
+  </details>
+  {% endif %}
+
+  <p class="disclaimer">
+    Data from <a href="https://www.chittorgarh.com/">chittorgarh.com</a>, <a href="https://www.ipowatch.in/">ipowatch.in</a>
+    and Google News, refreshed every morning. Grey market premium (GMP) is unofficial and can change quickly.
+    Financial signals are computed automatically from the restated financials in the offer documents.
+    This page is for information only and is not investment advice.
+  </p>
+</div>
+<script>
+(function () {
+  var grids = ['openGrid', 'upGrid'].map(function (id) { return document.getElementById(id); }).filter(Boolean);
+  var type = 'all';
+
+  function apply() {
+    var sort = document.getElementById('sortBy').value;
+    grids.forEach(function (grid) {
+      var cards = Array.prototype.slice.call(grid.children);
+      cards.sort(function (a, b) {
+        if (sort === 'date') return a.dataset.date.localeCompare(b.dataset.date) || (b.dataset.gmp - a.dataset.gmp);
+        return parseFloat(b.dataset[sort]) - parseFloat(a.dataset[sort]);
+      });
+      var shown = 0;
+      cards.forEach(function (c) {
+        c.hidden = type !== 'all' && c.dataset.type !== type;
+        if (!c.hidden) shown++;
+        grid.appendChild(c);
+      });
+      var counter = document.querySelector('[data-count-for="' + grid.id + '"]');
+      if (counter) counter.textContent = '(' + shown + ')';
+    });
+  }
+
+  document.querySelectorAll('#typeFilter button').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      document.querySelectorAll('#typeFilter button').forEach(function (b) { b.classList.remove('on'); });
+      btn.classList.add('on');
+      type = btn.dataset.v;
+      apply();
+    });
+  });
+  document.getElementById('sortBy').addEventListener('change', apply);
+})();
+</script>
+</body>
+</html>
