@@ -7,7 +7,7 @@
       <span class="big">₹{{ g.gmp|inr }}</span>
       {% if g.gmp_pct is not none %}<span class="pct">({{ '%+.1f'|format(g.gmp_pct) }}%)</span>{% endif %}
       <div class="sub">
-        {% if g.est_listing %}Est. listing ₹{{ g.est_listing|inr }} · {% endif %}updated {{ g.updated or '—' }}
+        {% if g.est_listing %}Est. listing ₹{{ g.est_listing|inr }}{% endif %}{% if g.est_listing and g.updated %} · {% endif %}{% if g.updated %}updated {{ g.updated }}{% endif %}
         {% if g.stale %}<span class="stale">last known</span>{% endif %}
       </div>
     </div>
@@ -18,15 +18,25 @@
 
 {% macro card(ipo, compact=false) %}
 {% set gm = ipo.gmp or {} %}
+{# What the "My IPOs" tab stores when this IPO is added. #}
+{% set snap = {"key": ipo.get("key"), "name": ipo.name, "type": ipo.get("type"), "price": ipo.get("price_high"),
+               "lot_size": ipo.get("lot_size"), "lots": (ipo.get("min_application") or {}).get("lots") or 1,
+               "open_date": ipo.get("open_date"), "close_date": ipo.get("close_date"),
+               "listing_date": ipo.get("listing_date"), "gmp": gm.get("gmp"),
+               "url": ipo.get("chittorgarh_url") or ipo.get("ipowatch_url")} %}
 <article class="card {{ 'compact' if compact }}" data-type="{{ ipo.type }}"
          data-gmp="{{ gm.gmp_pct if gm.gmp_pct is not none else -999 }}"
          data-date="{{ (ipo.close_date if ipo.status == 'open' else ipo.open_date) or '9999' }}"
          data-size="{{ ipo.issue_size_cr or 0 }}"
-         data-sub="{{ (ipo.subscription or {}).total or 0 }}">
+         data-sub="{{ (ipo.subscription or {}).total or 0 }}"
+         data-ipo='{{ snap|tojson }}'>
   <header>
-    <h3>
-      {% if ipo.chittorgarh_url %}<a href="{{ ipo.chittorgarh_url }}" target="_blank" rel="noopener">{{ ipo.name }}</a>{% else %}{{ ipo.name }}{% endif %}
-    </h3>
+    <div class="card-head">
+      <h3>
+        {% if ipo.chittorgarh_url %}<a href="{{ ipo.chittorgarh_url }}" target="_blank" rel="noopener">{{ ipo.name }}</a>{% else %}{{ ipo.name }}{% endif %}
+      </h3>
+      <button type="button" class="add-btn">+ Add to My IPOs</button>
+    </div>
     <div class="badges">
       <span class="badge {{ ipo.type|lower }}">{{ ipo.type }}</span>
       {% if ipo.day_label %}<span class="badge when {{ 'urgent' if ipo.day_label in ('Closes today', 'Closes tomorrow') }}">{{ ipo.day_label }}</span>{% endif %}
@@ -205,7 +215,7 @@
   .gmp.flat .big { color: var(--muted); }
   .sub { font-size: 12px; color: var(--muted); margin-top: 4px; }
   .subs table { width: 100%; font-size: 13px; border-collapse: collapse; margin-top: 4px; }
-  .subs td:last-child { text-align: right; font-weight: 600; }
+  .subs td:last-child { text-align: right; font-weight: 600; white-space: nowrap; padding-left: 6px; }
   .muted { color: var(--muted); }
   h4 { margin: 0 0 4px; font-size: 13px; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); }
   h5 { margin: 8px 0 2px; font-size: 13px; }
@@ -229,6 +239,54 @@
   .empty { color: var(--muted); padding: 20px; background: var(--card); border-radius: 12px; border: 1px dashed var(--line); }
   .upcoming-wrap > summary { font-size: 17px; font-weight: 700; color: var(--text); margin: 20px 0 10px; }
   .disclaimer { color: var(--muted); font-size: 12px; margin: 28px 0 8px; }
+
+  /* Tabs */
+  .tabs { display: flex; gap: 4px; border-bottom: 1px solid var(--line); margin-bottom: 14px; }
+  .tabs button { border: 0; background: none; color: var(--muted); font: inherit; font-weight: 600; padding: 8px 14px;
+                 cursor: pointer; border-bottom: 2px solid transparent; margin-bottom: -1px; }
+  .tabs button.on { color: var(--blue); border-bottom-color: var(--blue); }
+  .tabs .n { display: inline-block; min-width: 20px; padding: 0 6px; margin-left: 4px; border-radius: 999px;
+             background: var(--blue-bg); color: var(--blue); font-size: 12px; }
+
+  /* Add button on cards */
+  .card-head { display: flex; align-items: flex-start; justify-content: space-between; gap: 10px; }
+  .add-btn { flex: none; font: inherit; font-size: 12px; font-weight: 600; padding: 5px 10px; border-radius: 8px; cursor: pointer;
+             border: 1px solid var(--blue); background: none; color: var(--blue); white-space: nowrap; }
+  .add-btn:hover { background: var(--blue-bg); }
+  .add-btn.added { border-color: var(--green); color: var(--green); background: var(--green-bg); }
+
+  /* My IPOs */
+  .tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(160px, 100%), 1fr)); gap: 10px; margin-bottom: 18px; }
+  .tile { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 12px; }
+  .tile .k { display: block; color: var(--muted); font-size: 12px; }
+  .tile .v { font-size: 20px; font-weight: 700; }
+  .tile small { display: block; color: var(--muted); font-size: 12px; }
+  .up { color: var(--green); } .down { color: var(--red); }
+  .my-list { display: flex; flex-direction: column; gap: 10px; }
+  .my-row { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px;
+            display: grid; grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr) minmax(0, 1.1fr) auto; gap: 8px 16px; align-items: center; }
+  .my-row .name { font-weight: 700; }
+  .my-row .name a { color: var(--text); }
+  .my-row .meta { color: var(--muted); font-size: 12px; margin-top: 2px; }
+  .my-row .gain { font-size: 18px; font-weight: 700; }
+  .my-row .lots { display: inline-flex; align-items: center; gap: 6px; font-size: 13px; }
+  .my-row .lots input { width: 56px; font: inherit; padding: 3px 6px; border-radius: 6px; border: 1px solid var(--line);
+                        background: var(--bg); color: var(--text); }
+  .actions { display: flex; flex-wrap: wrap; gap: 6px; justify-content: flex-end; }
+  .btn { font: inherit; font-size: 13px; font-weight: 600; padding: 6px 12px; border-radius: 8px; cursor: pointer;
+         border: 1px solid var(--line); background: var(--bg); color: var(--text); }
+  .btn.good { border-color: var(--green); color: var(--green); background: var(--green-bg); }
+  .btn.bad { border-color: var(--red); color: var(--red); background: var(--red-bg); }
+  .note { color: var(--muted); font-size: 13px; margin: 10px 0 0; }
+  .toast { position: fixed; left: 50%; transform: translateX(-50%); bottom: calc(16px + env(safe-area-inset-bottom, 0px));
+           background: var(--text); color: var(--bg); padding: 10px 14px; border-radius: 10px; font-size: 14px;
+           display: flex; gap: 12px; align-items: center; box-shadow: 0 4px 16px rgba(0,0,0,.25); z-index: 10; }
+  .toast[hidden] { display: none; }
+  .toast button { border: 0; background: none; color: inherit; font: inherit; font-weight: 700; text-decoration: underline; cursor: pointer; }
+  @media (max-width: 700px) {
+    .my-row { grid-template-columns: minmax(0, 1fr); gap: 6px; }
+    .my-row .actions { justify-content: flex-start; }
+  }
   @media (max-width: 420px) { .grid { grid-template-columns: 1fr; } .live { grid-template-columns: 1fr; } }
 </style>
 </head>
@@ -246,6 +304,12 @@
   </div>
   {% endif %}
 
+  <nav class="tabs" role="tablist">
+    <button type="button" role="tab" data-tab="ipos" class="on">IPOs</button>
+    <button type="button" role="tab" data-tab="my">My IPOs <span class="n" id="myCount">0</span></button>
+  </nav>
+
+  <section id="tab-ipos">
   <div class="controls">
     <div class="seg" id="typeFilter">
       <button class="on" data-v="all">All</button>
@@ -279,6 +343,18 @@
     </div>
   </details>
   {% endif %}
+  </section>
+
+  <section id="tab-my" hidden>
+    <div id="myTiles" class="tiles"></div>
+    <div id="myApplied"></div>
+    <div id="myAllotted"></div>
+    <p class="note">
+      Your list is saved in this browser only, so it won't appear on your other devices, and clearing
+      browser data erases it. Gains for listed IPOs use the current price from chittorgarh.com as of the last
+      update. Before listing, the expected gain uses the latest GMP, which is unofficial.
+    </p>
+  </section>
 
   <p class="disclaimer">
     Data from <a href="https://www.chittorgarh.com/">chittorgarh.com</a>, <a href="https://www.ipowatch.in/">ipowatch.in</a>
@@ -287,8 +363,11 @@
     This page is for information only and is not investment advice.
   </p>
 </div>
+<div id="toast" class="toast" hidden></div>
+<script id="marketData" type="application/json">{{ market|default({})|tojson }}</script>
 <script>
 (function () {
+  // ------------------------------------------------------------ IPO list: filter + sort
   var grids = ['openGrid', 'upGrid'].map(function (id) { return document.getElementById(id); }).filter(Boolean);
   var type = 'all';
 
@@ -320,6 +399,215 @@
     });
   });
   document.getElementById('sortBy').addEventListener('change', apply);
+
+  // ------------------------------------------------------------ My IPOs (saved in this browser)
+  var STORE_KEY = 'ipoWatchlist.myIpos.v1';
+  var market = {};
+  try { market = JSON.parse(document.getElementById('marketData').textContent) || {}; } catch (e) {}
+  var storageOk = true;
+
+  function load() {
+    try { return JSON.parse(localStorage.getItem(STORE_KEY)) || []; } catch (e) { storageOk = false; return []; }
+  }
+  function save(list) {
+    try { localStorage.setItem(STORE_KEY, JSON.stringify(list)); } catch (e) { storageOk = false; }
+  }
+  var mine = load();
+
+  // Names differ between sources ("German Green Steel" vs "German Green Steel & Power"): match on
+  // identical normalised keys, or when the shorter key (2+ words) is the start of the longer one.
+  function sameIpo(a, b) {
+    if (!a || !b) return false;
+    if (a === b) return true;
+    var x = a.split(' '), y = b.split(' ');
+    var s = x.length <= y.length ? x : y, l = x.length <= y.length ? y : x;
+    return s.length >= 2 && l.slice(0, s.length).join(' ') === s.join(' ');
+  }
+  function find(list, key) {
+    for (var i = 0; i < (list || []).length; i++) if (sameIpo(list[i].key, key)) return list[i];
+    return null;
+  }
+
+  // Latest data for an IPO that is still on today's page (newest GMP etc.).
+  var liveByKey = {};
+  document.querySelectorAll('.card[data-ipo]').forEach(function (card) {
+    try { var d = JSON.parse(card.dataset.ipo); liveByKey[d.key] = d; } catch (e) {}
+  });
+
+  function inr(n) {
+    if (n === null || n === undefined || isNaN(n)) return '—';
+    var sign = n < 0 ? '-' : '';
+    return sign + '₹' + Math.round(Math.abs(n)).toLocaleString('en-IN');
+  }
+  function signedInr(n) { return (n > 0 ? '+' : '') + inr(n); }
+  function pct(n) { return (n > 0 ? '+' : '') + n.toFixed(2) + '%'; }
+  function tone(n) { return n > 0 ? 'up' : n < 0 ? 'down' : ''; }
+  function fmtDate(iso) {
+    if (!iso) return '';
+    var d = new Date(iso + 'T00:00:00');
+    return isNaN(d) ? iso : d.toLocaleDateString('en-IN', { day: 'numeric', month: 'short' });
+  }
+  function esc(s) {
+    return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) {
+      return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
+    });
+  }
+
+  /** Invested amount and gain for one entry. */
+  function valuation(e) {
+    var shares = (e.lots || 1) * (e.lot_size || 0);
+    var invested = e.price && shares ? e.price * shares : null;
+    var perf = find(market.performance, e.key);
+    if (perf && invested && perf.current_gain_pct !== null) {
+      return { shares: shares, invested: invested, gain: invested * perf.current_gain_pct / 100,
+               pctNow: perf.current_gain_pct, pctListing: perf.listing_gain_pct, listed: true };
+    }
+    var live = liveByKey[e.key] || null;
+    var g = find(market.gmp, e.key);
+    var gmp = live && live.gmp !== null && live.gmp !== undefined ? live.gmp
+            : g && g.gmp !== null ? g.gmp : e.gmp;
+    if (invested && gmp !== null && gmp !== undefined) {
+      return { shares: shares, invested: invested, gain: gmp * shares, gmp: gmp,
+               pctNow: e.price ? gmp / e.price * 100 : null, listed: false };
+    }
+    return { shares: shares, invested: invested, gain: null, listed: false };
+  }
+
+  function rowHtml(e, i) {
+    var v = valuation(e);
+    var link = e.url ? '<a href="' + esc(e.url) + '" target="_blank" rel="noopener">' + esc(e.name) + '</a>' : esc(e.name);
+    var head = '<div><div class="name">' + link + ' <span class="badge ' + esc((e.type || '').toLowerCase()) + '">' +
+               esc(e.type) + '</span></div>';
+    if (e.status !== 'allotted') {
+      var when = e.close_date ? 'Bidding closes ' + fmtDate(e.close_date) : '';
+      return '<div class="my-row">' + head +
+        '<div class="meta">Applied ' + (e.lots || 1) + ' lot' + ((e.lots || 1) > 1 ? 's' : '') +
+        (v.invested ? ' · ' + inr(v.invested) + ' blocked' : '') + (when ? ' · ' + when : '') + '</div></div>' +
+        '<div class="meta">Awaiting allotment</div><div></div>' +
+        '<div class="actions">' +
+          '<button type="button" class="btn good" data-act="allotted" data-i="' + i + '">Allotted</button>' +
+          '<button type="button" class="btn bad" data-act="remove" data-i="' + i + '">Not allotted</button>' +
+        '</div></div>';
+    }
+    var status;
+    if (v.listed) {
+      status = 'Listed · listing day <b class="' + tone(v.pctListing) + '">' + pct(v.pctListing) + '</b> · now <b class="' +
+               tone(v.pctNow) + '">' + pct(v.pctNow) + '</b>';
+    } else if (v.gain !== null) {
+      status = 'Not listed yet' + (e.listing_date ? ' (lists ' + esc(e.listing_date) + ')' : '') +
+               ' · expected from GMP ₹' + v.gmp;
+    } else {
+      status = 'No price data yet';
+    }
+    return '<div class="my-row">' + head +
+      '<div class="meta"><label class="lots">Lots allotted <input type="number" min="1" step="1" value="' + (e.lots || 1) +
+      '" data-act="lots" data-i="' + i + '"></label> · ' + v.shares + ' shares · invested ' + inr(v.invested) + '</div></div>' +
+      '<div class="meta">' + status + '</div>' +
+      '<div><div class="gain ' + tone(v.gain) + '">' + (v.gain === null ? '—' : signedInr(v.gain)) + '</div>' +
+      '<div class="meta">' + (v.listed ? 'current gain' : v.gain !== null ? 'expected gain' : '') +
+      (v.pctNow !== null && v.pctNow !== undefined && v.gain !== null ? ' · ' + pct(v.pctNow) : '') + '</div></div>' +
+      '<div class="actions"><button type="button" class="btn" data-act="remove" data-i="' + i + '">Remove</button></div>' +
+      '</div>';
+  }
+
+  function renderMine() {
+    document.getElementById('myCount').textContent = mine.length;
+    var applied = [], allotted = [];
+    mine.forEach(function (e, i) { (e.status === 'allotted' ? allotted : applied).push([e, i]); });
+
+    var tiles = document.getElementById('myTiles');
+    if (!storageOk) {
+      tiles.innerHTML = '<div class="warn">This browser is blocking saved data (private mode?), so My IPOs cannot be kept.</div>';
+    } else if (!mine.length) {
+      tiles.innerHTML = '<div class="empty">No IPOs added yet. Tap <b>+ Add to My IPOs</b> on an IPO card when you apply.</div>';
+    } else {
+      var invested = 0, gain = 0, priced = 0;
+      allotted.forEach(function (p) {
+        var v = valuation(p[0]);
+        if (v.invested) invested += v.invested;
+        if (v.gain !== null) { gain += v.gain; priced++; }
+      });
+      tiles.innerHTML =
+        '<div class="tile"><span class="k">Allotted IPOs</span><span class="v">' + allotted.length + '</span>' +
+          '<small>' + applied.length + ' awaiting allotment</small></div>' +
+        '<div class="tile"><span class="k">Invested</span><span class="v">' + inr(invested) + '</span><small>in allotted IPOs</small></div>' +
+        '<div class="tile"><span class="k">Total gain</span><span class="v ' + tone(gain) + '">' +
+          (priced ? signedInr(gain) : '—') + '</span><small>' +
+          (priced && invested ? pct(gain / invested * 100) + ' · ' : '') + 'listed + expected</small></div>';
+    }
+
+    document.getElementById('myApplied').innerHTML = applied.length
+      ? '<h2>Awaiting allotment <span class="count">(' + applied.length + ')</span></h2><div class="my-list">' +
+        applied.map(function (p) { return rowHtml(p[0], p[1]); }).join('') + '</div>' : '';
+    document.getElementById('myAllotted').innerHTML = allotted.length
+      ? '<h2>Allotted <span class="count">(' + allotted.length + ')</span></h2><div class="my-list">' +
+        allotted.map(function (p) { return rowHtml(p[0], p[1]); }).join('') + '</div>' : '';
+
+    document.querySelectorAll('.card[data-ipo]').forEach(function (card) {
+      var btn = card.querySelector('.add-btn');
+      var key = JSON.parse(card.dataset.ipo).key;
+      var added = mine.some(function (e) { return e.key === key; });
+      btn.classList.toggle('added', added);
+      btn.textContent = added ? '✓ In My IPOs' : '+ Add to My IPOs';
+    });
+  }
+
+  var toastTimer;
+  function toast(msg, undo) {
+    var t = document.getElementById('toast');
+    t.innerHTML = '<span>' + esc(msg) + '</span>' + (undo ? '<button type="button">Undo</button>' : '');
+    t.hidden = false;
+    if (undo) t.querySelector('button').onclick = function () { undo(); t.hidden = true; };
+    clearTimeout(toastTimer);
+    toastTimer = setTimeout(function () { t.hidden = true; }, 6000);
+  }
+
+  document.addEventListener('click', function (ev) {
+    var add = ev.target.closest('.add-btn');
+    if (add) {
+      var d = JSON.parse(add.closest('.card').dataset.ipo);
+      if (mine.some(function (e) { return e.key === d.key; })) { showTab('my'); return; }
+      d.status = 'applied';
+      d.added_on = new Date().toISOString().slice(0, 10);
+      mine.push(d);
+      save(mine); renderMine();
+      toast('Added ' + d.name + ' to My IPOs');
+      return;
+    }
+    var btn = ev.target.closest('[data-act]');
+    if (!btn || btn.tagName === 'INPUT') return;
+    var i = +btn.dataset.i, e = mine[i];
+    if (!e) return;
+    if (btn.dataset.act === 'allotted') {
+      e.status = 'allotted';
+      save(mine); renderMine();
+    } else if (btn.dataset.act === 'remove') {
+      mine.splice(i, 1);
+      save(mine); renderMine();
+      toast('Removed ' + e.name, function () { mine.splice(i, 0, e); save(mine); renderMine(); });
+    }
+  });
+  document.addEventListener('change', function (ev) {
+    if (ev.target.dataset.act !== 'lots') return;
+    var e = mine[+ev.target.dataset.i], n = parseInt(ev.target.value, 10);
+    if (e && n >= 1) { e.lots = n; save(mine); }
+    renderMine();
+  });
+
+  // ------------------------------------------------------------ Tabs
+  function showTab(name) {
+    document.querySelectorAll('.tabs button').forEach(function (b) { b.classList.toggle('on', b.dataset.tab === name); });
+    document.getElementById('tab-ipos').hidden = name !== 'ipos';
+    document.getElementById('tab-my').hidden = name !== 'my';
+    try { history.replaceState(null, '', name === 'my' ? '#my' : location.pathname + location.search); } catch (e) {}
+  }
+  document.querySelectorAll('.tabs button').forEach(function (b) {
+    b.addEventListener('click', function () { showTab(b.dataset.tab); });
+  });
+  window.addEventListener('storage', function (ev) { if (ev.key === STORE_KEY) { mine = load(); renderMine(); } });
+
+  renderMine();
+  showTab(location.hash === '#my' ? 'my' : 'ipos');
 })();
 </script>
 </body>

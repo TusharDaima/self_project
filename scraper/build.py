@@ -15,7 +15,7 @@ from jinja2 import Environment, FileSystemLoader
 
 from . import chittorgarh, insights, ipowatch, news
 from .fetch import get_text
-from .merge import find_match, names_match
+from .merge import find_match, names_match, tokens
 from .text import now_ist, today_ist
 
 log = logging.getLogger("build")
@@ -236,14 +236,48 @@ def collect(run, with_news=True):
     ipos += _ipowatch_only(gmp_rows, ipos + listed, today)
     for row in gmp_rows:
         row.pop("_used", None)
+    for ipo in ipos:
+        ipo["key"] = name_key(ipo["name"])
 
     return {
         "generated_at": now_ist().isoformat(timespec="seconds"),
         "generated_display": now_ist().strftime("%d %b %Y, %I:%M %p IST"),
         "open": sorted([i for i in ipos if i["status"] == "open"], key=_sort_key),
         "upcoming": sorted([i for i in ipos if i["status"] == "upcoming"], key=_sort_key),
+        "market": market_data(run, gmp_rows, gmp_stale),
         "warnings": run.warnings,
     }
+
+
+def name_key(name):
+    """Normalised name used by the page's script to match "My IPOs" entries across sources."""
+    return " ".join(tokens(name))
+
+
+def load_performance(run):
+    """Listing-day and current gain % of IPOs listed this year, from Chittorgarh's tracker."""
+    rows = []
+    for ipo_type, url in chittorgarh.PERF_URLS.items():
+        try:
+            found = chittorgarh.parse_performance(get_text(url))
+            if not found:
+                raise ValueError("no rows found (layout change?)")
+        except Exception as e:  # noqa: BLE001
+            run.warn(f"Could not load Chittorgarh {ipo_type} performance tracker: {_why(e)}")
+            prev = (run.previous.get("market") or {}).get("performance", [])
+            found = [r for r in prev if r.get("type") == ipo_type]
+        rows += [{**r, "type": ipo_type, "key": name_key(r["name"])} for r in found]
+    return rows
+
+
+def market_data(run, gmp_rows, gmp_stale):
+    """Data the "My IPOs" tab needs for IPOs that have closed or listed."""
+    if gmp_stale:
+        gmp = (run.previous.get("market") or {}).get("gmp", [])
+    else:
+        gmp = [{"key": name_key(r["name"]), "name": r["name"], "type": r["type"], "gmp": r["gmp"],
+                "gmp_pct": r["gmp_pct"], "status": r["status"], "updated": r["updated"]} for r in gmp_rows]
+    return {"performance": load_performance(run), "gmp": gmp}
 
 
 # ---------------------------------------------------------------- rendering

@@ -11,6 +11,10 @@ LIST_URLS = {
     "Mainboard": BASE + "/report/ipo-in-india-list-main-board-sme/82/mainboard/",
     "SME": BASE + "/report/ipo-in-india-list-main-board-sme/82/sme/",
 }
+PERF_URLS = {
+    "Mainboard": BASE + "/ipo/ipo_perf_tracker.asp",
+    "SME": BASE + "/ipo/ipo_perf_tracker.asp?exchange=sme",
+}
 
 
 def _soup(html):
@@ -211,6 +215,26 @@ def _parse_about(soup):
     # The heading varies: "Strengths", "Key Strength", "Competitive Strengths"...
     strengths = next((items for title, items in lists.items() if "strength" in title.lower()), [])
     return {"legal_name": legal or None, "about": paras, "about_lists": lists, "strengths": strengths}
+
+
+# ---------------------------------------------------------------- performance tracker
+
+def parse_performance(html):
+    """Listed IPOs with gains vs issue price: [{name, listing_gain_pct, current_gain_pct}].
+
+    Reads the "Company | Listing Day Gain / Loss | Current Gain / Loss" table (the fuller
+    table above it is filled in by JavaScript, so it is empty in the served HTML).
+    """
+    for table in _soup(html).find_all("table"):
+        rows = _rows(table)
+        if not rows or len(rows[0]) < 3 or "current gain" not in rows[0][2].lower():
+            continue
+        out = []
+        for r in rows[1:]:
+            if len(r) >= 3 and r[0]:
+                out.append({"name": r[0], "listing_gain_pct": to_number(r[1]), "current_gain_pct": to_number(r[2])})
+        return out
+    return []
 
 
 # ---------------------------------------------------------------- subscription page

@@ -18,6 +18,16 @@ For each IPO the page shows:
 - [ipowatch.in](https://www.ipowatch.in): GMP
 - Google News RSS: headlines
 
+## My IPOs tab
+
+1. When you apply for an IPO, tap **+ Add to My IPOs** on its card. It appears under **My IPOs → Awaiting allotment**.
+2. When allotment is out, tap **Allotted** or **Not allotted**. Not allotted removes the IPO; an **Undo** appears for a few seconds.
+3. For allotted IPOs you can change **Lots allotted**. The gain is worked out from your invested amount (issue price × shares):
+   - **Listed:** listing-day and current gain %, from chittorgarh.com's IPO performance tracker as of the last update.
+   - **Closed but not listed yet:** the expected gain from the latest GMP (unofficial).
+
+The list lives in your browser's local storage. It isn't uploaded anywhere, it won't show up on your other devices, and clearing browser data erases it.
+
 ## Run locally
 
 ```

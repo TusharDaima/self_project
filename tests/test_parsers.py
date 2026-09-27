@@ -57,6 +57,16 @@ def test_subscription():
     assert {"category": "Retail Individual", "times": 807.12} in s["rows"]
 
 
+def test_performance_tracker():
+    main = chittorgarh.parse_performance(read("chittorgarh_perf_mainboard.html"))
+    sme = chittorgarh.parse_performance(read("chittorgarh_perf_sme.html"))
+    assert len(main) == 86 and len(sme) == 148
+    assert main[0] == {"name": "National Stock Exchange of India Ltd.", "listing_gain_pct": 1.85, "current_gain_pct": 0.43}
+    assert {"name": "Kheria Autocomp Ltd.", "listing_gain_pct": 2.03, "current_gain_pct": -1.39} in sme
+    # Keys used by the page to match a saved IPO with its listing performance.
+    assert build.name_key("National Stock Exchange of India Ltd.") == build.name_key("National Stock Exchange of India")
+
+
 def test_gmp_table():
     rows = ipowatch.parse_gmp_table(read("ipowatch_gmp.html"))
     assert {r["type"] for r in rows} == {"Mainboard", "SME"}
@@ -127,7 +137,14 @@ def test_render_smoke(tmp_path):
                insights=insights.analyse(ipo["financials"], ipo["kpis"], ipo["valuation"]))
     fallback = {"name": "Only On IPOWatch", "type": "SME", "status": "open", "partial_source": True,
                 "gmp": {"gmp": 5, "gmp_pct": 5.0}, "insights": insights.analyse(None)}
-    html = build.render({"generated_display": "now", "open": [ipo, fallback], "upcoming": [], "warnings": ["x"]})
+    ipo["key"] = build.name_key(ipo["name"])
+    fallback["key"] = build.name_key(fallback["name"])
+    market = {"performance": [{"name": "X </script> Ltd", "key": "x", "listing_gain_pct": 1, "current_gain_pct": 2}],
+              "gmp": []}
+    html = build.render({"generated_display": "now", "open": [ipo, fallback], "upcoming": [], "warnings": ["x"],
+                         "market": market})
     assert "833.56x" in html and "1,200 shares" in html and "₹2,54,400" in html
     assert "Only On IPOWatch" in html
+    assert '"key": "robokidz eduventures"' in html and "+ Add to My IPOs" in html
+    assert "X </script> Ltd" not in html  # embedded JSON must not be able to close its <script> tag
     json.dumps(ipo, ensure_ascii=False)  # data must stay JSON-serialisable
