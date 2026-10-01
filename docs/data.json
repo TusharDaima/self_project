@@ -1,1040 +1,7 @@
 {
- "generated_at": "2026-09-30T14:26:11+05:30",
- "generated_display": "30 Sep 2026, 02:26 PM IST",
+ "generated_at": "2026-10-01T14:49:34+05:30",
+ "generated_display": "01 Oct 2026, 02:49 PM IST",
  "open": [
-  {
-   "chittorgarh_url": "https://www.chittorgarh.com/ipo/srit-india-ipo/2858/",
-   "name": "SRIT India",
-   "open_date": "2026-09-28",
-   "close_date": "2026-09-30",
-   "ipo_date_text": "28 to 30 Sep, 2026",
-   "listing_date": "Tue, Oct 6, 2026",
-   "face_value": "₹ 5 per share",
-   "issue_type": "Bookbuilding IPO",
-   "sale_type": "Fresh capital only",
-   "listing_at": "BSE, NSE",
-   "type": "Mainboard",
-   "lot_size": 115,
-   "price_band": "₹123 to ₹130",
-   "price_high": 130.0,
-   "issue_price": 130.0,
-   "issue_size_cr": 218.0,
-   "min_application": {
-    "label": "Retail (Min)",
-    "lots": 1,
-    "shares": 115,
-    "amount": 14950.0
-   },
-   "financials": {
-    "periods": [
-     "31 Mar 2026",
-     "31 Mar 2025",
-     "31 Mar 2024"
-    ],
-    "rows": {
-     "Assets": [
-      614.16,
-      496.64,
-      428.96
-     ],
-     "Total Income": [
-      462.54,
-      400.5,
-      282.22
-     ],
-     "Profit After Tax": [
-      43.29,
-      33.6,
-      29.08
-     ],
-     "EBITDA": [
-      64.77,
-      49.81,
-      40.99
-     ],
-     "NET Worth": [
-      193.27,
-      93.17,
-      80.47
-     ],
-     "Reserves and Surplus": [
-      169.54,
-      72.93,
-      53.52
-     ],
-     "Total Borrowing": [
-      36.15,
-      51.3,
-      22.28
-     ]
-    },
-    "unit": "Amount in ₹ Crore"
-   },
-   "objects": [
-    {
-     "object": "Funding of capital expenditure requirements towards modernization of existing products and redevelopment",
-     "amount_cr": 12.86
-    },
-    {
-     "object": "Funding working capital requirements of the Company",
-     "amount_cr": 124.0
-    },
-    {
-     "object": "Achieving inorganic growth through unidentified acquisitions and other strategic initiatives and general corporate purposes",
-     "amount_cr": null
-    }
-   ],
-   "kpis": {
-    "ROE": "30.23%",
-    "ROCE": "28.79%",
-    "Debt/Equity": "0.23",
-    "RoNW": "30.23%",
-    "PAT Margin": "9.62%",
-    "EBITDA Margin": "14.39%",
-    "NAV": "40.71",
-    "P/B (x)": "3.19"
-   },
-   "valuation": {
-    "EPS (₹)": {
-     "pre": "9.12",
-     "post": "6.74"
-    },
-    "P/E (x)": {
-     "pre": "14.25",
-     "post": "19.29"
-    },
-    "Market Cap at Offer Price": {
-     "pre": "₹617.13 Cr.",
-     "post": "₹835.53 Cr"
-    }
-   },
-   "reviews": {
-    "Subscribe": 0,
-    "May Apply": 0,
-    "Neutral": 1,
-    "Avoid": 1
-   },
-   "legal_name": "SRIT India Ltd.",
-   "about": [
-    "Incorporated in September 1999, SRIT India Limited is a Bengaluru-headquartered Information Technology and Information Technology enabled Services (IT/ITeS) solutions company providing digital solutions, custom application development and system integration services. With 26 years of industry experience, the Company designs, implements and operates digital platforms for Government entities and Enterprises in India and select overseas markets.The Company operates across three verticals: healthcare, electronic governance, and telecommunications and broadband. Its offerings include healthcare information systems, digital health platforms, e-governance solutions, cybersecurity, enterprise software, networking, connectivity, fibre optic infrastructure, system integration, automation and managed services. The Company also provides configurable and customised solutions that can be integrated with third-party platforms and has commenced developing AI-enabled solutions across its key verticals.",
-    "In the last decade, the Company has executed more than 103 projects with an aggregate order value of approximately ₹12,347.16 million for Government and Enterprise customers. Its projects include healthcare platforms, nationwide banking connectivity, state-wide fibre networks, AI-driven traffic management and power transformer monitoring solutions. The Company has a presence across multiple Indian states and also operates internationally through its Qatar operations.",
-    "The Company's delivery processes are appraised at CMMI Level 5 and SSE-CMM and are certified to ISO 27034-1:2011, ISO/IEC 27001:2022 and ISO 45001:2018. Revenue from operations increased from ₹3,893.47 million in Fiscal 2025 to ₹4,499.99 million in Fiscal 2026, while profit after tax increased from ₹336.04 million to ₹432.89 million during the same period.",
-    "As of June 30, 2026, the Company had 177 permanent employees, 7 contract-specific employees and 107 consultants. Its experienced workforce supports application development, project management, operations, solution architecture, support engineering, quality management and service delivery."
-   ],
-   "about_lists": {
-    "Competitive Strengths": [
-     "Strong financial performance.",
-     "Growing capabilities in AI-enabled solutions.",
-     "Diversified presence across three key verticals.",
-     "Experienced Promoters and Senior Management team.",
-     "End-to-end digital solutions and integration capabilities.",
-     "26 years of industry experience and established track record.",
-     "Strong Government and Enterprise project execution track record."
-    ]
-   },
-   "strengths": [
-    "Strong financial performance.",
-    "Growing capabilities in AI-enabled solutions.",
-    "Diversified presence across three key verticals.",
-    "Experienced Promoters and Senior Management team.",
-    "End-to-end digital solutions and integration capabilities.",
-    "26 years of industry experience and established track record.",
-    "Strong Government and Enterprise project execution track record."
-   ],
-   "status": "open",
-   "day_label": "Closes today",
-   "subscription": {
-    "as_of": "Sep 30, 2026 11:53",
-    "rows": [
-     {
-      "category": "Qualified Institutional",
-      "times": 0.1
-     },
-     {
-      "category": "Non Institutional",
-      "times": 52.25
-     },
-     {
-      "category": "Retail Individual",
-      "times": 19.07
-     }
-    ],
-    "total": 20.76
-   },
-   "gmp": {
-    "gmp": 31.0,
-    "gmp_pct": 23.85,
-    "est_listing": 161.0,
-    "updated": null,
-    "trend": "🟢"
-   },
-   "ipowatch_url": "https://ipowatch.in/srit-india-ipo/",
-   "insights": {
-    "metrics": [
-     "FY26 income ₹462.5 Cr",
-     "PAT ₹43.3 Cr",
-     "PAT margin 9.6%",
-     "Income +15% YoY",
-     "PAT +29% YoY",
-     "Post-issue P/E 19.3x"
-    ],
-    "flags": [
-     {
-      "tone": "good",
-      "text": "Profit up 3 years in a row"
-     },
-     {
-      "tone": "good",
-      "text": "High ROE 30%"
-     }
-    ],
-    "partial": null
-   },
-   "business_news": [],
-   "news": [
-    {
-     "title": "SRIT India vs Shah Investor’s Home IPO: Which IPO Is Leading In Grey Market On Final Subscription Day? Check GMP, Estimated Listing Price And Subscription Status",
-     "source": "sundayguardianlive.com",
-     "date": "30 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQeDliRzAzSVcxXzZvNG4weGRFZVljWDJ6elZ2XzJHNzlHSHZDZEJpUmh0b3pfT3BtejFJdWtOVE9CZ3ZfSVlNa0RwWjVMbm1Cb2xrMXZDOG1PajBZa1g0c3lsSmZFcGN3UVR3c0NrMnlWc29tVU5SdE96YlR0dGJtVGN0RGFaM3kxVGo0OTF3Tkc3Z2lJZUVZSHdwOEFTZzF1WUo2YnZCZGFmOGpBZTY0RUxVdkFRbDlscy16cUFhTUc0eDRzcm8tVEM2dDdjUzBXWEJTYmhjNGxkMzlpdGlyeUdYQXVqRERnWVp6STlhV1pMRGZtREpaTUFXaXdCNVI3VjRhM01XRHZ4TjFpU1NTcG1tNmo1RzR4R2x0cHE0RjZEaWdKV0p3aXpkdlNWUdIBswJBVV95cUxQOTVSdkY2bm5jOGNjRWo3OW1WcEVuaFQwVHdPQnNRbXBxM0hacWRqMnFtRTkzQUFpOURXTFpSVjY5d0dOVHhkbXh1NDVrSWZaYkItZVBoLVNTMGE2dmprLV9GdEhnUWRwTTFBZjlFSjh5QjgwZ1R3QThjM2psdkV5bUJnQnMwckVPQ1FKaXhzYUF3WkNpNUJnU1ozb0hiMGpwTTlJVlhyUzZkWE1jdjRPNFVpdEEzS2NiWmpEeTJzbjNzbzliNDFrRXFlYnlHRFBCcnhjY0dKdHk5UVZEQ0xhX1ZiUUFfaDhWSmp1d1lFVk5EekViZFNOM0w5RTVfUDRlSFg0cS1lX0xBOGlrcDNUXzI4UnowZmZJbkV6LWRDVXpkTHVzdmRrSHBINlEycTRKZ180?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "SRIT India IPO subscribed over 33x so far on Day 3; GMP rises to 27%",
-     "source": "Moneycontrol.com",
-     "date": "30 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWGNqcWlEV3RrRXN4b3JuOTFfZ1V0VUNYM1BXMFFLYldWaW5ld1Q5RnIxVUEwSTJrd0VsdHBfSmJVazZSN1BoUk1pVGNnbDRsTjR3YVF4MHQ1bTQzU0Z6d01zeW5UVTNiWm1ONGVvZmNDX3AzaVRCbUp0M1czaXlheVNIRVVqeE9EMkMtb0NJczhTZ2l0NzVJdW1jM1dHQlpNVkpYdmZpZ0hoM0pqOEsyMHpRMG1zdlhIcjMxLXN3c1pFeklJazBfcG1ZdEFqdE1maV9n0gHYAUFVX3lxTE1SUUJUNndjalQyTjVoaXdISlJ5ZkhncjM4RGFUY0NoWlplZ0NmR3hVVUtrNlJVVllBc29JVnBHd3cySWk4UjV6Wk0zOWxCZnlxV0tiQzlkOTNvc0tsblpaYWVPaDIwQTlyMHJEMFdIQUNPQ1plZEhqdVc4a2RVSXRRVnp3Vkw0RlBxUXJBYWJnOE9DT2Rnbk1LRHJ6M2NuS0ljd2toMkF3Q2NfTEQyd1lOV3hab0lQN3hoYjhWSjJTVkN2YTdVWlhxQVUzUlNSOHZabElLV1pwYQ?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "SRIT India IPO GMP Surges 25.38% Issue Oversubscribed 19 Times on Day 3, Check Listing Estimate",
-     "source": "Goodreturns",
-     "date": "30 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZFFlSGVmWGs2LUZ2SHRnZFFsU3ZUcmZCTE96XzJ3b0ZLYnNTRllmUUVDZ1Z3TXloSm91aVYtTWg0RlhRa0VxUTl2TGZmN1BWamZ6UnZvdjhudGdBN21HZmJ4T3hwVG9jMHhLZV9xTlcxcm9yQzlKZTN5N2RTUkQ2QXN6dVhpaGtQaHFhd1d0T2pBYnFfUWpQZFRWenpIZ0Ezb1F1cElNWUJiMWQxRldLMkRnaTFnMTB2X2JEZUlrNmxoWEZDV1Z5Q2pQWWpqTzh6WUlEYg?oc=5",
-     "tone": ""
-    }
-   ],
-   "key": "srit india"
-  },
-  {
-   "chittorgarh_url": "https://www.chittorgarh.com/ipo/pind-hospitality-ipo/2197/",
-   "name": "Pind Hospitality",
-   "open_date": "2026-09-28",
-   "close_date": "2026-09-30",
-   "ipo_date_text": "28 to 30 Sep, 2026",
-   "listing_date": "Tue, Oct 6, 2026",
-   "face_value": "₹ 10 per share",
-   "issue_type": "Bookbuilding IPO",
-   "sale_type": "Fresh capital only",
-   "listing_at": "BSE SME",
-   "type": "SME",
-   "lot_size": 1200,
-   "price_band": "₹93 to ₹99",
-   "price_high": 99.0,
-   "issue_size_cr": 18.0,
-   "min_application": {
-    "label": "Individual investors (IND) (Min)",
-    "lots": 2,
-    "shares": 2400,
-    "amount": 237600.0
-   },
-   "financials": {
-    "periods": [
-     "31 Mar 2026",
-     "31 Mar 2025",
-     "31 Mar 2024"
-    ],
-    "rows": {
-     "Assets": [
-      37.72,
-      28.33,
-      26.04
-     ],
-     "Total Income": [
-      24.91,
-      23.17,
-      20.87
-     ],
-     "Profit After Tax": [
-      2.27,
-      2.56,
-      2.21
-     ],
-     "EBITDA": [
-      3.95,
-      3.69,
-      3.1
-     ],
-     "NET Worth": [
-      14.52,
-      12.25,
-      9.69
-     ],
-     "Reserves and Surplus": [
-      10.32,
-      8.05,
-      5.49
-     ],
-     "Total Borrowing": [
-      12.74,
-      null,
-      null
-     ]
-    },
-    "unit": "Amount in ₹ Crore"
-   },
-   "objects": [
-    {
-     "object": "Funding towards capital expenditure for setting up a hotel-cum-banquet hall in Lonavala, Maharashtra (Haveli Project",
-     "amount_cr": 12.7
-    },
-    {
-     "object": "General Corporate Purposes",
-     "amount_cr": null
-    }
-   ],
-   "kpis": {
-    "ROE": "15.65%",
-    "ROCE": "15.83%",
-    "Debt/Equity": "0.88",
-    "RoNW": "15.65%",
-    "PAT Margin": "9.30%",
-    "EBITDA Margin": "16.14%",
-    "NAV": "34.59",
-    "P/B (x)": "4.29"
-   },
-   "valuation": {
-    "EPS (₹)": {
-     "pre": "5.41",
-     "post": "3.79"
-    },
-    "P/E (x)": {
-     "pre": "18.3",
-     "post": "26.12"
-    },
-    "Market Cap at Offer Price": {
-     "pre": "₹41.57 Cr.",
-     "post": "₹59.39 Cr"
-    }
-   },
-   "reviews": {
-    "Subscribe": 0,
-    "May Apply": 0,
-    "Neutral": 0,
-    "Avoid": 0
-   },
-   "legal_name": "Pind Hospitality Ltd.",
-   "about": [
-    "Incorporated in June 15, 2021, Pind Hospitality Limited is engaged in the hospitality sector, specifically in hotels and restaurants. The company has completed over 5 lakh deliveries and is recognized as one of the long-standing restaurant partners in Pune by third-party food delivery apps."
-   ],
-   "about_lists": {
-    "Services": [
-     "Restaurants: The company, along with its partnership firm Pind Punjab, operates six restaurants in Pune, Maharashtra, with no permanent closures since 2016.",
-     "Delivery: The company serves customers through third-party food delivery apps, its own mobile app, online bookings, and phone orders. It also offers mobile pre-ordering for pick-up within a 6 km radius.",
-     "Outdoor Catering: The company also offers outdoor catering services for special events and workplace canteens, with revenue of 528.61 lakhs, ₹ 125.37 lakhs and ₹ 64.38 lakhs in the Fiscal 2026, Fiscal 2025 and Fiscal 2024 in recent periods.",
-     "Advertising Strategy: The company targets middle and upper-middle-class consumers through advertising focused on fresh, affordable food. It uses various media, including internet, print, direct marketing, and social media, to increase brand awareness."
-    ],
-    "Competitive Strengths": [
-     "Experienced Promoters, management team and dedicated staff",
-     "Attractive offerings at competitive prices based on constant menu innovation and customer focus.",
-     "Strong on-line presence",
-     "Strategic locations",
-     "Strong financial position and profitability"
-    ]
-   },
-   "strengths": [
-    "Experienced Promoters, management team and dedicated staff",
-    "Attractive offerings at competitive prices based on constant menu innovation and customer focus.",
-    "Strong on-line presence",
-    "Strategic locations",
-    "Strong financial position and profitability"
-   ],
-   "status": "open",
-   "day_label": "Closes today",
-   "subscription": {
-    "as_of": "Sep 30, 2026 11:53",
-    "rows": [
-     {
-      "category": "Qualified Institutional",
-      "times": 1.0
-     },
-     {
-      "category": "Non Institutional",
-      "times": 0.92
-     },
-     {
-      "category": "Retail Individual",
-      "times": 2.26
-     }
-    ],
-    "total": 1.58
-   },
-   "gmp": {
-    "gmp": 20.0,
-    "gmp_pct": 20.2,
-    "est_listing": 119.0,
-    "updated": null,
-    "trend": "🟡"
-   },
-   "ipowatch_url": "https://ipowatch.in/pind-hospitality-ipo/",
-   "insights": {
-    "metrics": [
-     "FY26 income ₹24.9 Cr",
-     "PAT ₹2.3 Cr",
-     "PAT margin 9.3%",
-     "Income +8% YoY",
-     "PAT -11% YoY",
-     "Post-issue P/E 26.1x"
-    ],
-    "flags": [
-     {
-      "tone": "bad",
-      "text": "Profit fell 11% in FY26"
-     }
-    ],
-    "partial": null
-   },
-   "business_news": [],
-   "news": [
-    {
-     "title": "Pind Hospitality IPO Day 3: Subscribed 1.24x; Retail leads at 1.53x, QIBs at 1x",
-     "source": "scanx.trade",
-     "date": "30 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQamFXYjFqYmh0QWp4Qnl6Z0xmLXE2ZFdsbWlXY0pPcktJOHRWVWlPaVlMeXZyX0w4TEx2Q2VFTG0xRmFVNUJxZERWUEIzek1rOWpBOHpUNWlLWnh0REdkVG53Mk5IOTBqVjFpWUtBdTN2Y2I1MzU1UDYwQXpQT1NiMlk5Zi1oUzJfVDhVVGQxbEJuUzB2SERPdnRRUWxZdk9BTW5KOVY3ZnAtM1Nhak4yVG1TTHlBQjROYzB4MDJR?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Pind Hospitality Ltd IPO Date: Check Issue Date, Price, Lot size, Subscription, News and Details - Moneycontrol",
-     "source": "Moneycontrol.com",
-     "date": "30 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5wczNuei1IcG0xQWlFeTJjT0prWDlVTXI1alNHclM0OVp4bjBKTkJQcFc1RmFWd0ZNQ0xXY0RFLTVQWDBDN0JsWndiYXJKZ3dwVjVwaldoSVRDUGhGVUIxTm9uR2ZVVXFlTjJCc1pJcU1TMFhrcnY5Y3FQUDE?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Pind Hospitality IPO Day 2: Subscribed 0.33x; QIB demand steady at 1.00x",
-     "source": "scanx.trade",
-     "date": "29 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTkttS0ZHazNiSmFBQV8xUU5uZklNLUxFVWhDbUVQRGc4elpBMkdQWXpSMFRMTGt3cXd5VUJOTmJXWHhDQ0JIRzdHSEd0M1pCckx0aldqTm92S2c3Znk3aS1MQTBKNDBKQVh5VjMwc2t6cWpCVlJxNGtQcjNiRnlTYVRBN3FNdDQ2R01EVDZIZ3FDcjc3ZEdtVXhCaVpMNW1MdHZIcUNhaU1WTHRVaDJWaGx2Z0RXUQ?oc=5",
-     "tone": ""
-    }
-   ],
-   "key": "pind hospitality"
-  },
-  {
-   "chittorgarh_url": "https://www.chittorgarh.com/ipo/shivchem-agro-ipo/2695/",
-   "name": "Shivchem Agro",
-   "open_date": "2026-09-28",
-   "close_date": "2026-09-30",
-   "ipo_date_text": "28 to 30 Sep, 2026",
-   "listing_date": "Tue, Oct 6, 2026",
-   "face_value": "₹ 5 per share",
-   "issue_type": "Bookbuilding IPO",
-   "sale_type": "Fresh capital only",
-   "listing_at": "BSE SME",
-   "type": "SME",
-   "lot_size": 2000,
-   "price_band": "₹59 to ₹62",
-   "price_high": 62.0,
-   "issue_size_cr": 14.0,
-   "min_application": {
-    "label": "Individual investors (IND) (Min)",
-    "lots": 2,
-    "shares": 4000,
-    "amount": 248000.0
-   },
-   "financials": {
-    "periods": [
-     "31 Mar 2026",
-     "31 Mar 2025",
-     "31 Mar 2024"
-    ],
-    "rows": {
-     "Assets": [
-      45.04,
-      36.29,
-      16.41
-     ],
-     "Total Income": [
-      33.84,
-      27.5,
-      10.95
-     ],
-     "Profit After Tax": [
-      3.25,
-      2.6,
-      1.29
-     ],
-     "EBITDA": [
-      5.98,
-      4.32,
-      1.93
-     ],
-     "NET Worth": [
-      12.92,
-      9.67,
-      1.5
-     ],
-     "Reserves and Surplus": [
-      10.28,
-      7.04,
-      1.45
-     ],
-     "Total Borrowing": [
-      7.28,
-      8.26,
-      7.1
-     ]
-    },
-    "unit": "Amount in ₹ Crore"
-   },
-   "objects": [
-    {
-     "object": "Funding the working capital requirements of the Company",
-     "amount_cr": 6.9
-    },
-    {
-     "object": "Repayment/prepayment, in full or part, of certain loans availed by Company",
-     "amount_cr": 3.5
-    },
-    {
-     "object": "General Corporate Purposes",
-     "amount_cr": null
-    }
-   ],
-   "kpis": {
-    "ROE": "28.76%",
-    "ROCE": "30.04%",
-    "Debt/Equity": "0.56",
-    "RoNW": "28.76%",
-    "PAT Margin": "9.61%",
-    "EBITDA Margin": "17.69%",
-    "NAV": "24.50",
-    "P/B (x)": "2.53"
-   },
-   "valuation": {
-    "EPS (₹)": {
-     "pre": "6.16",
-     "post": "4.31"
-    },
-    "P/E (x)": {
-     "pre": "10.06",
-     "post": "14.39"
-    },
-    "Market Cap at Offer Price": {
-     "pre": "₹32.69 Cr.",
-     "post": "₹46.70 Cr"
-    }
-   },
-   "reviews": {
-    "Subscribe": 0,
-    "May Apply": 0,
-    "Neutral": 0,
-    "Avoid": 0
-   },
-   "legal_name": "Shivchem Agro Ltd.",
-   "about": [
-    "Incorporated in September 2021, Shivchem Agro Limited is an agrochemical company engaged in the manufacturing, stocking, distribution and sale of agricultural formulations.The Company offers a diversified portfolio of insecticides, fungicides, herbicides, plant growth regulators, rodenticides and fertilizers. As of the date of the Red Herring Prospectus, the Company is licensed to manufacture 176 agrochemical products, including 88 insecticides, 40 fungicides, 37 herbicides, 8 plant growth regulators and 3 rodenticides. It also has authorization for manufacturing 82 fertilizers, of which it currently manufactures 8.",
-    "The Company is licensed to sell, stock, exhibit and distribute its products across eight states in India and, as of March 31, 2026, had 685 distributors supported by five godowns. Its manufacturing facility in Jhajjar is equipped with machinery for agrochemical production and includes an Effluent Treatment Plant and Wet Scrubber Unit for managing wastewater and air emissions.",
-    "The Company is ISO 9001:2015, ISO 22000:2018 and ISO 31000:2018 certified and provides crop protection solutions through the manufacturing, supply and distribution of solid and liquid formulations. Its product portfolio is supported by on-field product demonstrations and a distribution network serving multiple agricultural markets.",
-    "As of March 31, 2026, the Company had 66 permanent employees, with the largest workforce deployed across sales and marketing, manufacturing and operations, accounts and finance, and field functions."
-   ],
-   "about_lists": {
-    "Competitive Strengths": [
-     "Diversified Product Portfolio.",
-     "Large and Diverse Distributor Network.",
-     "Automated Filling and Packaging Infrastructure.",
-     "Strong On-Field Product Demonstration Capabilities.",
-     "Manufacturing Facility with Diverse Product Capabilities."
-    ]
-   },
-   "strengths": [
-    "Diversified Product Portfolio.",
-    "Large and Diverse Distributor Network.",
-    "Automated Filling and Packaging Infrastructure.",
-    "Strong On-Field Product Demonstration Capabilities.",
-    "Manufacturing Facility with Diverse Product Capabilities."
-   ],
-   "status": "open",
-   "day_label": "Closes today",
-   "subscription": {
-    "as_of": "Sep 30, 2026 13:59",
-    "rows": [
-     {
-      "category": "Qualified Institutional",
-      "times": 1.0
-     },
-     {
-      "category": "Non Institutional",
-      "times": 0.72
-     },
-     {
-      "category": "Retail Individual",
-      "times": 2.71
-     }
-    ],
-    "total": 1.69
-   },
-   "gmp": {
-    "gmp": 10.0,
-    "gmp_pct": 16.13,
-    "est_listing": 72.0,
-    "updated": null,
-    "trend": "🟢"
-   },
-   "ipowatch_url": "https://ipowatch.in/shivchem-agro-ipo/",
-   "insights": {
-    "metrics": [
-     "FY26 income ₹33.8 Cr",
-     "PAT ₹3.2 Cr",
-     "PAT margin 9.6%",
-     "Income +23% YoY",
-     "PAT +25% YoY",
-     "Post-issue P/E 14.4x"
-    ],
-    "flags": [
-     {
-      "tone": "good",
-      "text": "Profit up 3 years in a row"
-     },
-     {
-      "tone": "good",
-      "text": "High ROE 29%"
-     }
-    ],
-    "partial": null
-   },
-   "business_news": [],
-   "news": [
-    {
-     "title": "Shivchem Agro IPO Day 3: Subscribed 1.13x; Retail demand leads at 1.62x",
-     "source": "scanx.trade",
-     "date": "30 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN3lELUJWM2RrRGlQWEJ3SE5aSzNhZmFKNnYydUVLQS1rT0drSWgxMWI4VlhsdHhLRDRrUkNZUlJXc1FoUGI0Ui1qRXRibHdYaU9QRjFoZ045TXRQUVhEN0FVTm5fbzR4b29fVVI4X0tiMVcxOC1NRDdVemJpVVZra2xzT2JoTTV0VGxZQ09WSG1pdVF1VUJHX01CN0h5Q21xX3loRXdkYmlyVGo1TW9VOG9lbTNJbkZO?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Shivchem Agro IPO Day 2 Subscription Status: NII 0.60x",
-     "source": "HDFC Sky",
-     "date": "29 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE02eldFb3JWNjFiaUlGeG9JYVRmWUdPUW9tamllZU16bTBJNTF1dzI0TUl0cl9ZMDZQbld5T2VGX0o2Y044MDBEVWs1U203eG1VVVEza0xNSGw5NFFCcW5laTFndlR5TGlSS1BKQk5TRmpmdWdLVzB3?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Shivchem Agro IPO Day 2: Subscribed 0.15x; Retail and bHNI lead at 0.17x",
-     "source": "scanx.trade",
-     "date": "29 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcmxFRXNNd0xESV96LUh4N0N6WVBuOWY1NzRRSndKMHdlZFk4dzlsaExSanZzVXIySXdoUThObXZYTXp3LUQxd2tjcU16SlRqbzljN09IOFIzVWN5d2oyWWdnVDFmdC0zemh1bHBsVGsyVGFpY0wwcXYtcTVod29xQmZvZTVpY3R1N09zdHJWMnFvanB6MFFGVDdvNmpVUVY1OWZpdnN0THE3SzlkYlNUemNsZms?oc=5",
-     "tone": ""
-    }
-   ],
-   "key": "shivchem agro"
-  },
-  {
-   "chittorgarh_url": "https://www.chittorgarh.com/ipo/shah-investors-home-ipo/2657/",
-   "name": "Shah Investor's Home",
-   "open_date": "2026-09-28",
-   "close_date": "2026-09-30",
-   "ipo_date_text": "28 to 30 Sep, 2026",
-   "listing_date": "Tue, Oct 6, 2026",
-   "face_value": "₹ 10 per share",
-   "issue_type": "Bookbuilding IPO",
-   "sale_type": "Fresh capital only",
-   "listing_at": "BSE, NSE",
-   "type": "Mainboard",
-   "lot_size": 85,
-   "price_band": "₹159 to ₹167",
-   "price_high": 167.0,
-   "issue_size_cr": 90.0,
-   "min_application": {
-    "label": "Retail (Min)",
-    "lots": 1,
-    "shares": 85,
-    "amount": 14195.0
-   },
-   "financials": {
-    "periods": [
-     "31 Mar 2026",
-     "31 Mar 2025",
-     "31 Mar 2024"
-    ],
-    "rows": {
-     "Assets": [
-      304.44,
-      302.57,
-      298.76
-     ],
-     "Total Income": [
-      72.4,
-      94.47,
-      79.05
-     ],
-     "Profit After Tax": [
-      13.11,
-      23.42,
-      18.05
-     ],
-     "EBITDA": [
-      21.62,
-      35.31,
-      25.13
-     ],
-     "NET Worth": [
-      179.71,
-      168.09,
-      150.54
-     ],
-     "Reserves and Surplus": [
-      163.95,
-      152.34,
-      134.79
-     ],
-     "Total Borrowing": [
-      18.47,
-      5.71,
-      3.54
-     ]
-    },
-    "unit": "Amount in ₹ Crore"
-   },
-   "objects": [
-    {
-     "object": "Funding working capital requirements of the Company",
-     "amount_cr": 60.0
-    },
-    {
-     "object": "General Corporate Purposes",
-     "amount_cr": null
-    }
-   ],
-   "kpis": {
-    "ROE": "7.59%",
-    "ROCE": "10.61%",
-    "Debt/Equity": "0.10",
-    "RoNW": "7.35%",
-    "PAT Margin": "18.24%",
-    "EBITDA Margin": "30.24%",
-    "NAV": "114.07",
-    "P/B (x)": "1.46"
-   },
-   "valuation": {
-    "EPS (₹)": {
-     "pre": "8.32",
-     "post": "6.20"
-    },
-    "P/E (x)": {
-     "pre": "20.07",
-     "post": "26.94"
-    },
-    "Market Cap at Offer Price": {
-     "pre": "₹263.09 Cr.",
-     "post": "₹353.26 Cr"
-    }
-   },
-   "reviews": {
-    "Subscribe": 0,
-    "May Apply": 0,
-    "Neutral": 0,
-    "Avoid": 2
-   },
-   "legal_name": "Shah Investor's Home Ltd.",
-   "about": [
-    "Incorporated in October 1994, Shah Investor’s Home Limited is a retail broking company providing a range of financial services, with over three decades of experience in the securities market. The Company primarily offers equity and derivatives brokerage services, facilitating the buying and selling of equities, IPOs and other securities for retail customers, including resident and non-resident Indians. In addition to its core brokerage operations, the Company provides mutual fund distribution, margin funding, and stock lending and borrowing (SLB) services under the brand name “Shah Investors”. As of March 31, 2026, the Company had served over 1,00,000 demat accounts, with more than 38,000 active clients and a network of over 181 authorised persons.",
-    "The Company operates through 11 branches across Mumbai, Ahmedabad, Vadodara, Junagadh, Gandhinagar and Rajkot, with its branch and authorised-person network primarily serving customers across Gujarat and Maharashtra. The Company started its operations as a Trading Member of the National Stock Exchange of India Limited in 1995 and registered as a Depository Participant with NSDL in 1997.",
-    "The Company has progressively adopted technology across its operations. It implemented a VMWare-based virtualised environment in 2007, launched its digital app-based platform “SIHL Moneymaker” in 2023, and had over 12,452 active registered users as of March 31, 2026. It also operates an in-house ERP system across its branches and franchises. In Fiscal 2026, the Company launched “ALGOFY”, an API-powered algorithmic trading platform that enables strategy development, testing, deployment, automation and management through APIs, pre-built strategies and a no-code interface.The Company is supported by an experienced management team and focuses on building long-term client relationships while expanding its retail and HNI customer base.",
-    "As of July 31, 2026, the Company had 167 permanent employees across accounts, compliance, demat, helpdesk, research, IT, MTF & SLB, sales, trading and other functions."
-   ],
-   "about_lists": {
-    "Competitive Strengths": [
-     "Sizeable retail clientele across Gujarat.",
-     "Established branch and authorised-person network.",
-     "Digital platforms including SIHL Moneymaker and ALGOFY.",
-     "Technology-enabled trading and client-service infrastructure.",
-     "Integrated brokerage model with long-term client relationships.",
-     "Long-standing experience in retail broking and financial services."
-    ]
-   },
-   "strengths": [
-    "Sizeable retail clientele across Gujarat.",
-    "Established branch and authorised-person network.",
-    "Digital platforms including SIHL Moneymaker and ALGOFY.",
-    "Technology-enabled trading and client-service infrastructure.",
-    "Integrated brokerage model with long-term client relationships.",
-    "Long-standing experience in retail broking and financial services."
-   ],
-   "status": "open",
-   "day_label": "Closes today",
-   "subscription": {
-    "as_of": "Sep 30, 2026 11:53",
-    "rows": [
-     {
-      "category": "Qualified Institutional",
-      "times": 1.08
-     },
-     {
-      "category": "Non Institutional",
-      "times": 9.03
-     },
-     {
-      "category": "Retail Individual",
-      "times": 3.88
-     }
-    ],
-    "total": 4.18
-   },
-   "gmp": {
-    "gmp": 15.0,
-    "gmp_pct": 8.988,
-    "est_listing": 182.0,
-    "updated": null,
-    "trend": "🟢"
-   },
-   "ipowatch_url": "https://ipowatch.in/shah-investors-home-ipo/",
-   "insights": {
-    "metrics": [
-     "FY26 income ₹72.4 Cr",
-     "PAT ₹13.1 Cr",
-     "PAT margin 18.2%",
-     "Income -23% YoY",
-     "PAT -44% YoY",
-     "Post-issue P/E 26.9x"
-    ],
-    "flags": [
-     {
-      "tone": "bad",
-      "text": "Profit fell 44% in FY26"
-     }
-    ],
-    "partial": null
-   },
-   "business_news": [],
-   "news": [
-    {
-     "title": "SRIT India vs Shah Investor’s Home IPO: Which IPO Is Leading In Grey Market On Final Subscription Day? Check GMP, Estimated Listing Price And Subscription Status",
-     "source": "The Sunday Guardian",
-     "date": "30 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQeDliRzAzSVcxXzZvNG4weGRFZVljWDJ6elZ2XzJHNzlHSHZDZEJpUmh0b3pfT3BtejFJdWtOVE9CZ3ZfSVlNa0RwWjVMbm1Cb2xrMXZDOG1PajBZa1g0c3lsSmZFcGN3UVR3c0NrMnlWc29tVU5SdE96YlR0dGJtVGN0RGFaM3kxVGo0OTF3Tkc3Z2lJZUVZSHdwOEFTZzF1WUo2YnZCZGFmOGpBZTY0RUxVdkFRbDlscy16cUFhTUc0eDRzcm8tVEM2dDdjUzBXWEJTYmhjNGxkMzlpdGlyeUdYQXVqRERnWVp6STlhV1pMRGZtREpaTUFXaXdCNVI3VjRhM01XRHZ4TjFpU1NTcG1tNmo1RzR4R2x0cHE0RjZEaWdKV0p3aXpkdlNWUdIBswJBVV95cUxQOTVSdkY2bm5jOGNjRWo3OW1WcEVuaFQwVHdPQnNRbXBxM0hacWRqMnFtRTkzQUFpOURXTFpSVjY5d0dOVHhkbXh1NDVrSWZaYkItZVBoLVNTMGE2dmprLV9GdEhnUWRwTTFBZjlFSjh5QjgwZ1R3QThjM2psdkV5bUJnQnMwckVPQ1FKaXhzYUF3WkNpNUJnU1ozb0hiMGpwTTlJVlhyUzZkWE1jdjRPNFVpdEEzS2NiWmpEeTJzbjNzbzliNDFrRXFlYnlHRFBCcnhjY0dKdHk5UVZEQ0xhX1ZiUUFfaDhWSmp1d1lFVk5EekViZFNOM0w5RTVfUDRlSFg0cS1lX0xBOGlrcDNUXzI4UnowZmZJbkV6LWRDVXpkTHVzdmRrSHBINlEycTRKZ180?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Shah Investor's IPO subscribed 3x on Day 3 so far - Check GMP",
-     "source": "Moneycontrol.com",
-     "date": "30 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxPMTRtMm9QdkdfNjVGWDZ0WG9rMTg5U3ViT2JZcmwxdG53RVNqM3RuLVlCMmExVDVLR3l3a20zbk1mQWNveVVMX2VXODJTTkZJeUxIUml2cUJDMGdxNUF5VDdIbWI2cXNSMTNDV3ZERnBRbXdBcExQRU9IQ2QyY3hzNzhvcGtZMG51MXg4VFhpNzhfak9NcWZQTk8yeEt6UGhfSHhYZXF1bzdERHNPZElOcGljQkI5aXVOUHRQLUJVUTJDS3FwUXNuSTRfOTlPcXoxdzQtcDZTTnJmMTRPeEpkVzVzQ0RTbk1BNWhGQnl1dTZqcDh5aE9XaTR1R2JEZ01JaXY5alhaM0JRNFBJNFc0OGdvRWJKNFlyVkpxdVdyNDY2QndEd2w2TjJRUDM4S2l1bjNoWFVFUEVpVldQblk2bGJvWmJCZ0ZtbFEwZUxOWE9GRWMxNEVlY3M3Z3JtS202WEN5MjZFeDcxX0E4S1d5a0c5UQ?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "IPO GMP Today: SRIT India, Shah Investor's Home IPO GMP signals up to 23% listing premium on day 3",
-     "source": "ET Now",
-     "date": "30 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWXg2QVVaYXF0UXZRLWZ2Q1hGdC1GRnRjQ0VfSlZkcGE4LVNaU3NzLUdya0tjc1R2SnA3VTJNRDRWVGE1YmFZV1RKSWVzQmtUOXhHbldHcGpoTHVydDlKUG1seGtOR1B3MExuSHZBNUVLdEVZZDlKZENhUG9YN1dmbFhieXlGazhyY0ZNRmxsRDJMWXFXWldIY3EyeUh4OTZYSFo2ekdWbmNZZ2pfQWNjd2I1V3BwdzVjOS1QUDVyZDI3NEtITTR2TDJKS3V4YU1yY1JTVUxGWW9nOEtHemt2TngyVm3SAeoBQVVfeXFMTldSN091WTJzUjZyVk1UbUlxaW5Gbm9wc3F4MERTa1F4dEpSYlVNVUlxcmlKWk5GWnhXWHpNRmVzMC1CRXNGWHV2NlRwN0JpZlpoLUxRazlndmIwNy1fbkNYSUdLSklhOTlIZThCYzk4VDRQXzQ4T05sQkFhb3lZbGN4UHRWRnkyamtSMkJrcHVqVERmMjhVcmhCR2dOZ203cnE1T0RiclByTV9meGJUUDk0RTdOREZVenVBLUU0V2FNbHRYamhyX1otVldnZnZHbEc1QTIzNFNzVFNQVXJMT191bDl3RllVRlJB?oc=5",
-     "tone": ""
-    }
-   ],
-   "key": "shah investors home"
-  },
-  {
-   "chittorgarh_url": "https://www.chittorgarh.com/ipo/acme-universal-safezone-9-ipo/3206/",
-   "name": "Acme Universal Safezone 9",
-   "open_date": "2026-09-28",
-   "close_date": "2026-09-30",
-   "ipo_date_text": "28 to 30 Sep, 2026",
-   "listing_date": "Tue, Oct 6, 2026",
-   "face_value": "₹ 10 per share",
-   "issue_type": "Bookbuilding IPO",
-   "sale_type": "Fresh capital only",
-   "listing_at": "BSE SME",
-   "type": "SME",
-   "lot_size": 1600,
-   "price_band": "₹65 to ₹71",
-   "price_high": 71.0,
-   "issue_size_cr": 36.0,
-   "min_application": {
-    "label": "Individual investors (IND) (Min)",
-    "lots": 2,
-    "shares": 3200,
-    "amount": 227200.0
-   },
-   "financials": {
-    "periods": [
-     "31 Mar 2026",
-     "31 Mar 2025",
-     "31 Mar 2024"
-    ],
-    "rows": {
-     "Assets": [
-      146.72,
-      133.7,
-      119.07
-     ],
-     "Total Income": [
-      211.16,
-      191.31,
-      181.67
-     ],
-     "Profit After Tax": [
-      5.86,
-      0.8,
-      7.56
-     ],
-     "EBITDA": [
-      15.15,
-      9.85,
-      14.55
-     ],
-     "NET Worth": [
-      52.77,
-      46.91,
-      41.96
-     ],
-     "Reserves and Surplus": [
-      38.74,
-      42.23,
-      37.5
-     ],
-     "Total Borrowing": [
-      58.05,
-      49.65,
-      44.51
-     ]
-    },
-    "unit": "Amount in ₹ Crore"
-   },
-   "objects": [
-    {
-     "object": "Funding capital expenditure requirements for the installation of solar power plant",
-     "amount_cr": 3.62
-    },
-    {
-     "object": "Funding capital expenditure requirements towards installation of additional machinery",
-     "amount_cr": 8.96
-    },
-    {
-     "object": "Funding incremental working capital requirements of the Company",
-     "amount_cr": 8.0
-    },
-    {
-     "object": "Funding inorganic growth through unidentified acquisitions and other strategic initiatives and General corporate purposes",
-     "amount_cr": null
-    }
-   ],
-   "kpis": {
-    "ROCE": "5.54%",
-    "Debt/Equity": "1.10",
-    "RoNW": "11.75%",
-    "PAT Margin": "2.84%",
-    "EBITDA Margin": "7.36%",
-    "NAV": "37.60",
-    "P/B (x)": "1.89"
-   },
-   "valuation": {
-    "EPS (₹)": {
-     "pre": "4.17",
-     "post": "3.07"
-    },
-    "P/E (x)": {
-     "pre": "17.03",
-     "post": "23.13"
-    },
-    "Market Cap at Offer Price": {
-     "pre": "₹99.63 Cr.",
-     "post": "₹135.56 Cr"
-    }
-   },
-   "reviews": {
-    "Subscribe": 0,
-    "May Apply": 0,
-    "Neutral": 0,
-    "Avoid": 0
-   },
-   "legal_name": "Acme Universal Safezone 9 Ltd.",
-   "about": [
-    "Incorporated in November 2016, Acme Universal Safezone 9 Limited operates in the Personal Protective Equipment (PPE) segment, focusing on industrial safety footwear for sectors including construction, oil and gas, mining, heavy engineering, automotive, pharmaceuticals, chemical processing, foundry and power generation. It offers 15 product lines across EVA-rubber, Nitrile Rubber and PVC sole types, providing protection against impact, compression, penetration, electrical shock, static electricity, heat and fire, chemicals and slipping.",
-    "The Company operates four manufacturing facilities across Madhya Pradesh and Uttar Pradesh. It uses ICad3D technology for product design and visualisation and SAP S/4 HANA for enterprise resource planning across finance, operations and logistics. Its products are distributed through direct institutional sales, regional distributors and dealers, and digital and e-commerce channels, supported by warehousing at more than 40 locations across India. The Company also exports to markets including the UAE, Bahrain, Saudi Arabia, Nigeria, Israel, the Netherlands, Hong Kong, Cameroon and Mauritius.",
-    "The Company manufactures products compliant with applicable IS 15298, EN ISO 20345, ASTM F2413 and SEDEX SMETA standards, depending on the product variant and export destination. It also develops customised products based on customer requirements. For FY2026, the Company reported revenue from operations of ₹20,590.31 lakhs, EBITDA of ₹1,515.19 lakhs and PAT of ₹585.73 lakhs.",
-    "As of March 31, 2026, the Company had a total manpower strength of 1,073 employees across finance, HR, IT, marketing, operations and sales."
-   ],
-   "about_lists": {
-    "Competitive Strengths": [
-     "Strong Customer Relationships.",
-     "Research and Development Capabilities.",
-     "Established Sales and Distribution Network.",
-     "Automation and Technology-Driven Operations.",
-     "Wide Product Range and Standards Compliance.",
-     "Manufacturing Scale and Strategic Facility Locations.",
-     "Export Presence and International Standards Compliance."
-    ]
-   },
-   "strengths": [
-    "Strong Customer Relationships.",
-    "Research and Development Capabilities.",
-    "Established Sales and Distribution Network.",
-    "Automation and Technology-Driven Operations.",
-    "Wide Product Range and Standards Compliance.",
-    "Manufacturing Scale and Strategic Facility Locations.",
-    "Export Presence and International Standards Compliance."
-   ],
-   "status": "open",
-   "day_label": "Closes today",
-   "subscription": {
-    "as_of": "Sep 30, 2026 12:59",
-    "rows": [
-     {
-      "category": "Non Institutional",
-      "times": 3.58
-     },
-     {
-      "category": "Retail Individual",
-      "times": 1.47
-     }
-    ],
-    "total": 1.51
-   },
-   "gmp": {
-    "gmp": 0.0,
-    "gmp_pct": 0.0,
-    "est_listing": 71.0,
-    "updated": null,
-    "trend": "🟡"
-   },
-   "ipowatch_url": "https://ipowatch.in/acme-universal-ipo/",
-   "insights": {
-    "metrics": [
-     "FY26 income ₹211.2 Cr",
-     "PAT ₹5.9 Cr",
-     "PAT margin 2.8%",
-     "Income +10% YoY",
-     "PAT +632% YoY",
-     "Post-issue P/E 23.1x"
-    ],
-    "flags": [],
-    "partial": null
-   },
-   "business_news": [],
-   "news": [
-    {
-     "title": "Acme Universal Safezone 9 IPO Day 3: Subscribed 0.57x; QIB interest remains absent",
-     "source": "scanx.trade",
-     "date": "30 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX2lSa0hGNHNCZS16RXNxYWh6SUh6REFxQ3kzTVNlU0dEc1d0eTNGeVI5M2RlZmRaTE1qVXNlaDhoUl9TamZZbkYyZU5YV2tCRl9EWGlOZFFtMmNMVEozeDBMbGpsZU5rR0pGSGJfRFVUVzRzcE9kYTNJQUNoOGFLcUs4Rmg4aUl0THdqS2g0U1JWUGtBZDZFQ01wVkVYaU1EanBfc1lqdVZYY3VhRWpadmxlYXU0QW8?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Acme Universal Safezone 9 IPO Day 2 Subscription Status: 0.44x",
-     "source": "HDFC Sky",
-     "date": "29 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd2pBOG5OSFhSRmR5YkRITWhzZGZjWjlKYjJHVmFuT1RpMFctakVWYVExNVcxLXNTaXFOV1R6Q0hUWEdVaVhGRFIxaFF2TlhMSGZBZFFIbjR6V1BqclZ1NTNmaHNPNzhsTUZvbzZPcG9HR3FpTXA1UkRrNV9SYzFuU3pRZTZxckVjOGFyUWtrbF9zaUVXY0s5OHFEMnNVaEJXbElDUW1YS21mejg?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "The Acme Universal Safezone 9 IPO is open for subscription on September 28, 2026, and closes on September 30, 2026",
-     "source": "Press Trust of India",
-     "date": "29 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdzFaUTNPa3dhTV9DRllnUUhmaWVVS2NPTmRyVWp1aVVoZ3BlMGNsWTVIWWFOejNqNkg0R291dTlTbHNZd0ptaC03SFlQbW1jdmZyaWhTY2twZEN2RFUzOFBMd19JNVg4ZTIxWXJRNGIwdHVjdHhZLTZfYU1sWGphRElyQjVQc2hUblR6cEh6TURxT3A0SFhUUUk1ME9DZ1hjemdGZGxjN3FQMVhPMnpDR3VrTjl6RG1WOWVvRmN0QVNkSk11YkRiZGNyTTZsVnNmQnNHbFJpOHlXYnFTU3RlY0l6X21aTS1PdVQ2blA3cw?oc=5",
-     "tone": ""
-    }
-   ],
-   "key": "acme universal safezone 9"
-  },
   {
    "chittorgarh_url": "https://www.chittorgarh.com/ipo/vans-electroengineerings-ipo/3197/",
    "name": "Vans Electroengineerings",
@@ -1105,11 +72,11 @@
    },
    "objects": [
     {
-     "object": "To Meet Working Capital Requirements of the Company",
+     "object": "To meet working capital requirements of the company",
      "amount_cr": 25.0
     },
     {
-     "object": "General Corporate Purpose",
+     "object": "General corporate purpose",
      "amount_cr": null
     }
    ],
@@ -1166,24 +133,28 @@
     "Core Engineering and Integrated Engineering, Assembly and Testing Capabilities."
    ],
    "status": "open",
-   "day_label": "Closes tomorrow",
+   "day_label": "Closes today",
    "subscription": {
-    "as_of": "Sep 30, 2026 10:59",
+    "as_of": "Oct 01, 2026 11:58",
     "rows": [
      {
+      "category": "Qualified Institutional",
+      "times": 1.54
+     },
+     {
       "category": "Non Institutional",
-      "times": 5.88
+      "times": 258.9
      },
      {
       "category": "Retail Individual",
-      "times": 21.91
+      "times": 266.79
      },
      {
       "category": "Employee Reservations",
-      "times": 0.08
+      "times": 0.38
      }
     ],
-    "total": 11.92
+    "total": 184.62
    },
    "gmp": {
     "gmp": 90.0,
@@ -1221,6 +192,13 @@
    "business_news": [],
    "news": [
     {
+     "title": "Vans Electroengineerings IPO Day 3: Subscribed 135.61x; Retail demand surges to 200.98x",
+     "source": "scanx.trade",
+     "date": "01 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTTI4RnBFcGUxeDVaNTdhUkZ1LTkwdnd3YXFzSGpuV2pqMlF4UU9QaEpUY0NHNVFKdi0wZ1dEQzNJeENGSDU4elUxVmdXQWVlZEJNWG45OVZZQnE1QnBtR19OU0xPMHM2UFk2QVJuQWtjWWp6clMxMFN2QzZZLTdqaE5aa1BhcWg1U01MY0RETUhNeEZrMzg3VGRCbzJ5ZlkybGhSMkRLZy1LSFNLTGk3MDFRcjFzN1IyVkE?oc=5",
+     "tone": ""
+    },
+    {
      "title": "Vans Electroengineerings IPO Day 2: Subscribed 1.31x; bHNI leads at 9.34x",
      "source": "scanx.trade",
      "date": "30 Sep 2026",
@@ -1232,13 +210,6 @@
      "source": "Univest",
      "date": "29 Sep 2026",
      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbW9YT1ZlMEU0cEpjbGh1R08wNU1BWGFhTmVMQzVWSnhheUFTN2tpSFZaRU1hUmw3cEtIS2JGVDV5TDFiU1BnYnREX29OSjNKMFVWTEJ0TVhuSHhUVHZzNG9CSUVwc3JneGJSWG9VeDJOdmo2TEtQbzN2Z1JVQnBSU1JNbVlaRUlCZlgwV1BGYjFxc2FDUHJqdzJmbDhZM2ptMElTb3JhNjI0Rkc1cktV?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Vans Electroengineerings IPO Day 1: Subscribed 1.44x; Retail demand surges to 2.57x",
-     "source": "scanx.trade",
-     "date": "29 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYVNSSnFhRk5VNHRIUHBzWEgtMFNGRVVORDNHa09UTmJLQzFaVVhNNWRBTW1kTlpldzlJNWJJUFFRbjYzbTY4ZlJsVmpQRHV6X2preWVLY3VPMzh1dVo4Nk9xSkQtcGJfWHFGa1BtX3l3NGV5d3NfN0o5LWhlV205a0JpTC1kUWswal95Vjc5TEJmd2dKcmNTUXlaN3RNLUp2Y0tsWndNN2tsTUdGUDQ0NzdlQm54a1ZTa2pqUg?oc=5",
      "tone": ""
     }
    ],
@@ -1284,7 +255,7 @@
       19.91
      ],
      "Profit After Tax": [
-      12.2,
+      12.22,
       11.48,
       4.32
      ],
@@ -1299,9 +270,9 @@
       8.93
      ],
      "Reserves and Surplus": [
-      243.26,
-      195.77,
-      80.96
+      24.33,
+      19.57,
+      8.1
      ],
      "Total Borrowing": [
       9.52,
@@ -1326,14 +297,14 @@
     }
    ],
    "kpis": {
-    "ROE": "56.25%",
-    "ROCE": "75.05%",
-    "Debt/Equity": "0.01",
-    "RoNW": "56.25%",
-    "PAT Margin": "34.94%",
-    "EBITDA Margin": "47.07%",
-    "NAV": "244.76",
-    "P/B (x)": "0.80"
+    "ROE": "46.03%",
+    "ROCE": "40.12%",
+    "Debt/Equity": "0.29",
+    "RoNW": "37.40%",
+    "PAT Margin": "29.11%",
+    "EBITDA Margin": "40.62%",
+    "NAV": "39.17",
+    "P/B (x)": "5.03"
    },
    "valuation": {
     "EPS (₹)": {
@@ -1382,9 +353,9 @@
     "Strategic Foray into High-Margin Real Estate Development with Tier II City Focus Strengthen Agent Network Through Training and Support"
    ],
    "status": "open",
-   "day_label": "Closes tomorrow",
+   "day_label": "Closes today",
    "subscription": {
-    "as_of": "Sep 30, 2026 13:58",
+    "as_of": "Oct 01, 2026 11:54",
     "rows": [
      {
       "category": "Qualified Institutional",
@@ -1392,19 +363,19 @@
      },
      {
       "category": "Non Institutional",
-      "times": 0.19
+      "times": 14.69
      },
      {
       "category": "Retail Individual",
-      "times": 1.09
+      "times": 10.91
      }
     ],
-    "total": 0.8
+    "total": 8.83
    },
    "gmp": {
-    "gmp": 38.0,
-    "gmp_pct": 19.29,
-    "est_listing": 235.0,
+    "gmp": 48.0,
+    "gmp_pct": 24.37,
+    "est_listing": 245.0,
     "updated": null,
     "trend": "🟡"
    },
@@ -1413,7 +384,7 @@
     "metrics": [
      "FY26 income ₹42.3 Cr",
      "PAT ₹12.2 Cr",
-     "PAT margin 34.9%",
+     "PAT margin 29.1%",
      "Income +28% YoY",
      "PAT +6% YoY",
      "Post-issue P/E 17.1x"
@@ -1425,7 +396,7 @@
      },
      {
       "tone": "good",
-      "text": "High ROE 56%"
+      "text": "High ROE 46%"
      }
     ],
     "partial": null
@@ -1433,24 +404,24 @@
    "business_news": [],
    "news": [
     {
-     "title": "Black Opal Consultants Ltd IPO Date: Check Issue Date, Price, Lot size, Subscription, News and Details - Moneycontrol",
-     "source": "Moneycontrol.com",
-     "date": "30 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMcWtCTmlMcndvc0xKV2dELU9PMXZjRDF5RUtmVVIyUl9HcW5ValY3V0VEbGYtMFVFd2hIVDluQnhhb3AySWItcXRBX2plQnRJNnN1U1RpR2lCN3dzTy1TUWJ2RzZmUU55WmlqN1M1eENZWnhpT3YzRmhGckNfMzA?oc=5",
+     "title": "Exclusive: Black Opal’s Prasoon Chauhan on the ₹26 crore Ayodhya bet",
+     "source": "The Financial World",
+     "date": "01 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSmZ1amRUOEdBVXdPdmltM0FfcTRJNzVlVnhVbXMtb3NqdmhyOVYwRnZvY2hvd1pVclNQQVc2ZWpvdFJvSUJnNUpqd0pRVVdYb09fNDZpVk9sSEdGX1VKa2hxR0g1UDhPeUEtTzNaQnBFSXVjZnFzLWxjY2c5RHdIbEtVVHNoY1hmUWlGbG5WX1owUWNoRTRCVEtiMm40M0dfU1ltR3RUNWhMNkdnZmc?oc=5",
      "tone": ""
     },
     {
-     "title": "Black Opal Consultants IPO Day 2: Subscribed 0.49x; Retail leads at 0.59x",
+     "title": "Black Opal Consultants IPO Day 3: Subscribed 5.36x; NII leads with 9.01x demand",
      "source": "scanx.trade",
-     "date": "30 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbW5kRFU1MkRKZmNPdWNaMWVTSE9MUnpsU1BaZXppOV81U3RvcmNVLUtmZDI1bkJzaUYwakg2M0ZTNUd4MXVnTmpzT01qQVFyV1FKNWdURHVESnUwWnNCM25KdVpXRUJqZUZwaGVqUG9UMHQ1My1PMFREaFFqX2VvTlVYOU9XdnJzQ3JLNjVOclJXTS1iSkRRbVhnMjBGSFhDYkxhNjdkeTlwWHlyVTZ3TUROMVB1b0h4M3hz?oc=5",
+     "date": "01 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORENja3VzTTlIMzNqTlRub3dySWN4aDY0TDJPclZicWlFVm5Rb3NUNVZOb3A3X3pha09Kc3lsNVZPVzNpVHJleVpHSmpPMGw2RWxHMVJCUWhyZzVEOFdjTC00WnNjV3hRa0VZN2RoNFhQQkVxLUtNNTVZN29jY040TFByWS1JSngzVmxGNHdfb3R1cjJxdmF6Z0NZNzJudHcxUkNWUHFPUkZtanA4VFhuV2FLbmlzOTA?oc=5",
      "tone": ""
     },
     {
-     "title": "Black Opal Consultants IPO Day 1 Subscription Status: 0.37x",
-     "source": "HDFC Sky",
-     "date": "29 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPR0RwTjRUSExLbnBVdEVrTEhKYzhVV2dnaXlsUnFFZ0taa3h4SVNRTU54YXVya0txWVVSY3l5NXN5amR3SjFoRjNlbXVpMC1SdUs0dGZONkVoM09NblUxNTJpTGExM2RPejN1a0hvMlRhUlBUWWtTemVQcnN4dFhRQXN5UQ?oc=5",
+     "title": "Black Opal Consultants IPO Day 2: Subscribed 1.32x; Retail leads at 1.61x; bHNI surges 550%",
+     "source": "scanx.trade",
+     "date": "01 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbW5kRFU1MkRKZmNPdWNaMWVTSE9MUnpsU1BaZXppOV81U3RvcmNVLUtmZDI1bkJzaUYwakg2M0ZTNUd4MXVnTmpzT01qQVFyV1FKNWdURHVESnUwWnNCM25KdVpXRUJqZUZwaGVqUG9UMHQ1My1PMFREaFFqX2VvTlVYOU9XdnJzQ3JLNjVOclJXTS1iSkRRbVhnMjBGSFhDYkxhNjdkeTlwWHlyVTZ3TUROMVB1b0h4M3hz?oc=5",
      "tone": ""
     }
    ],
@@ -1590,24 +561,24 @@
     "In-house Quality Assurance and Control Team Ensuring Compliance"
    ],
    "status": "open",
-   "day_label": "Closes tomorrow",
+   "day_label": "Closes today",
    "subscription": {
-    "as_of": "Sep 30, 2026 14:04",
+    "as_of": "Oct 01, 2026 14:24",
     "rows": [
      {
       "category": "Qualified Institutional",
-      "times": 1.47
+      "times": 2.06
      },
      {
       "category": "Non Institutional",
-      "times": 0.12
+      "times": 0.51
      },
      {
       "category": "Retail Individual",
-      "times": 0.28
+      "times": 0.49
      }
     ],
-    "total": 0.58
+    "total": 0.97
    },
    "gmp": {
     "gmp": 0.0,
@@ -1642,20 +613,28 @@
     ],
     "partial": null
    },
-   "business_news": [],
+   "business_news": [
+    {
+     "title": "Pasupuleti Venkata Rama Rao, Managing Director, Green Asia Ltd.",
+     "source": "smallcapspotlight.in",
+     "date": "30 Sep 2026",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE16LXdZcDV4dzdKdXNNaURnS293dE1wXzdtVUMzUjhRVXVXS1c5NFh3c3Q4R3ZMWnNqY3ZWS0FYbHpoLXJsbjBrTWhOUUVLajRVQXZRVFZLcw?oc=5",
+     "tone": ""
+    }
+   ],
    "news": [
     {
-     "title": "Green Asia Impex IPO Day 5: Subscribed 0.55x; QIB demand holds at 1.39x",
+     "title": "Green Asia Impex IPO Day 6: Subscribed 0.74x; QIB demand holds at 1.39x",
      "source": "scanx.trade",
-     "date": "30 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN0h4YnJUYjFVb25BM2Z4Z2xkdzhBVWlDTU1VaUd6TVNuaU80a1M0Y0ktT3ZtMXVTeXBQX0duVk1DTEdYa1B0cnUydXVBZ3pYYWRaQ2hqd1lESjJjSFR4M1lKSXRzUzc4MEJ0R3YtMF9PTWp2dWZOVUEzWUFrVFUyVFl1Szk0MTJ5S0xGME5jVldJR1VDZEFmazUzR0xCRDFaUHNfdnZqMkhMbmZISktiU3BYYWdPWWtu?oc=5",
+     "date": "01 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRnJQUkRabEN2V01GWkFqQWdGc1UxczBsLXRCMTB0dFdfWlBSWTBLNVFwcVl6ck1HWTdaMDh5NnBMNGdBdHFLSUJVTVpQTUdRVnRJU0xKMFBoVFRQdzBjZHgySzBhMW9VbktDVi1pM09TUXJWWFZwcXp1MmJTaG05cTc3QVZROXpENWhUOW9xUVFmN1E3N0hCWTR2NjVCNVdBeHF3U3YtS0RuY21kX1d2MU9OVml1cFl0?oc=5",
      "tone": ""
     },
     {
      "title": "Green Asia Impex IPO Day 4 Subscription Status: 0.52x",
-     "source": "HDFC Sky",
+     "source": "hdfcsky.com",
      "date": "29 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRW9GQThNTGMtb0l5MkJ1UTdYS3NNRkJ1SWJ2TmhjMHhONDk2X0VuQVVLaFJPT05VQUd1YjdTYnlMLVhVRjFBYVVLUVpqWGl2NlZTY2tGLU8tMlRRc21YLWs1clBZbVFTSVR5a3RDLW1nWG40UklaNWR6LWJJVVVkblg3Z1RUTGtvTkg4ODFOZG94bkZyekhsLThTSVZBSDQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ENndrNHhpakI3SlloQXNsUnliWDlPNTAyN3Q1TkdmZjE4TUNCWmNNMWNsa0I1dTdoNmFNeWRlaU5EMmpKN1RIcnRKRTdXTDh4WTI0Z3FfVjdHemhuRExuY0E4MGZwZkVqdDdUSnN2SzM1cXIwbTRzVFlxbw?oc=5",
      "tone": ""
     },
     {
@@ -1805,9 +784,9 @@
     "Multi-channel presence across general trade, modern trade, quick commerce and direct-to-consumer channels."
    ],
    "status": "open",
-   "day_label": "Closes tomorrow",
+   "day_label": "Closes today",
    "subscription": {
-    "as_of": "Sep 30, 2026 11:55",
+    "as_of": "Oct 01, 2026 12:25",
     "rows": [
      {
       "category": "Qualified Institutional",
@@ -1815,14 +794,14 @@
      },
      {
       "category": "Non Institutional",
-      "times": 0.04
+      "times": 1.05
      },
      {
       "category": "Retail Individual",
-      "times": 0.6
+      "times": 1.06
      }
     ],
-    "total": 1.47
+    "total": 2.09
    },
    "gmp": {
     "gmp": 0.0,
@@ -1856,10 +835,10 @@
    "business_news": [],
    "news": [
     {
-     "title": "Papadmalji Agro Foods IPO Day 2: Subscribed 1.5x; QIB demand leads at 86.85x",
+     "title": "Papadmalji Agro Foods IPO Day 3: Subscribed 1.88x; QIB leads at 86.85x",
      "source": "scanx.trade",
-     "date": "30 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZnFkdVZhTDZSaHJqeW9rV20wQlhaYzF6LVBIcHViNFBnZndzckJUcFdlTl9WVlhKSnEtZnBvdkRSSTBiY3NUS2lQYjV0NUNkT0ZNRGZuLVBiU3g1Z285dzM5S0YwUjZ4MkkxVjV2bjZfTE8yQ0xzS2RkU3MyZWVvVUhBeDhGLWVlVVZobHg0dmlFQmRKTUtOVUUtdnd0dlBwY0JXdGFqNVBSaHZyams3LWFRMVctTTZ6UVE?oc=5",
+     "date": "01 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeGlZd19FMnRaZVlPYk1DczB6UC13bnBsYTVXNHFtSFgzTHg4aDVxUE1yY1RsR3ZNdGhoSjVVenk5cE9SWUprd3NBczFNYkR1OExpem8zN1RTeTg1Y0FSZVNUUFJJSXVCNFdyVnNFb2tnVHFTQ2NpOUl0emJnSU9VYm8tTGlhb2hmR204ZWM0R2kxTjZFcU8tSkRuVWU4STNvMjNMRGxXX0JRdldRNVY1NnFtYVFVVEU?oc=5",
      "tone": ""
     },
     {
@@ -2010,25 +989,25 @@
     "Diversified Platform Development and Market Expansion."
    ],
    "status": "open",
-   "day_label": "Closes in 5 days",
+   "day_label": "Closes in 4 days",
    "subscription": {
-    "as_of": "Sep 30, 2026 10:58",
+    "as_of": "Oct 01, 2026 12:23",
     "rows": [
      {
       "category": "Non Institutional",
-      "times": 0.14
+      "times": 0.7
      },
      {
       "category": "Retail Individual",
-      "times": 0.35
+      "times": 1.6
      }
     ],
-    "total": 0.2
+    "total": 0.95
    },
    "gmp": {
-    "gmp": 18.0,
-    "gmp_pct": 21.18,
-    "est_listing": 103.0,
+    "gmp": 20.0,
+    "gmp_pct": 23.53,
+    "est_listing": 105.0,
     "updated": null,
     "trend": "🟢"
    },
@@ -2057,233 +1036,28 @@
    "business_news": [],
    "news": [
     {
-     "title": "EverestIMS Technologies IPO Day 2: Subscribed 0.20x; Retail leads at 0.35x",
+     "title": "EverestIMS Technologies IPO Day 3: Subscribed 0.87x; Retail leads at 1.34x",
      "source": "scanx.trade",
-     "date": "30 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZnZFWXlJLVBHWks3SFp1NkhwR2lQbkNjbjVwc3YzMEtXRXpnYy1fODhKTWZ5MmZCZm0wM0VvSVFQTjU3eFJFd1VPaXNaeFR5dF9nVWNPSXdWOUlxUjl4MEwtYVh6bHJyMTNkRFUzbndoOFRabXowaF94RXN6ZW10c0NZMEJ1SU1MRF8yS3hiYU1NcHdkTTNKd05DOXdXczlubUM1TkNUR3dfWTZOb01BcHpORTlxUF9Ubnh6SA?oc=5",
+     "date": "01 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLWtpTjlrMzN4akZKekZTZnV3RWlWeU9KUWJTaEFvTGs2ZXExN0pmcGZHakZ1N2E0NVUxcVpxWVBXUzdocnprSXFhYVB3NFdrdWt6YVJlX0NFYzFYUkczN3NPd3hETkJLRkNkTFZHV3FIczhOdU5hODFKT3pnNmQwZEwyTWcxdFBmdGozNnZ4ZmRBZ2hEUW02amJqMktEU01nUFlSOGdzY2dPU3FhQUprS3J0OVFTVnRtV2l1dQ?oc=5",
      "tone": ""
     },
     {
-     "title": "EverestIMS Technologies IPO Day 2 Subscription Status 30 Sep 2026",
+     "title": "EverestIMS Technologies IPO Day 3 Subscription Status 1 Oct 2026",
      "source": "Univest",
-     "date": "29 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcF8xZWtpdmFXRmJSbFIwRGdvTUhhRk9MVmVsLVozYzRtT1JESExZU3gtakxkYldZMl91REVXQXg1M2lva2h2d1ZpLVZKTG1xZGVmSEFNVEVaT3hDYTFnQU9WU29mRjZRNlJ2OWEwRVo0NFFJakRJQmJQVWc0UjREVUNldEtYaVJxX0d6M3pwU0N0M054Nlczczh2c1BsOE5uT1Z5QWNZaTZyMXNNT2c?oc=5",
+     "date": "01 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOW40NktXYW41a01PSUxhQWZmRHFkSUZSRWc4M1A2T3kwT254aUtpYlltUFN2SW05N3pTTkRjN1NhOWQ4em54bWN1NTJFNW5aU3FZX2xMZi14dTlaME15RFVGaUxlY2N1Y202RmtxcVloQmU3dzRRdjdRVWJNa0NMM1AwbnFxNDR2U3g5N0ppQTJUcFVrQWtTWExwREVYQTlIX0Y3MURtdDA2eEstM3c?oc=5",
      "tone": ""
     },
     {
-     "title": "EverestIMS Technologies IPO Day 1: Subscribed 0.02x; sHNI leads early demand at 0.07x",
-     "source": "scanx.trade",
-     "date": "29 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOEIwanNuX0VzdDFjc19IQUw3T3Noa0ZwbmRXNk1YQ0dCNGZicXlqLUFCVTZocGpOUmwzakhORTdVSEE3RXd4R2hqRlRBWDZiLWd2ZjNaOFlSSVZjX1g3VFdPUDJzM3ZqODFFR0lrOHBaUXhCcDF0Ry1jNlpra19UWE13cnU2ZDlEVEU0Q3RudDUxVlludmRyVm1vTGJBaDBWN05aWlVFbFNVZzdKcFIxNmF5eHc0RzJTT3c?oc=5",
+     "title": "EverestIMS Technologies IPO Subscription Day 2: 0.52x",
+     "source": "hdfcsky.com",
+     "date": "30 Sep 2026",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeHZEZmliNUVnU3J6X0xxNUZma1VXWHAzbUpXOUNOekZFQXpCeDRfS015aUotYTlHWDNPTmgyWTZzNjh0RTZ1ZzFnWFJNVHVkcl9MMXBZdVJHTnFtN2M2UzNnaFZGbml3U2prSExuc0tfcFVfOVVBQlVfdk9LTWFRSjF3dw?oc=5",
      "tone": ""
     }
    ],
    "key": "everestims technologies"
-  },
-  {
-   "chittorgarh_url": "https://www.chittorgarh.com/ipo/nityas-gems-jewellery-ipo/2974/",
-   "name": "Nityas Gems & Jewellery",
-   "open_date": "2026-09-30",
-   "close_date": "2026-10-05",
-   "ipo_date_text": "30 Sep to 5 Oct, 2026",
-   "listing_date": "Thu, Oct 8, 2026",
-   "face_value": "₹ 5 per share",
-   "issue_type": "Bookbuilding IPO",
-   "sale_type": "Fresh capital only",
-   "listing_at": "BSE, NSE",
-   "type": "Mainboard",
-   "lot_size": 200,
-   "price_band": "₹70 to ₹75",
-   "price_high": 75.0,
-   "issue_size_cr": 108.0,
-   "min_application": {
-    "label": "Retail (Min)",
-    "lots": 1,
-    "shares": 200,
-    "amount": 15000.0
-   },
-   "financials": {
-    "periods": [
-     "31 Mar 2026",
-     "31 Mar 2025",
-     "31 Mar 2024"
-    ],
-    "rows": {
-     "Assets": [
-      116.42,
-      39.87,
-      11.75
-     ],
-     "Total Income": [
-      203.33,
-      96.85,
-      53.66
-     ],
-     "Profit After Tax": [
-      22.32,
-      9.79,
-      4.02
-     ],
-     "EBITDA": [
-      30.97,
-      12.9,
-      5.48
-     ],
-     "NET Worth": [
-      79.43,
-      22.57,
-      5.33
-     ],
-     "Reserves and Surplus": [
-      40.87,
-      20.11,
-      4.28
-     ],
-     "Total Borrowing": [
-      9.08,
-      7.11,
-      3.26
-     ]
-    },
-    "unit": "Amount in ₹ Crore"
-   },
-   "objects": [
-    {
-     "object": "Funding Working Capital requirements of the Company",
-     "amount_cr": 70.0
-    },
-    {
-     "object": "General corporate purposes",
-     "amount_cr": null
-    }
-   ],
-   "kpis": {
-    "ROCE": "42.93%",
-    "Debt/Equity": "0.29",
-    "RoNW": "43.75%",
-    "PAT Margin": "11.00%",
-    "EBITDA Margin": "15.27%",
-    "NAV": "15.13",
-    "P/B (x)": "4.96"
-   },
-   "valuation": {
-    "EPS (₹)": {
-     "pre": "5.17",
-     "post": "3.87"
-    },
-    "P/E (x)": {
-     "pre": "14.51",
-     "post": "19.38"
-    },
-    "Market Cap at Offer Price": {
-     "pre": "₹323.53 Cr.",
-     "post": "₹431.95 Cr"
-    }
-   },
-   "reviews": {
-    "Subscribe": 0,
-    "May Apply": 0,
-    "Neutral": 0,
-    "Avoid": 1
-   },
-   "legal_name": "Nityas Gems & Jewellery Ltd.",
-   "about": [
-    "Incorporated in April 2022, Nityas Gems and Jewellery Limited is engaged in the design, manufacturing and sale of lab-grown diamond studded gold jewellery in India. The Company operates through an integrated business model comprising B2B manufacturing and distribution to organised retailers, standalone retailers and wholesalers, along with direct-to-consumer (“D2C”) omnichannel retail operations through its subsidiary, Ayaani Diamonds and Jewellery Private Limited (“Ayaani”). The Company’s operations cover raw material procurement, product design, manufacturing, quality control, distribution and branded retail.",
-    "The Company offers lab-grown diamond studded gold jewellery across categories including rings, earrings, pendants, bracelets, mangalsutras, nose pins, necklaces, cufflinks and bangles. Its portfolio caters to daily wear, occasion-based, men’s jewellery and customised segments, with a strategic focus on lightweight and affordable jewellery. The Company’s prominent B2B customers include GIVA, Palmonas, ONYA and Ladia Diamonds, among others. It supplies products based on its own designs as well as customised requirements relating to purity, weight, design and finishing.",
-    "The Company commenced operations in July 2022 as a B2B manufacturer and supplier and supplies jewellery across 18 states and 2 Union Territories in India, as well as to customers in the UAE, Australia, Canada, Taiwan and Kenya. Its manufacturing facility is located in Surat, Gujarat, and includes in-house designing, prototyping and production capabilities, enabling the Company to manage product quality, costs and lead times. In July 2025, the Company acquired Ayaani, a D2C lab-grown diamond jewellery brand, which operates an online storefront and 10 physical retail stores across eight cities in India through company-operated and franchise-operated formats.",
-    "The integration of B2B manufacturing and D2C retail enables the Company to serve both institutional and end consumers while gaining direct insights into customer preferences. The Company is supported by an in-house workforce comprising designers, karigars, quality control, operations, procurement, sales and other functions.",
-    "As of August 31, 2026, the Company had a total workforce of 192 full-time employees, including 122 in-house karigars and 29 designers, across senior management, design, operations, quality control, procurement and logistics, sales and marketing and other functions."
-   ],
-   "about_lists": {
-    "Competitive Strengths": [
-     "Robust financial performance with consistent growth.",
-     "Well positioned to capitalize on the growth of lab-grown diamond jewellery.",
-     "Manufacturing capabilities supported by in-house design and technology integration.",
-     "Integrated B2B and D2C business model with a growing and diversified customer base.",
-     "Skilled in-house workforce enabling quality control and reduced dependence on external job work."
-    ]
-   },
-   "strengths": [
-    "Robust financial performance with consistent growth.",
-    "Well positioned to capitalize on the growth of lab-grown diamond jewellery.",
-    "Manufacturing capabilities supported by in-house design and technology integration.",
-    "Integrated B2B and D2C business model with a growing and diversified customer base.",
-    "Skilled in-house workforce enabling quality control and reduced dependence on external job work."
-   ],
-   "status": "open",
-   "day_label": "Closes in 5 days",
-   "subscription": {
-    "as_of": "Sep 30, 2026 10:58",
-    "rows": [
-     {
-      "category": "Non Institutional",
-      "times": 0.04
-     },
-     {
-      "category": "Retail Individual",
-      "times": 0.2
-     },
-     {
-      "category": "Employee Reservations",
-      "times": 0.07
-     }
-    ],
-    "total": 0.08
-   },
-   "gmp": {
-    "gmp": 5.0,
-    "gmp_pct": 6.67,
-    "est_listing": 80.0,
-    "updated": null,
-    "trend": "🔴"
-   },
-   "ipowatch_url": "https://ipowatch.in/nityas-gems-jewellery-ipo/",
-   "insights": {
-    "metrics": [
-     "FY26 income ₹203.3 Cr",
-     "PAT ₹22.3 Cr",
-     "PAT margin 11.0%",
-     "Income +110% YoY",
-     "PAT +128% YoY",
-     "Post-issue P/E 19.4x"
-    ],
-    "flags": [
-     {
-      "tone": "good",
-      "text": "Strong growth: income +110%, profit +128%"
-     },
-     {
-      "tone": "good",
-      "text": "Profit up 3 years in a row"
-     }
-    ],
-    "partial": null
-   },
-   "business_news": [],
-   "news": [
-    {
-     "title": "Nityas Gems & Jewellery IPO Day 1: Subscribed 0.08x; QIB demand remains at zero",
-     "source": "scanx.trade",
-     "date": "30 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSkdsaGswTXRsaTU1eUg2djZWanp0ajhGb29RY3dFZi1XM21BWGhjTkJBZFAtSjBwQ1JyT0V2ZFAtcjFuUDVYUVE3ang5NFJ4UWJzYTlGQkxPYWw3cXNnZXhJSWh6ZmM2QTBqWEpLSUx4MjZZWFpHNDgxb2N3UUg4eU4xaUNEa2VLaUZaelpQTlZWLVBDQkNFTGIySndOS3hlXzU3TDdlTG9oZmxEQ2FPMXdyNVZ4N1VjUEE?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Nityas Gems and Jewellery IPO Opens: Rs 70-75 price band, check lot size and key dates",
-     "source": "Zee Business",
-     "date": "30 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObkpzcGNGSGxTVjlGT05IbEtSaU9FOHc0YzlTRUNmTDFRMXZyeWtBVzMxcGNfMjNmNEROT0xRS1R2VzBEOUxSY20zUHVNVHdnX21oaF9MTlhUak1aMjVUdEFJRVBRV0dGNWkxN002REZhNnlvcDczSXVWemhJcTVlMFAyS0J6Z1NwcFE0aGlaeUdMQW1xdjRwSXl1ZFpaSlpyb2FxbUYyS2VtRHlMcmhqdmpXTWJrTGJZYkMtTXZOazdLbTZmcGQzYnExYU53M3Vl?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Nityas Gems & Jewellery IPO opens: Should you apply? Check price band, reviews, fresh GMP & more",
-     "source": "Business Today",
-     "date": "30 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPMU1qc25CYmlrYVltWEF4MFZaQ0JDSk14VG1PSGFTd1pERlVxaXpNRkdnc3ZCMFNnajNHaTlmS00tS2prLTdJNG5mcnZPNnpzN3ZhcmljMkRqUFJDb0FiVVlGY0U4ak5qVWRIWl8yYmdMTTZoY1FBMFhMSFBnam5wZXFZeXdEekxFUjlrZ2l3S2ZUTzkwdEEzTWdlcHBTRWRWeFhxZjBkSXlwZEhYRVZ3SGNRRzJmTjlYWEpwUU1OaUUtX3V1TWFTNkl3aFFtT0FpUER2NFRhSUF6N2h2NE1vMHlOVmJWYzdGaEVmSVBOS0lJUdIB9wFBVV95cUxPeFNVQ21tbHRqZzd5ckpiMnNscHJzSGRqaUVtdFZrX0h1ZVhaOXZLWEx4NWczUXVRdGFmU0I3YjY4NlZRdmZNM3lPLWs5d3FaTjA1a1pmOFJiNjRwRHFIRFNDNnZzYXJlWHBlTFc0UUxIdWYwcUR3LUJjTi1Xc1lDVUFpbWlGajYxLWtwN0pTMm5kYnV4bTZIZ2lLZXdsUUpZZEFDVFZHbFNSVG54UDZwM1M2NnF1MFVySFNaZUZaRmkxUlU4VDI4eE5nUTh2RWR0ZFFhWm1UZ2JfemVXeTFNYi1IbzdHN0Q4N0ZZMV9xZFBlU2VycXVR?oc=5",
-     "tone": ""
-    }
-   ],
-   "key": "nityas gems jewellery"
   },
   {
    "chittorgarh_url": "https://www.chittorgarh.com/ipo/vishal-nirmiti-ipo/2665/",
@@ -2420,21 +1194,29 @@
     "Experienced Management Team driving the growth of the Company"
    ],
    "status": "open",
-   "day_label": "Closes in 5 days",
+   "day_label": "Closes in 4 days",
    "subscription": {
-    "as_of": "Sep 30, 2026 11:53",
+    "as_of": "Oct 01, 2026 13:23",
     "rows": [
      {
+      "category": "Qualified Institutional",
+      "times": 1.0
+     },
+     {
+      "category": "Non Institutional",
+      "times": 0.68
+     },
+     {
       "category": "Retail Individual",
-      "times": 0.03
+      "times": 0.33
      }
     ],
-    "total": 0.03
+    "total": 0.44
    },
    "gmp": {
-    "gmp": 6.0,
-    "gmp_pct": 2.73,
-    "est_listing": 226.0,
+    "gmp": 35.0,
+    "gmp_pct": 15.91,
+    "est_listing": 255.0,
     "updated": null,
     "trend": "🟢"
    },
@@ -2463,28 +1245,237 @@
    "business_news": [],
    "news": [
     {
-     "title": "Vishal Nirmiti IPO review: Brokerages positive on long-term prospects",
-     "source": "Business Standard",
-     "date": "30 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTDBMZkZkdlhpeUh1ME9QNmdsS1NsbGhIV05yT2x3bnJTdFo3cFZNYUlfZDQwM0RJanVuVXptMmFkMGIyTnVqWmptSTduNzBnM1RjVTNxWUdiZVk0bmk0RzJwZXdJQVpQWmpsZmZuOTFtdlNnWHBHaHJtUFhMeXROX1Z2b01aYnZWUW5tUkVRWUFvVjlvZVNodGEzcGJweXNqTFlVWEpQOU1aaEpydFVxck1Hek1GREhNU2NDT3dzcEVNQmE5SmNUZ3pqdGZFMmvSAdQBQVVfeXFMT2VvbnlwWm5IZ2V1a0xTbVFBMjdDQ0J3a3FPNnIzZndLWkdwdHNXanJybnNzRC15Qlg3VGs5VnNMdE51dmg0OUp1Mko2ejhRY3hBaWVwbWpmOFU5OUtlNllFNHNwTXJvZjltc050U2g4OFljUmVOa21QUkxjSzZMRmZrVVgtWndvR2hZMllzV1ZrUmJMZDdZeEpaaktKRE42T0lyMlk2Nk00WWNqVGRKbUpGS2R0N3BEVmI1Wld2ZnNTTWNNOUZpV1N1S3pwa3BrWjNyRFE?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Vishal Nirmiti IPO subscribed 3% on Day 1 so far; check GMP",
+     "title": "Vishal Nirmiti IPO booked 30% so far on Day 2; GMP signals 16% listing premium",
      "source": "Moneycontrol.com",
-     "date": "30 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOR19pdzZ1a1JTZ2h3Y3RnUTkwdlRmOEtGY1luVTNBNm1zRGdfUmdfQ21EbnBVbEp5OVlqbmk0bTRwZFhTRGt1aHhRTEtlTHBsZG9tWGR3TUNYXzJIMWV6MkZwQW54ZDVOSmZpQ0tMYjgxcTRoUXIxbFhESFZodFI0TDE3dnVhT2NPQ3VDMTIyNFZQaGYzcDZKMmxyUVNqQk95MW5uc0dlTUJWVy03M1hET1dWeVZ3QldnOEkxQmhhTdIBvwFBVV95cUxOR19pdzZ1a1JTZ2h3Y3RnUTkwdlRmOEtGY1luVTNBNm1zRGdfUmdfQ21EbnBVbEp5OVlqbmk0bTRwZFhTRGt1aHhRTEtlTHBsZG9tWGR3TUNYXzJIMWV6MkZwQW54ZDVOSmZpQ0tMYjgxcTRoUXIxbFhESFZodFI0TDE3dnVhT2NPQ3VDMTIyNFZQaGYzcDZKMmxyUVNqQk95MW5uc0dlTUJWVy03M1hET1dWeVZ3QldnOEkxQmhhTQ?oc=5",
+     "date": "01 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbDg2RmdzQXpDOHhmelhFOXM3YkhTYmZJRE1Bbms1YVp3V3d6QVhVQjFsZC1RMENwcURoSkt0b3BHemducjQzd2pYdFlWdkEtZ29KaE9hbmd1Q2VJSmVNeEE5NWFvTVlIT0xkdnVNNlJfdUtpenhlLVRsbFZZODJVZTZKMWdmV3NtdXFGT0ExblczNHRQTktqeW5nZEMwU25IcEpIS1dHVFF4bnhxZ0stUXBlajllUDFZeTk1Qk9ydWpqYTlGLUMwMkEyOWM3OTRzc3fSAdcBQVVfeXFMTW56dlBJOE9KS1A1QTdkcmU0TDlJMmhhR1pCTm91ek9fVVdCazlKX0V1RE5lN0pvdzk1OTN3VWZTSkgxNGJOdy1vemhWS1NvOWM1NVVyWHNrWEJnNGZXSktvZlAzQjZrUUd4LTl5ZWZmQWdqc000OGU2Y296OHBjN1FxVThkSUpxQXFvM1JkVVlqb0hRZlBVdzZReVNfb3ZnMEFpMGFndWhKOUNyamNQWGJ1V2taa0VtVlQ1eU5EUTBkZGNITUxzUjNJU0dyaXJld2RMdFFSMWM?oc=5",
      "tone": ""
     },
     {
-     "title": "Vishal Nirmiti IPO Day 1: Subscribed 0.02x; Retail jumps 50% to lead demand",
+     "title": "Vishal Nirmiti IPO Day 2: Subscribed 0.23x; QIB demand flat, retail picks up pace",
      "source": "scanx.trade",
-     "date": "30 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcVFGeG5SVHRqbVRUZGRtcjUzUFVucDZPVUNMckxNaldob3pMV0xacE05bW5TNHVqd2pKZ2NJNVhRYmZoaTA0WUNJcEVIb1AwWVlhak00a0NmS0g2aEQxQ3k4a0t0VHpzSGpEdWVrQ01oWUJ1YWJadnBoS2dQN2RJMm4xTjZ3a1NmOGxGcGV4ZzlrZ1hoelhnUEtLb3BhQUFXWHRKMlhKSkdHSnpaRUt1Tnh3ZEpsUzk5UzEyZg?oc=5",
+     "date": "01 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ3JkM3hrN3JVZWYtdTJrZDl5dkpsTzAzS2ZtaUNldWRhWFRzM21SMjVhSGFHeEFXVXRSR2l6YTlCdW1tNVcwNmpvU09BSHl1SkxPWE95dTNxbk1vcldnN3lEY1ZfdW5BNzY3R0RFdjZ2V1ZURzdWRGI0MUF2cXBBOTA3TjIyOHFNbWJKQjNzekRrM2pGdEh4NHViRF96bkROaE0zRkJua3VCanVjSXdlRWtEN1RiQQ?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Vishal Nirmiti IPO Day 2: Issue subscribed 19% so far, QIB portion near full subscription",
+     "source": "Zee Business",
+     "date": "01 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVG5zUzJ3ZFZET1FvZXB3QlhPWHJHX3h0Q1g5WHplVGxZS0VnZ0Z2MmtLTWlNUjh1UXM2ekNNaUZpeVc4X1NjNHBxMzZpOWpjOHd4cjVhc3llWVBYT0J0dHVOeENZTFlfRXRUQVhmLUFvRXJLWGpkSW5JdlhDMnRSSHFibGdhZDZUYWRCTU9hQlJvTzA3SjNSMXM2X3l0TExsSktsUjRnbjFpUm84aHI3S3diNEdMNlAwamlEVFAyUmFleHZvVGEwWDRuMzhTQQ?oc=5",
      "tone": ""
     }
    ],
    "key": "vishal nirmiti"
+  },
+  {
+   "chittorgarh_url": "https://www.chittorgarh.com/ipo/nityas-gems-jewellery-ipo/2974/",
+   "name": "Nityas Gems & Jewellery",
+   "open_date": "2026-09-30",
+   "close_date": "2026-10-05",
+   "ipo_date_text": "30 Sep to 5 Oct, 2026",
+   "listing_date": "Thu, Oct 8, 2026",
+   "face_value": "₹ 5 per share",
+   "issue_type": "Bookbuilding IPO",
+   "sale_type": "Fresh capital only",
+   "listing_at": "BSE, NSE",
+   "type": "Mainboard",
+   "lot_size": 200,
+   "price_band": "₹70 to ₹75",
+   "price_high": 75.0,
+   "issue_size_cr": 108.0,
+   "min_application": {
+    "label": "Retail (Min)",
+    "lots": 1,
+    "shares": 200,
+    "amount": 15000.0
+   },
+   "financials": {
+    "periods": [
+     "31 Mar 2026",
+     "31 Mar 2025",
+     "31 Mar 2024"
+    ],
+    "rows": {
+     "Assets": [
+      116.42,
+      39.87,
+      11.75
+     ],
+     "Total Income": [
+      203.33,
+      96.85,
+      53.66
+     ],
+     "Profit After Tax": [
+      22.32,
+      9.79,
+      4.02
+     ],
+     "EBITDA": [
+      30.97,
+      12.9,
+      5.48
+     ],
+     "NET Worth": [
+      79.43,
+      22.57,
+      5.33
+     ],
+     "Reserves and Surplus": [
+      40.87,
+      20.11,
+      4.28
+     ],
+     "Total Borrowing": [
+      9.08,
+      7.11,
+      3.26
+     ]
+    },
+    "unit": "Amount in ₹ Crore"
+   },
+   "objects": [
+    {
+     "object": "Funding Working Capital requirements of the Company",
+     "amount_cr": 70.0
+    },
+    {
+     "object": "General corporate purposes",
+     "amount_cr": null
+    }
+   ],
+   "kpis": {
+    "ROCE": "42.93%",
+    "Debt/Equity": "0.29",
+    "RoNW": "43.75%",
+    "PAT Margin": "11.00%",
+    "EBITDA Margin": "15.27%",
+    "NAV": "15.13",
+    "P/B (x)": "4.96"
+   },
+   "valuation": {
+    "EPS (₹)": {
+     "pre": "5.17",
+     "post": "3.87"
+    },
+    "P/E (x)": {
+     "pre": "14.51",
+     "post": "19.38"
+    },
+    "Market Cap at Offer Price": {
+     "pre": "₹323.53 Cr.",
+     "post": "₹431.95 Cr"
+    }
+   },
+   "reviews": {
+    "Subscribe": 0,
+    "May Apply": 0,
+    "Neutral": 0,
+    "Avoid": 1
+   },
+   "legal_name": "Nityas Gems & Jewellery Ltd.",
+   "about": [
+    "Incorporated in April 2022, Nityas Gems and Jewellery Limited is engaged in the design, manufacturing and sale of lab-grown diamond studded gold jewellery in India. The Company operates through an integrated business model comprising B2B manufacturing and distribution to organised retailers, standalone retailers and wholesalers, along with direct-to-consumer (“D2C”) omnichannel retail operations through its subsidiary, Ayaani Diamonds and Jewellery Private Limited (“Ayaani”). The Company’s operations cover raw material procurement, product design, manufacturing, quality control, distribution and branded retail.",
+    "The Company offers lab-grown diamond studded gold jewellery across categories including rings, earrings, pendants, bracelets, mangalsutras, nose pins, necklaces, cufflinks and bangles. Its portfolio caters to daily wear, occasion-based, men’s jewellery and customised segments, with a strategic focus on lightweight and affordable jewellery. The Company’s prominent B2B customers include GIVA, Palmonas, ONYA and Ladia Diamonds, among others. It supplies products based on its own designs as well as customised requirements relating to purity, weight, design and finishing.",
+    "The Company commenced operations in July 2022 as a B2B manufacturer and supplier and supplies jewellery across 18 states and 2 Union Territories in India, as well as to customers in the UAE, Australia, Canada, Taiwan and Kenya. Its manufacturing facility is located in Surat, Gujarat, and includes in-house designing, prototyping and production capabilities, enabling the Company to manage product quality, costs and lead times. In July 2025, the Company acquired Ayaani, a D2C lab-grown diamond jewellery brand, which operates an online storefront and 10 physical retail stores across eight cities in India through company-operated and franchise-operated formats.",
+    "The integration of B2B manufacturing and D2C retail enables the Company to serve both institutional and end consumers while gaining direct insights into customer preferences. The Company is supported by an in-house workforce comprising designers, karigars, quality control, operations, procurement, sales and other functions.",
+    "As of August 31, 2026, the Company had a total workforce of 192 full-time employees, including 122 in-house karigars and 29 designers, across senior management, design, operations, quality control, procurement and logistics, sales and marketing and other functions."
+   ],
+   "about_lists": {
+    "Competitive Strengths": [
+     "Robust financial performance with consistent growth.",
+     "Well positioned to capitalize on the growth of lab-grown diamond jewellery.",
+     "Manufacturing capabilities supported by in-house design and technology integration.",
+     "Integrated B2B and D2C business model with a growing and diversified customer base.",
+     "Skilled in-house workforce enabling quality control and reduced dependence on external job work."
+    ]
+   },
+   "strengths": [
+    "Robust financial performance with consistent growth.",
+    "Well positioned to capitalize on the growth of lab-grown diamond jewellery.",
+    "Manufacturing capabilities supported by in-house design and technology integration.",
+    "Integrated B2B and D2C business model with a growing and diversified customer base.",
+    "Skilled in-house workforce enabling quality control and reduced dependence on external job work."
+   ],
+   "status": "open",
+   "day_label": "Closes in 4 days",
+   "subscription": {
+    "as_of": "Oct 01, 2026 13:28",
+    "rows": [
+     {
+      "category": "Qualified Institutional",
+      "times": 0.07
+     },
+     {
+      "category": "Non Institutional",
+      "times": 0.2
+     },
+     {
+      "category": "Retail Individual",
+      "times": 1.08
+     },
+     {
+      "category": "Employee Reservations",
+      "times": 0.83
+     }
+    ],
+    "total": 0.45
+   },
+   "gmp": {
+    "gmp": 5.0,
+    "gmp_pct": 6.67,
+    "est_listing": 80.0,
+    "updated": null,
+    "trend": "🔴"
+   },
+   "ipowatch_url": "https://ipowatch.in/nityas-gems-jewellery-ipo/",
+   "insights": {
+    "metrics": [
+     "FY26 income ₹203.3 Cr",
+     "PAT ₹22.3 Cr",
+     "PAT margin 11.0%",
+     "Income +110% YoY",
+     "PAT +128% YoY",
+     "Post-issue P/E 19.4x"
+    ],
+    "flags": [
+     {
+      "tone": "good",
+      "text": "Strong growth: income +110%, profit +128%"
+     },
+     {
+      "tone": "good",
+      "text": "Profit up 3 years in a row"
+     }
+    ],
+    "partial": null
+   },
+   "business_news": [],
+   "news": [
+    {
+     "title": "Nityas Gems & Jewellery IPO Day 2: Subscribed 0.32x; Retail leads demand, QIB interest absent",
+     "source": "scanx.trade",
+     "date": "01 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObl85V3VTajJhWGZSYWcxQWVPUFdneXRWaThqOWJZcl9jQThQNk9aLURsOHJQcWlxa2F2NW5XVlFmUGFSVE1tZWJCY3l5X1g5N1VieHF1S1ZxVkNKa0ZDWlgzZ2lIRXhrM0l5MWNhZ0w0dVZqaGE5dkI4UEVEWFlvYXZyMGJnanV6VVFURDdzY29FRDQyM1FOcFg2dDhlQ3hhZlp0RFNKMDB0S2tTbGloZ0FSaGhrZWJZQ0tN?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Nityas Gems & Jewellery IPO Day 2: Retail quota 74% subscribed so far, QIB bids yet to arrive",
+     "source": "Zee Business",
+     "date": "01 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbDIzM0NRWU9tUkRvdmdyV2daYzFPckk4NzBhLTJwLTZVOVRlRmhWRnVqNjdlcThmTmNhWTM2MG9mS0lQR3JocXU3OFZSVEVITzd2ZFM3YjN5S2poNTgtNU5obDFxeWFSa1VOTVpMSEo0Nld6a2QtOXMyS2FVYUtMN2txTGNlcmdENXA4MDM1TTBVZGtuVVUyVWNFMUp0VWRpbzNWeFRkM1hhMWVoaFFFX09KUmpUN2xfY0VOcHFlTXRXeGJ4Wko1QU5PZHJxS2tq?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Vishal Nirmiti Vs Nityas Gems IPO GMP Today: Which Has Higher Listing Gain? Day 2 Details",
+     "source": "ndtvprofit.com",
+     "date": "01 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPanRJQV91SFJGNjhlQlFlNHByOTBaQkx4V3FUNkJlbTJOV2Y0Y3VJYXlhRGRLZVFfNU1Ed1F4OGppdUJhVHZDUFhkcmNNOU9MVDczYU5jUUp2MEtfTTJsTnd5bjlCdUVkcUFnMWpDUGYwNjBJYmxtTjNnMGc1SkVTWHF4U0k3RzFVeWlubEl5OFl1R2pELXg4OWx3bkZWR1ZXSTdPVDJUV0NCRVU2TnBGdE5yN1d5VVRhN2g3bUdvazQzM0F3WVUtSVRoVdIB0wFBVV95cUxNckJ3YkFjMEFUYXVIYlNTdUtWYWdrdzJsNmNmY0hhNFlLUDlwSk9OTjloeFFFV051RWFSOWRsMy1mem9KVVB1UmZZM0RxR25HWXVUNkpvU0xYMTNVSnpEX0xHUXB4cjJhajZlcGs5SGVzNWJYcnN3cURtbGF3Ykc4VVFma1hNT1hfNDYyT3lubVRPWjlWdmNLRVRTY1dFTlZHaEI2LThPSmUtQ3hzOWtPQ0d3elA0UFU2N1lPR1VOdmVRS3lVS0xhYnBoQjhHNXhwTVVJ?oc=5",
+     "tone": ""
+    }
+   ],
+   "key": "nityas gems jewellery"
   },
   {
    "chittorgarh_url": "https://www.chittorgarh.com/ipo/shree-tnb-polymers-ipo/3095/",
@@ -2627,9 +1618,9 @@
     "Quality Products with Certifications"
    ],
    "status": "open",
-   "day_label": "Closes in 5 days",
+   "day_label": "Closes in 4 days",
    "subscription": {
-    "as_of": "Sep 30, 2026 13:59",
+    "as_of": "Oct 01, 2026 13:29",
     "rows": [
      {
       "category": "Qualified Institutional",
@@ -2637,14 +1628,14 @@
      },
      {
       "category": "Non Institutional",
-      "times": 0.78
+      "times": 0.93
      },
      {
       "category": "Retail Individual",
-      "times": 0.17
+      "times": 0.57
      }
     ],
-    "total": 0.46
+    "total": 0.7
    },
    "gmp": {
     "gmp": 0.0,
@@ -2674,24 +1665,24 @@
    "business_news": [],
    "news": [
     {
-     "title": "Shree TNB Polymers IPO Day 3: Subscribed 0.51x; QIB demand stalls at 0.75x",
+     "title": "Shree TNB Polymers IPO Day 4: Subscribed 0.75x; QIB demand flat at 0.75x",
+     "source": "scanx.trade",
+     "date": "01 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRzhrQVRwZHlTaFlCV2ZfaHMycFNYdVJRX2ZxR1YtZkN3bzRYTGNCVktoVjVkNlFSZjdzemJpNWdfX1N0TzFIckdGU2RMUGFqMmg0SFdJM1E4YXVoVk9Idlh3UExFSU9BaHI4dHNsSGNuRGxkOUFLM0JuZ3lYTE93U29pQ3JjUjVPd0ZnLUVRZlE2cmdKcm1uREZKdTE3a0IyaHNMWUFNd0pXczh0XzE5Z0hZMjYzeFlibkE?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Shree TNB Polymers IPO Day 4 Subscription Status 1 Oct 2026",
+     "source": "Univest",
+     "date": "01 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZnVrVXFoX0tEdW0tQk1VeGZqZVNSM3VJZFdJWWVoN2RhXzUyWHA2UDNQU3B2RHpDM3VoZUtvUUcyUmdrYlhaa0czMlRvamo1aUFVRjhCTkZ5YThVZkRtQm5MWS1pUkQ3OUlQS2JyRW4yUVNDQm1Db0R5ME9nQm1HcEVTQTBobFRBVDJralNmbUd5bmRmSHgzbHBMYndyTWZtV3h3?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Shree TNB Polymers IPO Day 2: Subscribed 0.49x; bHNI demand surges 76.9% intraday",
      "source": "scanx.trade",
      "date": "30 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNN0NaX0F1SDc4R2plU0FxMTBJTDBZelFpNVdlbUF0TGVWa3NrMmVJemtWcENNQ3FPc29BMFpEekQ1SzVBc0hyX1pmSnlPSmNvT0dUN01JUFBJV2pDbkJJUDVFYU1xTFgzdUZfQ3lNZDRCTGlhZWdtT2ZKbXFCRDFGQkpDS0ZKalgwSl9JUTNaMDZneFZnTVprcDdGaHZyZExhYkEwdVhtVU55dTk2M0tMdlBsbkpZUl85S0FVOA?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Shree TNB Polymers Ltd IPO: Check Issue Date, Price Band, Lot Size, Subscription",
-     "source": "Upstox",
-     "date": "30 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5iR2FQZnNWdjdneG92YUhVV2NhejZZMF9BN2U5YS1aN3piQnVweHFJVGpRNllsNFFvcVBmSXRnU19ZMnloWlp4QS1kZ0kyOS1FT2RMMDhpTWx3NGZ0STFjdnZ4alY?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Shree TNB Polymers IPO Day 3: Subscription Status on 30 September 2026",
-     "source": "Univest",
-     "date": "30 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPN3lRZVhhU0V5NnMyTjg0NnZiSjlndW5rMGRrYXhvbUpKSzFPTDF3X2FqTlcwMHVTNzZmOXhvQ1JHTy1sbFNfTzVNQW9nalZQcExOTHYtTFN1TkczU0JPUERqS00yelhsV0RpODRRQ0c1RDZGSXBuR1FUN0s4bUNlZ3R1M2Q2VkFYdFVOaGFIY0VOeF9YZTdnNmFrR05Gc2ItT1V1c3dKYw?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORjRndEp4TkJZbnl4Xzd0N0lRSjVwZVNYeVZuaFdWR3VqcGRIMnhmdmdlN1IxSWgzRzloa0piV2cxak92YWNjOWFrZU1XVWtiN3hfYXo3S1d4b250bjBfWno0azRuQ0VzMmFBQlRDakVVLWJKZ19oSmc1am9RTUkzM21DUm84RnN3U0c3UVBIcnc5Z3gtOGdJOFNyZXJPSjA3ZGY4VHIwMXBsS1JlTWZuUVdvdw?oc=5",
      "tone": ""
     }
    ],
@@ -2825,16 +1816,20 @@
     "Experienced Promoter and senior management team."
    ],
    "status": "open",
-   "day_label": "Closes in 5 days",
+   "day_label": "Closes in 4 days",
    "subscription": {
-    "as_of": "Sep 30, 2026 11:54",
+    "as_of": "Oct 01, 2026 14:24",
     "rows": [
      {
+      "category": "Non Institutional",
+      "times": 1.18
+     },
+     {
       "category": "Retail Individual",
-      "times": 0.07
+      "times": 0.49
      }
     ],
-    "total": 0.03
+    "total": 0.82
    },
    "gmp": {
     "gmp": 0.0,
@@ -2872,24 +1867,24 @@
    "business_news": [],
    "news": [
     {
-     "title": "Dove Soft Limited IPO Opens Today at ₹104–₹111 Per Share, Company Eyes Next Phase of Growth and Expansion",
-     "source": "ThePrint",
-     "date": "30 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNcUxwZGVwVUgzQk40SGdNN0NQdWNrb1d1Y2VET0U5azJ4NXl4b1NNQUV6YVB6MEJtbG1XRkJEOHZLeFlTSE8tZ0lRUVoyRWlRbUF4MVp0S1F2RS05V01aWWYzMXN5NUFiLXBqczVQVFdNNFdaS2FTcU9WM3JnLWtnb2J0UXRwVEhxTzNJQzRYaWZEVG5FTjBfYXpZbVZxb0ZyWUNNWTMta0R6ZVZNWjNFZ2pBR28yMkxzZW1DSVMxX0JaV0Nma0RBZXhnZmZRTlgwU2kzeEF5WWgwN0NETENMTXFDbkI4dnVrNGIyZVp3ci1kRTBHTGt6QUFzMkPSAYICQVVfeXFMT3kza09qVm5NV2NIa25LZ0NtQjJFODhLTDZvdzVCc1d0aERJQ1VpLVQ3UVU1NVFPejNPb0pPS0IzSFMyRWdieVh0WnVzQ1RjaFpwcjNMdkZmU2l4ZTJ1eE1SdnNBclVsYnZaOG5DSjBGa3dyMUxXTXhVclZ3SXhwQkgxZ21YYmtmWWpTaHhpVlBsLUFXOTBqN2pxRmE2dDVFRXY0ck81WWJPQVRWeWtWcmdxWmhYeFZHMF9GN1V3LVREQU5CSk9uV2VxX3Y3Tm8zTHg5Y3RtbkNlcXpvZExXRlVRMHNGdDB5bzUyTl81UV9JNEJVZFZ1NzFFM1BSUS1zV3hB?oc=5",
-     "tone": "good"
-    },
-    {
-     "title": "Dove Soft IPO: Can AI-Led Customer Engagement Drive the Next Phase of Growth? | Muktesh Narula",
-     "source": "LinkedIn",
-     "date": "30 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdGlNanhmNHByWDR6SDdYenI1SjJRN1l0RXRvaXlyeUFWVzcxbWJnb1U3dXlIR0YwM2NwaGY2M2JjQWI1elliWHFIVVpDVHZGVi1nZWdqTENmb2xDNWRLUXNBbm5MSEtSQUs5NEdTam5wN0drel9Bb3czbHAzbjM2MFlYZGJyWGNYVGdQQjZWMjFHVEtQMmFqWndKdlZUVEN4T2ktY3ZyeExRV0kxX2I3YzlGVFR1Q3JOdDJ0SWpJVQ?oc=5",
+     "title": "Dove Soft IPO Day 2: Subscribed 0.86x; Retail leads at 0.46x; QIB interest remains absent",
+     "source": "scanx.trade",
+     "date": "01 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPREZwZUx2ZkFUSWJJci1ZdmozdDdOLWlDblRVSjkxa2pDamVGZnNrWXpxV3dTTXJFV010MXRVb3IzR2k2R3FZbjFHZTQzSG9DLWFEV3pmaDQ3OWVoVy15Z3FubjF2TTZBUmxrRkFLQ2x5Y2Zuc3l3Y0lrTGQ4NWhTcG5KaDRORzh1NGREbVNteWdqa0hTQUJwV1h6T1o2QTVVQjhaU0dpNzZyN2cybGZ0dTN1enVuRXZNaFBF?oc=5",
      "tone": ""
     },
     {
-     "title": "Dove Soft IPO Day 1: Subscribed 0.02x; Retail leads demand",
-     "source": "scanx.trade",
+     "title": "Dove Soft IPO Day 2 Subscription Status 1 Oct 2026",
+     "source": "Univest",
+     "date": "01 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdUF4dmExQXFFN3kzZkxwTjRmRmx0b3ppVDV3QWNLSDA5cDRLcGVuSHdnUXhxVm9UYTdvaXo1UENQXzRIakNEWUNpdTN1SkdWV2kzMEpQYXNtVGtpVFdfZHlVVFBlLWxnWGhveUJTeDl5eXk3TDVEMUVSdDd2SFNJQ0w1R3JEUUFBdGN5NFpxNHlZbDQ0YVMxZ21HTQ?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Dove Soft IPO Subscription Day 1: Issue Booked 0.85x",
+     "source": "hdfcsky.com",
      "date": "30 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR0drWE5WaENUNWhGVmVRZ01aVlUzRm1vNUtka3EzOUs1eUhVeGhVZWJZWFhzSmx6OWl3dlA2ZmVrdThCanBGTVJDRXdlNm9ZVTlpUnJRZFVfV29WNXJZZC1hNUJQUzRvZU90R0ZXR1gtaEJGS0daLUwzR1NUd2lYc0VpRnBPNUtiRE5rZm1fWG0yYjVNU2wwSjhIYnF2aDgxYU1ISFpkVVo4T28?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VSlNhOVZSbFM2ZnVYUHN1Q1FxUWVxYjU3Z3JkSEZmZlpLdXJ2dEh3MXcyS01lQ3BtcE5mejJUbG90VVBHdjFsclFmUFhEeTM3YkFWSk1ZWDMyOXJhdFh5d2ZXV0d0cm5kcHVWWkFsV28?oc=5",
      "tone": ""
     }
    ],
@@ -3037,20 +2032,20 @@
     "Quality Standard Certifications & Quality Tests"
    ],
    "status": "open",
-   "day_label": "Closes in 5 days",
+   "day_label": "Closes in 4 days",
    "subscription": {
-    "as_of": "Sep 30, 2026 13:43",
+    "as_of": "Oct 01, 2026 12:24",
     "rows": [
      {
       "category": "Non Institutional",
-      "times": 0.15
+      "times": 0.65
      },
      {
       "category": "Retail Individual",
-      "times": 0.04
+      "times": 0.14
      }
     ],
-    "total": 0.09
+    "total": 0.4
    },
    "gmp": {
     "gmp": 0.0,
@@ -3088,6 +2083,13 @@
    "business_news": [],
    "news": [
     {
+     "title": "SJP Ultrasonics IPO Day 2 Subscription Status 1 Oct 2026",
+     "source": "Univest",
+     "date": "01 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWWFTUmVERUhib2NrMzJEOFA5UjA5VjgyUmFFWXZlaVIycEU1MHB3SnotTmg2S1ZKb1BWSUYzaWY0WGVWX1NYNm9jaVhpLTcxbENoWE00bjNibGdwcmJIYVN5YmFXYkRRVllZMkNJenlvNFNKak81Z0VXb0NKbnJ1dlB6MEJIcTFRNHFWUEFjdFR4UWZxSDhIUE1iRzM5UzlVZG1R?oc=5",
+     "tone": ""
+    },
+    {
      "title": "SJP Ultrasonics Limited Initial Public Offering (IPO) Opens on Wednesday, September 30, 2026",
      "source": "TheWire.in",
      "date": "30 Sep 2026",
@@ -3095,17 +2097,10 @@
      "tone": ""
     },
     {
-     "title": "SJP Ultrasonics Proposes ₹23.45 Crore IPO Opening On September 30",
-     "source": "outlookbusiness.com",
-     "date": "29 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcDdVUVNvaWpabUk1TGcxM0lMOUhibktGQUlQQjJGVXhQS3RrcUlXekpxVFNTSUU4N1o3SUUwNEszYWtlTWM2cDJVbDQ3VmtNOWRsaFkzZ2R0MkUxU1QwTklNcnFQMVIyX243OVZaY3lZYmVOV1B6a0VwcXhVd3g0UFRCTV9udTFOR3NrV2ZrMzhEckZSZlRQZnFCeE1nczFUZWY2UWhwUDlMWDVweXRtOVVtME9PZ9IBwwFBVV95cUxQTGpFMjFHUnh2eHBDMnZwMENFYVFfNE90N3RCbVhQLWdqTk5WM29DUGg4dnViYXFDTVhUMUxSUUpNZFQtU09XNkZTMF9FcGdpV1dhT1l5LWdzbDZhYWQ0NnpQQXdMQ3hodXdNem5Mb0I0SzduNHlfOE93Z0ZMeHlPVFc5UTZWQ2NOdVNJQWZWWlJRR1lOcHlvNDhoNXpSQWdMNjJWYnVsdEVUS0VNUjdfOXdQQjhNMHlKSEU1OUpnRGJ1M1U?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "SJP Ultrasonics IPO DRHP: ₹23.45 crore fresh issue; revenue CAGR at 32%",
-     "source": "scanx.trade",
-     "date": "28 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUFMyZ3BPTWZFbGtQc2I2TWE1cEl2aXNyMFEwMGdoTndDeFhIekdoOU5pOEZJS3E2S1JHUjRDMHZSdzZLUE84eE1qNmNLaE9oWU5mT2dadHFoRk8ySjZ5VmpZME9OaTFhd21pWW8zWmMwWlBlcG9DWkNYRHdOQVJMWl96Q0M5TmcyZHliYVE4V0JEZjNLWEVfU2hZM3RFbjc4Y1FtcEtVUE94bXZtNGtnRVpvMzFSZw?oc=5",
+     "title": "SJP Ultrasonics Ltd IPO: Check IPO Date, GMP, Market Lot Size, Face Value, Price, Subscription Details and News",
+     "source": "ET Now",
+     "date": "30 Sep 2026",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wdkNxbjFndUtqRC1fa3I0NWM4akxuQVZMYloyLUJGMk4zbHVwZkxSN3l5Wi0yak9BMDRlMHE5NS1fSFFMbmltaDZ4emdrdWxKRjVmTklHM0o5WXp0aWFSX2l3NDFVYnZlekZNaFdxUl9LejI3RTdiY0tfWUFhQQ?oc=5",
      "tone": ""
     }
    ],
@@ -3252,20 +2247,24 @@
     "Established corporate client relationships and repeat engagements."
    ],
    "status": "open",
-   "day_label": "Closes in 5 days",
+   "day_label": "Closes in 4 days",
    "subscription": {
-    "as_of": "Sep 30, 2026 14:00",
+    "as_of": "Oct 01, 2026 12:00",
     "rows": [
      {
       "category": "Qualified Institutional",
-      "times": 18.32
+      "times": 22.51
+     },
+     {
+      "category": "Non Institutional",
+      "times": 0.01
      },
      {
       "category": "Retail Individual",
-      "times": 0.02
+      "times": 0.04
      }
     ],
-    "total": 0.98
+    "total": 1.22
    },
    "gmp": {
     "gmp": 0.0,
@@ -3303,24 +2302,24 @@
    "business_news": [],
    "news": [
     {
+     "title": "Eventions IPO Day 2: Subscribed 1.13x; QIB category races ahead at 19.89x",
+     "source": "scanx.trade",
+     "date": "01 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPN2c0RVFmaThqRnIzTkl5cVh2UF9Bb3laOWFWX29HaWt3N1JiUWo0MWxncGlhSEV4UVlyekYxRUVRbXFHcUZ1Qy1sdlEyclVoWl9DUVI2dkxLNEFYX3BTMEJZRWZDeTd4ZWlGdGIzT0RxOWx5c2lzbjlFZVNsNC16bHpha2RtUmJ1TXUtSkQycTMwQXJha0lJMHJJLVFUdVRzVzhNN29KdVh0OVJ5bmVNRVNyUDJzUDE5eENZ?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Eventions IPO Subscription Day 1: Issue Subscribed 1.12x",
+     "source": "hdfcsky.com",
+     "date": "30 Sep 2026",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94d2p5Mno3bWw4ajRxTU1PVzU0T2htWlBLbC0yTllYclBxdFVxdDBqTTJQRW1uSnZyWVJjWEpsU0VrcldMX3F1SkZiX000VV9uNGFQQmhkQWVXb0kxWmRXblV6VWwwY2pSaEt0UmZWcm4?oc=5",
+     "tone": ""
+    },
+    {
      "title": "Eventions Limited Opens ₹38.12 Crore IPO to Fund Growth in MICE and Corporate Events",
      "source": "EventFAQs",
      "date": "30 Sep 2026",
      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVEJvVGJNX045ZU1QQlRTS3htQ0tiU2loV0RXWnoxdDc1dEoxSjlsd183anFlVkpHWDYyMUVTeDNjNnpJdjZDM1p1dU9SU3FGQjBTNlBYYnVYNHoxMnhuLVpUSEx5bDd4eWEyTWF0SDVXZGJtNkNXVW5MZ1hXWmx6Vm44cUp1WWNfU1h4c1cwX1A4TEZpNU1WenVqS1RGbUYzSnhiRWUtVjFoMXN6TTV3UWV5RTJjVGFFSkkxbVY3Wl9kQTJhZVRULQ?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Eventions IPO Day 1: Subscribed 0.56x; QIB demand hits 10.47x while retail lags",
-     "source": "scanx.trade",
-     "date": "30 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN0dzWGwzWlNJMHVERG5WQUwzUW8ydlktTzRwMzBNQzFQWV80U1RxaW5LXzV2cDdEWk5RY202d0RJZzI4bXpMZjlJTEFEU0xhT2hSNV9Nb0FfWHpKd0VUWTNWT3NXX1dTdk41VXd0U3NQNmJjUFprVTZ0Vm9BWGR3THh6UlpiXzcxNkg1YV93WWdWN0ptM0pqcGdyUGpXMl9rOC1oME9Bb291UnRPSmx0VENPYUNiVEU?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Eventions Ltd. IPO: Comprehensive Analysis of India’s Emerging MICE Specialist",
-     "source": "Investing.com India",
-     "date": "29 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX3RnMElYLXlpZWlDdW1EQTNXeUVDSEhhVm94amxmZ0I5akk0WWhOdmlCa2xkZXhzakppWXQ4UGdnRU5KWEE3MmFSNFNQV0xCTnk5OUxlMmxUV3hqWDl2ZXBDQkFteUZoYm84Zk1RVVY5MFpHS1lDcXlqdm9IX1B3WU5xWkprbXFBaXZlUENINFlWN0dyM2VRaU5Jd1lYMmt6bnMzcHdKNmhoeWFVTERySS1fcUNJUWhzNXQ0?oc=5",
      "tone": ""
     }
    ],
@@ -3470,20 +2469,20 @@
     "Strong After-Sales Service Network supporting installation, servicing and long-term customer relationships."
    ],
    "status": "open",
-   "day_label": "Closes in 5 days",
+   "day_label": "Closes in 4 days",
    "subscription": {
-    "as_of": "Sep 30, 2026 13:59",
+    "as_of": "Oct 01, 2026 11:58",
     "rows": [
      {
-      "category": "Non Institutional",
-      "times": 0.18
+      "category": "Retail Individual",
+      "times": 0.11
      },
      {
-      "category": "Retail Individual",
-      "times": 0.01
+      "category": "Others",
+      "times": 2.01
      }
     ],
-    "total": 0.92
+    "total": 1.06
    },
    "gmp": {
     "gmp": 0.0,
@@ -3517,24 +2516,24 @@
    "business_news": [],
    "news": [
     {
-     "title": "Sollfege Smart Electronics IPO Day 1: Subscribed 0.49x; Retail leads demand",
+     "title": "Sollfege Smart Electronics IPO Day 2: Subscribed 1.07x; retail demand ticks up to 0.02x",
      "source": "scanx.trade",
-     "date": "30 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX2NkV3Y4dVZPeXJ0eVJwT0EtU1Y2N3BxbGlKX0ljZGxSdkNwa3dfdkZqR2cyc252dFh3UFRkUFBTSjFJdy1MWlpOVmQybEFSUFlDeXAtYU1DZFNvcWtOanVNSXhrM2dJb1RwYTNPX3FxOU5FR1Jfb2t1RkF0amZ2YkVod1JhOTRlUk9vSHBPNlFxbFdKRlJQOUZxdzJid0w4OXBVa0ZpODZXZWZqTmdPanMxMURjMW50?oc=5",
+     "date": "01 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdXd3NV92R0RxTVY0a0p4QkNRVmRqOHlrZkxzN1A3ZF92VHJCbmUtT3lNR24tTVJOeGVDMDhfd05zUjkxbWE1azVEM1BkV2cwQ3BIM2NFcS1ILVZ6S19salVmTkRoMGEwdF9YM1hwZFd2Z3pRS1RoS1FlRFg1TkFLMk1nSG9YNDNLYk9NUlN6RTUyMmVKX2djbFFjSTJHTk54dkhXQThCQ1I4ZnZlMUwtejZtQkxtRFRQWUE?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Sollfege Smart Electronics IPO Day 2 Subscription Status 1 Oct 2026",
+     "source": "Univest",
+     "date": "01 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVnQxdUhWTC1hTzIyZDJLS3hZUVlCWDMwTGJtbXdHS0kyYUhHQm5fYjhnRExDS1MtS3pYZzFaZGdUUVNaMlUwSkJBcmtob3lBSDRfdzZBbFJSUnlMVG5hLXA5S3FOeFRaX001S2hwX0ZPYVNGQ2dFcVllU3p4NS0xY3p2S0tPX2JUOG1OVEJjdkdvdUlsMXp5NURBelRfQUFJSmpoWFlrNHRkM0RfM0VaWjhR?oc=5",
      "tone": ""
     },
     {
      "title": "Sollfege Smart Electronics’ IPO to Open on September 30, 2026; Company Aims to Raise Rs. 21.78 Crore",
      "source": "NewsX",
-     "date": "29 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVnMxVlJySmlXWkFzbjQwZDcwcHEtTGxBV2dXQmZqak1idFhMdURZVGlKYWljcVZTZ2JxRG5uOWF4c3BxZXF2NHFTenFLSjh0M05BczhMOVF5R0U5dVIwVHpzaEV1YzhGZnY4N1NXeGZ5UGV5TzBwaTZWOUpwTmpVNGljZzBCblBIUjhYbkRRcW5YdnR1cmp0VE5MSXdHNExyR08wUERRZUc4c0VLYXBYMGxEYm5abDhzc3RmdHFSc0xrbzdETnRHZjUzU2ZfS1FLdk5VVmNfMNIB1AFBVV95cUxOQm5VdzQ5aEU5S3lJLW4wWEllUVl5TWlsWl9OS0Z4Q0x1bkxlUzdHNm0tTU52NzBSYTd2aXZVQzhoeFo0bk92SWxyS2JRUWtLeGd2TFZFMlhybHU3aGFoWnJqT2tlZkFXMkJpUE5LU0JiR1luNTQyal9lTFBOZlJmeERPampVNV92N2tzZUpWMFRZVnd6WXg2QlE5UG9RbE1kZmJEV010Um5MLTFBMlljbENzcmNiMlJoN1labEt5eEkzcU41TGdnVDlGRzlhWDV4WTdYVg?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Sollfege Smart Electronics IPO opens Sep 30 to raise ₹21.78 cr | Tap to know more | Inshorts",
-     "source": "Inshorts",
-     "date": "28 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcWRsU3FTODZ4dnYtOUtkLXRrVjZ6N24xaWJjRThwTnUwQWxhMEJGTVNTM3JKd0RRdFUzOVFqbk9OM2NBdUJEOFp6dXF3al9ObHJEUGxCcGFIUkhYZWd4MmltdG96TTdNY2lhU3J0TTA5ajBXRnpCNHh2c3RwWXVuLXlySUVzYXd5U0NVelFTZHNUbFZNSWMxWHMyMXhFN1poLUFoc2dETDZyaUFpZ0HSAa4BQVVfeXFMUHFkbFNxUzg2eHZ2LTlLZC10a1Y2ejduMWliY0U4cE51MEFsYTBCRk1TUzNySndEUXRVMzlRam5PTjNjQXVCRDhaenVxd2pfTmxyRFBsQnBhSFJIWGVneDJpbXRvek03TWNpYVNydE0wOWowV0Z6QjR4dnN0cFl1bi15cklFc2F3eVNDVXpRU2RzVGxWTUljMVhzMjF4RTdaaC1BaHNnREw2cmlBaWdB?oc=5",
+     "date": "30 Sep 2026",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPb1htZ2RhZ2pWaTBDY0xhM2dELXNuSzMyQWp2a0UwMmJnQncxX3ZLTDhjcWVLTVJ1Wk5vbEZpazhGS0Z5UTFoY19UcWJyOUtGbGlncXNNY0kxaFp3cjl4ZmNwQXN5ZHBOM05oZGZ2MHk1RFhCbzg5TV90SkZUbHNkLVZzcXBFNm1hWW1iVG5XUW5hekJTR1VySkN3VmJTbjFLY3dqNU9BSDlIYldIdlo3bTJtek4xZTJicWxzOTJsek1xNlN4YTFIVV9qM1h4dGPSAdQBQVVfeXFMTkJuVXc0OWhFOUt5SS1uMFhJZVFZeU1pbFpfTktGeENMdW5MZVM3RzZtLU1OdjcwUmE3dml2VUM4aHhaNG5PdklscktiUVFrS3hndkxWRTJYcmx1N2hhaFpyak9rZWZBVzJCaVBOS1NCYkdZbjU0MmpfZUxQTmZSZnhET2pqVTVfdjdrc2VKVjBUWVZ3ell4NkJROVBvUWxNZGZiRFdNdFJuTC0xQTJZY2xDc3JjYjJSaDdZWmxLeXhJM3FONUxnZ1Q5Rkc5YVg1eFk3WFY?oc=5",
      "tone": ""
     }
    ],
@@ -3613,7 +2612,7 @@
      "amount_cr": 2.0
     },
     {
-     "object": "Marketing and promotional expenses aimed at enhancing local brand awareness and visibility of the flagship brand, “OMARA”",
+     "object": "Marketing and promotional expenses aimed at enhancing local brand awareness and visibility of the flagship brand, “OMARA",
      "amount_cr": 2.0
     },
     {
@@ -3687,20 +2686,24 @@
     "Focus on in-house product conceptualisation and design development."
    ],
    "status": "open",
-   "day_label": "Closes in 5 days",
+   "day_label": "Closes in 4 days",
    "subscription": {
-    "as_of": "Sep 30, 2026 13:59",
+    "as_of": "Oct 01, 2026 14:24",
     "rows": [
      {
+      "category": "Qualified Institutional",
+      "times": 1.0
+     },
+     {
       "category": "Non Institutional",
-      "times": 0.61
+      "times": 1.02
      },
      {
       "category": "Retail Individual",
-      "times": 0.04
+      "times": 0.1
      }
     ],
-    "total": 0.26
+    "total": 0.65
    },
    "gmp": {
     "gmp": 0.0,
@@ -3746,24 +2749,24 @@
    "business_news": [],
    "news": [
     {
-     "title": "Omara Ventures India Files RHP Ahead of ₹41.99 Crore IPO on September 30, 2026",
-     "source": "The Economic Times",
-     "date": "29 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPODR1R0hoZjJ6Qmt2MFNBNmd2dUd2Z2pfSlZKU2M1TGlZckNhT3ZoV3hXT0V4alhycW9UdTFsQVNfdDR0Q3RRUE0yUGNKQVpMUkxZU1BON0tkVk9TLVFYbHBFNS1kbGpIRmlsRVJXX2JHamRibm04RlpHQTJ2Rk44TmVZQjBYSGtGQlN1MUc1Ym81OWg3MmN1cG1GSk1CMWtmSXNkS3JObXMteUJYaURLaGUyaUdYVFBtN1lDWGt3dWk1bUhtQzJJOXZLOVlGYlhZdkl1dWdsbTBvNThBQzV3VDd4Z2sxU2hSV29uN2Q3WkFmam4xQU80ckJwWU0ydjd6YTVMWUxuYXJTaE11RlpWODJmc9IBmAJBVV95cUxOWTNUUmFqUkNRTmsyZGM5MFlCV2ZTdVhwdjFlY1V1ZGdTYUdoR250M2lyUXZWekRyWkJQTGR5SEpfc3dJbEtkY0w4dmZDelNqRUZwcDhHdnBqdXhhU3BDYzdjOE5jb1BvUUZ4dkxDRXNBLThsbW82NGFZNVpRMWdMZ1I5S0lzTXlYUjQyMjFmN3NqcldQdERuX3JaWWpDWXhQVUdwNDVidjN6UW81QWliekJLSno5d2RNbV9CVU45c2lrV1E5SUxxTWZiUFJmM1o4Y1ZvTHhUZ1AyTHpLX1NtOHBlMlJoOHRsSVVCbS1pS29QWVNvY2JJal9xbkhiMk9GaWVzZm9zcWhqbTJGajNwWVFUdFUxNWdE?oc=5",
+     "title": "Omara Ventures IPO Day 2: Subscribed 0.68x; QIB hits 1x, retail lags at 0.05x",
+     "source": "scanx.trade",
+     "date": "01 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY3RUcGhRN3Vvbzhla21MUTFuSmt5U2lIbjh4Y2hQb1ZmSzBQYnRoVmJManlZUnlrdFM1OXdEQlc3aFJlN1RXYUNjM1M1Y3hiZjdKa2lMOUdiTUJJRTJnNUUzcW0yYUphR2djSGYwV3drVXJXOTdEc1pnTlVwR2lidWlGdWQ4ZC1iNGhySk0tVnl2MUNXbjMxcUpJdHNRNDNMUkZZMmtDMDdCZ0NjOTdUQUNhR1hqYnRjYVE?oc=5",
      "tone": ""
     },
     {
-     "title": "Omara Ventures India Ltd IPO Date: Check Issue Date, Price, Lot size, Subscription, News and Details - Moneycontrol",
-     "source": "Moneycontrol.com",
-     "date": "29 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ZZVdaSDBpNEJGRkV6NDVnMEhhS1B5OWllb0pXNV8zb040SFA2TWxDWi1YbWxTNWREaGhvUjI1VlNFc25MVnUzT0pPQWhBQ2ozb25HMzVJTU5pRDhjSDdrdWJEUjhGS19FNmVTazdPNWlGYkx1ZXdtanRJV1Y?oc=5",
+     "title": "Omara Ventures India IPO Subscription Day 1: 0.53x",
+     "source": "hdfcsky.com",
+     "date": "30 Sep 2026",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zRWRzZ2VpYzFHRkVjZTdELXZSTXBEOUtOS1RpQXFZY2NMbnFmMWpLblZ5dlpxakZaUU5BNlBLVVk0dllMM0N4Y1JCM2hTXzN1dEhFcnhWTlY5UGxkNmpSR3M5djk1Wl95RUE5RFFDaTJrMjBydnhHMktheUFPaGM?oc=5",
      "tone": ""
     },
     {
-     "title": "Omara Ventures India IPO - 20 IPOs to open for subscription this week: GMPs signal up to 38% returns",
-     "source": "The Economic Times",
-     "date": "28 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMDlaY01tRWZiMXNKbmE2ZEhVSTFVTFFqVDk4dlBCcUVJV0NXYkJiVEh3MFJIZTRMU2FvbjAya0xwOXJDVE85VzJlbDI2Ny0wLWs3VVdseDZlZGhGNzhPOGg1ejEzT21LXzd1RDJuU2p5a2NWQlFFem9uS05iMlJndklZVFo4V2tLWkRuU3pBWWxoclNGV2xjNXVCSzhtdUIzcExYbE05M1V4NHFUYlBncHpjN2hrLVFQbTdpbmFwd0d4VUlZd1VadlhBZjdGQUkwS0UxSWczVlFBYzlUZ0taNWVCdDRoVlZzTUtfV0NWb3o5cnVZeDNxT2h2bTc?oc=5",
+     "title": "Chandigarh-based Omara opens Rs 41.99 crore IPO for subscription, issue to close on October 5",
+     "source": "The Retail Jeweller India",
+     "date": "30 Sep 2026",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc2lRM3BLV1ItVVpUdWhGd21wblFiOTEtN1k4NzlabkJ0VUctRmtfT2pPUkI4ZWpDQnlUUzBuY0hOZHNheDRKbHZRN0lQSjkyeWVKVVRKT1ZEYXVhbGl0X0F1THh6bFVSQmNKUHB6aXpKX2xya3NvU2ppVDJhaEVjLU5yVWZQVnRiZC05ekwtb3NhblFMaVBndm5TbHpvdW1MbEZ4MmdTbnUyTEh4OVNkM0VLUmNiNndpeVpzQzJsMXBHVDQ?oc=5",
      "tone": ""
     }
    ],
@@ -3908,20 +2911,24 @@
     "Fully integrated manufacturing facility at a strategically favourable location, equipped with machinery and equipment from reputed domestic and global players."
    ],
    "status": "open",
-   "day_label": "Closes in 6 days",
+   "day_label": "Closes in 5 days",
    "subscription": {
-    "as_of": "Sep 30, 2026 11:53",
+    "as_of": "Oct 01, 2026 10:59",
     "rows": [
      {
+      "category": "Qualified Institutional",
+      "times": 5.7
+     },
+     {
       "category": "Non Institutional",
-      "times": 0.02
+      "times": 0.27
      },
      {
       "category": "Retail Individual",
-      "times": 0.04
+      "times": 0.27
      }
     ],
-    "total": 0.02
+    "total": 1.82
    },
    "gmp": {
     "gmp": 30.0,
@@ -3955,24 +2962,24 @@
    "business_news": [],
    "news": [
     {
-     "title": "Acme India Industries IPO Day 1: Subscribed 0.02x; retail and sHNI lead early demand",
+     "title": "Acme India Industries IPO Day 2: Subscribed 1.82x; QIB demand holds steady",
      "source": "scanx.trade",
+     "date": "01 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORENyNnR6SFZUMExiaUFZQ1RCcnVkUmxXc0E5X2VXanY4SHJzRWR6d0F4a1dOQ3JlNGQ4bktFc2h5WHR3UFhJdlNCUVVMbk9IcGRiM1dXOWJJN0xkT0xXQWdRTk5BZHp4b1VVYVU4aU8wbzRvVHdNWnpHZXpZR3pXemVLYWktcG5TOEU4M3R6TmU2MXJjQ2N4RGtPc3dFaGhBYkxCVzV3RXU2U0tIT1pudEd4VTdJWU0?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Acme India Industries IPO Day 2 Subscription Status 1 Oct 2026",
+     "source": "Univest",
+     "date": "01 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSkRSeWRtUUJSOGNmc0lJM2ROVVd6dVp4eDdxbXZjUFotbnNMMDluR2VpQ3lVZkprMTJzVnlWZHFDcnhUUWxROTBPWnEwcG85OVFTXzJUXy05WGN1RUJVaUU2ZXg3dGZwRnpNVmUwZC1OdnVzZXFxVWptN09CalhHMXlMdTF3MGw3djN0MHQtX2Zka3hkY1dqN2IwRTdmMmk2b19JaUpzSHpBQm8?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Acme India Industries IPO opens at ₹186–196 price band | Tap to know more | Inshorts",
+     "source": "Inshorts",
      "date": "30 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTU42bTFxa29ZcDZFQm1YVzhWaUhJYjlmRm01M0FBaFlaekhxWEJGWFhyTHY5THdXdmZSVnc0ZnRPSTItekMzdzhqYnVFWVhMajlsV0xULVV4b3lLd3lIUDNRSDhJejNLSllNMlI1dXRNRWlrMFI1ZG5DMXdnZmNoaUpDWDV3RUhmUjJscVluSE0tMDJHNXB2UUwzV3NMZl9JVXR5djBPaXM1RHVkTlB1SldEOF85UXc?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Acme India Industries IPO GMP Indicates Strong Listing; Company Works With Indian Railways",
-     "source": "ETV Bharat",
-     "date": "29 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSFhWQVhkVG0wUTIzVmtFN2ZqQ3hZV0lZTkhaeEI4NmlrdVBIQXIycnV0S3BuNURRS1BzZlIyZkc3dzBLbFBITW1qTXA1QThMSkV3ODJnV2lEZEpSYXktYjdodDJlODA0YlBsalVDdWYzMmlMV3ZRUmdZOF9nRzVPdG9MalpDOEw0OFBnWVdJdGJVaWdXYWItdFBOMXJuZUhVU01XY0otYnNjNmprU1lmajBxVWxpc3laeUN6Nkhn0gG-AUFVX3lxTE5IWFZBWGRUbTBRMjNWa0U3ZmpDeFlXSVlOSFp4Qjg2aWt1UEhBcjJydXRLcG41RFFLUHNmUjJmRzd3MEtsUEhNbWpNcDVBOExKRXc4MmdXaURkSlJheS1iN2h0MmU4MDRiUGxqVUN1ZjMyaUxXdlFSZ1k4X2dHNU90b0xqWkM4TDQ4UGdZV0l0YlVpZ1dhYi10UE4xcm5lSFVTTVdjSi1ic2M2amtTWWZqMHFVbGlzeVp5Q3o2SGc?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "ACME India IPO: Price Band, Dates, Issue Size, Financials, GMP And Other Key Details",
-     "source": "NDTV Profit",
-     "date": "28 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWkd6RmNPYi03TmNoTXJzbW9lcDg5QTVaeVpKQlRraEpnblNyZ2ZCanplVWFvREFyTnJISGZCYzBZekRQV05hY3JoZ1ZhZlY2REZwM2RTUWdVRFpWRjcxNDdFQnFwbThkZ3FiTFFwbzdxUHJIc2o1LW1sejR6YWpYU2ctWFpmRUFuOFBLS01vMFF1Q3NEbFJOaFdySXZOZy1OTDN0eEVJVkpnNWxyT1V3UDdUbmxMb0hBeGM2ekZwemrSAcgBQVVfeXFMTy1UcVpLYW14ajR6enF1M1NYOUVfX3NqNktHenZPZ2lEbXhrVVFES3FrNXNJNW85YVZYc09xZnRqaWlyZnd4dnA4U2kzMk5tb18xV0x2a3FWMVNUR2hKY1RhTER2T290OFQ3eWU2R2gxQklvOGd1X2xHLWJheVI2aGRuODhqVVRXTW1mZ05ESktFZkFRenJ6T01JVlZfTUlmZGNDZ1IxN2UtNHoxY0ludDU1VllKcnplNmFZQVVNQzN4U1ItRXNOWnE?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdmxPWUNOUHgzOHlxVjNSMGJ2MndMMTJIa0QyWDZKVEE2dTBSSTZBblo4OElpTXNLLXBVVlFEaVZJRzFBcU14dEJ6akwxempsVFNnaUdGUVV2YWEzRjM4aGw3NUkzZXZrQ3E0Y2F1UjRzLW15Z19acjNtVU9uOUQyMnZHM2FNQWxDczdyLVhHUnk2cEIzVUlYT3RDdGNrd9IBowFBVV95cUxNeG9GRjhoa1dJWW1jQi11cVNnVmJIcW1UT1N3aXVPOGpSUlFQN3A4aGE0TEFYdDU4cFdwaFF5aHY1Wk54MDhmaVk4bWFZRXRrQUhDWUp4TmxTanNoVjdWVl8zX0ZRVXFmd3NSclZDNndRYVZjQWg1Q2pTSjB3aFVrQ1l5Wjg4S01RcThaTC1YN19OM1oxXzExeGRiWFROUE1pNHlz?oc=5",
      "tone": ""
     }
    ],
@@ -4113,20 +3120,20 @@
     "Geographically Diversified and Export-Oriented Revenue Base."
    ],
    "status": "open",
-   "day_label": "Closes in 6 days",
+   "day_label": "Closes in 5 days",
    "subscription": {
-    "as_of": "Sep 30, 2026 10:59",
+    "as_of": "Oct 01, 2026 11:58",
     "rows": [
      {
       "category": "Non Institutional",
-      "times": 0.01
+      "times": 0.06
      },
      {
       "category": "Retail Individual",
-      "times": 0.04
+      "times": 0.53
      }
     ],
-    "total": 0.02
+    "total": 0.28
    },
    "gmp": {
     "gmp": 7.0,
@@ -4169,8 +3176,8 @@
     {
      "title": "TNA Solutions Powers Muscat Chips’ Entry into Oman with New 300kg-per-Hour Potato Chip Production Line",
      "source": "PotatoPro",
-     "date": "25 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcXZWX2JNMm1leUtCN2xnOE5xcldLRjZkS2dORUdaWEVOT0pDZTFxczkzcmtUQVAwNGpNbVk4bnQtcXJEb3QtY2NYWWZyTnVIWWZabmVmODkyenI3UkUyOTV3M1RNekxTbmZjY1dpYlFCWEg4TmM5RE1FTjE5T3ZSQmNONkc4T3Y0SlNfXzY4TDB2UmdOWUU3WnQ5amdtSS1WdXd5Z20wZURiOWVIYkxqNVpOck8zUFdfZVBsbUhyZ0dSZ3ZqQmttSEdvd1I?oc=5",
+     "date": "27 Sep 2026",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZFlqSGlQNnY4RGpOTzNPaDFfeV92S3Z4S2JycHNOODJIeXlnc25tTkx3RXR6U3RkekJuZnlTNGdmSGZrSHBCTElZMlZkVjNOZWRueWZkNENPYTI3VFhiM2tvX2RQT3E1R1NJSVJiOWFhZmlPQ1JNb1dkYjVZNElZQmEwOW1FQ0tJdXhPaTZWRGF0dHRsS1BlNC0tRDN5aXplOVdQYjBjbVBwaWpXWkx0UFVPbXUtWGl6RDFFOUVVWi1XVnB1d3c?oc=5",
      "tone": ""
     },
     {
@@ -4183,24 +3190,24 @@
    ],
    "news": [
     {
-     "title": "TNA Solutions IPO Day 1: Subscribed 0.02x; Retail leads at 0.04x",
-     "source": "scanx.trade",
-     "date": "30 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUzhOdTNzTVB2UmZIanhYUW5DOVhMLVowYUl3Qm9lV0VyRm1mUHowd2VGVFdMMU9NRksySGJfelM0SUppaFVVZ25KTnVNSmtBLU8yVmRjWXljNEw3d2FERGx2STY0emlNMnVab2xTWGZoUzU5ZmxJWGNObDRnQUtzNkZabUVYSy1SNHNoRm5pM1VzRkxOZ2FCY3dnRFgyWkctQUZnQVh6U1JBclliTWpv?oc=5",
+     "title": "TNA Solutions IPO opens September 30 with Rs. 37.86 crore issue",
+     "source": "Ahmedabad Mirror",
+     "date": "01 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZWc0dllGRVZrdXF4OTJmTEtrNDBPb0oyNllWX1ZpaTdPdWVWZ1ZXWWFpNWZienBXWmNIeW1FWk80M1g5UGNhTnphMk1QbTJXcnc0T013Z0xXeFZyeGh2Ri1LU3RPZ0JpcWpOWWo1UWxQNXFjU1NUcVFVWHliclBtRXJHRkphWHZlaW8zVkU1alBWLVp0NFdNaVJvcVZhZnppMUY0dmtIdy1GOXM?oc=5",
      "tone": ""
     },
     {
-     "title": "TNA Solutions Ltd. GMP, Date, Price Band & Review",
-     "source": "IndiaIPO",
-     "date": "29 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DRktLVjlXQ1dVTDZvX28xY09kR2VaSk9pMXRJakdBQ2ZWWEY2UV9XV1V5ZGpEMFo3WldwdUFuYUdfejZBdHhXTzJ2QVA5WGN3MnJsSjVfWGphVjdDVWpZNA?oc=5",
+     "title": "TNA Solutions IPO Day 2: Subscribed 0.27x; Retail leads at 0.49x; QIB interest absent",
+     "source": "scanx.trade",
+     "date": "01 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcHZQcUF6d0s0cVhJZlRxQkplajA3czJlMi1qOS1YbTg0dVZDZ05JMWM4TFJBRGxVdWR4ejl6a3BBRkE2b0NHWkgxVFp5enJqbFhrZjRxcGdzRjdFOW5LUjVpMWpHVHFMenZMdHZIbmxaX1dvRTdjQm5KMV9CeGpoS196T2k0NTAtOXdVTW0teXR0QmFCUWpDTEtzSHh6b1NJcmFuTlc3VXphY2Vsak01ZFJtRlI?oc=5",
      "tone": ""
     },
     {
-     "title": "TNA Solutions IPO DRHP: ₹26.76 crore fresh issue; FY26 revenue at ₹104.59 crore",
-     "source": "scanx.trade",
-     "date": "28 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcjlpNWhxdk5uSzcyLTBtVUZCdWNhWG9LZ2JDbHJnWmJBRFRzTjlVY21zc0NHT2RTYjZ6c2REbDFnbzlwRlg3ZmpfR25pS0RkQ0l3ZUtaZ2xDS01nRVNtbVk5OHE1QzdvRVlua09CZ3E2NTJLWlh1aDIzcE9GcEd0MHBUd2x0U3hxWmVMZnh3QmFXaG9MQVpXQU5FaEIzMk5HM21jYWMtdjRaNWY5Qi0zQUVCclRlUEc3?oc=5",
+     "title": "TNA Solutions IPO Day 2 Subscription Status 1 Oct 2026",
+     "source": "Univest",
+     "date": "01 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeWZDQlN6Z0sxV1FLNDRQUWJWcV84alJCbnFVd0NRb05wRHdab2tQd2xkNlRUem1IQlBtVTRpdXhNdEtPcUdnQ1kybE51T2lZcFFZR09Oem1YQzA5SHhILVZ3QjY1SHcwcFBWbmVmbmdQMmdFYkNyMXM5alVZY1NvWjYyX2g0S3V2SUEyY1hNc2VHbm8zU2pTTDB2MlJXTGJ5?oc=5",
      "tone": ""
     }
    ],
@@ -4336,20 +3343,24 @@
     "Customer Satisfaction"
    ],
    "status": "open",
-   "day_label": "Closes in 6 days",
+   "day_label": "Closes in 5 days",
    "subscription": {
-    "as_of": "Sep 30, 2026 13:59",
+    "as_of": "Oct 01, 2026 11:58",
     "rows": [
      {
       "category": "Qualified Institutional",
-      "times": 95.44
+      "times": 119.29
+     },
+     {
+      "category": "Non Institutional",
+      "times": 0.01
      },
      {
       "category": "Retail Individual",
-      "times": 0.01
+      "times": 0.07
      }
     ],
-    "total": 1.04
+    "total": 1.33
    },
    "gmp": {
     "gmp": 0.0,
@@ -4383,24 +3394,24 @@
    "business_news": [],
    "news": [
     {
-     "title": "Paramount Syntex IPO Day 1: Subscribed 0.47x; QIB surges to 43.58x on opening day",
+     "title": "Paramount Syntex IPO Day 2: Subscribed 1.32x; QIB demand hits 119.29x",
      "source": "scanx.trade",
-     "date": "30 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVkhJd2pCWm95LU5UZ2owa0lZRUoyNVBNcXowZ3gtbFpRUnNDbEZWRlJfeUJGd3EwNUFKTldwV254QVJwcV9RS2xlNXF6RkYtUFlidzlEaEppOHBLR25VdlQ1OE5ablZRM0RDNWlhSWtSQUFvMWNSVHNiWndOS2hYMlY5bVMzM2RTYXJIMnNvR0VVSkozMWpGTU1kZXBDajE0VFVrMXVBSVJkMFFyTldnWEhDNWVfZE53N2ludg?oc=5",
+     "date": "01 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMGZlQ01MT051YXdsVFlKZnljbzM0WjNBMEJiRjdXRGY2QURvLTF1MGJvbEdJeXB0VmxNRm1aT1VlSWMyZnRCSVJOdS01WUMyeTNHZldiZ3RManZ0Z1FxLXZqZHRIV2xaNHVMLXJYR0pwb0dHcUVTZWYxV3dUdkstZXV3aXJGR0lJSnBpNzM4dC15ci04c0NhTGlkSTJiaGcyNU9HM2VXUFkxWlNXVHR1YzZtUTdibkZzQWc?oc=5",
      "tone": ""
     },
     {
-     "title": "Paramount Syntex IPO Day 1 Subscription Status 30 Sep 2026",
+     "title": "Paramount Syntex IPO Day 2 Subscription Status 1 Oct 2026",
      "source": "Univest",
-     "date": "30 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ2NQWkhqWk9VbXpWOVpoUFpJV1ZtcG82TXR2Vnpmc1lKamFLaFV1ZFFIYjJGSFBIWFRfb0tYU3VvWkoyNGpyM3U3THhHVmhCeEhpc3oxZ1owMWhDWl9hV0w5b1owMmNoNWFtc0UzaEFESzE2My13cFZOYURIWWVKN3JwbzJ0cnFVSV9GTkhBZ2RKVkEzcS1iWm1aRFU0OWZwUmdHMw?oc=5",
+     "date": "01 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNVF0N0haWnd2d0RhbjFaUkw0UUl0OE1pTkRvNjJyVDJzbVFaSVBUQ0V2YzByUS1MaENsd3hiS1JnWnNZZVNvUFR1dk5nWWtYRVY5b2wyNTZBUkQzQ3BZcmMzZndmWENYN3FyakdicXV2WjlzZUIySTRDblNRbGtpODRsR3pKdndnUW9aTFhTc1J2V0hiZjhDX1lTZjhuWmJkb1Q1LQ?oc=5",
      "tone": ""
     },
     {
-     "title": "Paramount Syntex IPO DRHP: ₹61.68 crore fresh issue; FY26 PAT at ₹13.87 crore",
-     "source": "scanx.trade",
-     "date": "28 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWEcyYlRIcEIwX05PRDVYRDRsbHA5V05jRTcxNV9PTDd1ODFBY2RwdGY1R09rYXdkZ2JrM2REYVY1VGtOWkNnRnpEZTlUZzJpYmIxREg1bE4xd1ZLQTZ2NjNkempxRTIyMkVPekh1T1lkQlU1d3NtaFlXeUhHUzRWUzBtN29fbmRqcFl6RjV5YnRuakFjc3JwWHNSZlBkWTR1MlJmMXhTNmFrYlBGaXg5bWhKdnptNUdVWmVUWXVR?oc=5",
+     "title": "Paramount Syntex Limited IPO Opening On 30th September; Issue Size of up to Rs.81.79 Crore",
+     "source": "ThePrint",
+     "date": "30 Sep 2026",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQb1d4aXhFMU55MkF6SFduVEhoX280T3hMcElDQmhyX3RmYmgza1V2NTAxN0ZKY1RGYzE5a215OFVzZUJpcE02b1dveUl2NER4LTR6WlRmUGFEYVU5aG1UY0hmUWtORUlDOEVrNERWRGFJcGVDcGRoZUJwWnBIcEZ2ekIxZ1Bla2lOYlBHZmVSTWx2NzIzWjFxaUZJRFpSblZVdkZMbnBhMWtLYUdiYUtLU2Z1cjBUQnk0ek9CLTBKUnZIRnA2NHJQNllnTjl5VVFWMHg00gHYAUFVX3lxTE5ieldBRkxpWTdtdDhsbUVXT0s2YlloaGp1TkVITmZuenhMbFotelVFNV9zTW5fbm05WUpEZnNhTGdqYVd4WVdRdF9JSW8ySjhJRDJ0UFJkTFgxek9YbVI3QXgyanU0QWJmVVlVbjhKQzR0clRoSThoQ2JxODBzQl9GNUhYUzlKWGtjQUhRSG1vZk1Zbk5heXd1VU55UEtsR2ZZVVZBTmlER3ZDWm00UTVndU1nNXVUV3docU91aFh1dVRGc0RaZ1MtWENwSEIzSzBhcm5INDlIbQ?oc=5",
      "tone": ""
     }
    ],
@@ -4411,492 +3422,506 @@
  "market": {
   "performance": [
    {
-    "name": "Swastika Infra Ltd.",
+    "name": "Moneyview Ltd.",
     "listing_gain_pct": 0.0,
     "current_gain_pct": 0.0,
+    "type": "Mainboard",
+    "key": "moneyview"
+   },
+   {
+    "name": "A-One Steels India Ltd.",
+    "listing_gain_pct": 0.0,
+    "current_gain_pct": 0.0,
+    "type": "Mainboard",
+    "key": "a one steels india"
+   },
+   {
+    "name": "Swastika Infra Ltd.",
+    "listing_gain_pct": 13.51,
+    "current_gain_pct": 13.49,
     "type": "Mainboard",
     "key": "swastika infra"
    },
    {
     "name": "ArMee Infotech Ltd.",
-    "listing_gain_pct": 0.0,
-    "current_gain_pct": 0.0,
+    "listing_gain_pct": -20.0,
+    "current_gain_pct": -21.24,
     "type": "Mainboard",
     "key": "armee infotech"
    },
    {
     "name": "Adroit Industries (India) Ltd.",
-    "listing_gain_pct": 0.0,
-    "current_gain_pct": 0.0,
+    "listing_gain_pct": 85.37,
+    "current_gain_pct": 85.34,
     "type": "Mainboard",
     "key": "adroit industries"
    },
    {
     "name": "Elevate Campuses Ltd.",
-    "listing_gain_pct": 0.0,
-    "current_gain_pct": 0.0,
+    "listing_gain_pct": -10.79,
+    "current_gain_pct": -10.79,
     "type": "Mainboard",
     "key": "elevate campuses"
    },
    {
     "name": "Varmora Granito Ltd.",
     "listing_gain_pct": 2.83,
-    "current_gain_pct": 3.24,
+    "current_gain_pct": -5.78,
     "type": "Mainboard",
     "key": "varmora granito"
    },
    {
-    "name": "National Stock Exchange of India Ltd.",
-    "listing_gain_pct": 1.85,
-    "current_gain_pct": -0.88,
-    "type": "Mainboard",
-    "key": "national stock exchange of india"
-   },
-   {
     "name": "Sonaselection India Ltd.",
     "listing_gain_pct": 8.51,
-    "current_gain_pct": -1.07,
+    "current_gain_pct": -2.69,
     "type": "Mainboard",
     "key": "sonaselection india"
    },
    {
+    "name": "National Stock Exchange of India Ltd.",
+    "listing_gain_pct": 1.85,
+    "current_gain_pct": -1.23,
+    "type": "Mainboard",
+    "key": "national stock exchange of india"
+   },
+   {
     "name": "Hero Motors Ltd.",
     "listing_gain_pct": 17.14,
-    "current_gain_pct": 65.13,
+    "current_gain_pct": 81.62,
     "type": "Mainboard",
     "key": "hero motors"
    },
    {
     "name": "Jindal Supreme (India) Ltd.",
     "listing_gain_pct": 35.48,
-    "current_gain_pct": 67.25,
+    "current_gain_pct": 75.6,
     "type": "Mainboard",
     "key": "jindal supreme"
    },
    {
     "name": "SS Retail Ltd.",
     "listing_gain_pct": 76.6,
-    "current_gain_pct": 76.13,
+    "current_gain_pct": 77.25,
     "type": "Mainboard",
     "key": "ss retail"
    },
    {
     "name": "Manika Plastech Ltd.",
     "listing_gain_pct": 0.33,
-    "current_gain_pct": -2.33,
+    "current_gain_pct": -1.72,
     "type": "Mainboard",
     "key": "manika plastech"
    },
    {
     "name": "Veegaland Developers Ltd.",
     "listing_gain_pct": 4.5,
-    "current_gain_pct": 1.0,
+    "current_gain_pct": 1.89,
     "type": "Mainboard",
     "key": "veegaland developers"
    },
    {
-    "name": "Manipal Payment & Identity Solutions Ltd.",
-    "listing_gain_pct": 1.81,
-    "current_gain_pct": 23.17,
+    "name": "LCC Projects Ltd.",
+    "listing_gain_pct": 16.51,
+    "current_gain_pct": 5.68,
     "type": "Mainboard",
-    "key": "manipal payment identity solutions"
+    "key": "lcc projects"
    },
    {
     "name": "Rentomojo Ltd.",
     "listing_gain_pct": 32.24,
-    "current_gain_pct": 24.25,
+    "current_gain_pct": 26.25,
     "type": "Mainboard",
     "key": "rentomojo"
    },
    {
     "name": "Asset Reconstruction Co.(India) Ltd.",
     "listing_gain_pct": -1.42,
-    "current_gain_pct": 3.31,
+    "current_gain_pct": 4.03,
     "type": "Mainboard",
     "key": "asset reconstruction co"
    },
    {
+    "name": "Manipal Payment & Identity Solutions Ltd.",
+    "listing_gain_pct": 1.81,
+    "current_gain_pct": 20.9,
+    "type": "Mainboard",
+    "key": "manipal payment identity solutions"
+   },
+   {
     "name": "Steamhouse India Ltd.",
     "listing_gain_pct": 26.6,
-    "current_gain_pct": 37.0,
+    "current_gain_pct": 37.15,
     "type": "Mainboard",
     "key": "steamhouse india"
    },
    {
-    "name": "LCC Projects Ltd.",
-    "listing_gain_pct": 16.51,
-    "current_gain_pct": 3.32,
-    "type": "Mainboard",
-    "key": "lcc projects"
-   },
-   {
     "name": "Karamtara Engineering Ltd.",
     "listing_gain_pct": 38.58,
-    "current_gain_pct": 41.79,
+    "current_gain_pct": 55.96,
     "type": "Mainboard",
     "key": "karamtara engineering"
    },
    {
     "name": "Glass Wall Systems (India) Ltd.",
     "listing_gain_pct": 18.05,
-    "current_gain_pct": 58.16,
+    "current_gain_pct": 54.95,
     "type": "Mainboard",
     "key": "glass wall systems"
    },
    {
     "name": "Prasol Chemicals Ltd.",
     "listing_gain_pct": -0.74,
-    "current_gain_pct": 24.21,
+    "current_gain_pct": 24.45,
     "type": "Mainboard",
     "key": "prasol chemicals"
    },
    {
     "name": "Kanohar Electricals Ltd.",
     "listing_gain_pct": 18.91,
-    "current_gain_pct": 36.75,
+    "current_gain_pct": 35.52,
     "type": "Mainboard",
     "key": "kanohar electricals"
    },
    {
     "name": "Pranav Constructions Ltd.",
     "listing_gain_pct": 6.45,
-    "current_gain_pct": -19.19,
+    "current_gain_pct": -19.4,
     "type": "Mainboard",
     "key": "pranav constructions"
    },
    {
     "name": "Rays of Belief Ltd.",
     "listing_gain_pct": -4.46,
-    "current_gain_pct": 7.34,
+    "current_gain_pct": -1.9,
     "type": "Mainboard",
     "key": "rays of belief"
    },
    {
     "name": "Deepa Jewellers Ltd.",
     "listing_gain_pct": 9.81,
-    "current_gain_pct": 6.89,
+    "current_gain_pct": 10.45,
     "type": "Mainboard",
     "key": "deepa jewellers"
    },
    {
     "name": "Purple Style Labs Ltd.",
     "listing_gain_pct": -1.12,
-    "current_gain_pct": -7.5,
+    "current_gain_pct": -5.24,
     "type": "Mainboard",
     "key": "purple style labs"
    },
    {
-    "name": "Priority Jewels Ltd.",
-    "listing_gain_pct": 20.75,
-    "current_gain_pct": 45.12,
-    "type": "Mainboard",
-    "key": "priority jewels"
-   },
-   {
     "name": "ESDS Software Solution Ltd.",
     "listing_gain_pct": 111.75,
-    "current_gain_pct": 269.78,
+    "current_gain_pct": 251.29,
     "type": "Mainboard",
     "key": "esds software solution"
    },
    {
+    "name": "Priority Jewels Ltd.",
+    "listing_gain_pct": 20.75,
+    "current_gain_pct": 51.4,
+    "type": "Mainboard",
+    "key": "priority jewels"
+   },
+   {
     "name": "Lumino Industries Ltd.",
     "listing_gain_pct": 34.54,
-    "current_gain_pct": 27.49,
+    "current_gain_pct": 24.94,
     "type": "Mainboard",
     "key": "lumino industries"
    },
    {
     "name": "Annu Projects Ltd.",
     "listing_gain_pct": -23.64,
-    "current_gain_pct": -51.68,
+    "current_gain_pct": -51.19,
     "type": "Mainboard",
     "key": "annu projects"
    },
    {
     "name": "Skyways Air Services Ltd.",
     "listing_gain_pct": -9.01,
-    "current_gain_pct": -16.45,
+    "current_gain_pct": -17.9,
     "type": "Mainboard",
     "key": "skyways air services"
    },
    {
     "name": "Hy-Tech Engineers Ltd.",
     "listing_gain_pct": 48.58,
-    "current_gain_pct": 31.28,
+    "current_gain_pct": 36.23,
     "type": "Mainboard",
     "key": "hy tech engineers"
    },
    {
     "name": "Symbiotec Pharmalab Ltd.",
     "listing_gain_pct": 11.1,
-    "current_gain_pct": 15.82,
+    "current_gain_pct": 19.03,
     "type": "Mainboard",
     "key": "symbiotec pharmalab"
    },
    {
     "name": "Augmont Enterprises Ltd.",
     "listing_gain_pct": 15.25,
-    "current_gain_pct": 34.67,
+    "current_gain_pct": 39.02,
     "type": "Mainboard",
     "key": "augmont enterprises"
    },
    {
     "name": "Tempsens Instruments (India) Ltd.",
     "listing_gain_pct": 95.55,
-    "current_gain_pct": 76.7,
+    "current_gain_pct": 75.5,
     "type": "Mainboard",
     "key": "tempsens instruments"
    },
    {
     "name": "Gaja Alternative Asset Management Ltd.",
     "listing_gain_pct": 5.42,
-    "current_gain_pct": -12.06,
+    "current_gain_pct": -12.47,
     "type": "Mainboard",
     "key": "gaja alternative asset management"
    },
    {
     "name": "Sunshine Pictures Ltd.",
     "listing_gain_pct": 2.56,
-    "current_gain_pct": 23.67,
+    "current_gain_pct": 25.94,
     "type": "Mainboard",
     "key": "sunshine pictures"
    },
    {
     "name": "Shankesh Jewellers Ltd.",
     "listing_gain_pct": 1.96,
-    "current_gain_pct": -4.46,
+    "current_gain_pct": -2.89,
     "type": "Mainboard",
     "key": "shankesh jewellers"
    },
    {
     "name": "Lalithaa Jewellery Mart Ltd.",
     "listing_gain_pct": 23.6,
-    "current_gain_pct": 86.54,
+    "current_gain_pct": 90.2,
     "type": "Mainboard",
     "key": "lalithaa jewellery mart"
    },
    {
     "name": "Horizon Industrial Parks Ltd.",
     "listing_gain_pct": -3.07,
-    "current_gain_pct": -14.73,
+    "current_gain_pct": -16.17,
     "type": "Mainboard",
     "key": "horizon industrial parks"
    },
    {
     "name": "Shiprocket Ltd.",
     "listing_gain_pct": 47.89,
-    "current_gain_pct": 23.92,
+    "current_gain_pct": 23.87,
     "type": "Mainboard",
     "key": "shiprocket"
    },
    {
     "name": "Behari Lal Engineering Ltd.",
     "listing_gain_pct": 76.21,
-    "current_gain_pct": 56.86,
+    "current_gain_pct": 70.46,
     "type": "Mainboard",
     "key": "behari lal engineering"
    },
    {
     "name": "Milky Mist Dairy Food Ltd.",
     "listing_gain_pct": 29.64,
-    "current_gain_pct": 127.21,
+    "current_gain_pct": 124.5,
     "type": "Mainboard",
     "key": "milky mist dairy food"
    },
    {
     "name": "Molbio Diagnostics Ltd.",
     "listing_gain_pct": 29.08,
-    "current_gain_pct": 55.92,
+    "current_gain_pct": 62.26,
     "type": "Mainboard",
     "key": "molbio diagnostics"
    },
    {
     "name": "Dhoot Transmission Ltd.",
     "listing_gain_pct": 36.29,
-    "current_gain_pct": 72.78,
+    "current_gain_pct": 70.82,
     "type": "Mainboard",
     "key": "dhoot transmission"
    },
    {
-    "name": "LEAP India Ltd.",
-    "listing_gain_pct": -8.85,
-    "current_gain_pct": -13.52,
-    "type": "Mainboard",
-    "key": "leap india"
-   },
-   {
     "name": "Technocraft Ventures Ltd.",
     "listing_gain_pct": 46.77,
-    "current_gain_pct": 127.1,
+    "current_gain_pct": 123.51,
     "type": "Mainboard",
     "key": "technocraft ventures"
    },
    {
+    "name": "LEAP India Ltd.",
+    "listing_gain_pct": -8.85,
+    "current_gain_pct": -13.46,
+    "type": "Mainboard",
+    "key": "leap india"
+   },
+   {
     "name": "Ardee Industries Ltd.",
     "listing_gain_pct": 26.64,
-    "current_gain_pct": -3.15,
+    "current_gain_pct": -3.91,
     "type": "Mainboard",
     "key": "ardee industries"
    },
    {
     "name": "MV Electrosystems Ltd.",
     "listing_gain_pct": 46.82,
-    "current_gain_pct": 97.13,
+    "current_gain_pct": 92.54,
     "type": "Mainboard",
     "key": "mv electrosystems"
    },
    {
     "name": "Juniper Green Energy Ltd.",
     "listing_gain_pct": 15.43,
-    "current_gain_pct": 20.78,
+    "current_gain_pct": 21.4,
     "type": "Mainboard",
     "key": "juniper green energy"
    },
    {
     "name": "Manipal Health Enterprises Ltd.",
     "listing_gain_pct": 13.04,
-    "current_gain_pct": 26.93,
+    "current_gain_pct": 20.12,
     "type": "Mainboard",
     "key": "manipal health enterprises"
    },
    {
     "name": "Cube Highways Trust",
     "listing_gain_pct": 3.26,
-    "current_gain_pct": 1.8,
+    "current_gain_pct": 1.84,
     "type": "Mainboard",
     "key": "cube highways trust"
    },
    {
     "name": "Lohia Corp Ltd.",
     "listing_gain_pct": 16.38,
-    "current_gain_pct": 36.62,
+    "current_gain_pct": 30.78,
     "type": "Mainboard",
     "key": "lohia corp"
    },
    {
     "name": "Indo-MIM Ltd.",
     "listing_gain_pct": 52.94,
-    "current_gain_pct": 157.54,
+    "current_gain_pct": 155.84,
     "type": "Mainboard",
     "key": "indo mim"
    },
    {
     "name": "Xtranet Technologies Ltd.",
     "listing_gain_pct": 1.73,
-    "current_gain_pct": 114.02,
+    "current_gain_pct": 124.69,
     "type": "Mainboard",
     "key": "xtranet technologies"
    },
    {
     "name": "Caliber Mining & Logistics Ltd.",
     "listing_gain_pct": 24.58,
-    "current_gain_pct": 27.87,
+    "current_gain_pct": 25.91,
     "type": "Mainboard",
     "key": "caliber mining logistics"
    },
    {
     "name": "Alpine Texworld Ltd.",
     "listing_gain_pct": -5.0,
-    "current_gain_pct": -53.36,
+    "current_gain_pct": -54.45,
     "type": "Mainboard",
     "key": "alpine texworld"
    },
    {
     "name": "SBI Funds Management Ltd.",
     "listing_gain_pct": 6.23,
-    "current_gain_pct": -9.78,
+    "current_gain_pct": -10.08,
     "type": "Mainboard",
     "key": "sbi funds management"
    },
    {
     "name": "Laser Power & Infra Ltd.",
     "listing_gain_pct": 22.63,
-    "current_gain_pct": 26.26,
+    "current_gain_pct": 23.2,
     "type": "Mainboard",
     "key": "laser power infra"
    },
    {
     "name": "Kusumgar Ltd.",
     "listing_gain_pct": 43.87,
-    "current_gain_pct": 44.77,
+    "current_gain_pct": 43.46,
     "type": "Mainboard",
     "key": "kusumgar"
    },
    {
     "name": "Knack Packaging Ltd.",
     "listing_gain_pct": 7.64,
-    "current_gain_pct": 3.68,
+    "current_gain_pct": 5.74,
     "type": "Mainboard",
     "key": "knack packaging"
    },
    {
     "name": "Aastha Spintex Ltd.",
     "listing_gain_pct": 0.36,
-    "current_gain_pct": -72.38,
+    "current_gain_pct": -74.82,
     "type": "Mainboard",
     "key": "aastha spintex"
    },
    {
     "name": "CSM Technologies Ltd.",
     "listing_gain_pct": -5.0,
-    "current_gain_pct": -13.07,
+    "current_gain_pct": -13.38,
     "type": "Mainboard",
     "key": "csm technologies"
    },
    {
     "name": "Waterways Leisure Tourism Ltd.",
     "listing_gain_pct": -17.31,
-    "current_gain_pct": -87.26,
+    "current_gain_pct": -87.3,
     "type": "Mainboard",
     "key": "waterways leisure tourism"
    },
    {
     "name": "Advit Jewels Ltd.",
     "listing_gain_pct": 30.04,
-    "current_gain_pct": 110.94,
+    "current_gain_pct": 107.17,
     "type": "Mainboard",
     "key": "advit jewels"
    },
    {
     "name": "Turtlemint Fintech Solutions Ltd.",
     "listing_gain_pct": -10.94,
-    "current_gain_pct": -47.8,
+    "current_gain_pct": -49.74,
     "type": "Mainboard",
     "key": "turtlemint fintech solutions"
    },
    {
     "name": "Hexagon Nutrition Ltd.",
     "listing_gain_pct": 18.2,
-    "current_gain_pct": 44.04,
+    "current_gain_pct": 51.24,
     "type": "Mainboard",
     "key": "hexagon nutrition"
    },
    {
     "name": "CMR Green Technologies Ltd.",
     "listing_gain_pct": 25.62,
-    "current_gain_pct": 18.7,
+    "current_gain_pct": 17.19,
     "type": "Mainboard",
     "key": "cmr green technologies"
    },
    {
     "name": "Bagmane Prime Office REIT",
     "listing_gain_pct": 3.6,
-    "current_gain_pct": 6.3,
+    "current_gain_pct": 8.73,
     "type": "Mainboard",
     "key": "bagmane prime office reit"
    },
    {
     "name": "OnEMI Technology Solutions Ltd.",
     "listing_gain_pct": 22.01,
-    "current_gain_pct": 109.88,
+    "current_gain_pct": 115.67,
     "type": "Mainboard",
     "key": "onemi technology solutions"
    },
    {
     "name": "Citius Transnet Investment Trust",
     "listing_gain_pct": 6.23,
-    "current_gain_pct": 18.05,
+    "current_gain_pct": 17.55,
     "type": "Mainboard",
     "key": "citius transnet investment trust"
    },
@@ -4910,231 +3935,245 @@
    {
     "name": "Om Power Transmission Ltd.",
     "listing_gain_pct": 10.5,
-    "current_gain_pct": -6.69,
+    "current_gain_pct": -9.4,
     "type": "Mainboard",
     "key": "om power transmission"
    },
    {
     "name": "Amir Chand Jagdish Kumar (Exports) Ltd.",
     "listing_gain_pct": -15.09,
-    "current_gain_pct": -4.79,
+    "current_gain_pct": -2.45,
     "type": "Mainboard",
     "key": "amir chand jagdish kumar"
    },
    {
     "name": "Powerica Ltd.",
     "listing_gain_pct": -1.27,
-    "current_gain_pct": 51.34,
+    "current_gain_pct": 52.11,
     "type": "Mainboard",
     "key": "powerica"
    },
    {
     "name": "Sai Parenteral's Ltd.",
     "listing_gain_pct": 3.49,
-    "current_gain_pct": 28.23,
+    "current_gain_pct": 34.89,
     "type": "Mainboard",
     "key": "sai parenterals"
    },
    {
     "name": "Central Mine Planning & Design Institute Ltd.",
     "listing_gain_pct": -10.43,
-    "current_gain_pct": 24.1,
+    "current_gain_pct": 21.31,
     "type": "Mainboard",
     "key": "central mine planning design institute"
    },
    {
     "name": "GSP Crop Science Ltd.",
     "listing_gain_pct": 11.33,
-    "current_gain_pct": 46.67,
+    "current_gain_pct": 46.27,
     "type": "Mainboard",
     "key": "gsp crop science"
    },
    {
     "name": "Raajmarg Infra Investment Trust",
     "listing_gain_pct": 0.0,
-    "current_gain_pct": 20.03,
+    "current_gain_pct": 21.59,
     "type": "Mainboard",
     "key": "raajmarg infra investment trust"
    },
    {
     "name": "Innovision Ltd.",
     "listing_gain_pct": -27.9,
-    "current_gain_pct": -51.0,
+    "current_gain_pct": -51.42,
     "type": "Mainboard",
     "key": "innovision"
    },
    {
     "name": "Rajputana Stainless Ltd.",
     "listing_gain_pct": -7.35,
-    "current_gain_pct": 35.66,
+    "current_gain_pct": 38.16,
     "type": "Mainboard",
     "key": "rajputana stainless"
    },
    {
     "name": "SEDEMAC Mechatronics Ltd.",
     "listing_gain_pct": 7.33,
-    "current_gain_pct": 157.83,
+    "current_gain_pct": 158.1,
     "type": "Mainboard",
     "key": "sedemac mechatronics"
    },
    {
     "name": "Omnitech Engineering Ltd.",
     "listing_gain_pct": -9.72,
-    "current_gain_pct": 146.83,
+    "current_gain_pct": 148.63,
     "type": "Mainboard",
     "key": "omnitech engineering"
    },
    {
     "name": "PNGS Reva Diamond Jewellery Ltd.",
     "listing_gain_pct": 6.66,
-    "current_gain_pct": 33.08,
+    "current_gain_pct": 32.55,
     "type": "Mainboard",
     "key": "pngs reva diamond jewellery"
    },
    {
     "name": "Shree Ram Twistex Ltd.",
     "listing_gain_pct": -31.35,
-    "current_gain_pct": -63.68,
+    "current_gain_pct": -64.01,
     "type": "Mainboard",
     "key": "shree ram twistex"
    },
    {
     "name": "Clean Max Enviro Energy Solutions Ltd.",
     "listing_gain_pct": -17.62,
-    "current_gain_pct": 31.3,
+    "current_gain_pct": 25.98,
     "type": "Mainboard",
     "key": "clean max enviro energy solutions"
    },
    {
     "name": "Gaudium IVF & Women Health Ltd.",
     "listing_gain_pct": 1.59,
-    "current_gain_pct": 44.3,
+    "current_gain_pct": 40.63,
     "type": "Mainboard",
     "key": "gaudium ivf women health"
    },
    {
     "name": "Aye Finance Ltd.",
     "listing_gain_pct": -0.07,
-    "current_gain_pct": 23.8,
+    "current_gain_pct": 20.74,
     "type": "Mainboard",
     "key": "aye finance"
    },
    {
     "name": "Fractal Analytics Ltd.",
     "listing_gain_pct": -5.87,
-    "current_gain_pct": -16.22,
+    "current_gain_pct": -17.73,
     "type": "Mainboard",
     "key": "fractal analytics"
    },
    {
     "name": "Shadowfax Technologies Ltd.",
     "listing_gain_pct": -11.31,
-    "current_gain_pct": 126.41,
+    "current_gain_pct": 126.21,
     "type": "Mainboard",
     "key": "shadowfax technologies"
    },
    {
     "name": "Amagi Media Labs Ltd.",
     "listing_gain_pct": -3.53,
-    "current_gain_pct": 56.05,
+    "current_gain_pct": 51.84,
     "type": "Mainboard",
     "key": "amagi media labs"
    },
    {
     "name": "Bharat Coking Coal Ltd.",
     "listing_gain_pct": 76.43,
-    "current_gain_pct": 45.74,
+    "current_gain_pct": 42.83,
     "type": "Mainboard",
     "key": "bharat coking coal"
    },
    {
-    "name": "Coreintegra Consulting Services Ltd.",
+    "name": "Roopa Screen Ltd.",
     "listing_gain_pct": 0.0,
     "current_gain_pct": 0.0,
+    "type": "SME",
+    "key": "roopa screen"
+   },
+   {
+    "name": "Peshwa Wheat Ltd.",
+    "listing_gain_pct": 0.0,
+    "current_gain_pct": 0.0,
+    "type": "SME",
+    "key": "peshwa wheat"
+   },
+   {
+    "name": "Coreintegra Consulting Services Ltd.",
+    "listing_gain_pct": 1.15,
+    "current_gain_pct": 1.15,
     "type": "SME",
     "key": "coreintegra consulting services"
    },
    {
     "name": "Pooja Logistics Ltd.",
-    "listing_gain_pct": 0.0,
-    "current_gain_pct": 0.0,
+    "listing_gain_pct": 7.74,
+    "current_gain_pct": 7.74,
     "type": "SME",
     "key": "pooja logistics"
    },
    {
     "name": "Liqvd Digital India Ltd.",
-    "listing_gain_pct": 0.0,
-    "current_gain_pct": 0.0,
+    "listing_gain_pct": -5.46,
+    "current_gain_pct": -5.46,
     "type": "SME",
     "key": "liqvd digital india"
    },
    {
     "name": "S.K.Offset Ltd.",
-    "listing_gain_pct": 0.0,
-    "current_gain_pct": 0.0,
+    "listing_gain_pct": 1.08,
+    "current_gain_pct": 1.08,
     "type": "SME",
     "key": "skoffset"
    },
    {
     "name": "Unitec Fibres Ltd.",
-    "listing_gain_pct": 0.0,
-    "current_gain_pct": 0.0,
+    "listing_gain_pct": 2.95,
+    "current_gain_pct": 2.95,
     "type": "SME",
     "key": "unitec fibres"
    },
    {
     "name": "Himalaya Nutravedics India Ltd.",
     "listing_gain_pct": 15.94,
-    "current_gain_pct": 15.94,
+    "current_gain_pct": 10.19,
     "type": "SME",
     "key": "himalaya nutravedics india"
    },
    {
     "name": "Anand Seamless Ltd.",
     "listing_gain_pct": 0.14,
-    "current_gain_pct": 0.14,
+    "current_gain_pct": 0.0,
     "type": "SME",
     "key": "anand seamless"
    },
    {
     "name": "Vivekanand Cotspin Ltd.",
     "listing_gain_pct": 7.84,
-    "current_gain_pct": 13.22,
+    "current_gain_pct": 11.08,
     "type": "SME",
     "key": "vivekanand cotspin"
    },
    {
     "name": "FX Multitech Ltd.",
     "listing_gain_pct": 11.38,
-    "current_gain_pct": 11.21,
+    "current_gain_pct": 7.93,
     "type": "SME",
     "key": "fx multitech"
    },
    {
     "name": "Robokidz Eduventures Ltd.",
     "listing_gain_pct": 99.48,
-    "current_gain_pct": 109.43,
+    "current_gain_pct": 119.53,
     "type": "SME",
     "key": "robokidz eduventures"
    },
    {
     "name": "Axiom Gas Engineering Ltd.",
     "listing_gain_pct": 0.09,
-    "current_gain_pct": -9.63,
+    "current_gain_pct": -14.07,
     "type": "SME",
     "key": "axiom gas engineering"
    },
    {
     "name": "Kheria Autocomp Ltd.",
     "listing_gain_pct": 2.03,
-    "current_gain_pct": 0.1,
+    "current_gain_pct": 0.54,
     "type": "SME",
     "key": "kheria autocomp"
    },
    {
     "name": "SpectraA Technology Solutions Ltd.",
     "listing_gain_pct": 99.49,
-    "current_gain_pct": 110.25,
+    "current_gain_pct": 112.71,
     "type": "SME",
     "key": "spectraa technology solutions"
    },
@@ -5148,294 +4187,294 @@
    {
     "name": "Shakti Polytarp Ltd.",
     "listing_gain_pct": -3.25,
-    "current_gain_pct": -5.08,
+    "current_gain_pct": -4.92,
     "type": "SME",
     "key": "shakti polytarp"
    },
    {
     "name": "Vama Wovenfab Ltd.",
     "listing_gain_pct": -5.0,
-    "current_gain_pct": -26.45,
+    "current_gain_pct": -30.12,
     "type": "SME",
     "key": "vama wovenfab"
    },
    {
     "name": "Century Business Media Ltd.",
     "listing_gain_pct": -0.11,
-    "current_gain_pct": -3.45,
+    "current_gain_pct": -1.35,
     "type": "SME",
     "key": "century business media"
    },
    {
     "name": "Injecto Polymers Ltd.",
     "listing_gain_pct": -4.05,
-    "current_gain_pct": -3.17,
+    "current_gain_pct": -2.44,
     "type": "SME",
     "key": "injecto polymers"
    },
    {
     "name": "Panchatv Bharat Ltd.",
     "listing_gain_pct": -12.46,
-    "current_gain_pct": -12.46,
+    "current_gain_pct": -16.82,
     "type": "SME",
     "key": "panchatv bharat"
    },
    {
     "name": "Raksan Transformers Ltd.",
     "listing_gain_pct": 4.98,
-    "current_gain_pct": 0.95,
+    "current_gain_pct": 1.7,
     "type": "SME",
     "key": "raksan transformers"
    },
    {
     "name": "Om Galaxy Ltd.",
     "listing_gain_pct": 0.86,
-    "current_gain_pct": -2.44,
+    "current_gain_pct": -1.11,
     "type": "SME",
     "key": "om galaxy"
    },
    {
     "name": "Maharaja & Speedex India Ltd.",
     "listing_gain_pct": 41.13,
-    "current_gain_pct": 37.5,
+    "current_gain_pct": 44.19,
     "type": "SME",
     "key": "maharaja speedex india"
    },
    {
     "name": "Amtech Esters Ltd.",
     "listing_gain_pct": 40.0,
-    "current_gain_pct": 57.36,
+    "current_gain_pct": 59.64,
     "type": "SME",
     "key": "amtech esters"
    },
    {
     "name": "Vinod Texworld Ltd.",
     "listing_gain_pct": -5.0,
-    "current_gain_pct": -36.76,
+    "current_gain_pct": -39.89,
     "type": "SME",
     "key": "vinod texworld"
    },
    {
     "name": "Infrax Renewable Ltd.",
     "listing_gain_pct": 1.44,
-    "current_gain_pct": 18.46,
+    "current_gain_pct": 12.55,
     "type": "SME",
     "key": "infrax renewable"
    },
    {
     "name": "Apana Logistics Ltd.",
     "listing_gain_pct": -5.0,
-    "current_gain_pct": -46.07,
+    "current_gain_pct": -51.45,
     "type": "SME",
     "key": "apana logistics"
    },
    {
     "name": "Qualiance International Ltd.",
     "listing_gain_pct": 85.91,
-    "current_gain_pct": 48.9,
+    "current_gain_pct": 48.03,
     "type": "SME",
     "key": "qualiance international"
    },
    {
     "name": "Farm Peace Ltd.",
     "listing_gain_pct": 80.51,
-    "current_gain_pct": -18.0,
+    "current_gain_pct": -26.19,
     "type": "SME",
     "key": "farm peace"
    },
    {
     "name": "Fly-Hi Maritime Travels Ltd.",
     "listing_gain_pct": -23.97,
-    "current_gain_pct": -64.51,
+    "current_gain_pct": -63.24,
     "type": "SME",
     "key": "fly hi maritime travels"
    },
    {
     "name": "Phychem Technologies Ltd.",
     "listing_gain_pct": 8.89,
-    "current_gain_pct": -5.65,
+    "current_gain_pct": -5.83,
     "type": "SME",
     "key": "phychem technologies"
    },
    {
     "name": "Shanti Inorganics Ltd.",
     "listing_gain_pct": 99.46,
-    "current_gain_pct": 114.1,
+    "current_gain_pct": 112.65,
     "type": "SME",
     "key": "shanti inorganics"
    },
    {
     "name": "Ashutosh Fibre Ltd.",
     "listing_gain_pct": 59.78,
-    "current_gain_pct": 77.55,
+    "current_gain_pct": 66.85,
     "type": "SME",
     "key": "ashutosh fibre"
    },
    {
     "name": "Paluck Technologies Ltd.",
     "listing_gain_pct": 2.38,
-    "current_gain_pct": -4.12,
+    "current_gain_pct": -5.25,
     "type": "SME",
     "key": "paluck technologies"
    },
    {
     "name": "Complete Sports & Management India Ltd.",
     "listing_gain_pct": 8.11,
-    "current_gain_pct": 52.48,
+    "current_gain_pct": 53.33,
     "type": "SME",
     "key": "complete sports management india"
    },
    {
     "name": "Kwick Forensic Solutions Ltd.",
     "listing_gain_pct": 75.0,
-    "current_gain_pct": 113.01,
+    "current_gain_pct": 107.07,
     "type": "SME",
     "key": "kwick forensic solutions"
    },
    {
     "name": "Sumax Engineering Ltd.",
     "listing_gain_pct": 9.36,
-    "current_gain_pct": 4.11,
+    "current_gain_pct": 2.72,
     "type": "SME",
     "key": "sumax engineering"
    },
    {
     "name": "ABH Healthcare Ltd.",
     "listing_gain_pct": -7.79,
-    "current_gain_pct": -58.43,
+    "current_gain_pct": -59.51,
     "type": "SME",
     "key": "abh healthcare"
    },
    {
     "name": "Madhur Knit Crafts Ltd.",
     "listing_gain_pct": -5.0,
-    "current_gain_pct": -47.75,
+    "current_gain_pct": -46.2,
     "type": "SME",
     "key": "madhur knit crafts"
    },
    {
     "name": "Mopshop Distribution Ltd.",
     "listing_gain_pct": -5.69,
-    "current_gain_pct": -70.8,
+    "current_gain_pct": -72.25,
     "type": "SME",
     "key": "mopshop distribution"
    },
    {
     "name": "Dhanwel Hybrid Seeds Ltd.",
     "listing_gain_pct": -5.0,
-    "current_gain_pct": -49.59,
+    "current_gain_pct": -52.03,
     "type": "SME",
     "key": "dhanwel hybrid seeds"
    },
    {
     "name": "Fascinate Textiles Ltd.",
     "listing_gain_pct": -23.97,
-    "current_gain_pct": -55.56,
+    "current_gain_pct": -53.34,
     "type": "SME",
     "key": "fascinate textiles"
    },
    {
     "name": "Skytech Infinite Platform Ltd.",
     "listing_gain_pct": -8.7,
-    "current_gain_pct": -54.16,
+    "current_gain_pct": -51.88,
     "type": "SME",
     "key": "skytech infinite platform"
    },
    {
     "name": "ENS Enterprises Ltd.",
     "listing_gain_pct": 9.57,
-    "current_gain_pct": 10.11,
+    "current_gain_pct": 10.0,
     "type": "SME",
     "key": "ens enterprises"
    },
    {
     "name": "Technocrats Plasma Systems Ltd.",
     "listing_gain_pct": 82.95,
-    "current_gain_pct": 206.67,
+    "current_gain_pct": 219.66,
     "type": "SME",
     "key": "technocrats plasma systems"
    },
    {
     "name": "Credent Connect N Care Ltd.",
     "listing_gain_pct": 99.5,
-    "current_gain_pct": 115.58,
+    "current_gain_pct": 108.15,
     "type": "SME",
     "key": "credent connect n care"
    },
    {
     "name": "Pramodini Medicare Ltd.",
     "listing_gain_pct": 3.09,
-    "current_gain_pct": -0.3,
+    "current_gain_pct": 0.51,
     "type": "SME",
     "key": "pramodini medicare"
    },
    {
     "name": "Q&T Foods Ltd.",
     "listing_gain_pct": -5.0,
-    "current_gain_pct": -69.17,
+    "current_gain_pct": -70.71,
     "type": "SME",
     "key": "q t foods"
    },
    {
     "name": "Sham Foam Ltd.",
     "listing_gain_pct": -24.0,
-    "current_gain_pct": -27.46,
+    "current_gain_pct": -33.49,
     "type": "SME",
     "key": "sham foam"
    },
    {
     "name": "Optimystix Entertainment India Ltd.",
     "listing_gain_pct": 8.0,
-    "current_gain_pct": -25.86,
+    "current_gain_pct": -20.4,
     "type": "SME",
     "key": "optimystix entertainment india"
    },
    {
     "name": "LAPL Automotive Ltd.",
     "listing_gain_pct": 36.48,
-    "current_gain_pct": 12.23,
+    "current_gain_pct": 10.59,
     "type": "SME",
     "key": "lapl automotive"
    },
    {
     "name": "G.V.Electricals Ltd.",
     "listing_gain_pct": 27.62,
-    "current_gain_pct": 0.04,
+    "current_gain_pct": 0.0,
     "type": "SME",
     "key": "gvelectricals"
    },
    {
     "name": "Aegeus Technologies Ltd.",
     "listing_gain_pct": 24.48,
-    "current_gain_pct": 21.48,
+    "current_gain_pct": 19.9,
     "type": "SME",
     "key": "aegeus technologies"
    },
    {
     "name": "Anawil Wire & Engineering Ltd.",
     "listing_gain_pct": 28.19,
-    "current_gain_pct": 88.52,
+    "current_gain_pct": 77.22,
     "type": "SME",
     "key": "anawil wire engineering"
    },
    {
     "name": "Fusion Klassroom Edutech Ltd.",
     "listing_gain_pct": 4.87,
-    "current_gain_pct": 5.66,
+    "current_gain_pct": 7.3,
     "type": "SME",
     "key": "fusion klassroom edutech"
    },
    {
     "name": "Oneindig Technologies Ltd.",
     "listing_gain_pct": 31.25,
-    "current_gain_pct": 41.67,
+    "current_gain_pct": 40.62,
     "type": "SME",
     "key": "oneindig technologies"
    },
    {
     "name": "Dhaval Packaging Ltd.",
     "listing_gain_pct": 15.13,
-    "current_gain_pct": 30.62,
+    "current_gain_pct": 30.93,
     "type": "SME",
     "key": "dhaval packaging"
    },
@@ -5449,98 +4488,98 @@
    {
     "name": "Poojaa Precision Engg.Ltd.",
     "listing_gain_pct": 63.95,
-    "current_gain_pct": 167.71,
+    "current_gain_pct": 168.99,
     "type": "SME",
     "key": "poojaa precision enggltd"
    },
    {
     "name": "Advance Technoforge Ltd.",
     "listing_gain_pct": -6.0,
-    "current_gain_pct": -21.26,
+    "current_gain_pct": -22.21,
     "type": "SME",
     "key": "advance technoforge"
    },
    {
     "name": "Propshop Events & Exhibitions Ltd.",
     "listing_gain_pct": -17.17,
-    "current_gain_pct": 0.0,
+    "current_gain_pct": -3.62,
     "type": "SME",
     "key": "propshop events exhibitions"
    },
    {
     "name": "Silverstorm Parks & Resorts Ltd.",
     "listing_gain_pct": -4.85,
-    "current_gain_pct": -9.4,
+    "current_gain_pct": -3.2,
     "type": "SME",
     "key": "silverstorm parks resorts"
    },
    {
     "name": "Shree Balaji (Mala) Textiles Ltd.",
     "listing_gain_pct": 80.5,
-    "current_gain_pct": -25.71,
+    "current_gain_pct": -28.57,
     "type": "SME",
     "key": "shree balaji textiles"
    },
    {
     "name": "Metalic Technoforge Ltd.",
     "listing_gain_pct": 7.86,
-    "current_gain_pct": 131.95,
+    "current_gain_pct": 120.39,
     "type": "SME",
     "key": "metalic technoforge"
    },
    {
     "name": "Gulf Lloyds (India) Ltd.",
     "listing_gain_pct": -5.0,
-    "current_gain_pct": -68.85,
+    "current_gain_pct": -70.0,
     "type": "SME",
     "key": "gulf lloyds"
    },
    {
     "name": "Sotefin Bharat Ltd.",
     "listing_gain_pct": 15.11,
-    "current_gain_pct": 38.98,
+    "current_gain_pct": 41.76,
     "type": "SME",
     "key": "sotefin bharat"
    },
    {
     "name": "Millworks Technologies Ltd.",
     "listing_gain_pct": 99.49,
-    "current_gain_pct": 260.35,
+    "current_gain_pct": 254.83,
     "type": "SME",
     "key": "millworks technologies"
    },
    {
     "name": "Happy Steels Ltd.",
     "listing_gain_pct": 3.79,
-    "current_gain_pct": 13.18,
+    "current_gain_pct": 15.15,
     "type": "SME",
     "key": "happy steels"
    },
    {
     "name": "Devson Catalyst Ltd.",
     "listing_gain_pct": 74.53,
-    "current_gain_pct": 170.85,
+    "current_gain_pct": 184.36,
     "type": "SME",
     "key": "devson catalyst"
    },
    {
     "name": "IC Electricals Co.Ltd.",
     "listing_gain_pct": 76.06,
-    "current_gain_pct": 30.15,
+    "current_gain_pct": 27.07,
     "type": "SME",
     "key": "ic electricals coltd"
    },
    {
     "name": "Teja Engineering Industries Ltd.",
     "listing_gain_pct": 99.5,
-    "current_gain_pct": -2.61,
+    "current_gain_pct": -0.55,
     "type": "SME",
     "key": "teja engineering industries"
    },
    {
     "name": "Atharva Polyplast Ltd.",
     "listing_gain_pct": 20.75,
-    "current_gain_pct": 93.65,
+    "current_gain_pct": 103.32,
     "type": "SME",
     "key": "atharva polyplast"
    },
@@ -5554,28 +4593,28 @@
    {
     "name": "Sampark India Logistics Ltd.",
     "listing_gain_pct": 11.25,
-    "current_gain_pct": 33.87,
+    "current_gain_pct": 35.71,
     "type": "SME",
     "key": "sampark india logistics"
    },
    {
     "name": "Vinit Mobile Ltd.",
     "listing_gain_pct": -6.8,
-    "current_gain_pct": -63.92,
+    "current_gain_pct": -62.66,
     "type": "SME",
     "key": "vinit mobile"
    },
    {
     "name": "Kratikal Tech Ltd.",
     "listing_gain_pct": 35.11,
-    "current_gain_pct": 25.93,
+    "current_gain_pct": 28.15,
     "type": "SME",
     "key": "kratikal tech"
    },
    {
     "name": "Adon Agro Commodities Ltd.",
     "listing_gain_pct": 17.37,
-    "current_gain_pct": 29.64,
+    "current_gain_pct": 27.33,
     "type": "SME",
     "key": "adon agro commodities"
    },
@@ -5589,7 +4628,7 @@
    {
     "name": "Riyaasat Lifestyle Ltd.",
     "listing_gain_pct": -23.96,
-    "current_gain_pct": -13.68,
+    "current_gain_pct": -5.05,
     "type": "SME",
     "key": "riyaasat lifestyle"
    },
@@ -5603,35 +4642,35 @@
    {
     "name": "Shreedhar Spinners Ltd.",
     "listing_gain_pct": 7.74,
-    "current_gain_pct": 195.75,
+    "current_gain_pct": 208.68,
     "type": "SME",
     "key": "shreedhar spinners"
    },
    {
     "name": "Anubhav Plast Ltd.",
     "listing_gain_pct": -5.0,
-    "current_gain_pct": -46.75,
+    "current_gain_pct": -40.0,
     "type": "SME",
     "key": "anubhav plast"
    },
    {
     "name": "Avience Biomedicals Ltd.",
     "listing_gain_pct": 99.5,
-    "current_gain_pct": 73.87,
+    "current_gain_pct": 72.93,
     "type": "SME",
     "key": "avience biomedicals"
    },
    {
     "name": "Leapfrog Engineering Services Ltd.",
     "listing_gain_pct": 0.43,
-    "current_gain_pct": -8.7,
+    "current_gain_pct": -4.78,
     "type": "SME",
     "key": "leapfrog engineering services"
    },
    {
     "name": "Liotech Industries Ltd.",
     "listing_gain_pct": -23.94,
-    "current_gain_pct": -62.55,
+    "current_gain_pct": -60.67,
     "type": "SME",
     "key": "liotech industries"
    },
@@ -5645,21 +4684,21 @@
    {
     "name": "Clay Craft India Ltd.",
     "listing_gain_pct": 9.14,
-    "current_gain_pct": -17.02,
+    "current_gain_pct": -17.64,
     "type": "SME",
     "key": "clay craft india"
    },
    {
     "name": "Horizon Reclaim (India) Ltd.",
     "listing_gain_pct": 43.01,
-    "current_gain_pct": 35.63,
+    "current_gain_pct": 34.51,
     "type": "SME",
     "key": "horizon reclaim"
    },
    {
     "name": "Susan Electricals India Ltd.",
     "listing_gain_pct": 53.78,
-    "current_gain_pct": 125.16,
+    "current_gain_pct": 135.75,
     "type": "SME",
     "key": "susan electricals india"
    },
@@ -5673,119 +4712,119 @@
    {
     "name": "Genxai Analytics Ltd.",
     "listing_gain_pct": -16.03,
-    "current_gain_pct": -34.78,
+    "current_gain_pct": -21.77,
     "type": "SME",
     "key": "genxai analytics"
    },
    {
     "name": "Vahh Chemicals Ltd.",
     "listing_gain_pct": 10.83,
-    "current_gain_pct": -16.67,
+    "current_gain_pct": -20.0,
     "type": "SME",
     "key": "vahh chemicals"
    },
    {
     "name": "UHM Vacation Ltd.",
     "listing_gain_pct": -23.98,
-    "current_gain_pct": -77.68,
+    "current_gain_pct": -77.74,
     "type": "SME",
     "key": "uhm vacation"
    },
    {
     "name": "SMR Jewels Ltd.",
     "listing_gain_pct": -19.49,
-    "current_gain_pct": -28.9,
+    "current_gain_pct": -29.69,
     "type": "SME",
     "key": "smr jewels"
    },
    {
     "name": "Merritronix Ltd.",
     "listing_gain_pct": 99.5,
-    "current_gain_pct": 208.93,
+    "current_gain_pct": 196.28,
     "type": "SME",
     "key": "merritronix"
    },
    {
     "name": "Aureate Tradde Ltd.",
     "listing_gain_pct": -5.0,
-    "current_gain_pct": -32.14,
+    "current_gain_pct": -28.83,
     "type": "SME",
     "key": "aureate tradde"
    },
    {
     "name": "Rajnandini Fashion India Ltd.",
     "listing_gain_pct": -3.86,
-    "current_gain_pct": -60.32,
+    "current_gain_pct": -60.71,
     "type": "SME",
     "key": "rajnandini fashion india"
    },
    {
     "name": "Harikanta Overseas Ltd.",
     "listing_gain_pct": -16.74,
-    "current_gain_pct": -32.97,
+    "current_gain_pct": -31.87,
     "type": "SME",
     "key": "harikanta overseas"
    },
    {
     "name": "Yaashvi Jewellers Ltd.",
     "listing_gain_pct": 4.88,
-    "current_gain_pct": 0.0,
+    "current_gain_pct": -1.81,
     "type": "SME",
     "key": "yaashvi jewellers"
    },
    {
     "name": "M R Maniveni Foods Ltd.",
     "listing_gain_pct": -20.9,
-    "current_gain_pct": -46.15,
+    "current_gain_pct": -50.77,
     "type": "SME",
     "key": "m r maniveni foods"
    },
    {
     "name": "Bio Medica Laboratories Ltd.",
     "listing_gain_pct": -16.69,
-    "current_gain_pct": 11.76,
+    "current_gain_pct": 17.99,
     "type": "SME",
     "key": "bio medica laboratories"
    },
    {
     "name": "Autofurnish Ltd.",
     "listing_gain_pct": 10.12,
-    "current_gain_pct": 143.9,
+    "current_gain_pct": 139.02,
     "type": "SME",
     "key": "autofurnish"
    },
    {
     "name": "Q-Line Biotech Ltd.",
     "listing_gain_pct": 38.37,
-    "current_gain_pct": 96.14,
+    "current_gain_pct": 98.54,
     "type": "SME",
     "key": "q line biotech"
    },
    {
     "name": "Vegorama Punjabi Angithi Ltd.",
     "listing_gain_pct": 61.04,
-    "current_gain_pct": 211.23,
+    "current_gain_pct": 207.79,
     "type": "SME",
     "key": "vegorama punjabi angithi"
    },
    {
     "name": "Teamtech Formwork Solutions Ltd.",
     "listing_gain_pct": 15.48,
-    "current_gain_pct": 117.46,
+    "current_gain_pct": 128.33,
     "type": "SME",
     "key": "teamtech formwork solutions"
    },
    {
     "name": "NFP Sampoorna Foods Ltd.",
     "listing_gain_pct": -5.82,
-    "current_gain_pct": -59.91,
+    "current_gain_pct": -59.18,
     "type": "SME",
     "key": "nfp sampoorna foods"
    },
    {
     "name": "Goldline Pharmaceutical Ltd.",
     "listing_gain_pct": 32.02,
-    "current_gain_pct": -31.56,
+    "current_gain_pct": -26.28,
     "type": "SME",
     "key": "goldline pharmaceutical"
    },
@@ -5799,63 +4838,63 @@
    {
     "name": "Simca Advertising Ltd.",
     "listing_gain_pct": -10.49,
-    "current_gain_pct": 59.02,
+    "current_gain_pct": 57.1,
     "type": "SME",
     "key": "simca advertising"
    },
    {
     "name": "Recode Studios Ltd.",
     "listing_gain_pct": 41.61,
-    "current_gain_pct": 169.72,
+    "current_gain_pct": 183.07,
     "type": "SME",
     "key": "recode studios"
    },
    {
     "name": "Value 360 Communications Ltd.",
     "listing_gain_pct": -16.02,
-    "current_gain_pct": -42.86,
+    "current_gain_pct": -43.06,
     "type": "SME",
     "key": "value 360 communications"
    },
    {
     "name": "Amba Auto Sales & Services Ltd.",
     "listing_gain_pct": 0.11,
-    "current_gain_pct": -26.22,
+    "current_gain_pct": -22.56,
     "type": "SME",
     "key": "amba auto sales services"
    },
    {
     "name": "Adisoft Technologies Ltd.",
     "listing_gain_pct": 25.15,
-    "current_gain_pct": 51.25,
+    "current_gain_pct": 49.19,
     "type": "SME",
     "key": "adisoft technologies"
    },
    {
     "name": "Mehul Telecom Ltd.",
     "listing_gain_pct": 12.18,
-    "current_gain_pct": 13.42,
+    "current_gain_pct": 34.08,
     "type": "SME",
     "key": "mehul telecom"
    },
    {
     "name": "Safety Controls & Devices Ltd.",
     "listing_gain_pct": -1.26,
-    "current_gain_pct": -13.75,
+    "current_gain_pct": -11.25,
     "type": "SME",
     "key": "safety controls devices"
    },
    {
     "name": "Emiac Technologies Ltd.",
     "listing_gain_pct": 11.01,
-    "current_gain_pct": -7.73,
+    "current_gain_pct": -9.59,
     "type": "SME",
     "key": "emiac technologies"
    },
    {
     "name": "Vivid Electromech Ltd.",
     "listing_gain_pct": 1.45,
-    "current_gain_pct": 213.17,
+    "current_gain_pct": 211.89,
     "type": "SME",
     "key": "vivid electromech"
    },
@@ -5869,7 +4908,7 @@
    {
     "name": "Tipco Engineering India Ltd.",
     "listing_gain_pct": -4.73,
-    "current_gain_pct": 260.51,
+    "current_gain_pct": 273.65,
     "type": "SME",
     "key": "tipco engineering india"
    },
@@ -5883,21 +4922,21 @@
    {
     "name": "Novus Loyalty Ltd.",
     "listing_gain_pct": 0.45,
-    "current_gain_pct": 47.84,
+    "current_gain_pct": 53.05,
     "type": "SME",
     "key": "novus loyalty"
    },
    {
     "name": "Apsis Aerocom Ltd.",
     "listing_gain_pct": 46.05,
-    "current_gain_pct": 445.45,
+    "current_gain_pct": 419.82,
     "type": "SME",
     "key": "apsis aerocom"
    },
    {
     "name": "Srinibas Pradhan Constructions Ltd.",
     "listing_gain_pct": 6.53,
-    "current_gain_pct": 75.51,
+    "current_gain_pct": 73.47,
     "type": "SME",
     "key": "srinibas pradhan constructions"
    },
@@ -5918,21 +4957,21 @@
    {
     "name": "Striders Impex Ltd.",
     "listing_gain_pct": -7.64,
-    "current_gain_pct": -29.24,
+    "current_gain_pct": -30.62,
     "type": "SME",
     "key": "striders impex"
    },
    {
     "name": "Yaap Digital Ltd.",
     "listing_gain_pct": -8.03,
-    "current_gain_pct": -16.52,
+    "current_gain_pct": -12.93,
     "type": "SME",
     "key": "yaap digital"
    },
    {
     "name": "Kiaasa Retail Ltd.",
     "listing_gain_pct": -7.99,
-    "current_gain_pct": -76.58,
+    "current_gain_pct": -76.39,
     "type": "SME",
     "key": "kiaasa retail"
    },
@@ -5946,42 +4985,42 @@
    {
     "name": "Accord Transformer & Switchgear Ltd.",
     "listing_gain_pct": 14.13,
-    "current_gain_pct": 91.17,
+    "current_gain_pct": 91.15,
     "type": "SME",
     "key": "accord transformer switchgear"
    },
    {
     "name": "Manilam Industries India Ltd.",
     "listing_gain_pct": -23.99,
-    "current_gain_pct": -42.03,
+    "current_gain_pct": -44.93,
     "type": "SME",
     "key": "manilam industries india"
    },
    {
     "name": "Yashhtej Industries (India) Ltd.",
     "listing_gain_pct": -24.0,
-    "current_gain_pct": -49.73,
+    "current_gain_pct": -49.64,
     "type": "SME",
     "key": "yashhtej industries"
    },
    {
     "name": "Fractal Industries Ltd.",
     "listing_gain_pct": 0.72,
-    "current_gain_pct": 6.02,
+    "current_gain_pct": -2.31,
     "type": "SME",
     "key": "fractal industries"
    },
    {
     "name": "Marushika Technology Ltd.",
     "listing_gain_pct": -2.56,
-    "current_gain_pct": -0.43,
+    "current_gain_pct": -5.04,
     "type": "SME",
     "key": "marushika technology"
    },
    {
     "name": "Biopol Chemicals Ltd.",
     "listing_gain_pct": -2.31,
-    "current_gain_pct": -52.36,
+    "current_gain_pct": -50.0,
     "type": "SME",
     "key": "biopol chemicals"
    },
@@ -5995,21 +5034,21 @@
    {
     "name": "Brandman Retail Ltd.",
     "listing_gain_pct": 9.18,
-    "current_gain_pct": -7.36,
+    "current_gain_pct": -6.82,
     "type": "SME",
     "key": "brandman retail"
    },
    {
     "name": "Grover Jewells Ltd.",
     "listing_gain_pct": 14.55,
-    "current_gain_pct": 384.72,
+    "current_gain_pct": 408.92,
     "type": "SME",
     "key": "grover jewells"
    },
    {
     "name": "CKK Retail Mart Ltd.",
     "listing_gain_pct": 5.0,
-    "current_gain_pct": 4.23,
+    "current_gain_pct": 7.06,
     "type": "SME",
     "key": "ckk retail mart"
    },
@@ -6023,70 +5062,70 @@
    {
     "name": "Msafe Equipments Ltd.",
     "listing_gain_pct": 22.2,
-    "current_gain_pct": 122.76,
+    "current_gain_pct": 118.46,
     "type": "SME",
     "key": "msafe equipments"
    },
    {
     "name": "Accretion Nutraveda Ltd.",
     "listing_gain_pct": 48.22,
-    "current_gain_pct": 126.36,
+    "current_gain_pct": 136.43,
     "type": "SME",
     "key": "accretion nutraveda"
    },
    {
     "name": "Kasturi Metal Composite Ltd.",
     "listing_gain_pct": -1.31,
-    "current_gain_pct": 12.48,
+    "current_gain_pct": 8.59,
     "type": "SME",
     "key": "kasturi metal composite"
    },
    {
     "name": "Hannah Joseph Hospital Ltd.",
     "listing_gain_pct": -2.5,
-    "current_gain_pct": 48.64,
+    "current_gain_pct": 51.36,
     "type": "SME",
     "key": "hannah joseph hospital"
    },
    {
     "name": "Shayona Engineering Ltd.",
     "listing_gain_pct": 4.86,
-    "current_gain_pct": -3.85,
+    "current_gain_pct": -6.25,
     "type": "SME",
     "key": "shayona engineering"
    },
    {
     "name": "KRM Ayurveda Ltd.",
     "listing_gain_pct": 33.85,
-    "current_gain_pct": 126.11,
+    "current_gain_pct": 120.15,
     "type": "SME",
     "key": "krm ayurveda"
    },
    {
     "name": "Digilogic Systems Ltd.",
     "listing_gain_pct": -23.99,
-    "current_gain_pct": 81.01,
+    "current_gain_pct": 90.05,
     "type": "SME",
     "key": "digilogic systems"
    },
    {
     "name": "Aritas Vinyl Ltd.",
     "listing_gain_pct": -5.0,
-    "current_gain_pct": -71.66,
+    "current_gain_pct": -71.38,
     "type": "SME",
     "key": "aritas vinyl"
    },
    {
     "name": "Armour Security India Ltd.",
     "listing_gain_pct": -23.95,
-    "current_gain_pct": -61.14,
+    "current_gain_pct": -62.98,
     "type": "SME",
     "key": "armour security india"
    },
    {
     "name": "GRE Renew Enertech Ltd.",
     "listing_gain_pct": -13.14,
-    "current_gain_pct": 123.81,
+    "current_gain_pct": 120.14,
     "type": "SME",
     "key": "gre renew enertech"
    },
@@ -6100,56 +5139,56 @@
    {
     "name": "INDO SMC Ltd.",
     "listing_gain_pct": 3.89,
-    "current_gain_pct": 235.47,
+    "current_gain_pct": 239.73,
     "type": "SME",
     "key": "indo smc"
    },
    {
     "name": "Avana Electrosystems Ltd.",
     "listing_gain_pct": 36.1,
-    "current_gain_pct": 120.34,
+    "current_gain_pct": 120.25,
     "type": "SME",
     "key": "avana electrosystems"
    },
    {
     "name": "Defrail Technologies Ltd.",
     "listing_gain_pct": 21.96,
-    "current_gain_pct": -4.05,
+    "current_gain_pct": -5.51,
     "type": "SME",
     "key": "defrail technologies"
    },
    {
     "name": "Yajur Fibres Ltd.",
     "listing_gain_pct": -23.99,
-    "current_gain_pct": -78.79,
+    "current_gain_pct": -78.97,
     "type": "SME",
     "key": "yajur fibres"
    },
    {
     "name": "Victory Electric Vehicles International Ltd.",
     "listing_gain_pct": -20.12,
-    "current_gain_pct": -65.98,
+    "current_gain_pct": -65.0,
     "type": "SME",
     "key": "victory electric vehicles international"
    },
    {
     "name": "Gabion Technologies India Ltd.",
     "listing_gain_pct": 15.32,
-    "current_gain_pct": 67.59,
+    "current_gain_pct": 67.9,
     "type": "SME",
     "key": "gabion technologies india"
    },
    {
     "name": "Modern Diagnostic & Research Centre Ltd.",
     "listing_gain_pct": 5.54,
-    "current_gain_pct": -23.89,
+    "current_gain_pct": -18.61,
     "type": "SME",
     "key": "modern diagnostic research centre"
    },
    {
     "name": "E to E Transportation Infrastructure Ltd.",
     "listing_gain_pct": 88.39,
-    "current_gain_pct": 85.14,
+    "current_gain_pct": 92.56,
     "type": "SME",
     "key": "e to e transportation infrastructure"
    }
@@ -6159,8 +5198,8 @@
     "key": "vishal nirmiti",
     "name": "Vishal Nirmiti",
     "type": "Mainboard",
-    "gmp": 6.0,
-    "gmp_pct": 2.73,
+    "gmp": 35.0,
+    "gmp_pct": 15.91,
     "status": "Open",
     "updated": null
    },
@@ -6177,9 +5216,9 @@
     "key": "srit india",
     "name": "SRIT India",
     "type": "Mainboard",
-    "gmp": 31.0,
-    "gmp_pct": 23.85,
-    "status": "Open",
+    "gmp": 48.0,
+    "gmp_pct": 36.92,
+    "status": "Closed",
     "updated": null
    },
    {
@@ -6188,15 +5227,15 @@
     "type": "Mainboard",
     "gmp": 15.0,
     "gmp_pct": 8.988,
-    "status": "Open",
+    "status": "Closed",
     "updated": null
    },
    {
     "key": "acevector",
     "name": "Acevector",
     "type": "Mainboard",
-    "gmp": 2.0,
-    "gmp_pct": 6.25,
+    "gmp": 1.0,
+    "gmp_pct": 3.12,
     "status": "Closed",
     "updated": null
    },
@@ -6213,8 +5252,8 @@
     "key": "runwal enterprises",
     "name": "Runwal Enterprises",
     "type": "Mainboard",
-    "gmp": 2.0,
-    "gmp_pct": 0.66,
+    "gmp": 0.0,
+    "gmp_pct": 0.0,
     "status": "Closed",
     "updated": null
    },
@@ -6222,8 +5261,8 @@
     "key": "orient cables",
     "name": "Orient Cables",
     "type": "Mainboard",
-    "gmp": 85.0,
-    "gmp_pct": 31.25,
+    "gmp": 90.0,
+    "gmp_pct": 33.09,
     "status": "Closed",
     "updated": null
    },
@@ -6231,8 +5270,8 @@
     "key": "moneyview",
     "name": "Moneyview",
     "type": "Mainboard",
-    "gmp": 13.0,
-    "gmp_pct": 38.23,
+    "gmp": 15.0,
+    "gmp_pct": 44.12,
     "status": "Closed",
     "updated": null
    },
@@ -6240,45 +5279,18 @@
     "key": "a one steels",
     "name": "A-One Steels",
     "type": "Mainboard",
-    "gmp": 35.0,
-    "gmp_pct": 8.64,
+    "gmp": 47.0,
+    "gmp_pct": 11.6,
     "status": "Closed",
     "updated": null
    },
    {
-    "key": "adroit industries",
-    "name": "Adroit Industries",
-    "type": "Mainboard",
-    "gmp": 58.0,
-    "gmp_pct": 43.28,
-    "status": "Closed",
-    "updated": null
-   },
-   {
-    "key": "swastika infra",
-    "name": "Swastika Infra",
-    "type": "Mainboard",
-    "gmp": 7.0,
-    "gmp_pct": 3.78,
-    "status": "Closed",
-    "updated": null
-   },
-   {
-    "key": "elevate campuses",
-    "name": "Elevate Campuses",
-    "type": "Mainboard",
-    "gmp": 7.0,
-    "gmp_pct": 1.8,
-    "status": "Closed",
-    "updated": null
-   },
-   {
-    "key": "armee infotech",
-    "name": "ArMee Infotech",
-    "type": "Mainboard",
-    "gmp": 6.0,
-    "gmp_pct": 1.6,
-    "status": "Closed",
+    "key": "rkfashion",
+    "name": "R.K.Fashion",
+    "type": "SME",
+    "gmp": 0.0,
+    "gmp_pct": 0.0,
+    "status": "Upcoming",
     "updated": null
    },
    {
@@ -6357,8 +5369,8 @@
     "key": "everestims technologies",
     "name": "EverestIMS Technologies",
     "type": "SME",
-    "gmp": 18.0,
-    "gmp_pct": 21.18,
+    "gmp": 20.0,
+    "gmp_pct": 23.53,
     "status": "Open",
     "updated": null
    },
@@ -6384,8 +5396,8 @@
     "key": "black opal consultants",
     "name": "Black Opal Consultants",
     "type": "SME",
-    "gmp": 38.0,
-    "gmp_pct": 19.29,
+    "gmp": 48.0,
+    "gmp_pct": 24.37,
     "status": "Open",
     "updated": null
    },
@@ -6402,27 +5414,27 @@
     "key": "acme universal",
     "name": "Acme Universal",
     "type": "SME",
-    "gmp": 0.0,
-    "gmp_pct": 0.0,
-    "status": "Open",
+    "gmp": 10.0,
+    "gmp_pct": 14.08,
+    "status": "Closed",
     "updated": null
    },
    {
     "key": "pind hospitality",
     "name": "Pind Hospitality",
     "type": "SME",
-    "gmp": 20.0,
-    "gmp_pct": 20.2,
-    "status": "Open",
+    "gmp": 1.0,
+    "gmp_pct": 1.01,
+    "status": "Closed",
     "updated": null
    },
    {
     "key": "shivchem agro",
     "name": "Shivchem Agro",
     "type": "SME",
-    "gmp": 10.0,
-    "gmp_pct": 16.13,
-    "status": "Open",
+    "gmp": 1.0,
+    "gmp_pct": 1.61,
+    "status": "Closed",
     "updated": null
    },
    {
@@ -6438,8 +5450,8 @@
     "key": "bench mark infotech",
     "name": "Bench Mark Infotech",
     "type": "SME",
-    "gmp": 29.0,
-    "gmp_pct": 26.36,
+    "gmp": 26.0,
+    "gmp_pct": 23.64,
     "status": "Closed",
     "updated": null
    },
@@ -6483,53 +5495,8 @@
     "key": "roopa screen",
     "name": "Roopa Screen",
     "type": "SME",
-    "gmp": 38.0,
-    "gmp_pct": 59.38,
-    "status": "Closed",
-    "updated": null
-   },
-   {
-    "key": "coreintegra consulting",
-    "name": "Coreintegra Consulting",
-    "type": "SME",
-    "gmp": 0.0,
-    "gmp_pct": 0.0,
-    "status": "Closed",
-    "updated": null
-   },
-   {
-    "key": "unitec fibres",
-    "name": "Unitec Fibres",
-    "type": "SME",
-    "gmp": 0.0,
-    "gmp_pct": 0.0,
-    "status": "Closed",
-    "updated": null
-   },
-   {
-    "key": "skoffset",
-    "name": "S.K.Offset",
-    "type": "SME",
-    "gmp": 0.0,
-    "gmp_pct": 0.0,
-    "status": "Closed",
-    "updated": null
-   },
-   {
-    "key": "liqvd digital",
-    "name": "Liqvd Digital",
-    "type": "SME",
-    "gmp": 0.0,
-    "gmp_pct": 0.0,
-    "status": "Closed",
-    "updated": null
-   },
-   {
-    "key": "pooja logistics",
-    "name": "Pooja Logistics",
-    "type": "SME",
-    "gmp": 0.0,
-    "gmp_pct": 0.0,
+    "gmp": 42.0,
+    "gmp_pct": 65.62,
     "status": "Closed",
     "updated": null
    }
