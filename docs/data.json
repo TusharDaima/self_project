@@ -1,863 +1,7 @@
 {
- "generated_at": "2026-10-01T14:49:34+05:30",
- "generated_display": "01 Oct 2026, 02:49 PM IST",
+ "generated_at": "2026-10-02T14:22:19+05:30",
+ "generated_display": "02 Oct 2026, 02:22 PM IST",
  "open": [
-  {
-   "chittorgarh_url": "https://www.chittorgarh.com/ipo/vans-electroengineerings-ipo/3197/",
-   "name": "Vans Electroengineerings",
-   "open_date": "2026-09-29",
-   "close_date": "2026-10-01",
-   "ipo_date_text": "29 Sep to 1 Oct, 2026",
-   "listing_date": "Wed, Oct 7, 2026",
-   "face_value": "₹ 10 per share",
-   "issue_type": "Bookbuilding IPO",
-   "sale_type": "Fresh capital only",
-   "listing_at": "BSE SME",
-   "type": "SME",
-   "lot_size": 1200,
-   "price_band": "₹112 to ₹118",
-   "price_high": 118.0,
-   "issue_price": 118.0,
-   "issue_size_cr": 34.0,
-   "min_application": {
-    "label": "Individual investors (IND) (Min)",
-    "lots": 2,
-    "shares": 2400,
-    "amount": 283200.0
-   },
-   "financials": {
-    "periods": [
-     "31 Mar 2026",
-     "31 Mar 2025",
-     "31 Mar 2024"
-    ],
-    "rows": {
-     "Assets": [
-      16.85,
-      5.34,
-      6.57
-     ],
-     "Total Income": [
-      23.19,
-      13.82,
-      2.76
-     ],
-     "Profit After Tax": [
-      5.39,
-      1.73,
-      0.02
-     ],
-     "EBITDA": [
-      7.23,
-      2.48,
-      0.02
-     ],
-     "NET Worth": [
-      9.17,
-      3.78,
-      1.05
-     ],
-     "Reserves and Surplus": [
-      7.17,
-      1.78,
-      0.05
-     ],
-     "Total Borrowing": [
-      2.55,
-      1.2,
-      5.17
-     ]
-    },
-    "unit": "Amount in ₹ Crore"
-   },
-   "objects": [
-    {
-     "object": "To meet working capital requirements of the company",
-     "amount_cr": 25.0
-    },
-    {
-     "object": "General corporate purpose",
-     "amount_cr": null
-    }
-   ],
-   "kpis": {
-    "ROE": "83.27%",
-    "ROCE": "63.96%",
-    "Debt/Equity": "0.28",
-    "RoNW": "58.79%",
-    "PAT Margin": "23.61%",
-    "EBITDA Margin": "31.63%",
-    "NAV": "11.46",
-    "P/B (x)": "10.30"
-   },
-   "valuation": {
-    "EPS (₹)": {
-     "pre": "6.74",
-     "post": "4.96"
-    },
-    "P/E (x)": {
-     "pre": "17.51",
-     "post": "23.79"
-    },
-    "Market Cap at Offer Price": {
-     "pre": "₹94.40 Cr.",
-     "post": "₹128.38 Cr"
-    }
-   },
-   "reviews": {
-    "Subscribe": 0,
-    "May Apply": 0,
-    "Neutral": 0,
-    "Avoid": 0
-   },
-   "legal_name": "Vans Electroengineerings Ltd.",
-   "about": [
-    "Incorporated in February 2022, VANS Electroengineerings Limited is engaged in the manufacturing and supply of components used in traction power supply and overhead equipment systems for Indian railway electrification infrastructure, metro systems and renewable energy applications. Its products are primarily supplied to Indian Railways and railway contractors, and the Company operates from its registered office and manufacturing facility in Salem, Tamil Nadu.",
-    "The Company manufactures Single Pole and Double Pole Vacuum Circuit Breakers (VCBs) and Vacuum Interrupters (VIs) for applications including traction substations, sectioning posts, feeding posts and other railway electrification systems. Its product portfolio includes products approved by the Research Designs and Standards Organization (RDSO), and the Company has received approvals from the Central Organization for Railway Electrification (CORE), including “Approved Vendor” status for certain products.",
-    "The Company’s manufacturing facility is equipped with machinery including busbar multi-processing and horizontal bandsaw machines, along with in-house testing and quality control infrastructure. It also engages with the Korea Electrotechnology Research Institute (KERI), South Korea and Central Power Research Institute (CPRI), Bengaluru for product testing and compliance with standards including IEC 62505-1:2016 and IEC 62271-100/2017-07. These capabilities support the development and supply of products for railway, metro, industrial and special applications.",
-    "The Company is supported by promoters and management with experience across electrical and electronics engineering, railway infrastructure, switchgear manufacturing and industrial manufacturing. Its operations are focused on product development, engineering, manufacturing, quality control, sales and supply chain management.",
-    "As of August 31, 2026, the Company had 33 employees across manufacturing, product development, quality control, finance and accounting, administration and operations, and purchase and stores."
-   ],
-   "about_lists": {
-    "Competitive Strengths": [
-     "Niche Market Focus with Quality and Timely Delivery.",
-     "Established Customer Base and Geographical Footprint.",
-     "Quality Assurance Standards and RDSO-Approved Products.",
-     "Core Engineering and Integrated Engineering, Assembly and Testing Capabilities."
-    ]
-   },
-   "strengths": [
-    "Niche Market Focus with Quality and Timely Delivery.",
-    "Established Customer Base and Geographical Footprint.",
-    "Quality Assurance Standards and RDSO-Approved Products.",
-    "Core Engineering and Integrated Engineering, Assembly and Testing Capabilities."
-   ],
-   "status": "open",
-   "day_label": "Closes today",
-   "subscription": {
-    "as_of": "Oct 01, 2026 11:58",
-    "rows": [
-     {
-      "category": "Qualified Institutional",
-      "times": 1.54
-     },
-     {
-      "category": "Non Institutional",
-      "times": 258.9
-     },
-     {
-      "category": "Retail Individual",
-      "times": 266.79
-     },
-     {
-      "category": "Employee Reservations",
-      "times": 0.38
-     }
-    ],
-    "total": 184.62
-   },
-   "gmp": {
-    "gmp": 90.0,
-    "gmp_pct": 76.27,
-    "est_listing": 208.0,
-    "updated": null,
-    "trend": "🟢"
-   },
-   "ipowatch_url": "https://ipowatch.in/vans-electroengineerings-ipo/",
-   "insights": {
-    "metrics": [
-     "FY26 income ₹23.2 Cr",
-     "PAT ₹5.4 Cr",
-     "PAT margin 23.6%",
-     "Income +68% YoY",
-     "PAT +212% YoY",
-     "Post-issue P/E 23.8x"
-    ],
-    "flags": [
-     {
-      "tone": "good",
-      "text": "Strong growth: income +68%, profit +212%"
-     },
-     {
-      "tone": "good",
-      "text": "Profit up 3 years in a row"
-     },
-     {
-      "tone": "good",
-      "text": "High ROE 83%"
-     }
-    ],
-    "partial": null
-   },
-   "business_news": [],
-   "news": [
-    {
-     "title": "Vans Electroengineerings IPO Day 3: Subscribed 135.61x; Retail demand surges to 200.98x",
-     "source": "scanx.trade",
-     "date": "01 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTTI4RnBFcGUxeDVaNTdhUkZ1LTkwdnd3YXFzSGpuV2pqMlF4UU9QaEpUY0NHNVFKdi0wZ1dEQzNJeENGSDU4elUxVmdXQWVlZEJNWG45OVZZQnE1QnBtR19OU0xPMHM2UFk2QVJuQWtjWWp6clMxMFN2QzZZLTdqaE5aa1BhcWg1U01MY0RETUhNeEZrMzg3VGRCbzJ5ZlkybGhSMkRLZy1LSFNLTGk3MDFRcjFzN1IyVkE?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Vans Electroengineerings IPO Day 2: Subscribed 1.31x; bHNI leads at 9.34x",
-     "source": "scanx.trade",
-     "date": "30 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVndxUlpUYW5pZzByZXo5RTIxWlNwWElkVW1IOGJGREVFWGJ2cmVrVmZvZUU3b3NZeHFLaXFvd0tGRmw4MmRGZmlpOV9lclBPOFlWc2xHeTAtVjNuU0I5QVJQV3Jfa2k2cld1LWhtb0dHYWFaTTBxeGJ3aTR6SGNTY05qRnFoOXpxTUY5Smd4RkpBMFY4ZENsUDA4aUZOTm5GdWJkMWxra2NDUndBY2VDRl9zWkNoV3M3cUhF?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Vans Electroengineerings IPO Day 2 Subscription Status 30 Sep 2026",
-     "source": "Univest",
-     "date": "29 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbW9YT1ZlMEU0cEpjbGh1R08wNU1BWGFhTmVMQzVWSnhheUFTN2tpSFZaRU1hUmw3cEtIS2JGVDV5TDFiU1BnYnREX29OSjNKMFVWTEJ0TVhuSHhUVHZzNG9CSUVwc3JneGJSWG9VeDJOdmo2TEtQbzN2Z1JVQnBSU1JNbVlaRUlCZlgwV1BGYjFxc2FDUHJqdzJmbDhZM2ptMElTb3JhNjI0Rkc1cktV?oc=5",
-     "tone": ""
-    }
-   ],
-   "key": "vans electroengineerings"
-  },
-  {
-   "chittorgarh_url": "https://www.chittorgarh.com/ipo/black-opal-consultants-ipo/2798/",
-   "name": "Black Opal Consultants",
-   "open_date": "2026-09-29",
-   "close_date": "2026-10-01",
-   "ipo_date_text": "29 Sep to 1 Oct, 2026",
-   "listing_date": "Wed, Oct 7, 2026",
-   "face_value": "₹ 10 per share",
-   "issue_type": "Bookbuilding IPO",
-   "sale_type": "Fresh capital cum OFS",
-   "listing_at": "BSE SME",
-   "type": "SME",
-   "lot_size": 600,
-   "price_band": "₹185 to ₹197",
-   "price_high": 197.0,
-   "issue_size_cr": 55.0,
-   "min_application": {
-    "label": "Individual investors (IND) (Min)",
-    "lots": 2,
-    "shares": 1200,
-    "amount": 236400.0
-   },
-   "financials": {
-    "periods": [
-     "31 Mar 2026",
-     "31 Mar 2025",
-     "31 Mar 2024"
-    ],
-    "rows": {
-     "Assets": [
-      59.62,
-      22.44,
-      13.14
-     ],
-     "Total Income": [
-      42.34,
-      33.04,
-      19.91
-     ],
-     "Profit After Tax": [
-      12.22,
-      11.48,
-      4.32
-     ],
-     "EBITDA": [
-      17.05,
-      15.65,
-      6.09
-     ],
-     "NET Worth": [
-      32.67,
-      20.41,
-      8.93
-     ],
-     "Reserves and Surplus": [
-      24.33,
-      19.57,
-      8.1
-     ],
-     "Total Borrowing": [
-      9.52,
-      0.2,
-      1.6
-     ]
-    },
-    "unit": "Amount in ₹ Crore"
-   },
-   "objects": [
-    {
-     "object": "Funding for securing Sales/Marketing mandates",
-     "amount_cr": 7.0
-    },
-    {
-     "object": "Investment in Aurika Developers LLP, one of Group Entity, for financing the development of its Ayodhya Project",
-     "amount_cr": 26.0
-    },
-    {
-     "object": "General Corporate Purposes",
-     "amount_cr": null
-    }
-   ],
-   "kpis": {
-    "ROE": "46.03%",
-    "ROCE": "40.12%",
-    "Debt/Equity": "0.29",
-    "RoNW": "37.40%",
-    "PAT Margin": "29.11%",
-    "EBITDA Margin": "40.62%",
-    "NAV": "39.17",
-    "P/B (x)": "5.03"
-   },
-   "valuation": {
-    "EPS (₹)": {
-     "pre": "14.63",
-     "post": "11.54"
-    },
-    "P/E (x)": {
-     "pre": "13.47",
-     "post": "17.07"
-    },
-    "Market Cap at Offer Price": {
-     "pre": "₹164.28 Cr.",
-     "post": "₹208.37 Cr"
-    }
-   },
-   "reviews": {
-    "Subscribe": 0,
-    "May Apply": 0,
-    "Neutral": 0,
-    "Avoid": 0
-   },
-   "legal_name": "Black Opal Consultants Ltd.",
-   "about": [
-    "Incorporated in 2020, Black Opal Consultants Limited works with well-known real estate developers such as Gaurs Group, SKA, Galaxy, Shapoorji Pallonji, Max Estates, and M3M to market and sell their residential and commercial projects. The Company signs exclusive or semi-exclusive sales rights to market and sell specific units within a project in return for brokerage income. The Company also works with its Group Entities, such as Aurika Homes Private Limited to market and sell Aurika Homes’ projects in return for brokerage income. This helps strengthen group synergies and enhances business growth."
-   ],
-   "about_lists": {
-    "Service Offerings": [
-     "Consulting & Advisory Services",
-     "Exclusive Sale Arrangements: Commission or margin on the sale of underwritten/exclusively mandated inventorie",
-     "Loan Syndication Services: Commissions or success fees for arranging developer and buyer financing.",
-     "Real Estate Development through group entities operating in Tier -II cities in India"
-    ],
-    "Key strengths": [
-     "In-depth Asset & Project Management Expertise and Proven Track Record in Project Sales",
-     "Experienced Professional Team",
-     "Strategic Partnerships with Developers such as Gaurs Group, SKA, Shapoorji Pallonji, Max Estates, and M3M for Exclusive Mandate",
-     "Strong and Reputed Customer Base",
-     "Strategic Foray into High-Margin Real Estate Development with Tier II City Focus Strengthen Agent Network Through Training and Support"
-    ]
-   },
-   "strengths": [
-    "In-depth Asset & Project Management Expertise and Proven Track Record in Project Sales",
-    "Experienced Professional Team",
-    "Strategic Partnerships with Developers such as Gaurs Group, SKA, Shapoorji Pallonji, Max Estates, and M3M for Exclusive Mandate",
-    "Strong and Reputed Customer Base",
-    "Strategic Foray into High-Margin Real Estate Development with Tier II City Focus Strengthen Agent Network Through Training and Support"
-   ],
-   "status": "open",
-   "day_label": "Closes today",
-   "subscription": {
-    "as_of": "Oct 01, 2026 11:54",
-    "rows": [
-     {
-      "category": "Qualified Institutional",
-      "times": 0.76
-     },
-     {
-      "category": "Non Institutional",
-      "times": 14.69
-     },
-     {
-      "category": "Retail Individual",
-      "times": 10.91
-     }
-    ],
-    "total": 8.83
-   },
-   "gmp": {
-    "gmp": 48.0,
-    "gmp_pct": 24.37,
-    "est_listing": 245.0,
-    "updated": null,
-    "trend": "🟡"
-   },
-   "ipowatch_url": "https://ipowatch.in/black-opal-consultants-ipo/",
-   "insights": {
-    "metrics": [
-     "FY26 income ₹42.3 Cr",
-     "PAT ₹12.2 Cr",
-     "PAT margin 29.1%",
-     "Income +28% YoY",
-     "PAT +6% YoY",
-     "Post-issue P/E 17.1x"
-    ],
-    "flags": [
-     {
-      "tone": "good",
-      "text": "Profit up 3 years in a row"
-     },
-     {
-      "tone": "good",
-      "text": "High ROE 46%"
-     }
-    ],
-    "partial": null
-   },
-   "business_news": [],
-   "news": [
-    {
-     "title": "Exclusive: Black Opal’s Prasoon Chauhan on the ₹26 crore Ayodhya bet",
-     "source": "The Financial World",
-     "date": "01 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSmZ1amRUOEdBVXdPdmltM0FfcTRJNzVlVnhVbXMtb3NqdmhyOVYwRnZvY2hvd1pVclNQQVc2ZWpvdFJvSUJnNUpqd0pRVVdYb09fNDZpVk9sSEdGX1VKa2hxR0g1UDhPeUEtTzNaQnBFSXVjZnFzLWxjY2c5RHdIbEtVVHNoY1hmUWlGbG5WX1owUWNoRTRCVEtiMm40M0dfU1ltR3RUNWhMNkdnZmc?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Black Opal Consultants IPO Day 3: Subscribed 5.36x; NII leads with 9.01x demand",
-     "source": "scanx.trade",
-     "date": "01 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORENja3VzTTlIMzNqTlRub3dySWN4aDY0TDJPclZicWlFVm5Rb3NUNVZOb3A3X3pha09Kc3lsNVZPVzNpVHJleVpHSmpPMGw2RWxHMVJCUWhyZzVEOFdjTC00WnNjV3hRa0VZN2RoNFhQQkVxLUtNNTVZN29jY040TFByWS1JSngzVmxGNHdfb3R1cjJxdmF6Z0NZNzJudHcxUkNWUHFPUkZtanA4VFhuV2FLbmlzOTA?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Black Opal Consultants IPO Day 2: Subscribed 1.32x; Retail leads at 1.61x; bHNI surges 550%",
-     "source": "scanx.trade",
-     "date": "01 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbW5kRFU1MkRKZmNPdWNaMWVTSE9MUnpsU1BaZXppOV81U3RvcmNVLUtmZDI1bkJzaUYwakg2M0ZTNUd4MXVnTmpzT01qQVFyV1FKNWdURHVESnUwWnNCM25KdVpXRUJqZUZwaGVqUG9UMHQ1My1PMFREaFFqX2VvTlVYOU9XdnJzQ3JLNjVOclJXTS1iSkRRbVhnMjBGSFhDYkxhNjdkeTlwWHlyVTZ3TUROMVB1b0h4M3hz?oc=5",
-     "tone": ""
-    }
-   ],
-   "key": "black opal consultants"
-  },
-  {
-   "chittorgarh_url": "https://www.chittorgarh.com/ipo/green-asia-impex-ipo/2963/",
-   "name": "Green Asia Impex",
-   "open_date": "2026-09-24",
-   "close_date": "2026-10-01",
-   "ipo_date_text": "24 Sep to 1 Oct, 2026",
-   "listing_date": "Wed, Oct 7, 2026",
-   "face_value": "₹ 10 per share",
-   "issue_type": "Bookbuilding IPO",
-   "sale_type": "Fresh capital cum OFS",
-   "listing_at": "NSE SME",
-   "type": "SME",
-   "lot_size": 1600,
-   "price_band": "₹84 to ₹89",
-   "price_high": 89.0,
-   "issue_size_cr": 59.0,
-   "min_application": {
-    "label": "Individual investors (IND) (Min)",
-    "lots": 2,
-    "shares": 3200,
-    "amount": 284800.0
-   },
-   "financials": {
-    "periods": [
-     "31 Mar 2026",
-     "31 Mar 2025",
-     "31 Mar 2024"
-    ],
-    "rows": {
-     "Assets": [
-      254.88,
-      177.95,
-      118.1
-     ],
-     "Total Income": [
-      388.63,
-      339.65,
-      318.15
-     ],
-     "Profit After Tax": [
-      15.61,
-      10.35,
-      6.66
-     ],
-     "EBITDA": [
-      25.23,
-      20.74,
-      17.35
-     ],
-     "NET Worth": [
-      24.13,
-      25.81,
-      15.46
-     ],
-     "Reserves and Surplus": [
-      26.64,
-      20.89,
-      10.53
-     ],
-     "Total Borrowing": [
-      99.47,
-      74.92,
-      63.73
-     ]
-    },
-    "unit": "Amount in ₹ Crore"
-   },
-   "objects": [
-    {
-     "object": "Funding the capital expenditure for setting up the proposed seafood processing facility including purchase and installation of plant, machinery & equipment",
-     "amount_cr": 40.03
-    },
-    {
-     "object": "General Corporate Purposes",
-     "amount_cr": null
-    }
-   ],
-   "kpis": {
-    "ROE": "50.16%",
-    "ROCE": "20.62%",
-    "Debt/Equity": "2.90",
-    "RoNW": "50.16 %",
-    "PAT Margin": "3.07%",
-    "EBITDA Margin": "6.14%",
-    "NAV": "13.96",
-    "P/B (x)": "6.45"
-   },
-   "valuation": {
-    "EPS (₹)": {
-     "pre": "10.10",
-     "post": "7.31"
-    },
-    "P/E (x)": {
-     "pre": "8.91",
-     "post": "12.31"
-    },
-    "Market Cap at Offer Price": {
-     "pre": "₹139.13 Cr.",
-     "post": "₹190.04 Cr"
-    }
-   },
-   "reviews": {
-    "Subscribe": 0,
-    "May Apply": 0,
-    "Neutral": 0,
-    "Avoid": 0
-   },
-   "legal_name": "Green Asia Impex Ltd.",
-   "about": [
-    "Incorporated in 2014, Green Asia Impex Limited specialises in sourcing, processing, manufacturing, and exporting frozen shrimps and dried chillies. The company processes and exports frozen seafood and agri-commodities, mainly frozen shrimps and dried chillies. It supplies B2B customers, including importers, distributors, and food processors, domestically and internationally."
-   ],
-   "about_lists": {
-    "Product Portfolio": [
-     "Shrimps: They are engaged in the sourcing, processing, and export of shrimps catering to both domestic and international markets.",
-     "Dried chillies: They are engaged in the sourcing, processing and export of dried chillies catering to both domestic and international markets"
-    ],
-    "Competitive Strengths": [
-     "Export-grade processing facilities compliant with global standards",
-     "We have strong, long-standing relationships with customers both in India and abroad",
-     "Trader-cum-commission agent network supporting procurement",
-     "Diversification across shrimp and chilli businesses with different product cycles",
-     "Cross-functional expertise and operational synergies driving efficiency",
-     "In-house Quality Assurance and Control Team Ensuring Compliance"
-    ]
-   },
-   "strengths": [
-    "Export-grade processing facilities compliant with global standards",
-    "We have strong, long-standing relationships with customers both in India and abroad",
-    "Trader-cum-commission agent network supporting procurement",
-    "Diversification across shrimp and chilli businesses with different product cycles",
-    "Cross-functional expertise and operational synergies driving efficiency",
-    "In-house Quality Assurance and Control Team Ensuring Compliance"
-   ],
-   "status": "open",
-   "day_label": "Closes today",
-   "subscription": {
-    "as_of": "Oct 01, 2026 14:24",
-    "rows": [
-     {
-      "category": "Qualified Institutional",
-      "times": 2.06
-     },
-     {
-      "category": "Non Institutional",
-      "times": 0.51
-     },
-     {
-      "category": "Retail Individual",
-      "times": 0.49
-     }
-    ],
-    "total": 0.97
-   },
-   "gmp": {
-    "gmp": 0.0,
-    "gmp_pct": 0.0,
-    "est_listing": 90.0,
-    "updated": null,
-    "trend": "🟡"
-   },
-   "ipowatch_url": "https://ipowatch.in/green-asia-impex-ipo/",
-   "insights": {
-    "metrics": [
-     "FY26 income ₹388.6 Cr",
-     "PAT ₹15.6 Cr",
-     "PAT margin 3.1%",
-     "Income +14% YoY",
-     "PAT +51% YoY",
-     "Post-issue P/E 12.3x"
-    ],
-    "flags": [
-     {
-      "tone": "good",
-      "text": "Profit up 3 years in a row"
-     },
-     {
-      "tone": "good",
-      "text": "High ROE 50%"
-     },
-     {
-      "tone": "warn",
-      "text": "High debt/equity 2.90"
-     }
-    ],
-    "partial": null
-   },
-   "business_news": [
-    {
-     "title": "Pasupuleti Venkata Rama Rao, Managing Director, Green Asia Ltd.",
-     "source": "smallcapspotlight.in",
-     "date": "30 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE16LXdZcDV4dzdKdXNNaURnS293dE1wXzdtVUMzUjhRVXVXS1c5NFh3c3Q4R3ZMWnNqY3ZWS0FYbHpoLXJsbjBrTWhOUUVLajRVQXZRVFZLcw?oc=5",
-     "tone": ""
-    }
-   ],
-   "news": [
-    {
-     "title": "Green Asia Impex IPO Day 6: Subscribed 0.74x; QIB demand holds at 1.39x",
-     "source": "scanx.trade",
-     "date": "01 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRnJQUkRabEN2V01GWkFqQWdGc1UxczBsLXRCMTB0dFdfWlBSWTBLNVFwcVl6ck1HWTdaMDh5NnBMNGdBdHFLSUJVTVpQTUdRVnRJU0xKMFBoVFRQdzBjZHgySzBhMW9VbktDVi1pM09TUXJWWFZwcXp1MmJTaG05cTc3QVZROXpENWhUOW9xUVFmN1E3N0hCWTR2NjVCNVdBeHF3U3YtS0RuY21kX1d2MU9OVml1cFl0?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Green Asia Impex IPO Day 4 Subscription Status: 0.52x",
-     "source": "hdfcsky.com",
-     "date": "29 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ENndrNHhpakI3SlloQXNsUnliWDlPNTAyN3Q1TkdmZjE4TUNCWmNNMWNsa0I1dTdoNmFNeWRlaU5EMmpKN1RIcnRKRTdXTDh4WTI0Z3FfVjdHemhuRExuY0E4MGZwZkVqdDdUSnN2SzM1cXIwbTRzVFlxbw?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Green Asia Impex Limited Revises IPO Closing Date to October 01, 2026; Revises Price Band to ₹84 -₹89 per Equity Share",
-     "source": "ANI News",
-     "date": "29 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOR3lRWG15UkxDV0JmVk0zbGxqbWZzOTVsMTkwUDYzZThVRzVXRWJDaE0wak5iNkhqNUpVbVZwMEhXYlMtNHhGYW9PdExsblVnWVZtRGFIaU16dHQ3OGFLR2tneTJJc3FQWDBXLXhzYWJRcXpheXdrTUtOV29hVHVhdFlaNkpkYU5HV1l6RzFuMW1hTVU2eTlKak5WR1FKWnk4S3RIM0FGNkJld0Q5YTlzVUdoZE9KSmRwem1ORHo1eVJkZURkUFVmX29LZlNkQ2x6Z0pzeUtaZDVjMzF0T0ZJZl9va21LZUMydHhMWG1hb1RSWnNOWkV5TUp0OC1fVXprZHc?oc=5",
-     "tone": ""
-    }
-   ],
-   "key": "green asia impex"
-  },
-  {
-   "chittorgarh_url": "https://www.chittorgarh.com/ipo/papadmalji-agro-foods-ipo/2823/",
-   "name": "Papadmalji Agro Foods",
-   "open_date": "2026-09-29",
-   "close_date": "2026-10-01",
-   "ipo_date_text": "29 Sep to 1 Oct, 2026",
-   "listing_date": "Wed, Oct 7, 2026",
-   "face_value": "₹ 10 per share",
-   "issue_type": "Bookbuilding IPO",
-   "sale_type": "Fresh capital cum OFS",
-   "listing_at": "NSE SME",
-   "type": "SME",
-   "lot_size": 1600,
-   "price_band": "₹69 to ₹72",
-   "price_high": 72.0,
-   "issue_size_cr": 20.0,
-   "min_application": {
-    "label": "Individual investors (IND) (Min)",
-    "lots": 2,
-    "shares": 3200,
-    "amount": 230400.0
-   },
-   "financials": {
-    "periods": [
-     "31 Mar 2026",
-     "31 Mar 2025",
-     "31 Mar 2024"
-    ],
-    "rows": {
-     "Assets": [
-      33.5,
-      25.05,
-      20.07
-     ],
-     "Total Income": [
-      33.54,
-      31.76,
-      26.29
-     ],
-     "Profit After Tax": [
-      5.21,
-      4.72,
-      2.11
-     ],
-     "EBITDA": [
-      8.44,
-      5.98,
-      3.31
-     ],
-     "NET Worth": [
-      16.14,
-      10.93,
-      6.2
-     ],
-     "Reserves and Surplus": [
-      9.32,
-      10.17,
-      5.45
-     ],
-     "Total Borrowing": [
-      9.99,
-      8.97,
-      10.28
-     ]
-    },
-    "unit": "Amount in ₹ Crore"
-   },
-   "objects": [
-    {
-     "object": "Funding the capital expenditure towards construction of building, mechanical and electrical works and procurement of plant and machinery and installation of 250 kW Rooftop Solar Power System for setting up a new manufacturing facility at Bachhasar, Bikaner",
-     "amount_cr": 7.9
-    },
-    {
-     "object": "Repayment or prepayment, in full or in part, of borrowings availed by the Company from banks",
-     "amount_cr": 5.8
-    },
-    {
-     "object": "General Corporate Purposes",
-     "amount_cr": null
-    }
-   ],
-   "kpis": {
-    "ROE": "38.51%",
-    "ROCE": "46.47%",
-    "Debt/Equity": "0.62",
-    "RoNW": "32.29%",
-    "PAT Margin": "15.54%",
-    "EBITDA Margin": "25.16%",
-    "NAV": "23.67",
-    "P/B (x)": "3.04"
-   },
-   "valuation": {
-    "EPS (₹)": {
-     "pre": "7.64",
-     "post": "5.55"
-    },
-    "P/E (x)": {
-     "pre": "9.42",
-     "post": "12.97"
-    },
-    "Market Cap at Offer Price": {
-     "pre": "₹49.10 Cr.",
-     "post": "₹67.63 Cr"
-    }
-   },
-   "reviews": {
-    "Subscribe": 0,
-    "May Apply": 0,
-    "Neutral": 0,
-    "Avoid": 0
-   },
-   "legal_name": "Papadmalji Agro Foods Ltd.",
-   "about": [
-    "Incorporated in December 2017, Papadmalji Agro Foods Limited is engaged in the manufacturing and marketing of papads and related food products. The Company manufactures a range of products including hand-made papads, machine-made papads, machine-made ready-to-fry papads, rice papads (Khichiya), vrat-special papads and moongodi. It also undertakes white-label manufacturing of hand-made papads for clients and trades in cereal pellets under its own brand. The Company combines traditional hand-made production with semi-automated and automated machinery for dough preparation, sheeting, rolling, cutting, drying and packaging. Its products are marketed under the brands Zhakaas, Vishal, Rozana, Diamond and Papadmalji, catering to different product categories, consumer segments and distribution channels.",
-    "The Company operates through two FSSAI-licensed manufacturing units in Bikaner, Rajasthan, with its Gharsisar unit also certified under ISO 22000:2018. Hand-made papads are produced through the Batara–Batari model, under which contractors supervise women workers engaged in home-based hand rolling. The Company sources key raw materials such as urad dal, moong dal, spices and edible oils primarily from domestic markets in Rajasthan. Its products are distributed through general trade, modern trade, quick-commerce platforms and its direct-to-consumer website.",
-    "The Company has established a pan-India distribution network comprising distributors and wholesalers and had a presence across 21 states and 3 Union Territories as of March 31, 2026. It also supplies products to an independent merchant exporter, through whom its products reach selected Middle Eastern markets. Since 2018, the Company has also been supported by an equity investment from India Customer Insight Fund, a SEBI-registered Alternative Investment Fund.",
-    "As of March 31, 2026, the Company had a total workforce of 118 employees across management, finance, production, quality control, sales and marketing, supply chain, maintenance and other functions."
-   ],
-   "about_lists": {
-    "Competitive Strengths": [
-     "Focus on purity, health and wellness.",
-     "Wide range of products with diverse variants.",
-     "Experienced Promoters and professional management team.",
-     "Extensive and well-established sales and distribution network.",
-     "Women-led hand-made production model supporting traditional manufacturing.",
-     "Multi-channel presence across general trade, modern trade, quick commerce and direct-to-consumer channels."
-    ]
-   },
-   "strengths": [
-    "Focus on purity, health and wellness.",
-    "Wide range of products with diverse variants.",
-    "Experienced Promoters and professional management team.",
-    "Extensive and well-established sales and distribution network.",
-    "Women-led hand-made production model supporting traditional manufacturing.",
-    "Multi-channel presence across general trade, modern trade, quick commerce and direct-to-consumer channels."
-   ],
-   "status": "open",
-   "day_label": "Closes today",
-   "subscription": {
-    "as_of": "Oct 01, 2026 12:25",
-    "rows": [
-     {
-      "category": "Qualified Institutional",
-      "times": 86.85
-     },
-     {
-      "category": "Non Institutional",
-      "times": 1.05
-     },
-     {
-      "category": "Retail Individual",
-      "times": 1.06
-     }
-    ],
-    "total": 2.09
-   },
-   "gmp": {
-    "gmp": 0.0,
-    "gmp_pct": 0.0,
-    "est_listing": 72.0,
-    "updated": null,
-    "trend": "🟡"
-   },
-   "ipowatch_url": "https://ipowatch.in/black-opal-consultants-ipo/",
-   "insights": {
-    "metrics": [
-     "FY26 income ₹33.5 Cr",
-     "PAT ₹5.2 Cr",
-     "PAT margin 15.5%",
-     "Income +6% YoY",
-     "PAT +10% YoY",
-     "Post-issue P/E 13.0x"
-    ],
-    "flags": [
-     {
-      "tone": "good",
-      "text": "Profit up 3 years in a row"
-     },
-     {
-      "tone": "good",
-      "text": "High ROE 39%"
-     }
-    ],
-    "partial": null
-   },
-   "business_news": [],
-   "news": [
-    {
-     "title": "Papadmalji Agro Foods IPO Day 3: Subscribed 1.88x; QIB leads at 86.85x",
-     "source": "scanx.trade",
-     "date": "01 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeGlZd19FMnRaZVlPYk1DczB6UC13bnBsYTVXNHFtSFgzTHg4aDVxUE1yY1RsR3ZNdGhoSjVVenk5cE9SWUprd3NBczFNYkR1OExpem8zN1RTeTg1Y0FSZVNUUFJJSXVCNFdyVnNFb2tnVHFTQ2NpOUl0emJnSU9VYm8tTGlhb2hmR204ZWM0R2kxTjZFcU8tSkRuVWU4STNvMjNMRGxXX0JRdldRNVY1NnFtYVFVVEU?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Papadmalji Agro Foods IPO Day 2 Subscription Status 30 Sep 2026",
-     "source": "Univest",
-     "date": "30 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWjg0QktCX1ViUzJycVBkUDFwTnlBc1hUVjJ6eUwtT3hEWDJFcms5M3FpVHNNa0xydEw4QWJYWWN0aGtPUGhMRnhZRFB0NVhjOUpWR19NTmc4bkJxdXFzdlBtcC1JT2V6dGxMSGtxdFV1cDFBQVluaUJoVDBnMnRfN1dSNFlNbnR2UWtpRjlyRjFhZkQ5ZXpGdzZDYmVjTE5NYi1maGlsbl95bFk?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Papadmalji Agro Foods Launches ₹20.18 Crore SME IPO Today, Sets ₹69–72 Price Band With Seasoned",
-     "source": "Free Press Journal",
-     "date": "29 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNNjFOZ05fMm52R21RWnB0dkdmWjhjckFoSGh0MGM0S1pObktjbUw5OEtPdG4tSXg2UmVpMWFTeG13TnVFVTgyd1ZHRmJEd0g5ZmNKOGF4RHNldFVXbHFVRU1QS1ZVTzR4S3dpSnExNm4xV1VqeHZMZ2RtVG9PYkpjUDdIWFExZnFHZGNRTjB5bGp1azVuQUlvamJEWFN6N2NWUkhHYXZFNUZJVDVaMGVNMU9GVTVDWTgwUUVsVlQ1U250OTZHU1Z0WU8tZ0V2a1ZQUkRVZnVXdnlkZVBBZF9oXzdHNnMtT2xoZVMxQWNTSUV1MzVVaFHSAfYBQVVfeXFMTTYxTmdOXzJudkdtUVpwdHZHZlo4Y3JBaEhodDBjNEtaTm5LY21MOThLT3RuLUl4NlJlaTFhU3htd051RVU4MndWR0ZiRHdIOWZjSjhheERzZXRVV2xxVUVNUEtWVU80eEt3aUpxMTZuMVdVanh2TGdkbVRvT2JKY1A3SFhRMWZxR2RjUU4weWxqdWs1bkFJb2piRFhTejdjVlJIR2F2RTVGSVQ1WjBlTTFPRlU1Q1k4MFFFbFZUNVNudDk2R1NWdFlPLWdFdmtWUFJEVWZ1V3Z5ZGVQQWRfaF83RzZzLU9saGVTMUFjU0lFdTM1VWhR?oc=5",
-     "tone": "good"
-    }
-   ],
-   "key": "papadmalji agro foods"
-  },
   {
    "chittorgarh_url": "https://www.chittorgarh.com/ipo/everestims-technologies-ipo/2063/",
    "name": "EverestIMS Technologies",
@@ -989,27 +133,32 @@
     "Diversified Platform Development and Market Expansion."
    ],
    "status": "open",
-   "day_label": "Closes in 4 days",
+   "day_label": "Closes in 3 days",
    "subscription": {
-    "as_of": "Oct 01, 2026 12:23",
+    "as_of": "Oct 01, 2026 17:08",
     "rows": [
      {
+      "category": "Qualified Institutional",
+      "times": 0.87
+     },
+     {
       "category": "Non Institutional",
-      "times": 0.7
+      "times": 1.5
      },
      {
       "category": "Retail Individual",
-      "times": 1.6
+      "times": 2.27
      }
     ],
-    "total": 0.95
+    "total": 1.7
    },
    "gmp": {
     "gmp": 20.0,
     "gmp_pct": 23.53,
     "est_listing": 105.0,
     "updated": null,
-    "trend": "🟢"
+    "trend": "🟢",
+    "stale": true
    },
    "ipowatch_url": "https://ipowatch.in/everestims-technologies-ipo/",
    "insights": {
@@ -1036,24 +185,24 @@
    "business_news": [],
    "news": [
     {
-     "title": "EverestIMS Technologies IPO Day 3: Subscribed 0.87x; Retail leads at 1.34x",
+     "title": "EverestIMS Technologies IPO Day 4: Subscribed 1.78x; Retail leads at 2.27x",
      "source": "scanx.trade",
-     "date": "01 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLWtpTjlrMzN4akZKekZTZnV3RWlWeU9KUWJTaEFvTGs2ZXExN0pmcGZHakZ1N2E0NVUxcVpxWVBXUzdocnprSXFhYVB3NFdrdWt6YVJlX0NFYzFYUkczN3NPd3hETkJLRkNkTFZHV3FIczhOdU5hODFKT3pnNmQwZEwyTWcxdFBmdGozNnZ4ZmRBZ2hEUW02amJqMktEU01nUFlSOGdzY2dPU3FhQUprS3J0OVFTVnRtV2l1dQ?oc=5",
+     "date": "02 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObG83aVI2c2tPT3luSnh3VU95NUpfdC1SWldWX1JkdUhCYlRFVWlXYm1od3JiN3phQ1plTXJhZWN5NVRZdXNSdlFaQjFXS3FNMnZsc05LdndNQzQ2MV9wdm5zd0FvZHJCaWpZVFpORTB1clUzS3BvOExoRVFYZXJCSWNwN3duV0ExcEI3TVp3c2ZQRG43LTJrTG5CYXRHUlY4d0NSSXF4Z09hRjBDYmEwQ1NwdzZaRE5PUDFnWQ?oc=5",
      "tone": ""
     },
     {
-     "title": "EverestIMS Technologies IPO Day 3 Subscription Status 1 Oct 2026",
+     "title": "EverestIMS IPO Subscription Day 3: Issue Subscribed 1.70x",
+     "source": "HDFC Sky",
+     "date": "01 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Sd2NKUDVDak5CMC15Vy11eS11NzJSTEh2NEFoV2YzTEtfay1EVU54eUswMEVKT2RWTFc2b3BVTk54WE91c09qMUtaSWt0eFBBRkF5ME81aDFuZzN3MXZRNjROVTBHTEthS1Bpb2NRd0owdw?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "EverestIMS Technologies IPO Day 3: Subscription Status on 1 October 2026",
      "source": "Univest",
      "date": "01 Oct 2026",
      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOW40NktXYW41a01PSUxhQWZmRHFkSUZSRWc4M1A2T3kwT254aUtpYlltUFN2SW05N3pTTkRjN1NhOWQ4em54bWN1NTJFNW5aU3FZX2xMZi14dTlaME15RFVGaUxlY2N1Y202RmtxcVloQmU3dzRRdjdRVWJNa0NMM1AwbnFxNDR2U3g5N0ppQTJUcFVrQWtTWExwREVYQTlIX0Y3MURtdDA2eEstM3c?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "EverestIMS Technologies IPO Subscription Day 2: 0.52x",
-     "source": "hdfcsky.com",
-     "date": "30 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeHZEZmliNUVnU3J6X0xxNUZma1VXWHAzbUpXOUNOekZFQXpCeDRfS015aUotYTlHWDNPTmgyWTZzNjh0RTZ1ZzFnWFJNVHVkcl9MMXBZdVJHTnFtN2M2UzNnaFZGbml3U2prSExuc0tfcFVfOVVBQlVfdk9LTWFRSjF3dw?oc=5",
      "tone": ""
     }
    ],
@@ -1194,9 +343,9 @@
     "Experienced Management Team driving the growth of the Company"
    ],
    "status": "open",
-   "day_label": "Closes in 4 days",
+   "day_label": "Closes in 3 days",
    "subscription": {
-    "as_of": "Oct 01, 2026 13:23",
+    "as_of": "Oct 01, 2026 17:07",
     "rows": [
      {
       "category": "Qualified Institutional",
@@ -1204,21 +353,22 @@
      },
      {
       "category": "Non Institutional",
-      "times": 0.68
+      "times": 0.84
      },
      {
       "category": "Retail Individual",
-      "times": 0.33
+      "times": 0.49
      }
     ],
-    "total": 0.44
+    "total": 0.6
    },
    "gmp": {
     "gmp": 35.0,
     "gmp_pct": 15.91,
     "est_listing": 255.0,
     "updated": null,
-    "trend": "🟢"
+    "trend": "🟢",
+    "stale": true
    },
    "ipowatch_url": "https://ipowatch.in/vishal-nirmiti-ipo/",
    "insights": {
@@ -1245,24 +395,24 @@
    "business_news": [],
    "news": [
     {
+     "title": "Vishal Nirmiti IPO Day 3: Subscribed 0.44x; QIB holds at 0.96x; Retail lags",
+     "source": "scanx.trade",
+     "date": "02 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdWtncUhZRFI0Qi0zek1Ec1ZESER5VEtDeGxxTEExWlU5UUhrNnktQk9DcFB3alg1NUFUV1AycDJDUTFzUWdIVFhaNlZVd2hxLWFubzBvYVpLdWV0cmV3THJadXhuZ0Z1MkRFRmJiTzZ4NVpvenF0X200WXNlTmZMNW83d0JqYk41SHpLNXpUVVRZMXpjWWFaS2VpT0ktS21vczQyRFdZZ1VrQjJyd3lvb2JBSWt0Y3VpaU04Mg?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Vishal Nirmiti IPO Subscription Day 2: 0.60x",
+     "source": "HDFC Sky",
+     "date": "01 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5vb3FpSlEwMEpGeklyWTRyR2NMcmJiaXYwcG5RbjZvbjR2V1B5RkZncnIzUUYzYzdtakc3cEZGcmVTZC11SXFoNFVhTm1HMDNLZXZfV3p3WHRqdzc4QnNEWmZmNWFveF9PM2lKY2toeExNUnphWVZV?oc=5",
+     "tone": ""
+    },
+    {
      "title": "Vishal Nirmiti IPO booked 30% so far on Day 2; GMP signals 16% listing premium",
      "source": "Moneycontrol.com",
      "date": "01 Oct 2026",
      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbDg2RmdzQXpDOHhmelhFOXM3YkhTYmZJRE1Bbms1YVp3V3d6QVhVQjFsZC1RMENwcURoSkt0b3BHemducjQzd2pYdFlWdkEtZ29KaE9hbmd1Q2VJSmVNeEE5NWFvTVlIT0xkdnVNNlJfdUtpenhlLVRsbFZZODJVZTZKMWdmV3NtdXFGT0ExblczNHRQTktqeW5nZEMwU25IcEpIS1dHVFF4bnhxZ0stUXBlajllUDFZeTk1Qk9ydWpqYTlGLUMwMkEyOWM3OTRzc3fSAdcBQVVfeXFMTW56dlBJOE9KS1A1QTdkcmU0TDlJMmhhR1pCTm91ek9fVVdCazlKX0V1RE5lN0pvdzk1OTN3VWZTSkgxNGJOdy1vemhWS1NvOWM1NVVyWHNrWEJnNGZXSktvZlAzQjZrUUd4LTl5ZWZmQWdqc000OGU2Y296OHBjN1FxVThkSUpxQXFvM1JkVVlqb0hRZlBVdzZReVNfb3ZnMEFpMGFndWhKOUNyamNQWGJ1V2taa0VtVlQ1eU5EUTBkZGNITUxzUjNJU0dyaXJld2RMdFFSMWM?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Vishal Nirmiti IPO Day 2: Subscribed 0.23x; QIB demand flat, retail picks up pace",
-     "source": "scanx.trade",
-     "date": "01 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ3JkM3hrN3JVZWYtdTJrZDl5dkpsTzAzS2ZtaUNldWRhWFRzM21SMjVhSGFHeEFXVXRSR2l6YTlCdW1tNVcwNmpvU09BSHl1SkxPWE95dTNxbk1vcldnN3lEY1ZfdW5BNzY3R0RFdjZ2V1ZURzdWRGI0MUF2cXBBOTA3TjIyOHFNbWJKQjNzekRrM2pGdEh4NHViRF96bkROaE0zRkJua3VCanVjSXdlRWtEN1RiQQ?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Vishal Nirmiti IPO Day 2: Issue subscribed 19% so far, QIB portion near full subscription",
-     "source": "Zee Business",
-     "date": "01 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVG5zUzJ3ZFZET1FvZXB3QlhPWHJHX3h0Q1g5WHplVGxZS0VnZ0Z2MmtLTWlNUjh1UXM2ekNNaUZpeVc4X1NjNHBxMzZpOWpjOHd4cjVhc3llWVBYT0J0dHVOeENZTFlfRXRUQVhmLUFvRXJLWGpkSW5JdlhDMnRSSHFibGdhZDZUYWRCTU9hQlJvTzA3SjNSMXM2X3l0TExsSktsUjRnbjFpUm84aHI3S3diNEdMNlAwamlEVFAyUmFleHZvVGEwWDRuMzhTQQ?oc=5",
      "tone": ""
     }
    ],
@@ -1399,35 +549,36 @@
     "Skilled in-house workforce enabling quality control and reduced dependence on external job work."
    ],
    "status": "open",
-   "day_label": "Closes in 4 days",
+   "day_label": "Closes in 3 days",
    "subscription": {
-    "as_of": "Oct 01, 2026 13:28",
+    "as_of": "Oct 01, 2026 17:08",
     "rows": [
      {
       "category": "Qualified Institutional",
-      "times": 0.07
+      "times": 0.38
      },
      {
       "category": "Non Institutional",
-      "times": 0.2
+      "times": 0.27
      },
      {
       "category": "Retail Individual",
-      "times": 1.08
+      "times": 1.32
      },
      {
       "category": "Employee Reservations",
-      "times": 0.83
+      "times": 0.95
      }
     ],
-    "total": 0.45
+    "total": 0.69
    },
    "gmp": {
     "gmp": 5.0,
     "gmp_pct": 6.67,
     "est_listing": 80.0,
     "updated": null,
-    "trend": "🔴"
+    "trend": "🔴",
+    "stale": true
    },
    "ipowatch_url": "https://ipowatch.in/nityas-gems-jewellery-ipo/",
    "insights": {
@@ -1454,24 +605,24 @@
    "business_news": [],
    "news": [
     {
+     "title": "Nityas Gems & Jewellery IPO Day 3: Subscribed 0.43x; retail leads at 0.72x on final stretch",
+     "source": "scanx.trade",
+     "date": "02 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcmRTQmNBZ1l6Q1F0VnQ2a0RSVWU5ZEdTbTJlb2Y5a01YXzZLaVo2akJyV3NjS3BEM1JvcGdyWGdLdEJjVExvT1hTakRGbUtDekx0MXlsSGdIdWhHdmFQM0VDR2oybEFFbmNtQ0I2MHJFWVZHZjBxbUNlMnFDS1FRUlVDdnZ4anVPS0xJRFNmcXFaWFo4Z2d0ZUs3Z0ZBRUdqeElkWmhybURVdTZBNmctNXFsRGcxdkFwQmc?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Nityas Gems IPO Subscription Day 2: 0.69x",
+     "source": "HDFC Sky",
+     "date": "01 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUQ3FXWWdhcFhsbm9CMGIyQ0luWERZQTZaQ0hwZk41eGstcV9lSDhIUjJidmpXb09nbkhlOWtocG5xcG0wZ0FZTWdLdkl0TERIbkxjbFQzdnctVmdURld6YndNUGhKLUNDYnRHZVBvRjFiYlU?oc=5",
+     "tone": ""
+    },
+    {
      "title": "Nityas Gems & Jewellery IPO Day 2: Subscribed 0.32x; Retail leads demand, QIB interest absent",
      "source": "scanx.trade",
      "date": "01 Oct 2026",
      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObl85V3VTajJhWGZSYWcxQWVPUFdneXRWaThqOWJZcl9jQThQNk9aLURsOHJQcWlxa2F2NW5XVlFmUGFSVE1tZWJCY3l5X1g5N1VieHF1S1ZxVkNKa0ZDWlgzZ2lIRXhrM0l5MWNhZ0w0dVZqaGE5dkI4UEVEWFlvYXZyMGJnanV6VVFURDdzY29FRDQyM1FOcFg2dDhlQ3hhZlp0RFNKMDB0S2tTbGloZ0FSaGhrZWJZQ0tN?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Nityas Gems & Jewellery IPO Day 2: Retail quota 74% subscribed so far, QIB bids yet to arrive",
-     "source": "Zee Business",
-     "date": "01 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbDIzM0NRWU9tUkRvdmdyV2daYzFPckk4NzBhLTJwLTZVOVRlRmhWRnVqNjdlcThmTmNhWTM2MG9mS0lQR3JocXU3OFZSVEVITzd2ZFM3YjN5S2poNTgtNU5obDFxeWFSa1VOTVpMSEo0Nld6a2QtOXMyS2FVYUtMN2txTGNlcmdENXA4MDM1TTBVZGtuVVUyVWNFMUp0VWRpbzNWeFRkM1hhMWVoaFFFX09KUmpUN2xfY0VOcHFlTXRXeGJ4Wko1QU5PZHJxS2tq?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Vishal Nirmiti Vs Nityas Gems IPO GMP Today: Which Has Higher Listing Gain? Day 2 Details",
-     "source": "ndtvprofit.com",
-     "date": "01 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPanRJQV91SFJGNjhlQlFlNHByOTBaQkx4V3FUNkJlbTJOV2Y0Y3VJYXlhRGRLZVFfNU1Ed1F4OGppdUJhVHZDUFhkcmNNOU9MVDczYU5jUUp2MEtfTTJsTnd5bjlCdUVkcUFnMWpDUGYwNjBJYmxtTjNnMGc1SkVTWHF4U0k3RzFVeWlubEl5OFl1R2pELXg4OWx3bkZWR1ZXSTdPVDJUV0NCRVU2TnBGdE5yN1d5VVRhN2g3bUdvazQzM0F3WVUtSVRoVdIB0wFBVV95cUxNckJ3YkFjMEFUYXVIYlNTdUtWYWdrdzJsNmNmY0hhNFlLUDlwSk9OTjloeFFFV051RWFSOWRsMy1mem9KVVB1UmZZM0RxR25HWXVUNkpvU0xYMTNVSnpEX0xHUXB4cjJhajZlcGs5SGVzNWJYcnN3cURtbGF3Ykc4VVFma1hNT1hfNDYyT3lubVRPWjlWdmNLRVRTY1dFTlZHaEI2LThPSmUtQ3hzOWtPQ0d3elA0UFU2N1lPR1VOdmVRS3lVS0xhYnBoQjhHNXhwTVVJ?oc=5",
      "tone": ""
     }
    ],
@@ -1618,9 +769,9 @@
     "Quality Products with Certifications"
    ],
    "status": "open",
-   "day_label": "Closes in 4 days",
+   "day_label": "Closes in 3 days",
    "subscription": {
-    "as_of": "Oct 01, 2026 13:29",
+    "as_of": "Oct 01, 2026 17:07",
     "rows": [
      {
       "category": "Qualified Institutional",
@@ -1628,21 +779,22 @@
      },
      {
       "category": "Non Institutional",
-      "times": 0.93
+      "times": 1.6
      },
      {
       "category": "Retail Individual",
-      "times": 0.57
+      "times": 0.84
      }
     ],
-    "total": 0.7
+    "total": 0.98
    },
    "gmp": {
     "gmp": 0.0,
     "gmp_pct": 0.0,
     "est_listing": 52.0,
     "updated": null,
-    "trend": "🟡"
+    "trend": "🟡",
+    "stale": true
    },
    "ipowatch_url": "https://ipowatch.in/shree-tnb-polymers-ipo/",
    "insights": {
@@ -1665,24 +817,24 @@
    "business_news": [],
    "news": [
     {
-     "title": "Shree TNB Polymers IPO Day 4: Subscribed 0.75x; QIB demand flat at 0.75x",
+     "title": "Shree TNB Polymers IPO Day 5: Subscribed 1.05x; NII demand leads at 2.65x",
      "source": "scanx.trade",
-     "date": "01 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRzhrQVRwZHlTaFlCV2ZfaHMycFNYdVJRX2ZxR1YtZkN3bzRYTGNCVktoVjVkNlFSZjdzemJpNWdfX1N0TzFIckdGU2RMUGFqMmg0SFdJM1E4YXVoVk9Idlh3UExFSU9BaHI4dHNsSGNuRGxkOUFLM0JuZ3lYTE93U29pQ3JjUjVPd0ZnLUVRZlE2cmdKcm1uREZKdTE3a0IyaHNMWUFNd0pXczh0XzE5Z0hZMjYzeFlibkE?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Shree TNB Polymers IPO Day 4 Subscription Status 1 Oct 2026",
-     "source": "Univest",
-     "date": "01 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZnVrVXFoX0tEdW0tQk1VeGZqZVNSM3VJZFdJWWVoN2RhXzUyWHA2UDNQU3B2RHpDM3VoZUtvUUcyUmdrYlhaa0czMlRvamo1aUFVRjhCTkZ5YThVZkRtQm5MWS1pUkQ3OUlQS2JyRW4yUVNDQm1Db0R5ME9nQm1HcEVTQTBobFRBVDJralNmbUd5bmRmSHgzbHBMYndyTWZtV3h3?oc=5",
+     "date": "02 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPczB4anZwUXQyU3JPT1J2YkU4X3Q0X1M2bU4tY1haVEtYREJHNEwyamktOVRDcU1xcmtta216dElMOGlMTjk1ZjIxd0xIX2xtUWtYSXpkandhWkNOWTVmOUF5bkcwVWU0Rkc5WWVFQ3NkZjhYR0FDVjRyUGxERDdvczMwTWl6OVZnWndBc2h2Sk14YzFhZi1jRmd2cGxPUmE2amMzRVRWcFZEcnZJelpfVkdGeUZXVG5NaGNv?oc=5",
      "tone": ""
     },
     {
      "title": "Shree TNB Polymers IPO Day 2: Subscribed 0.49x; bHNI demand surges 76.9% intraday",
      "source": "scanx.trade",
-     "date": "30 Sep 2026",
+     "date": "01 Oct 2026",
      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORjRndEp4TkJZbnl4Xzd0N0lRSjVwZVNYeVZuaFdWR3VqcGRIMnhmdmdlN1IxSWgzRzloa0piV2cxak92YWNjOWFrZU1XVWtiN3hfYXo3S1d4b250bjBfWno0azRuQ0VzMmFBQlRDakVVLWJKZ19oSmc1am9RTUkzM21DUm84RnN3U0c3UVBIcnc5Z3gtOGdJOFNyZXJPSjA3ZGY4VHIwMXBsS1JlTWZuUVdvdw?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Shree TNB Polymers IPO Day 4: Subscribed 0.75x; QIB demand flat at 0.75x",
+     "source": "scanx.trade",
+     "date": "01 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRzhrQVRwZHlTaFlCV2ZfaHMycFNYdVJRX2ZxR1YtZkN3bzRYTGNCVktoVjVkNlFSZjdzemJpNWdfX1N0TzFIckdGU2RMUGFqMmg0SFdJM1E4YXVoVk9Idlh3UExFSU9BaHI4dHNsSGNuRGxkOUFLM0JuZ3lYTE93U29pQ3JjUjVPd0ZnLUVRZlE2cmdKcm1uREZKdTE3a0IyaHNMWUFNd0pXczh0XzE5Z0hZMjYzeFlibkE?oc=5",
      "tone": ""
     }
    ],
@@ -1816,27 +968,32 @@
     "Experienced Promoter and senior management team."
    ],
    "status": "open",
-   "day_label": "Closes in 4 days",
+   "day_label": "Closes in 3 days",
    "subscription": {
-    "as_of": "Oct 01, 2026 14:24",
+    "as_of": "Oct 01, 2026 17:08",
     "rows": [
      {
+      "category": "Qualified Institutional",
+      "times": 1.0
+     },
+     {
       "category": "Non Institutional",
-      "times": 1.18
+      "times": 1.19
      },
      {
       "category": "Retail Individual",
-      "times": 0.49
+      "times": 0.55
      }
     ],
-    "total": 0.82
+    "total": 0.86
    },
    "gmp": {
     "gmp": 0.0,
     "gmp_pct": 0.0,
     "est_listing": 111.0,
     "updated": null,
-    "trend": "🟡"
+    "trend": "🟡",
+    "stale": true
    },
    "ipowatch_url": "https://ipowatch.in/dove-soft-ipo/",
    "insights": {
@@ -1867,24 +1024,24 @@
    "business_news": [],
    "news": [
     {
+     "title": "Dove Soft IPO Day 3: Subscribed 0.92x; QIB demand steady, Retail lags",
+     "source": "scanx.trade",
+     "date": "02 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYlVQMXFDTXhLZllESlhmU0tURGtvV3BJVVhTWjk5UG4wbFhRSlB3UUtDc042WUVka3g4bmtWVmJfdUJsZDQ5VnN1aHVpamNDVXBmeUdHTGhKOGs5ajRCbzJWRDlFM0thR09Hc21IbmZpUS1MeTNEbVdkOEJPMVBRLW9YVW5RVEtBM0JqWFFXRE5aa1hmSmc1RFpvSk9seTlTNXNRQTVnTWxHUkRxZnhZVFY3X1k2T0xQ?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Dove Soft IPO Subscription Status Day 2: Issue Subscribed 0.86 Times",
+     "source": "HDFC Sky",
+     "date": "01 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvODUzeDdqZ1VzZVRBNlZrWTJGbkdSWWtBWkpHQ24wdmtLZTVzbFBwc24tTEtQWm9veWIyRlpjOGZXYmRfMFlFaFB2b3JqNVpNMEhpNjR3YkpnY3hXSU1xMlAtbFA2WGtKdWV3dUNWNUpNdw?oc=5",
+     "tone": ""
+    },
+    {
      "title": "Dove Soft IPO Day 2: Subscribed 0.86x; Retail leads at 0.46x; QIB interest remains absent",
      "source": "scanx.trade",
      "date": "01 Oct 2026",
      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPREZwZUx2ZkFUSWJJci1ZdmozdDdOLWlDblRVSjkxa2pDamVGZnNrWXpxV3dTTXJFV010MXRVb3IzR2k2R3FZbjFHZTQzSG9DLWFEV3pmaDQ3OWVoVy15Z3FubjF2TTZBUmxrRkFLQ2x5Y2Zuc3l3Y0lrTGQ4NWhTcG5KaDRORzh1NGREbVNteWdqa0hTQUJwV1h6T1o2QTVVQjhaU0dpNzZyN2cybGZ0dTN1enVuRXZNaFBF?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Dove Soft IPO Day 2 Subscription Status 1 Oct 2026",
-     "source": "Univest",
-     "date": "01 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdUF4dmExQXFFN3kzZkxwTjRmRmx0b3ppVDV3QWNLSDA5cDRLcGVuSHdnUXhxVm9UYTdvaXo1UENQXzRIakNEWUNpdTN1SkdWV2kzMEpQYXNtVGtpVFdfZHlVVFBlLWxnWGhveUJTeDl5eXk3TDVEMUVSdDd2SFNJQ0w1R3JEUUFBdGN5NFpxNHlZbDQ0YVMxZ21HTQ?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Dove Soft IPO Subscription Day 1: Issue Booked 0.85x",
-     "source": "hdfcsky.com",
-     "date": "30 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VSlNhOVZSbFM2ZnVYUHN1Q1FxUWVxYjU3Z3JkSEZmZlpLdXJ2dEh3MXcyS01lQ3BtcE5mejJUbG90VVBHdjFsclFmUFhEeTM3YkFWSk1ZWDMyOXJhdFh5d2ZXV0d0cm5kcHVWWkFsV28?oc=5",
      "tone": ""
     }
    ],
@@ -2032,27 +1189,28 @@
     "Quality Standard Certifications & Quality Tests"
    ],
    "status": "open",
-   "day_label": "Closes in 4 days",
+   "day_label": "Closes in 3 days",
    "subscription": {
-    "as_of": "Oct 01, 2026 12:24",
+    "as_of": "Oct 01, 2026 17:07",
     "rows": [
      {
       "category": "Non Institutional",
-      "times": 0.65
+      "times": 0.85
      },
      {
       "category": "Retail Individual",
-      "times": 0.14
+      "times": 0.23
      }
     ],
-    "total": 0.4
+    "total": 0.54
    },
    "gmp": {
     "gmp": 0.0,
     "gmp_pct": 0.0,
     "est_listing": 67.0,
     "updated": null,
-    "trend": "🟡"
+    "trend": "🟡",
+    "stale": true
    },
    "ipowatch_url": "https://ipowatch.in/sjp-ultrasonic-ipo/",
    "insights": {
@@ -2083,10 +1241,10 @@
    "business_news": [],
    "news": [
     {
-     "title": "SJP Ultrasonics IPO Day 2 Subscription Status 1 Oct 2026",
-     "source": "Univest",
+     "title": "SJP Ultrasonics IPO Day 2 Subscription Status: Total 0.54x",
+     "source": "HDFC Sky",
      "date": "01 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWWFTUmVERUhib2NrMzJEOFA5UjA5VjgyUmFFWXZlaVIycEU1MHB3SnotTmg2S1ZKb1BWSUYzaWY0WGVWX1NYNm9jaVhpLTcxbENoWE00bjNibGdwcmJIYVN5YmFXYkRRVllZMkNJenlvNFNKak81Z0VXb0NKbnJ1dlB6MEJIcTFRNHFWUEFjdFR4UWZxSDhIUE1iRzM5UzlVZG1R?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE42X1pZclJMRkFFMnJCbF9VT1hEZ3I3TEpQd3NJUlJMSFVLZElPUlZDdWlnMVhZdnFtcmNzQWE3QW90V0xDQk1aT19LamJQVXRTSUlEeFFDZklYYldWejVtLUJOWUpYUWZMcWxYQ01uY1ZfMDlaVlItMlBB?oc=5",
      "tone": ""
     },
     {
@@ -2247,31 +1405,32 @@
     "Established corporate client relationships and repeat engagements."
    ],
    "status": "open",
-   "day_label": "Closes in 4 days",
+   "day_label": "Closes in 3 days",
    "subscription": {
-    "as_of": "Oct 01, 2026 12:00",
+    "as_of": "Oct 01, 2026 17:55",
     "rows": [
      {
       "category": "Qualified Institutional",
-      "times": 22.51
+      "times": 26.18
      },
      {
       "category": "Non Institutional",
-      "times": 0.01
+      "times": 0.06
      },
      {
       "category": "Retail Individual",
-      "times": 0.04
+      "times": 0.65
      }
     ],
-    "total": 1.22
+    "total": 1.8
    },
    "gmp": {
     "gmp": 0.0,
     "gmp_pct": 0.0,
     "est_listing": 118.0,
     "updated": null,
-    "trend": "🟡"
+    "trend": "🟡",
+    "stale": true
    },
    "ipowatch_url": "https://ipowatch.in/eventions-ipo/",
    "insights": {
@@ -2302,24 +1461,24 @@
    "business_news": [],
    "news": [
     {
-     "title": "Eventions IPO Day 2: Subscribed 1.13x; QIB category races ahead at 19.89x",
+     "title": "Eventions IPO Day 3: Subscribed 1.85x; QIB leads at 26.18x",
      "source": "scanx.trade",
+     "date": "02 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdkF5c1VLYnhGNGRSc2MtUmZCcnBpWGlBNTZ1a1pWMlhVT3M0ODROYTBIaHZibnF3WHNCSGlPUUk3WFl2NVhteV84MkhfNF9ham53d1ZxR0FrUHhvbDZCQWZ5YWJ0MTBaRjN0MDhlM3BPZ1AwblRyVzRKMTBGdWxaTDBDSDBOdG1WQlVsdUNaeW9JSjg5S0lSTUlMNTF5RXA2SXJuY0FVWQ?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Eventions IPO sees robust demand with QIBs at 19.89x; GMP stands at ₹42",
+     "source": "Motilal Oswal",
+     "date": "02 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCajFxQ0Z5OW1WcGNuZUMxUnM2cVhPcG5uaHFZT1FaSGV1clFJQzhmakc0YzAtYXNoYU5CeXAtb0l3akd4S3hPOXRnR2diX1gxQkV6QTRn?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Eventions SME IPO to open on Sep 30; seeks to raise Rs 38.12 cr",
+     "source": "The Economic Times",
      "date": "01 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPN2c0RVFmaThqRnIzTkl5cVh2UF9Bb3laOWFWX29HaWt3N1JiUWo0MWxncGlhSEV4UVlyekYxRUVRbXFHcUZ1Qy1sdlEyclVoWl9DUVI2dkxLNEFYX3BTMEJZRWZDeTd4ZWlGdGIzT0RxOWx5c2lzbjlFZVNsNC16bHpha2RtUmJ1TXUtSkQycTMwQXJha0lJMHJJLVFUdVRzVzhNN29KdVh0OVJ5bmVNRVNyUDJzUDE5eENZ?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Eventions IPO Subscription Day 1: Issue Subscribed 1.12x",
-     "source": "hdfcsky.com",
-     "date": "30 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94d2p5Mno3bWw4ajRxTU1PVzU0T2htWlBLbC0yTllYclBxdFVxdDBqTTJQRW1uSnZyWVJjWEpsU0VrcldMX3F1SkZiX000VV9uNGFQQmhkQWVXb0kxWmRXblV6VWwwY2pSaEt0UmZWcm4?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Eventions Limited Opens ₹38.12 Crore IPO to Fund Growth in MICE and Corporate Events",
-     "source": "EventFAQs",
-     "date": "30 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVEJvVGJNX045ZU1QQlRTS3htQ0tiU2loV0RXWnoxdDc1dEoxSjlsd183anFlVkpHWDYyMUVTeDNjNnpJdjZDM1p1dU9SU3FGQjBTNlBYYnVYNHoxMnhuLVpUSEx5bDd4eWEyTWF0SDVXZGJtNkNXVW5MZ1hXWmx6Vm44cUp1WWNfU1h4c1cwX1A4TEZpNU1WenVqS1RGbUYzSnhiRWUtVjFoMXN6TTV3UWV5RTJjVGFFSkkxbVY3Wl9kQTJhZVRULQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQS085emtjdG1Zb1ZYQTNiNzZSXy1CQjN4cE1lbXdjR0RsMHo3X1FVeUZ4N3VScnRYNnh5UU95U0p1WGczdDNqSUFaeUNCQzlYckRRMHlmaEl3SV9sM1dmcm9xRE5WQ0lKWURhN05tVzdkQ2ZKYmVXQ3RsWVlPSWk2bF95RUFRQUhyckpUVkUyWG8tNXhJNkVxUmJBdTAzQnltcUVpaFFYbzE3TFM5Mi01N3dVS21JUHpEREFmUG5nNk1qenk0dktnd3JJSzNYUGVtM2JBbFpEaGNsRjdTNHBEbExIb9IB4wFBVV95cUxQS085emtjdG1Zb1ZYQTNiNzZSXy1CQjN4cE1lbXdjR0RsMHo3X1FVeUZ4N3VScnRYNnh5UU95U0p1WGczdDNqSUFaeUNCQzlYckRRMHlmaEl3SV9sM1dmcm9xRE5WQ0lKWURhN05tVzdkQ2ZKYmVXQ3RsWVlPSWk2bF95RUFRQUhyckpUVkUyWG8tNXhJNkVxUmJBdTAzQnltcUVpaFFYbzE3TFM5Mi01N3dVS21JUHpEREFmUG5nNk1qenk0dktnd3JJSzNYUGVtM2JBbFpEaGNsRjdTNHBEbExIbw?oc=5",
      "tone": ""
     }
    ],
@@ -2469,27 +1628,28 @@
     "Strong After-Sales Service Network supporting installation, servicing and long-term customer relationships."
    ],
    "status": "open",
-   "day_label": "Closes in 4 days",
+   "day_label": "Closes in 3 days",
    "subscription": {
-    "as_of": "Oct 01, 2026 11:58",
+    "as_of": "Oct 01, 2026 17:07",
     "rows": [
      {
-      "category": "Retail Individual",
-      "times": 0.11
+      "category": "Non Institutional",
+      "times": 2.12
      },
      {
-      "category": "Others",
-      "times": 2.01
+      "category": "Retail Individual",
+      "times": 1.59
      }
     ],
-    "total": 1.06
+    "total": 1.86
    },
    "gmp": {
     "gmp": 0.0,
     "gmp_pct": 0.0,
     "est_listing": 55.0,
     "updated": null,
-    "trend": "🟡"
+    "trend": "🟡",
+    "stale": true
    },
    "ipowatch_url": "https://ipowatch.in/sollfege-smart-electronics-ipo/",
    "insights": {
@@ -2516,24 +1676,24 @@
    "business_news": [],
    "news": [
     {
-     "title": "Sollfege Smart Electronics IPO Day 2: Subscribed 1.07x; retail demand ticks up to 0.02x",
+     "title": "Sollfege Smart Electronics IPO Day 3: Subscribed 1.91x; Retail leads demand at 1.59x",
      "source": "scanx.trade",
-     "date": "01 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdXd3NV92R0RxTVY0a0p4QkNRVmRqOHlrZkxzN1A3ZF92VHJCbmUtT3lNR24tTVJOeGVDMDhfd05zUjkxbWE1azVEM1BkV2cwQ3BIM2NFcS1ILVZ6S19salVmTkRoMGEwdF9YM1hwZFd2Z3pRS1RoS1FlRFg1TkFLMk1nSG9YNDNLYk9NUlN6RTUyMmVKX2djbFFjSTJHTk54dkhXQThCQ1I4ZnZlMUwtejZtQkxtRFRQWUE?oc=5",
+     "date": "02 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb0UwdzRxOGx0LTF2d0hJb1pXdkdmTVFDd0RmWjBpakZnWEF2cG9kYld4M3lQd0ktSmQtVGNYV1pqQkxIblhiYUF6Wk1EVlFicnR6VkVQaHdZbnNoNDlzSWxPYkpKdkZWWnN6YTN4b2YzVm1zcnRIZzFUWHYtNkVOYXVPdEJLSU1NX2NJQndxcExDdEhxWXltbEdKd18xNWxGdWw1dWtPUzZuUG9RdnBoU2sxZkZqV2Vi?oc=5",
      "tone": ""
     },
     {
-     "title": "Sollfege Smart Electronics IPO Day 2 Subscription Status 1 Oct 2026",
-     "source": "Univest",
+     "title": "Sollfege Smart Electronics IPO: Lakshmishree Investment Gives It “Subscribe” Rating With a ₹110 Target; Check the Broker’s Rationale and Risks",
+     "source": "Trade Brains",
      "date": "01 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVnQxdUhWTC1hTzIyZDJLS3hZUVlCWDMwTGJtbXdHS0kyYUhHQm5fYjhnRExDS1MtS3pYZzFaZGdUUVNaMlUwSkJBcmtob3lBSDRfdzZBbFJSUnlMVG5hLXA5S3FOeFRaX001S2hwX0ZPYVNGQ2dFcVllU3p4NS0xY3p2S0tPX2JUOG1OVEJjdkdvdUlsMXp5NURBelRfQUFJSmpoWFlrNHRkM0RfM0VaWjhR?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOa19QbGFCYVlZMklBNXhaYWtZemJzYmxKVDBkQVAtYzVaU3RJd3liV3c5dm9rMVQ1VXhfRVB4dld4c1FxM3VycktLSUV0UkJOYjhfbndrSmF0UHVLOHVGNTZKSkt5ZHp0NnNxU09lY3JYbzZmOTZjTk1DaVNHTTFCdGJqc1FxY3JHcTFTc3QydVY5aDRlbUpodF94MGxTN0o5WEp3V1Vpcm00YWU0QkI2cVhTdkd1Y1hKZEpIWkQzT1NVRk0yUFdXSm9OX1BMc3U0OV9tRlZqdGY2VEtEdWF5NzZ6Z2R0MGhLZHFpaWhmUUQxUnpZZGlma2hwVW5mLWVtVkdXMjM2VVNJNl9nSGlrWUxhUQ?oc=5",
      "tone": ""
     },
     {
-     "title": "Sollfege Smart Electronics’ IPO to Open on September 30, 2026; Company Aims to Raise Rs. 21.78 Crore",
-     "source": "NewsX",
-     "date": "30 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPb1htZ2RhZ2pWaTBDY0xhM2dELXNuSzMyQWp2a0UwMmJnQncxX3ZLTDhjcWVLTVJ1Wk5vbEZpazhGS0Z5UTFoY19UcWJyOUtGbGlncXNNY0kxaFp3cjl4ZmNwQXN5ZHBOM05oZGZ2MHk1RFhCbzg5TV90SkZUbHNkLVZzcXBFNm1hWW1iVG5XUW5hekJTR1VySkN3VmJTbjFLY3dqNU9BSDlIYldIdlo3bTJtek4xZTJicWxzOTJsek1xNlN4YTFIVV9qM1h4dGPSAdQBQVVfeXFMTkJuVXc0OWhFOUt5SS1uMFhJZVFZeU1pbFpfTktGeENMdW5MZVM3RzZtLU1OdjcwUmE3dml2VUM4aHhaNG5PdklscktiUVFrS3hndkxWRTJYcmx1N2hhaFpyak9rZWZBVzJCaVBOS1NCYkdZbjU0MmpfZUxQTmZSZnhET2pqVTVfdjdrc2VKVjBUWVZ3ell4NkJROVBvUWxNZGZiRFdNdFJuTC0xQTJZY2xDc3JjYjJSaDdZWmxLeXhJM3FONUxnZ1Q5Rkc5YVg1eFk3WFY?oc=5",
+     "title": "Sollfege Smart Electronics IPO Day 2 Subscription Status: 1.86x",
+     "source": "HDFC Sky",
+     "date": "01 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcXVnR2dieUV4cEpfRURCRlBENEVqbkFWcUtxYWlQQXRkWElZUkRNaHVSNXVhOVFsNE5TNlhmVVZrZG96RU1EUWlBbmpwZjZkNDYzMUx0NzlsTGt5NHFBb1dya2EtZDdVbDVHdTFuem1GajZZc2NqeU0xdFFEcXdLSEFtb2gta1Mz?oc=5",
      "tone": ""
     }
    ],
@@ -2686,9 +1846,9 @@
     "Focus on in-house product conceptualisation and design development."
    ],
    "status": "open",
-   "day_label": "Closes in 4 days",
+   "day_label": "Closes in 3 days",
    "subscription": {
-    "as_of": "Oct 01, 2026 14:24",
+    "as_of": "Oct 01, 2026 17:06",
     "rows": [
      {
       "category": "Qualified Institutional",
@@ -2696,21 +1856,22 @@
      },
      {
       "category": "Non Institutional",
-      "times": 1.02
+      "times": 1.07
      },
      {
       "category": "Retail Individual",
-      "times": 0.1
+      "times": 0.16
      }
     ],
-    "total": 0.65
+    "total": 0.69
    },
    "gmp": {
     "gmp": 0.0,
     "gmp_pct": 0.0,
     "est_listing": 311.0,
     "updated": null,
-    "trend": "🟡"
+    "trend": "🟡",
+    "stale": true
    },
    "ipowatch_url": "https://ipowatch.in/omara-ventures-ipo/",
    "insights": {
@@ -2749,24 +1910,24 @@
    "business_news": [],
    "news": [
     {
+     "title": "Omara Ventures IPO Day 3: Subscribed 0.75x; QIB fully subscribed, Retail at 0.16x",
+     "source": "scanx.trade",
+     "date": "02 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcmMwYzNEekxnamtVNFhreDJ0QmtOYzZtQXA4UHlsQkc0VzZaRzZWVkQ3V0JuQU1QclE5X1hRVDd5a2FRR09nTGVjSFZpak00bmdwdk1wbzBTcWNtdnVORzhMWXRUM0VXemMyY3pFUHM1a0dlcWVqSGQxYjNJVDFTRzI4Wi1MR2lLTTVmU0lRNmpiekJ4eFVsd3hUN29RUHlaYXJBNmJvV0hXNUJxMTVPVjQwZl9QYnZVcHB5Sw?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Omara Ventures India IPO Day 2 Subscription Status: 0.69x",
+     "source": "HDFC Sky",
+     "date": "01 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORDZtb3RCdGp5cnh3R0VmR1hhR3Y4RDlsa0h4WTNpUjFXZWxqQUcwVGhmYXpvc0lDemkzSWRLR1UtLTFUQ0Q0a1NXQWtDbWtPajdWUHEwYktvXy1uN2xoN0tud0trRVRNYTh5QzNnR2FOS1FRbVVKM2swXzZ2T0lQZg?oc=5",
+     "tone": ""
+    },
+    {
      "title": "Omara Ventures IPO Day 2: Subscribed 0.68x; QIB hits 1x, retail lags at 0.05x",
      "source": "scanx.trade",
      "date": "01 Oct 2026",
      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY3RUcGhRN3Vvbzhla21MUTFuSmt5U2lIbjh4Y2hQb1ZmSzBQYnRoVmJManlZUnlrdFM1OXdEQlc3aFJlN1RXYUNjM1M1Y3hiZjdKa2lMOUdiTUJJRTJnNUUzcW0yYUphR2djSGYwV3drVXJXOTdEc1pnTlVwR2lidWlGdWQ4ZC1iNGhySk0tVnl2MUNXbjMxcUpJdHNRNDNMUkZZMmtDMDdCZ0NjOTdUQUNhR1hqYnRjYVE?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Omara Ventures India IPO Subscription Day 1: 0.53x",
-     "source": "hdfcsky.com",
-     "date": "30 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zRWRzZ2VpYzFHRkVjZTdELXZSTXBEOUtOS1RpQXFZY2NMbnFmMWpLblZ5dlpxakZaUU5BNlBLVVk0dllMM0N4Y1JCM2hTXzN1dEhFcnhWTlY5UGxkNmpSR3M5djk1Wl95RUE5RFFDaTJrMjBydnhHMktheUFPaGM?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Chandigarh-based Omara opens Rs 41.99 crore IPO for subscription, issue to close on October 5",
-     "source": "The Retail Jeweller India",
-     "date": "30 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc2lRM3BLV1ItVVpUdWhGd21wblFiOTEtN1k4NzlabkJ0VUctRmtfT2pPUkI4ZWpDQnlUUzBuY0hOZHNheDRKbHZRN0lQSjkyeWVKVVRKT1ZEYXVhbGl0X0F1THh6bFVSQmNKUHB6aXpKX2xya3NvU2ppVDJhaEVjLU5yVWZQVnRiZC05ekwtb3NhblFMaVBndm5TbHpvdW1MbEZ4MmdTbnUyTEh4OVNkM0VLUmNiNndpeVpzQzJsMXBHVDQ?oc=5",
      "tone": ""
     }
    ],
@@ -2911,9 +2072,9 @@
     "Fully integrated manufacturing facility at a strategically favourable location, equipped with machinery and equipment from reputed domestic and global players."
    ],
    "status": "open",
-   "day_label": "Closes in 5 days",
+   "day_label": "Closes in 4 days",
    "subscription": {
-    "as_of": "Oct 01, 2026 10:59",
+    "as_of": "Oct 01, 2026 17:07",
     "rows": [
      {
       "category": "Qualified Institutional",
@@ -2921,21 +2082,22 @@
      },
      {
       "category": "Non Institutional",
-      "times": 0.27
+      "times": 0.49
      },
      {
       "category": "Retail Individual",
-      "times": 0.27
+      "times": 0.48
      }
     ],
-    "total": 1.82
+    "total": 1.97
    },
    "gmp": {
     "gmp": 30.0,
     "gmp_pct": 15.31,
     "est_listing": 226.0,
     "updated": null,
-    "trend": "🟢"
+    "trend": "🟢",
+    "stale": true
    },
    "ipowatch_url": "https://ipowatch.in/acme-india-industries-ipo/",
    "insights": {
@@ -2962,24 +2124,24 @@
    "business_news": [],
    "news": [
     {
-     "title": "Acme India Industries IPO Day 2: Subscribed 1.82x; QIB demand holds steady",
+     "title": "Acme India Industries IPO Day 3: Subscribed 2.05x; QIB demand holds at 5.7x",
      "source": "scanx.trade",
-     "date": "01 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORENyNnR6SFZUMExiaUFZQ1RCcnVkUmxXc0E5X2VXanY4SHJzRWR6d0F4a1dOQ3JlNGQ4bktFc2h5WHR3UFhJdlNCUVVMbk9IcGRiM1dXOWJJN0xkT0xXQWdRTk5BZHp4b1VVYVU4aU8wbzRvVHdNWnpHZXpZR3pXemVLYWktcG5TOEU4M3R6TmU2MXJjQ2N4RGtPc3dFaGhBYkxCVzV3RXU2U0tIT1pudEd4VTdJWU0?oc=5",
+     "date": "02 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRkh1LVhhUDg3OWlBbTRPYzVRMmhqZ1gwQ3V6ZXE5bW1NOV9MMEtvTDZEaUMwdGNSYTdyVFM1eE5reTZnYjh3WTVrMzZPRi1BcEVNUlYxRFlINVl6emdGa0V0NmstLXdWQ0ZlVkdYdmJQQUppN0tTY0JrX2NaQkpHRDNPdEl4enZ1eDF5TFRfa3hHdzhUZnpHWjVSQUVLZEZCR1NUcmJRbVNlcEtGWnVTNm52QUZIOFpWS1ozOW9n?oc=5",
      "tone": ""
     },
     {
-     "title": "Acme India Industries IPO Day 2 Subscription Status 1 Oct 2026",
-     "source": "Univest",
+     "title": "Acme India Industries IPO Day 2 Subscription Status: 1.97x",
+     "source": "HDFC Sky",
      "date": "01 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSkRSeWRtUUJSOGNmc0lJM2ROVVd6dVp4eDdxbXZjUFotbnNMMDluR2VpQ3lVZkprMTJzVnlWZHFDcnhUUWxROTBPWnEwcG85OVFTXzJUXy05WGN1RUJVaUU2ZXg3dGZwRnpNVmUwZC1OdnVzZXFxVWptN09CalhHMXlMdTF3MGw3djN0MHQtX2Zka3hkY1dqN2IwRTdmMmk2b19JaUpzSHpBQm8?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVmRxT0ZMREN3eEVTZVBjRHNQU2RSNnB6YTdnMGN5UFRzWmdZbUJkRHNQYmUwQUlVMzZZS25QcklHR2Z3LTh5ZndodTh1S29uZDZJaXJJdUJoWk5YZnk5NDE3Vl9JOTlrYUhfX201Tm1oTExISHFNOEJad0pMenBUMmx3?oc=5",
      "tone": ""
     },
     {
      "title": "Acme India Industries IPO opens at ₹186–196 price band | Tap to know more | Inshorts",
      "source": "Inshorts",
      "date": "30 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdmxPWUNOUHgzOHlxVjNSMGJ2MndMMTJIa0QyWDZKVEE2dTBSSTZBblo4OElpTXNLLXBVVlFEaVZJRzFBcU14dEJ6akwxempsVFNnaUdGUVV2YWEzRjM4aGw3NUkzZXZrQ3E0Y2F1UjRzLW15Z19acjNtVU9uOUQyMnZHM2FNQWxDczdyLVhHUnk2cEIzVUlYT3RDdGNrd9IBowFBVV95cUxNeG9GRjhoa1dJWW1jQi11cVNnVmJIcW1UT1N3aXVPOGpSUlFQN3A4aGE0TEFYdDU4cFdwaFF5aHY1Wk54MDhmaVk4bWFZRXRrQUhDWUp4TmxTanNoVjdWVl8zX0ZRVXFmd3NSclZDNndRYVZjQWg1Q2pTSjB3aFVrQ1l5Wjg4S01RcThaTC1YN19OM1oxXzExeGRiWFROUE1pNHlz?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeG9GRjhoa1dJWW1jQi11cVNnVmJIcW1UT1N3aXVPOGpSUlFQN3A4aGE0TEFYdDU4cFdwaFF5aHY1Wk54MDhmaVk4bWFZRXRrQUhDWUp4TmxTanNoVjdWVl8zX0ZRVXFmd3NSclZDNndRYVZjQWg1Q2pTSjB3aFVrQ1l5Wjg4S01RcThaTC1YN19OM1oxXzExeGRiWFROUE1pNHlz0gGjAUFVX3lxTE14b0ZGOGhrV0lZbWNCLXVxU2dWYkhxbVRPU3dpdU84alJSUVA3cDhoYTRMQVh0NThwV3BoUXlodjVaTngwOGZpWThtYVlFdGtBSENZSnhObFNqc2hWN1ZWXzNfRlFVcWZ3c1JyVkM2d1FhVmNBaDVDalNKMHdoVWtDWXlaODhLTVFxOFpMLVg3X04zWjFfMTF4ZGJYVE5QTWk0eXM?oc=5",
      "tone": ""
     }
    ],
@@ -3120,27 +2282,32 @@
     "Geographically Diversified and Export-Oriented Revenue Base."
    ],
    "status": "open",
-   "day_label": "Closes in 5 days",
+   "day_label": "Closes in 4 days",
    "subscription": {
-    "as_of": "Oct 01, 2026 11:58",
+    "as_of": "Oct 01, 2026 17:07",
     "rows": [
      {
+      "category": "Qualified Institutional",
+      "times": 4.77
+     },
+     {
       "category": "Non Institutional",
-      "times": 0.06
+      "times": 0.12
      },
      {
       "category": "Retail Individual",
-      "times": 0.53
+      "times": 0.64
      }
     ],
-    "total": 0.28
+    "total": 1.71
    },
    "gmp": {
     "gmp": 7.0,
     "gmp_pct": 10.0,
     "est_listing": 77.0,
     "updated": null,
-    "trend": "🟢"
+    "trend": "🟢",
+    "stale": true
    },
    "ipowatch_url": "https://ipowatch.in/tna-solutions-ipo/",
    "insights": {
@@ -3181,6 +2348,13 @@
      "tone": ""
     },
     {
+     "title": "TNA Solutions to Debut tna robag Quantum in North America at PACK EXPO International 2026",
+     "source": "PotatoPro",
+     "date": "13 Aug 2026",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTnN4RHp3NW5TVVJ1Ym5vNnBybjdkb2xqaHRZeTRMNGtFMEJtdUNuN0RpdWdMc2psSERuUWxKVXRhV05aOUV4U2lqSloteXpudksyS3FuRTJlcGFFYkFNQlkyX2k0c01VR2R3WE1KWHAtT3BsSHlIZThBYXg4ZExBSk5GQmtQcmprQWc4ejZzcnBKY0xpMW5zcC1MaEplU2d1TFJsaFYwelZKc2JtN0VBVGZqZ2dIT3c?oc=5",
+     "tone": ""
+    },
+    {
      "title": "TNA Solutions to launch tna robag Quantum packaging system at interpack 2026",
      "source": "PotatoPro",
      "date": "13 May 2026",
@@ -3190,24 +2364,24 @@
    ],
    "news": [
     {
+     "title": "TNA Solutions IPO Day 3: Subscribed 1.78x; QIB demand leads at 4.77x",
+     "source": "scanx.trade",
+     "date": "02 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeHFpZXRvTDlxekxveFU5ZXdaNHQxV1dGekJUeWVCOFdvcHBBb1pscHVFU0NpaDRUQ0dSYWEtSTBkZFZIYzRLWWNfYnUyajVraTVNMnNzZjJoZDV2RzJwVHUxV081YzZ0VFZYdERaazlacGV4UnlZRzR0RTM1RUZOdzRIRm1PMWFXaE9iZENGS0RVYTVaVW8zcFdjMVd6ZUFvanBpT3ZUaFZUZVFUbC1RM19HM1Q?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "TNA Solutions IPO Day 2 Subscription Status: Total 1.71 Times",
+     "source": "HDFC Sky",
+     "date": "01 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rRWs2ckF5LWFwNzBaVkhZdlVWTFQ0eU8xSllkX3E0cWQ1b0tEcURHbGQ0WlVVTXNjYXl5WExFYlU0UUVFQ09RQS1tdVB5UDlaSnFZOVM0YzRPb2w0d1ZxZmxKbGZ5VGpZcjJ0YnFVYjMyYUpMRjdJ?oc=5",
+     "tone": ""
+    },
+    {
      "title": "TNA Solutions IPO opens September 30 with Rs. 37.86 crore issue",
      "source": "Ahmedabad Mirror",
      "date": "01 Oct 2026",
      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZWc0dllGRVZrdXF4OTJmTEtrNDBPb0oyNllWX1ZpaTdPdWVWZ1ZXWWFpNWZienBXWmNIeW1FWk80M1g5UGNhTnphMk1QbTJXcnc0T013Z0xXeFZyeGh2Ri1LU3RPZ0JpcWpOWWo1UWxQNXFjU1NUcVFVWHliclBtRXJHRkphWHZlaW8zVkU1alBWLVp0NFdNaVJvcVZhZnppMUY0dmtIdy1GOXM?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "TNA Solutions IPO Day 2: Subscribed 0.27x; Retail leads at 0.49x; QIB interest absent",
-     "source": "scanx.trade",
-     "date": "01 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcHZQcUF6d0s0cVhJZlRxQkplajA3czJlMi1qOS1YbTg0dVZDZ05JMWM4TFJBRGxVdWR4ejl6a3BBRkE2b0NHWkgxVFp5enJqbFhrZjRxcGdzRjdFOW5LUjVpMWpHVHFMenZMdHZIbmxaX1dvRTdjQm5KMV9CeGpoS196T2k0NTAtOXdVTW0teXR0QmFCUWpDTEtzSHh6b1NJcmFuTlc3VXphY2Vsak01ZFJtRlI?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "TNA Solutions IPO Day 2 Subscription Status 1 Oct 2026",
-     "source": "Univest",
-     "date": "01 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeWZDQlN6Z0sxV1FLNDRQUWJWcV84alJCbnFVd0NRb05wRHdab2tQd2xkNlRUem1IQlBtVTRpdXhNdEtPcUdnQ1kybE51T2lZcFFZR09Oem1YQzA5SHhILVZ3QjY1SHcwcFBWbmVmbmdQMmdFYkNyMXM5alVZY1NvWjYyX2g0S3V2SUEyY1hNc2VHbm8zU2pTTDB2MlJXTGJ5?oc=5",
      "tone": ""
     }
    ],
@@ -3343,9 +2517,9 @@
     "Customer Satisfaction"
    ],
    "status": "open",
-   "day_label": "Closes in 5 days",
+   "day_label": "Closes in 4 days",
    "subscription": {
-    "as_of": "Oct 01, 2026 11:58",
+    "as_of": "Oct 01, 2026 17:06",
     "rows": [
      {
       "category": "Qualified Institutional",
@@ -3353,21 +2527,22 @@
      },
      {
       "category": "Non Institutional",
-      "times": 0.01
+      "times": 0.02
      },
      {
       "category": "Retail Individual",
-      "times": 0.07
+      "times": 0.1
      }
     ],
-    "total": 1.33
+    "total": 1.35
    },
    "gmp": {
     "gmp": 0.0,
     "gmp_pct": 0.0,
     "est_listing": 127.0,
     "updated": null,
-    "trend": "🟡"
+    "trend": "🟡",
+    "stale": true
    },
    "ipowatch_url": "https://ipowatch.in/paramount-syntex-ipo/",
    "insights": {
@@ -3391,27 +2566,35 @@
     ],
     "partial": null
    },
-   "business_news": [],
+   "business_news": [
+    {
+     "title": "\"We Made the Impossible Possible\": How Paramount Syntex Turned Textile Waste into a 120 Crore Success Story",
+     "source": "Ahmedabad Mirror",
+     "date": "02 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNS3kzQWtFZlFmckZxUmlOWjdUNGt4WHNHX2tOMU16VWt1akY2NEhhcHhibVNaSjVHU3QwVzRNX0YzemhNcWNMS0xWeVZNRFNRY3ZxOXFVZWN1UnVuSlJ4ZWZrN3NIejk1eVprTGZPQ2JQQmNzRm1sZEpBVEszWm5wX21KTXVZNHgzWnljazBFdWNSc0dndVRoN0xYRDFzWkVpS1VqMnRUVFhsZWotSndJem9WeGZKbTd4UzAwcWhrRUk0NEtwUl9hZmlCcThIcTZkQ09pbTNHQWh0dnZGeV9CUS0tLUw?oc=5",
+     "tone": ""
+    }
+   ],
    "news": [
     {
-     "title": "Paramount Syntex IPO Day 2: Subscribed 1.32x; QIB demand hits 119.29x",
+     "title": "Paramount Syntex IPO Day 3: Subscribed 1.35x; QIBs lead with 119.29x demand",
      "source": "scanx.trade",
-     "date": "01 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMGZlQ01MT051YXdsVFlKZnljbzM0WjNBMEJiRjdXRGY2QURvLTF1MGJvbEdJeXB0VmxNRm1aT1VlSWMyZnRCSVJOdS01WUMyeTNHZldiZ3RManZ0Z1FxLXZqZHRIV2xaNHVMLXJYR0pwb0dHcUVTZWYxV3dUdkstZXV3aXJGR0lJSnBpNzM4dC15ci04c0NhTGlkSTJiaGcyNU9HM2VXUFkxWlNXVHR1YzZtUTdibkZzQWc?oc=5",
+     "date": "02 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQnJoNGVzTU9KaGFLb3czaTRWTl9saUkzNGs5VTRKakFHR3R0UHZnUkVvRVVtdFRHeFVVNXB5cnZBd1YxOHRVQU1tQXVjbmdlOHp2UDMwTGMxTmJZcUl5QUgyMnJXNGxhTmUydEQyek5jLXBDcGg3eXZXckZWODVXSXB1Q2xraV82YTJWdGdKMHNIbDVPX0FiekpuZFVPUHZyc29tT2JMT19UbmdVaGItRG83X2poN2RXcVNn?oc=5",
      "tone": ""
     },
     {
-     "title": "Paramount Syntex IPO Day 2 Subscription Status 1 Oct 2026",
-     "source": "Univest",
-     "date": "01 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNVF0N0haWnd2d0RhbjFaUkw0UUl0OE1pTkRvNjJyVDJzbVFaSVBUQ0V2YzByUS1MaENsd3hiS1JnWnNZZVNvUFR1dk5nWWtYRVY5b2wyNTZBUkQzQ3BZcmMzZndmWENYN3FyakdicXV2WjlzZUIySTRDblNRbGtpODRsR3pKdndnUW9aTFhTc1J2V0hiZjhDX1lTZjhuWmJkb1Q1LQ?oc=5",
+     "title": "Paramount Syntex IPO Fully Booked by Day 2 as QIB Portion Oversubscribed 119x",
+     "source": "Motilal Oswal",
+     "date": "02 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NRVhoTkxNcnJFLWozU2VRcU1TZEVSU2xVYUl5ZjIwb3d2U1FrUGNxYWxEU0ZLV1czczJCdlJjektfMVY4OE9Ga1dKNHZON0hjWGlmblRn?oc=5",
      "tone": ""
     },
     {
-     "title": "Paramount Syntex Limited IPO Opening On 30th September; Issue Size of up to Rs.81.79 Crore",
-     "source": "ThePrint",
-     "date": "30 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQb1d4aXhFMU55MkF6SFduVEhoX280T3hMcElDQmhyX3RmYmgza1V2NTAxN0ZKY1RGYzE5a215OFVzZUJpcE02b1dveUl2NER4LTR6WlRmUGFEYVU5aG1UY0hmUWtORUlDOEVrNERWRGFJcGVDcGRoZUJwWnBIcEZ2ekIxZ1Bla2lOYlBHZmVSTWx2NzIzWjFxaUZJRFpSblZVdkZMbnBhMWtLYUdiYUtLU2Z1cjBUQnk0ek9CLTBKUnZIRnA2NHJQNllnTjl5VVFWMHg00gHYAUFVX3lxTE5ieldBRkxpWTdtdDhsbUVXT0s2YlloaGp1TkVITmZuenhMbFotelVFNV9zTW5fbm05WUpEZnNhTGdqYVd4WVdRdF9JSW8ySjhJRDJ0UFJkTFgxek9YbVI3QXgyanU0QWJmVVlVbjhKQzR0clRoSThoQ2JxODBzQl9GNUhYUzlKWGtjQUhRSG1vZk1Zbk5heXd1VU55UEtsR2ZZVVZBTmlER3ZDWm00UTVndU1nNXVUV3docU91aFh1dVRGc0RaZ1MtWENwSEIzSzBhcm5INDlIbQ?oc=5",
+     "title": "Paramount Syntex IPO Sees Early QIB Demand During Subscription Period",
+     "source": "Kalkine India",
+     "date": "01 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdFEyRl9kVVBTM21aOFZ0WVFtcFlRUjg5QUYwQVZuQll3NWY0cHhfM1RKWXlLV0o4ekVOQUdRNE1sTEFmQlVUYlV5TXVfbjlNVnZad18tSEM4LTJHek4yQnRYQXlhdDh4aGxGMkI5SFFRWF9TVFkzT2JRNTFpTGxBQlRYVThkSk8yZG9PUVVFZm94MmRCTlYyN1Rxekk3Rkc4YXMwanhpd0ZjQ0w1d1p2RDZOd19USzVDMEZSYnVnZVRON2paaF9FcQ?oc=5",
      "tone": ""
     }
    ],
@@ -5502,5 +4685,7 @@
    }
   ]
  },
- "warnings": []
+ "warnings": [
+  "Could not load IPOWatch GMP: no GMP rows found (layout change?). Showing last known GMP values."
+ ]
 }
