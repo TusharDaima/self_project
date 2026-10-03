@@ -10,6 +10,16 @@
         {% if g.est_listing %}Est. listing ₹{{ g.est_listing|inr }}{% endif %}{% if g.est_listing and g.updated %} · {% endif %}{% if g.updated %}updated {{ g.updated }}{% endif %}
         {% if g.stale %}<span class="stale">last known</span>{% endif %}
       </div>
+      {# Profit on the minimum application if the stock lists at today's GMP. #}
+      {% set app = ipo.get("min_application") or {} %}
+      {% set shares = app.get("shares") or ipo.get("lot_size") %}
+      {% if shares %}
+      {% set profit = g.gmp * shares %}
+      <div class="profit">
+        Est. profit <b class="{{ 'up' if profit > 0 else 'down' if profit < 0 }}">{{ '+' if profit > 0 else '-' if profit < 0 }}₹{{ (profit|abs)|inr }}</b>
+        <span class="sub">on {{ app.get("lots") or 1 }} lot{{ 's' if (app.get("lots") or 1) != 1 }} · {{ shares|inr }} sh</span>
+      </div>
+      {% endif %}
     </div>
   {% else %}
     <div class="gmp flat"><span class="label">GMP</span><span class="big">—</span><div class="sub">Not reported yet</div></div>
@@ -214,6 +224,9 @@
   .gmp.neg .big, .gmp.neg .pct { color: var(--red); }
   .gmp.flat .big { color: var(--muted); }
   .sub { font-size: 12px; color: var(--muted); margin-top: 4px; }
+  .gmp .profit { margin-top: 6px; padding-top: 6px; border-top: 1px solid var(--line); font-size: 13px; }
+  .gmp .profit b { font-size: 15px; }
+  .gmp .profit .sub { display: block; margin-top: 0; }
   .subs table { width: 100%; font-size: 13px; border-collapse: collapse; margin-top: 4px; }
   .subs td:last-child { text-align: right; font-weight: 600; white-space: nowrap; padding-left: 6px; }
   .muted { color: var(--muted); }
@@ -282,6 +295,14 @@
            background: var(--text); color: var(--bg); padding: 10px 14px; border-radius: 10px; font-size: 14px;
            display: flex; gap: 12px; align-items: center; box-shadow: 0 4px 16px rgba(0,0,0,.25); z-index: 10; }
   .toast[hidden] { display: none; }
+  .sync { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 10px 14px; margin-bottom: 14px; font-size: 14px; }
+  .sync summary { color: var(--blue); font-weight: 600; font-size: 14px; margin: 0; }
+  .sync ol { padding-left: 20px; margin: 10px 0; }
+  .sync li { margin-bottom: 6px; }
+  .sync.on { display: flex; flex-wrap: wrap; gap: 8px 12px; align-items: center; justify-content: space-between; }
+  .sync-form { display: flex; gap: 8px; flex-wrap: wrap; }
+  .sync-form input { flex: 1 1 220px; min-width: 0; font: inherit; padding: 6px 10px; border-radius: 8px;
+                     border: 1px solid var(--line); background: var(--bg); color: var(--text); }
   .toast button { border: 0; background: none; color: inherit; font: inherit; font-weight: 700; text-decoration: underline; cursor: pointer; }
   @media (max-width: 700px) {
     .my-row { grid-template-columns: minmax(0, 1fr); gap: 6px; }
@@ -346,13 +367,13 @@
   </section>
 
   <section id="tab-my" hidden>
+    <div id="syncBox"></div>
     <div id="myTiles" class="tiles"></div>
     <div id="myApplied"></div>
     <div id="myAllotted"></div>
     <p class="note">
-      Your list is saved in this browser only, so it won't appear on your other devices, and clearing
-      browser data erases it. Gains for listed IPOs use the current price from chittorgarh.com as of the last
-      update. Before listing, the expected gain uses the latest GMP, which is unofficial.
+      Without sync, your list is saved in this browser only. Gains for listed IPOs use the current price from
+      chittorgarh.com as of the last update. Before listing, the expected gain uses the latest GMP, which is unofficial.
     </p>
   </section>
 
@@ -400,19 +421,177 @@
   });
   document.getElementById('sortBy').addEventListener('change', apply);
 
-  // ------------------------------------------------------------ My IPOs (saved in this browser)
+  // ------------------------------------------------------------ My IPOs: local copy + optional Gist sync
   var STORE_KEY = 'ipoWatchlist.myIpos.v1';
+  var STAMP_KEY = 'ipoWatchlist.myIpos.updatedAt';   // ms timestamp of the last change to the list
+  var SYNC_KEY = 'ipoWatchlist.sync.v1';             // {token, gistId, login, base}
+  var GIST_FILE = 'ipo-watchlist-my-ipos.json';
   var market = {};
   try { market = JSON.parse(document.getElementById('marketData').textContent) || {}; } catch (e) {}
   var storageOk = true;
 
-  function load() {
-    try { return JSON.parse(localStorage.getItem(STORE_KEY)) || []; } catch (e) { storageOk = false; return []; }
-  }
-  function save(list) {
-    try { localStorage.setItem(STORE_KEY, JSON.stringify(list)); } catch (e) { storageOk = false; }
-  }
+  function getItem(k) { try { return localStorage.getItem(k); } catch (e) { storageOk = false; return null; } }
+  function setItem(k, v) { try { localStorage.setItem(k, v); } catch (e) { storageOk = false; } }
+  function removeItem(k) { try { localStorage.removeItem(k); } catch (e) {} }
+  function load() { try { return JSON.parse(getItem(STORE_KEY)) || []; } catch (e) { return []; } }
+  function localStamp() { return +getItem(STAMP_KEY) || 0; }
+  function store(list, stamp) { setItem(STORE_KEY, JSON.stringify(list)); setItem(STAMP_KEY, String(stamp)); }
+  /** Every edit goes through here: saves locally, then uploads if sync is on. */
+  function save(list) { store(list, Date.now()); schedulePush(); }
   var mine = load();
+
+  // ---- GitHub Gist sync. The token only needs the "gist" scope and stays in this browser.
+  var sync = { cfg: null, status: '', error: '', timer: null };
+  try { sync.cfg = JSON.parse(getItem(SYNC_KEY)); } catch (e) {}
+
+  function gh(path, opts) {
+    opts = opts || {};
+    return fetch('https://api.github.com' + path, {
+      method: opts.method || 'GET',
+      cache: 'no-store',
+      headers: { 'Authorization': 'Bearer ' + (opts.token || sync.cfg.token),
+                 'Accept': 'application/vnd.github+json', 'Content-Type': 'application/json' },
+      body: opts.body ? JSON.stringify(opts.body) : undefined
+    }).then(function (r) {
+      if (r.ok) return r.json();
+      throw new Error(r.status === 401 ? 'GitHub rejected the token (wrong or expired)'
+        : r.status === 403 || r.status === 404 ? 'the token is missing the "gist" permission'
+        : 'GitHub error ' + r.status);
+    }, function () { throw new Error('no internet connection'); });
+  }
+  function readGist(gist) {
+    var f = gist && gist.files && gist.files[GIST_FILE];
+    try { return f ? JSON.parse(f.content) : null; } catch (e) { return null; }
+  }
+  function gistBody() {
+    var files = {};
+    files[GIST_FILE] = { content: JSON.stringify({ app: 'ipo-watchlist', updated_at: localStamp(), items: mine }, null, 1) };
+    return files;
+  }
+  /** Entries of `extra` whose IPO isn't already in `base` are appended to it. */
+  function merge(base, extra) {
+    var out = base.slice();
+    (extra || []).forEach(function (e) { if (!out.some(function (o) { return o.key === e.key; })) out.push(e); });
+    return out;
+  }
+  function saveCfg() { setItem(SYNC_KEY, JSON.stringify(sync.cfg)); }
+  function setSync(status, error) { sync.status = status; sync.error = error || ''; renderSync(); }
+  function fail(err) { setSync('error', err.message); }
+
+  /** Download the Gist; take it if it's newer than this device's copy, upload ours if ours is newer. */
+  function pull() {
+    if (!sync.cfg) return;
+    setSync('syncing');
+    gh('/gists/' + sync.cfg.gistId).then(function (gist) {
+      var remote = readGist(gist) || { updated_at: 0, items: [] };
+      sync.cfg.base = remote.updated_at; saveCfg();
+      if (remote.updated_at > localStamp()) {
+        mine = remote.items || [];
+        store(mine, remote.updated_at);
+        renderMine();
+        setSync('ok');
+      } else if (remote.updated_at < localStamp()) {
+        push();
+      } else {
+        setSync('ok');
+      }
+    }).catch(fail);
+  }
+
+  /** Upload this device's list. If another device changed the Gist since we last saw it, merge first. */
+  function push() {
+    if (!sync.cfg) return;
+    setSync('syncing');
+    gh('/gists/' + sync.cfg.gistId).then(function (gist) {
+      var remote = readGist(gist);
+      if (remote && remote.updated_at > (sync.cfg.base || 0)) {
+        mine = merge(mine, remote.items);
+        store(mine, Date.now());
+        renderMine();
+      }
+      return gh('/gists/' + sync.cfg.gistId, { method: 'PATCH', body: { files: gistBody() } });
+    }).then(function () {
+      sync.cfg.base = localStamp(); saveCfg();
+      setSync('ok');
+    }).catch(fail);
+  }
+  function schedulePush() {
+    if (!sync.cfg) return;
+    clearTimeout(sync.timer);
+    sync.timer = setTimeout(push, 500);
+  }
+
+  /** First-time setup on a device: find (or create) the Gist and merge both lists so nothing is lost. */
+  function connect(token) {
+    setSync('connecting');
+    var login;
+    gh('/user', { token: token }).then(function (user) {
+      login = user.login;
+      return gh('/gists?per_page=100', { token: token });
+    }).then(function (gists) {
+      var found = (gists || []).filter(function (g) { return g.files && g.files[GIST_FILE]; })[0];
+      if (found) {
+        return gh('/gists/' + found.id, { token: token }).then(function (gist) {
+          var remote = readGist(gist) || { items: [] };
+          mine = merge(remote.items || [], mine);
+          store(mine, Date.now());
+          sync.cfg = { token: token, gistId: found.id, login: login, base: 0 };
+          saveCfg();
+          renderMine();
+          push();
+        });
+      }
+      store(mine, Date.now());
+      return gh('/gists', { method: 'POST', token: token,
+                            body: { description: 'IPO Watchlist - My IPOs (synced by the page)', public: false,
+                                    files: gistBody() } })
+        .then(function (gist) {
+          sync.cfg = { token: token, gistId: gist.id, login: login, base: localStamp() };
+          saveCfg();
+          setSync('ok');
+        });
+    }).catch(function (err) { sync.cfg = null; fail(err); });
+  }
+  function disconnect() {
+    clearTimeout(sync.timer);
+    sync.cfg = null;
+    removeItem(SYNC_KEY);
+    setSync('');
+  }
+
+  function ago(ms) {
+    var s = Math.round((Date.now() - ms) / 1000);
+    return s < 60 ? 'just now' : s < 3600 ? Math.round(s / 60) + ' min ago' : new Date(ms).toLocaleString('en-IN');
+  }
+  function renderSync() {
+    var box = document.getElementById('syncBox');
+    if (!box) return;
+    if (sync.cfg) {
+      var state = sync.status === 'syncing' ? 'Syncing…'
+        : sync.status === 'error' ? '<span class="down">Sync failed: ' + esc(sync.error) + '</span>'
+        : 'Up to date · last change ' + (localStamp() ? ago(localStamp()) : 'none yet');
+      box.innerHTML = '<div class="sync on"><span>☁ Synced with GitHub as <b>' + esc(sync.cfg.login) + '</b> · ' + state +
+        '</span><span class="actions"><button type="button" class="btn" data-sync="now">Sync now</button>' +
+        '<button type="button" class="btn" data-sync="off">Disconnect</button></span></div>';
+      return;
+    }
+    var open = box.querySelector('details') && box.querySelector('details').open;
+    box.innerHTML =
+      '<details class="sync"' + (open || sync.status ? ' open' : '') + '><summary>☁ Sync My IPOs across your phone and laptop</summary>' +
+      '<ol>' +
+        '<li>Open <a href="https://github.com/settings/tokens/new?scopes=gist&description=IPO%20Watchlist%20sync" ' +
+        'target="_blank" rel="noopener">this GitHub page</a> while signed in. The <b>gist</b> box is already ticked. ' +
+        'Set <b>Expiration</b> to <b>No expiration</b>, click <b>Generate token</b> at the bottom, and copy the token.</li>' +
+        '<li>Paste it below and tap <b>Connect</b>. Do the same on your other devices (make a new token there, or reuse this one).</li>' +
+      '</ol>' +
+      '<form id="syncForm" class="sync-form"><input id="syncToken" type="password" placeholder="ghp_…" autocomplete="off" ' +
+        'spellcheck="false" required><button type="submit" class="btn good">' +
+        (sync.status === 'connecting' ? 'Connecting…' : 'Connect') + '</button></form>' +
+      (sync.status === 'error' ? '<p class="down">Couldn\'t connect: ' + esc(sync.error) + '</p>' : '') +
+      '<p class="note">The token can only read and write your Gists, not your code or account settings. ' +
+        'It is kept in this browser only. Your list is saved in a secret Gist named ' + GIST_FILE + '.</p>' +
+      '</details>';
+  }
 
   // Names differ between sources ("German Green Steel" vs "German Green Steel & Power"): match on
   // identical normalised keys, or when the shorter key (2+ words) is the start of the longer one.
@@ -606,8 +785,26 @@
   });
   window.addEventListener('storage', function (ev) { if (ev.key === STORE_KEY) { mine = load(); renderMine(); } });
 
+  // ------------------------------------------------------------ Sync controls
+  document.addEventListener('submit', function (ev) {
+    if (ev.target.id !== 'syncForm') return;
+    ev.preventDefault();
+    var token = document.getElementById('syncToken').value.trim();
+    if (token) connect(token);
+  });
+  document.addEventListener('click', function (ev) {
+    var b = ev.target.closest('[data-sync]');
+    if (!b) return;
+    if (b.dataset.sync === 'now') pull();
+    if (b.dataset.sync === 'off') disconnect();
+  });
+  // Pick up changes made on another device when you come back to this tab (e.g. reopening on the phone).
+  document.addEventListener('visibilitychange', function () { if (!document.hidden) pull(); });
+
   renderMine();
+  renderSync();
   showTab(location.hash === '#my' ? 'my' : 'ipos');
+  pull();
 })();
 </script>
 </body>

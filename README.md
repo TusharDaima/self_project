@@ -26,7 +26,20 @@ For each IPO the page shows:
    - **Listed:** listing-day and current gain %, from chittorgarh.com's IPO performance tracker as of the last update.
    - **Closed but not listed yet:** the expected gain from the latest GMP (unofficial).
 
-The list lives in your browser's local storage. It isn't uploaded anywhere, it won't show up on your other devices, and clearing browser data erases it.
+By default the list lives only in your browser's local storage.
+
+**Sync across devices (optional).** Open **My IPOs → Sync My IPOs across your phone and laptop**:
+
+1. Use the link there to create a GitHub token with only the **gist** permission.
+2. Paste the token and tap **Connect**. Do this once on each device.
+
+The list is then saved to a secret Gist (`ipo-watchlist-my-ipos.json`) on your GitHub account:
+
+- **Changes:** each change uploads straight away.
+- **Opening the page:** each device downloads the latest copy whenever you open the page or switch back to its tab.
+- **First connect:** connecting a device merges its list with the Gist, so nothing is lost.
+- **Where the token is kept:** only in that browser. It can't touch your code or account settings.
+- **Disconnect:** stops syncing. The device keeps its current copy.
 
 ## Run locally
 

@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-03T13:58:55+05:30",
- "generated_display": "03 Oct 2026, 01:58 PM IST",
+ "generated_at": "2026-10-03T15:13:55+05:30",
+ "generated_display": "03 Oct 2026, 03:13 PM IST",
  "open": [
   {
    "chittorgarh_url": "https://www.chittorgarh.com/ipo/everestims-technologies-ipo/2063/",
@@ -153,12 +153,11 @@
     "total": 1.7
    },
    "gmp": {
-    "gmp": 20.0,
-    "gmp_pct": 23.53,
-    "est_listing": 105.0,
+    "gmp": 40.0,
+    "gmp_pct": 47.06,
+    "est_listing": 125.0,
     "updated": null,
-    "trend": "🟢",
-    "stale": true
+    "trend": "🟢"
    },
    "ipowatch_url": "https://ipowatch.in/everestims-technologies-ipo/",
    "insights": {
@@ -193,7 +192,7 @@
     },
     {
      "title": "EverestIMS IPO Subscription Day 3: Issue Subscribed 1.70x",
-     "source": "HDFC Sky",
+     "source": "hdfcsky.com",
      "date": "01 Oct 2026",
      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Sd2NKUDVDak5CMC15Vy11eS11NzJSTEh2NEFoV2YzTEtfay1EVU54eUswMEVKT2RWTFc2b3BVTk54WE91c09qMUtaSWt0eFBBRkF5ME81aDFuZzN3MXZRNjROVTBHTEthS1Bpb2NRd0owdw?oc=5",
      "tone": ""
@@ -363,12 +362,11 @@
     "total": 0.6
    },
    "gmp": {
-    "gmp": 35.0,
-    "gmp_pct": 15.91,
-    "est_listing": 255.0,
+    "gmp": 20.0,
+    "gmp_pct": 9.09,
+    "est_listing": 240.0,
     "updated": null,
-    "trend": "🟢",
-    "stale": true
+    "trend": "🔴"
    },
    "ipowatch_url": "https://ipowatch.in/vishal-nirmiti-ipo/",
    "insights": {
@@ -410,7 +408,7 @@
     },
     {
      "title": "Vishal Nirmiti IPO Subscription Day 2: 0.60x",
-     "source": "HDFC Sky",
+     "source": "hdfcsky.com",
      "date": "01 Oct 2026",
      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5vb3FpSlEwMEpGeklyWTRyR2NMcmJiaXYwcG5RbjZvbjR2V1B5RkZncnIzUUYzYzdtakc3cEZGcmVTZC11SXFoNFVhTm1HMDNLZXZfV3p3WHRqdzc4QnNEWmZmNWFveF9PM2lKY2toeExNUnphWVZV?oc=5",
      "tone": ""
@@ -573,12 +571,11 @@
     "total": 0.69
    },
    "gmp": {
-    "gmp": 5.0,
-    "gmp_pct": 6.67,
-    "est_listing": 80.0,
+    "gmp": 3.0,
+    "gmp_pct": 4.0,
+    "est_listing": 78.0,
     "updated": null,
-    "trend": "🔴",
-    "stale": true
+    "trend": "🔴"
    },
    "ipowatch_url": "https://ipowatch.in/nityas-gems-jewellery-ipo/",
    "insights": {
@@ -620,7 +617,7 @@
     },
     {
      "title": "Nityas Gems IPO Subscription Day 2: 0.69x",
-     "source": "HDFC Sky",
+     "source": "hdfcsky.com",
      "date": "01 Oct 2026",
      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUQ3FXWWdhcFhsbm9CMGIyQ0luWERZQTZaQ0hwZk41eGstcV9lSDhIUjJidmpXb09nbkhlOWtocG5xcG0wZ0FZTWdLdkl0TERIbkxjbFQzdnctVmdURld6YndNUGhKLUNDYnRHZVBvRjFiYlU?oc=5",
      "tone": ""
@@ -793,8 +790,7 @@
     "gmp_pct": 0.0,
     "est_listing": 52.0,
     "updated": null,
-    "trend": "🟡",
-    "stale": true
+    "trend": "🟡"
    },
    "ipowatch_url": "https://ipowatch.in/shree-tnb-polymers-ipo/",
    "insights": {
@@ -817,6 +813,13 @@
    "business_news": [],
    "news": [
     {
+     "title": "Shree TNB Polymers IPO Day 3: Subscribed 0.73x; Retail demand jumps 363.6%",
+     "source": "scanx.trade",
+     "date": "02 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNN0NaX0F1SDc4R2plU0FxMTBJTDBZelFpNVdlbUF0TGVWa3NrMmVJemtWcENNQ3FPc29BMFpEekQ1SzVBc0hyX1pmSnlPSmNvT0dUN01JUFBJV2pDbkJJUDVFYU1xTFgzdUZfQ3lNZDRCTGlhZWdtT2ZKbXFCRDFGQkpDS0ZKalgwSl9JUTNaMDZneFZnTVprcDdGaHZyZExhYkEwdVhtVU55dTk2M0tMdlBsbkpZUl85S0FVOA?oc=5",
+     "tone": ""
+    },
+    {
      "title": "Shree TNB Polymers IPO Day 5: Subscribed 1.05x; NII demand leads at 2.65x",
      "source": "scanx.trade",
      "date": "02 Oct 2026",
@@ -828,13 +831,6 @@
      "source": "scanx.trade",
      "date": "01 Oct 2026",
      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORjRndEp4TkJZbnl4Xzd0N0lRSjVwZVNYeVZuaFdWR3VqcGRIMnhmdmdlN1IxSWgzRzloa0piV2cxak92YWNjOWFrZU1XVWtiN3hfYXo3S1d4b250bjBfWno0azRuQ0VzMmFBQlRDakVVLWJKZ19oSmc1am9RTUkzM21DUm84RnN3U0c3UVBIcnc5Z3gtOGdJOFNyZXJPSjA3ZGY4VHIwMXBsS1JlTWZuUVdvdw?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Shree TNB Polymers IPO Day 4: Subscribed 0.75x; QIB demand flat at 0.75x",
-     "source": "scanx.trade",
-     "date": "01 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRzhrQVRwZHlTaFlCV2ZfaHMycFNYdVJRX2ZxR1YtZkN3bzRYTGNCVktoVjVkNlFSZjdzemJpNWdfX1N0TzFIckdGU2RMUGFqMmg0SFdJM1E4YXVoVk9Idlh3UExFSU9BaHI4dHNsSGNuRGxkOUFLM0JuZ3lYTE93U29pQ3JjUjVPd0ZnLUVRZlE2cmdKcm1uREZKdTE3a0IyaHNMWUFNd0pXczh0XzE5Z0hZMjYzeFlibkE?oc=5",
      "tone": ""
     }
    ],
@@ -992,8 +988,7 @@
     "gmp_pct": 0.0,
     "est_listing": 111.0,
     "updated": null,
-    "trend": "🟡",
-    "stale": true
+    "trend": "🟡"
    },
    "ipowatch_url": "https://ipowatch.in/dove-soft-ipo/",
    "insights": {
@@ -1039,7 +1034,7 @@
     },
     {
      "title": "Dove Soft IPO Subscription Status Day 2: Issue Subscribed 0.86 Times",
-     "source": "HDFC Sky",
+     "source": "hdfcsky.com",
      "date": "01 Oct 2026",
      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvODUzeDdqZ1VzZVRBNlZrWTJGbkdSWWtBWkpHQ24wdmtLZTVzbFBwc24tTEtQWm9veWIyRlpjOGZXYmRfMFlFaFB2b3JqNVpNMEhpNjR3YkpnY3hXSU1xMlAtbFA2WGtKdWV3dUNWNUpNdw?oc=5",
      "tone": ""
@@ -1209,8 +1204,7 @@
     "gmp_pct": 0.0,
     "est_listing": 67.0,
     "updated": null,
-    "trend": "🟡",
-    "stale": true
+    "trend": "🟡"
    },
    "ipowatch_url": "https://ipowatch.in/sjp-ultrasonic-ipo/",
    "insights": {
@@ -1242,7 +1236,7 @@
    "news": [
     {
      "title": "SJP Ultrasonics IPO Day 2 Subscription Status: Total 0.54x",
-     "source": "HDFC Sky",
+     "source": "hdfcsky.com",
      "date": "01 Oct 2026",
      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE42X1pZclJMRkFFMnJCbF9VT1hEZ3I3TEpQd3NJUlJMSFVLZElPUlZDdWlnMVhZdnFtcmNzQWE3QW90V0xDQk1aT19LamJQVXRTSUlEeFFDZklYYldWejVtLUJOWUpYUWZMcWxYQ01uY1ZfMDlaVlItMlBB?oc=5",
      "tone": ""
@@ -1256,7 +1250,7 @@
     },
     {
      "title": "SJP Ultrasonics Ltd IPO: Check IPO Date, GMP, Market Lot Size, Face Value, Price, Subscription Details and News",
-     "source": "etnownews.com",
+     "source": "ET Now",
      "date": "30 Sep 2026",
      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wdkNxbjFndUtqRC1fa3I0NWM4akxuQVZMYloyLUJGMk4zbHVwZkxSN3l5Wi0yak9BMDRlMHE5NS1fSFFMbmltaDZ4emdrdWxKRjVmTklHM0o5WXp0aWFSX2l3NDFVYnZlekZNaFdxUl9LejI3RTdiY0tfWUFhQQ?oc=5",
      "tone": ""
@@ -1429,8 +1423,7 @@
     "gmp_pct": 0.0,
     "est_listing": 118.0,
     "updated": null,
-    "trend": "🟡",
-    "stale": true
+    "trend": "🟡"
    },
    "ipowatch_url": "https://ipowatch.in/eventions-ipo/",
    "insights": {
@@ -1472,7 +1465,7 @@
     },
     {
      "title": "Eventions IPO sees robust demand with QIBs at 19.89x; GMP stands at ₹42",
-     "source": "motilaloswal.com",
+     "source": "Motilal Oswal",
      "date": "02 Oct 2026",
      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCajFxQ0Z5OW1WcGNuZUMxUnM2cVhPcG5uaHFZT1FaSGV1clFJQzhmakc0YzAtYXNoYU5CeXAtb0l3akd4S3hPOXRnR2diX1gxQkV6QTRn?oc=5",
      "tone": ""
@@ -1644,8 +1637,7 @@
     "gmp_pct": 0.0,
     "est_listing": 55.0,
     "updated": null,
-    "trend": "🟡",
-    "stale": true
+    "trend": "🟡"
    },
    "ipowatch_url": "https://ipowatch.in/sollfege-smart-electronics-ipo/",
    "insights": {
@@ -1866,8 +1858,7 @@
     "gmp_pct": 0.0,
     "est_listing": 311.0,
     "updated": null,
-    "trend": "🟡",
-    "stale": true
+    "trend": "🟡"
    },
    "ipowatch_url": "https://ipowatch.in/omara-ventures-ipo/",
    "insights": {
@@ -1914,7 +1905,7 @@
     },
     {
      "title": "Omara Ventures India IPO Day 2 Subscription Status: 0.69x",
-     "source": "HDFC Sky",
+     "source": "hdfcsky.com",
      "date": "01 Oct 2026",
      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORDZtb3RCdGp5cnh3R0VmR1hhR3Y4RDlsa0h4WTNpUjFXZWxqQUcwVGhmYXpvc0lDemkzSWRLR1UtLTFUQ0Q0a1NXQWtDbWtPajdWUHEwYktvXy1uN2xoN0tud0trRVRNYTh5QzNnR2FOS1FRbVVKM2swXzZ2T0lQZg?oc=5",
      "tone": ""
@@ -2088,12 +2079,11 @@
     "total": 1.97
    },
    "gmp": {
-    "gmp": 30.0,
-    "gmp_pct": 15.31,
-    "est_listing": 226.0,
+    "gmp": 25.0,
+    "gmp_pct": 12.76,
+    "est_listing": 221.0,
     "updated": null,
-    "trend": "🟢",
-    "stale": true
+    "trend": "🔴"
    },
    "ipowatch_url": "https://ipowatch.in/acme-india-industries-ipo/",
    "insights": {
@@ -2135,7 +2125,7 @@
     },
     {
      "title": "Acme India Industries IPO Day 2 Subscription Status: 1.97x",
-     "source": "HDFC Sky",
+     "source": "hdfcsky.com",
      "date": "01 Oct 2026",
      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVmRxT0ZMREN3eEVTZVBjRHNQU2RSNnB6YTdnMGN5UFRzWmdZbUJkRHNQYmUwQUlVMzZZS25QcklHR2Z3LTh5ZndodTh1S29uZDZJaXJJdUJoWk5YZnk5NDE3Vl9JOTlrYUhfX201Tm1oTExISHFNOEJad0pMenBUMmx3?oc=5",
      "tone": ""
@@ -2298,12 +2288,11 @@
     "total": 1.71
    },
    "gmp": {
-    "gmp": 7.0,
-    "gmp_pct": 10.0,
-    "est_listing": 77.0,
+    "gmp": 6.0,
+    "gmp_pct": 8.57,
+    "est_listing": 76.0,
     "updated": null,
-    "trend": "🟢",
-    "stale": true
+    "trend": "🔴"
    },
    "ipowatch_url": "https://ipowatch.in/tna-solutions-ipo/",
    "insights": {
@@ -2375,14 +2364,14 @@
     },
     {
      "title": "TNA Solutions IPO Day 2 Subscription Status: Total 1.71 Times",
-     "source": "HDFC Sky",
+     "source": "hdfcsky.com",
      "date": "01 Oct 2026",
      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rRWs2ckF5LWFwNzBaVkhZdlVWTFQ0eU8xSllkX3E0cWQ1b0tEcURHbGQ0WlVVTXNjYXl5WExFYlU0UUVFQ09RQS1tdVB5UDlaSnFZOVM0YzRPb2w0d1ZxZmxKbGZ5VGpZcjJ0YnFVYjMyYUpMRjdJ?oc=5",
      "tone": ""
     },
     {
      "title": "TNA Solutions IPO opens September 30 with Rs. 37.86 crore issue",
-     "source": "Ahmedabad Mirror",
+     "source": "ahmedabadmirror.com",
      "date": "01 Oct 2026",
      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZWc0dllGRVZrdXF4OTJmTEtrNDBPb0oyNllWX1ZpaTdPdWVWZ1ZXWWFpNWZienBXWmNIeW1FWk80M1g5UGNhTnphMk1QbTJXcnc0T013Z0xXeFZyeGh2Ri1LU3RPZ0JpcWpOWWo1UWxQNXFjU1NUcVFVWHliclBtRXJHRkphWHZlaW8zVkU1alBWLVp0NFdNaVJvcVZhZnppMUY0dmtIdy1GOXM?oc=5",
      "tone": ""
@@ -2544,8 +2533,7 @@
     "gmp_pct": 0.0,
     "est_listing": 127.0,
     "updated": null,
-    "trend": "🟡",
-    "stale": true
+    "trend": "🟡"
    },
    "ipowatch_url": "https://ipowatch.in/paramount-syntex-ipo/",
    "insights": {
@@ -2572,7 +2560,7 @@
    "business_news": [
     {
      "title": "\"We Made the Impossible Possible\": How Paramount Syntex Turned Textile Waste into a 120 Crore Success Story",
-     "source": "Ahmedabad Mirror",
+     "source": "ahmedabadmirror.com",
      "date": "02 Oct 2026",
      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNS3kzQWtFZlFmckZxUmlOWjdUNGt4WHNHX2tOMU16VWt1akY2NEhhcHhibVNaSjVHU3QwVzRNX0YzemhNcWNMS0xWeVZNRFNRY3ZxOXFVZWN1UnVuSlJ4ZWZrN3NIejk1eVprTGZPQ2JQQmNzRm1sZEpBVEszWm5wX21KTXVZNHgzWnljazBFdWNSc0dndVRoN0xYRDFzWkVpS1VqMnRUVFhsZWotSndJem9WeGZKbTd4UzAwcWhrRUk0NEtwUl9hZmlCcThIcTZkQ09pbTNHQWh0dnZGeV9CUS0tLUw?oc=5",
      "tone": ""
@@ -2604,7 +2592,200 @@
    "key": "paramount syntex"
   }
  ],
- "upcoming": [],
+ "upcoming": [
+  {
+   "chittorgarh_url": "https://www.chittorgarh.com/ipo/rkfashion-accessories-ipo/3138/",
+   "name": "R.K.Fashion Accessories",
+   "open_date": "2026-10-05",
+   "close_date": "2026-10-07",
+   "ipo_date_text": "5 to 7 Oct, 2026",
+   "listing_date": "Mon, Oct 12, 2026",
+   "face_value": "₹ 10 per share",
+   "issue_type": "Bookbuilding IPO",
+   "sale_type": "Fresh capital only",
+   "listing_at": "NSE SME",
+   "type": "SME",
+   "lot_size": 1600,
+   "price_band": "₹77 to ₹82",
+   "price_high": 82.0,
+   "issue_size_cr": 35.0,
+   "min_application": {
+    "label": "Individual investors (IND) (Min)",
+    "lots": 2,
+    "shares": 3200,
+    "amount": 262400.0
+   },
+   "financials": {
+    "periods": [
+     "30 Jun 2026",
+     "31 Mar 2026",
+     "31 Mar 2025",
+     "31 Mar 2024"
+    ],
+    "rows": {
+     "Assets": [
+      28.32,
+      23.88,
+      16.88,
+      11.7
+     ],
+     "Total Income": [
+      7.49,
+      31.54,
+      17.82,
+      14.46
+     ],
+     "Profit After Tax": [
+      1.83,
+      6.29,
+      2.0,
+      0.95
+     ],
+     "EBITDA": [
+      2.55,
+      7.34,
+      2.98,
+      0.11
+     ],
+     "NET Worth": [
+      17.99,
+      16.16,
+      9.81,
+      7.82
+     ],
+     "Reserves and Surplus": [
+      6.74,
+      4.91,
+      9.16,
+      7.16
+     ],
+     "Total Borrowing": [
+      3.06,
+      1.7,
+      0.61,
+      0.61
+     ]
+    },
+    "unit": "Amount in ₹ Crore"
+   },
+   "objects": [
+    {
+     "object": "To meet the working capital requirements",
+     "amount_cr": 5.21
+    },
+    {
+     "object": "To Finance Establishment of-New plating facility at Baruipur, Kolkata West Bengal",
+     "amount_cr": 8.8
+    },
+    {
+     "object": "To Finance Establishment of-Proposed new B2B showroom in Kolkata",
+     "amount_cr": 5.37
+    },
+    {
+     "object": "To Finance Establishment of-Completion of B2C Stores in Kolkata",
+     "amount_cr": 2.48
+    },
+    {
+     "object": "To Finance Establishment of-Inventory cost for the proposed new showroom and stores",
+     "amount_cr": 5.6
+    },
+    {
+     "object": "General Corporate Purposes",
+     "amount_cr": null
+    }
+   ],
+   "kpis": {
+    "ROE": "10.71%",
+    "ROCE": "12.56%",
+    "Debt/Equity": "0.17",
+    "RoNW": "40.66%",
+    "PAT Margin": "24.40%",
+    "EBITDA Margin": "34.08%",
+    "NAV": "15.99",
+    "P/B (x)": "5.13"
+   },
+   "valuation": {
+    "EPS (₹)": {
+     "pre": "5.59",
+     "post": "4.71"
+    },
+    "P/E (x)": {
+     "pre": "14.67",
+     "post": "17.41"
+    },
+    "Market Cap at Offer Price": {
+     "pre": "₹92.25 Cr.",
+     "post": "₹127.24 Cr"
+    }
+   },
+   "reviews": {
+    "Subscribe": 0,
+    "May Apply": 0,
+    "Neutral": 0,
+    "Avoid": 0
+   },
+   "legal_name": "R.K.Fashion Accessories Ltd.",
+   "about": [
+    "Incorporated in March 2010, R.K. Fashion Accessories Limited is engaged in the manufacturing through contract manufacturers and wholesale distribution of imitation jewellery, along with the trading of branded cosmetics. Its product portfolio comprises handcrafted imitation jewellery incorporating traditional designs with contemporary styles, catering to various segments through wholesale and direct sales channels. The Company operates with a focus on the B2B and B2C segments, supplying its products through wholesale channels while expanding its direct presence among individual consumers. It has also adopted a multi-platform e-commerce strategy and has established corporate tie-ups to support its sales and customer base. The Company has purchased a property on Rash Behari Avenue, Kolkata, which is currently under construction and is intended to strengthen its retail presence and expand its B2C customer base in Kolkata, particularly in areas with relatively lower concentration of its existing B2B customers.",
+    "The Company focuses on product quality through multi-stage inspection and quality control processes and maintains relationships with its customers through its B2B operations. Its business model combines traditional jewellery designs with contemporary styles while expanding its sales reach through wholesale, retail and online channels. The Company also aims to diversify its customer base through greater penetration of the B2C segment.",
+    "As of June 30, 2026, the Company had 50 permanent employees, including directors and key managerial personnel, supported by contractual labour engaged according to business requirements and high-volume orders. Its workforce comprises personnel across operations, management, finance, marketing, design, sales, customer service, packaging, quality control and human resources."
+   ],
+   "about_lists": {
+    "Competitive Strengths": [
+     "Strategic corporate tie-ups.",
+     "Growing B2C and retail presence.",
+     "Multi-platform e-commerce strategy.",
+     "Established B2B customer relationships.",
+     "Multi-stage quality inspection and product reliability.",
+     "Blend of traditional and contemporary jewellery designs.",
+     "Diversified sales channels across wholesale, retail and online platforms."
+    ]
+   },
+   "strengths": [
+    "Strategic corporate tie-ups.",
+    "Growing B2C and retail presence.",
+    "Multi-platform e-commerce strategy.",
+    "Established B2B customer relationships.",
+    "Multi-stage quality inspection and product reliability.",
+    "Blend of traditional and contemporary jewellery designs.",
+    "Diversified sales channels across wholesale, retail and online platforms."
+   ],
+   "status": "upcoming",
+   "day_label": "Opens in 2 days",
+   "insights": {
+    "metrics": [
+     "FY26 income ₹31.5 Cr",
+     "PAT ₹6.3 Cr",
+     "PAT margin 24.4%",
+     "Income +77% YoY",
+     "PAT +214% YoY",
+     "Post-issue P/E 17.4x"
+    ],
+    "flags": [
+     {
+      "tone": "good",
+      "text": "Strong growth: income +77%, profit +214%"
+     },
+     {
+      "tone": "good",
+      "text": "Profit up 3 years in a row"
+     }
+    ],
+    "partial": "Period to 30 Jun 2026: income ₹7.5 Cr, PAT ₹1.8 Cr (part-year, not compared)"
+   },
+   "business_news": [],
+   "news": [
+    {
+     "title": "R.K.Fashion Accessories IPO Date, Price Band, GMP, Subscription & Allotment",
+     "source": "IndiaIPO",
+     "date": "30 Sep 2026",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuR2ZqUlpuWDZ1TE01aEYwWXBzUzY1ZTJvMW92blJDNVJvY0duV29uVnNEbzFzVi1saVFlQ3lUemU4T29tOGtkak5kMjVwcWljejdfS0VXZ3dxdHVzUlhsZ2FpN3VvVEYtTW9J?oc=5",
+     "tone": ""
+    }
+   ],
+   "key": "rkfashion accessories"
+  }
+ ],
  "market": {
   "performance": [
    {
@@ -4409,93 +4590,12 @@
   ],
   "gmp": [
    {
-    "key": "vishal nirmiti",
-    "name": "Vishal Nirmiti",
+    "key": "jio platform",
+    "name": "Jio Platform",
     "type": "Mainboard",
-    "gmp": 35.0,
-    "gmp_pct": 15.91,
-    "status": "Open",
-    "updated": null
-   },
-   {
-    "key": "nityas gems",
-    "name": "Nityas Gems",
-    "type": "Mainboard",
-    "gmp": 5.0,
-    "gmp_pct": 6.67,
-    "status": "Open",
-    "updated": null
-   },
-   {
-    "key": "srit india",
-    "name": "SRIT India",
-    "type": "Mainboard",
-    "gmp": 48.0,
-    "gmp_pct": 36.92,
-    "status": "Closed",
-    "updated": null
-   },
-   {
-    "key": "shah investors home",
-    "name": "Shah Investor’s Home",
-    "type": "Mainboard",
-    "gmp": 15.0,
-    "gmp_pct": 8.988,
-    "status": "Closed",
-    "updated": null
-   },
-   {
-    "key": "acevector",
-    "name": "Acevector",
-    "type": "Mainboard",
-    "gmp": 1.0,
-    "gmp_pct": 3.12,
-    "status": "Closed",
-    "updated": null
-   },
-   {
-    "key": "german green steel",
-    "name": "German Green Steel",
-    "type": "Mainboard",
-    "gmp": 13.0,
-    "gmp_pct": 9.35,
-    "status": "Closed",
-    "updated": null
-   },
-   {
-    "key": "runwal enterprises",
-    "name": "Runwal Enterprises",
-    "type": "Mainboard",
-    "gmp": 0.0,
-    "gmp_pct": 0.0,
-    "status": "Closed",
-    "updated": null
-   },
-   {
-    "key": "orient cables",
-    "name": "Orient Cables",
-    "type": "Mainboard",
-    "gmp": 90.0,
-    "gmp_pct": 33.09,
-    "status": "Closed",
-    "updated": null
-   },
-   {
-    "key": "moneyview",
-    "name": "Moneyview",
-    "type": "Mainboard",
-    "gmp": 15.0,
-    "gmp_pct": 44.12,
-    "status": "Closed",
-    "updated": null
-   },
-   {
-    "key": "a one steels",
-    "name": "A-One Steels",
-    "type": "Mainboard",
-    "gmp": 47.0,
-    "gmp_pct": 11.6,
-    "status": "Closed",
+    "gmp": 150.0,
+    "gmp_pct": null,
+    "status": "Upcoming",
     "updated": null
    },
    {
@@ -4511,8 +4611,8 @@
     "key": "tna solutions",
     "name": "TNA Solutions",
     "type": "SME",
-    "gmp": 7.0,
-    "gmp_pct": 10.0,
+    "gmp": 6.0,
+    "gmp_pct": 8.57,
     "status": "Open",
     "updated": null
    },
@@ -4520,8 +4620,8 @@
     "key": "acme india industries",
     "name": "Acme India Industries",
     "type": "SME",
-    "gmp": 30.0,
-    "gmp_pct": 15.31,
+    "gmp": 25.0,
+    "gmp_pct": 12.76,
     "status": "Open",
     "updated": null
    },
@@ -4531,6 +4631,24 @@
     "type": "SME",
     "gmp": 0.0,
     "gmp_pct": 0.0,
+    "status": "Open",
+    "updated": null
+   },
+   {
+    "key": "vishal nirmiti",
+    "name": "Vishal Nirmiti",
+    "type": "Mainboard",
+    "gmp": 20.0,
+    "gmp_pct": 9.09,
+    "status": "Open",
+    "updated": null
+   },
+   {
+    "key": "nityas gems",
+    "name": "Nityas Gems",
+    "type": "Mainboard",
+    "gmp": 3.0,
+    "gmp_pct": 4.0,
     "status": "Open",
     "updated": null
    },
@@ -4553,8 +4671,8 @@
     "updated": null
    },
    {
-    "key": "sjp ultrasonics",
-    "name": "SJP Ultrasonics",
+    "key": "sjp ultrasonic",
+    "name": "SJP Ultrasonic",
     "type": "SME",
     "gmp": 0.0,
     "gmp_pct": 0.0,
@@ -4583,8 +4701,8 @@
     "key": "everestims technologies",
     "name": "EverestIMS Technologies",
     "type": "SME",
-    "gmp": 20.0,
-    "gmp_pct": 23.53,
+    "gmp": 40.0,
+    "gmp_pct": 47.06,
     "status": "Open",
     "updated": null
    },
@@ -4594,25 +4712,25 @@
     "type": "SME",
     "gmp": 0.0,
     "gmp_pct": 0.0,
-    "status": "Open",
+    "status": "Closed",
     "updated": null
    },
    {
     "key": "vans electroengineerings",
     "name": "Vans Electroengineerings",
     "type": "SME",
-    "gmp": 90.0,
-    "gmp_pct": 76.27,
-    "status": "Open",
+    "gmp": 70.0,
+    "gmp_pct": 59.32,
+    "status": "Closed",
     "updated": null
    },
    {
     "key": "black opal consultants",
     "name": "Black Opal Consultants",
     "type": "SME",
-    "gmp": 48.0,
-    "gmp_pct": 24.37,
-    "status": "Open",
+    "gmp": 78.0,
+    "gmp_pct": 39.59,
+    "status": "Closed",
     "updated": null
    },
    {
@@ -4621,15 +4739,33 @@
     "type": "SME",
     "gmp": 0.0,
     "gmp_pct": 0.0,
-    "status": "Open",
+    "status": "Closed",
+    "updated": null
+   },
+   {
+    "key": "srit india",
+    "name": "SRIT India",
+    "type": "Mainboard",
+    "gmp": 53.0,
+    "gmp_pct": 40.77,
+    "status": "Closed",
+    "updated": null
+   },
+   {
+    "key": "shah investors",
+    "name": "Shah Investor's",
+    "type": "Mainboard",
+    "gmp": 16.0,
+    "gmp_pct": 9.58,
+    "status": "Closed",
     "updated": null
    },
    {
     "key": "acme universal",
     "name": "Acme Universal",
     "type": "SME",
-    "gmp": 10.0,
-    "gmp_pct": 14.08,
+    "gmp": 11.0,
+    "gmp_pct": 15.49,
     "status": "Closed",
     "updated": null
    },
@@ -4652,6 +4788,42 @@
     "updated": null
    },
    {
+    "key": "acevector",
+    "name": "Acevector",
+    "type": "Mainboard",
+    "gmp": 1.0,
+    "gmp_pct": 3.12,
+    "status": "Closed",
+    "updated": null
+   },
+   {
+    "key": "german green steel",
+    "name": "German Green Steel",
+    "type": "Mainboard",
+    "gmp": 12.0,
+    "gmp_pct": 8.63,
+    "status": "Closed",
+    "updated": null
+   },
+   {
+    "key": "runwal enterprises",
+    "name": "Runwal Enterprises",
+    "type": "Mainboard",
+    "gmp": 0.0,
+    "gmp_pct": 0.0,
+    "status": "Closed",
+    "updated": null
+   },
+   {
+    "key": "orient cables",
+    "name": "Orient Cables",
+    "type": "Mainboard",
+    "gmp": 123.0,
+    "gmp_pct": 45.22,
+    "status": "Closed",
+    "updated": null
+   },
+   {
     "key": "dudani retail",
     "name": "Dudani Retail",
     "type": "SME",
@@ -4670,11 +4842,11 @@
     "updated": null
    },
    {
-    "key": "sai urja indo ventures",
-    "name": "Sai Urja Indo Ventures",
+    "key": "sai urja",
+    "name": "Sai Urja",
     "type": "SME",
-    "gmp": 0.0,
-    "gmp_pct": 0.0,
+    "gmp": 10.0,
+    "gmp_pct": 8.85,
     "status": "Closed",
     "updated": null
    },
@@ -4695,28 +4867,8 @@
     "gmp_pct": 0.0,
     "status": "Closed",
     "updated": null
-   },
-   {
-    "key": "peshwa wheat",
-    "name": "Peshwa Wheat",
-    "type": "SME",
-    "gmp": 0.0,
-    "gmp_pct": 0.0,
-    "status": "Closed",
-    "updated": null
-   },
-   {
-    "key": "roopa screen",
-    "name": "Roopa Screen",
-    "type": "SME",
-    "gmp": 42.0,
-    "gmp_pct": 65.62,
-    "status": "Closed",
-    "updated": null
    }
   ]
  },
- "warnings": [
-  "Could not load IPOWatch GMP: no GMP rows found (layout change?). Showing last known GMP values."
- ]
+ "warnings": []
 }

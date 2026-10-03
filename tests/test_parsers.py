@@ -23,6 +23,14 @@ def test_ipo_lists():
             "url": "https://www.chittorgarh.com/ipo/robokidz-eduventures-ipo/3205/"} in sme["open"]
     assert any(i["name"] == "Moneyview" for i in main["upcoming"])
 
+    singular = chittorgarh.parse_ipo_list(
+        '<p>The upcoming SME IPO in India this week and coming week is '
+        '<a href="/ipo/rkfashion-accessories-ipo/3301/" title="R.K.Fashion Accessories IPO">R.K.Fashion Accessories IPO</a>.</p>'
+        '<p>There are no upcoming mainboard IPOs.</p>'
+        '<p>The current active SME IPO is <a href="/ipo/x-ipo/1/" title="X Ltd IPO">X Ltd IPO</a>.</p>')
+    assert [i["name"] for i in singular["upcoming"]] == ["R.K.Fashion Accessories"]
+    assert [i["name"] for i in singular["open"]] == ["X Ltd"]
+
 
 def test_detail_sme():
     d = chittorgarh.parse_detail(read("chittorgarh_detail_sme_subscribed.html"))
@@ -74,6 +82,21 @@ def test_gmp_table():
     assert (robo["gmp"], robo["gmp_pct"], robo["est_listing"], robo["status"]) == (65, 61.32, 171, "Open")
     # The past-performance table further down the page must be ignored.
     assert not any(r["name"] == "Manika Plastech" for r in rows)
+
+
+def test_gmp_table_combined_layout():
+    """Layout from Oct 2026: one table, status code and type inside the name cell."""
+    rows = ipowatch.parse_gmp_table(read("ipowatch_gmp_combined.html"))
+    assert len(rows) == 31
+    tna = next(r for r in rows if r["name"] == "TNA Solutions")
+    assert (tna["type"], tna["status"], tna["gmp"], tna["gmp_pct"], tna["est_listing"], tna["price"]) == \
+        ("SME", "Open", 6, 8.57, 76, 70)
+    assert tna["dates"] == "30-6 Oct"
+    orient = next(r for r in rows if r["name"] == "Orient Cables")
+    assert (orient["type"], orient["status"], orient["gmp"]) == ("Mainboard", "Closed", 123)
+    jio = next(r for r in rows if r["name"] == "Jio Platform")
+    assert jio["price"] is None and jio["est_listing"] is None and jio["gmp_pct"] is None
+    assert jio["url"].startswith("https://")
 
 
 def test_name_matching():

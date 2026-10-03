@@ -31,9 +31,10 @@ def parse_ipo_list(html):
     out = {"open": [], "upcoming": []}
     for p in _soup(html).find_all("p"):
         text = clean(p.get_text(" ")).lower()
-        if re.search(r"\bactive\b.*\bipos are\b", text[:80]):
+        # Singular when there's only one: "The upcoming SME IPO in India this week ... is X IPO."
+        if re.search(r"\bactive\b.*\bipos? (?:are|is)\b", text[:80]):
             key = "open"
-        elif text.startswith("the upcoming") and "ipos" in text:
+        elif text.startswith("the upcoming") and re.search(r"\bipos?\b", text):
             key = "upcoming"
         else:
             continue
