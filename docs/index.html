@@ -1492,10 +1492,15 @@ none yet</p>
       return;
     }
     var open = box.querySelector('details') && box.querySelector('details').open;
+    // GitHub requires each token's note to be unique, so name it after this device and time.
+    var device = /Mobi|Android|iPhone|iPad/i.test(navigator.userAgent) ? 'phone' : 'computer';
+    var note = 'IPO Watchlist sync (' + device + ', ' + new Date().toLocaleString('en-IN', {
+      day: 'numeric', month: 'short', year: 'numeric', hour: '2-digit', minute: '2-digit' }) + ')';
+    var tokenUrl = 'https://github.com/settings/tokens/new?scopes=gist&description=' + encodeURIComponent(note);
     box.innerHTML =
       '<details class="sync"' + (open || sync.status ? ' open' : '') + '><summary>☁ Sync My IPOs across your phone and laptop</summary>' +
       '<ol>' +
-        '<li>Open <a href="https://github.com/settings/tokens/new?scopes=gist&description=IPO%20Watchlist%20sync" ' +
+        '<li>Open <a href="' + esc(tokenUrl) + '" ' +
         'target="_blank" rel="noopener">this GitHub page</a> while signed in. The <b>gist</b> box is already ticked. ' +
         'Set <b>Expiration</b> to <b>No expiration</b>, click <b>Generate token</b> at the bottom, and copy the token.</li>' +
         '<li>Paste it below and tap <b>Connect</b>. Do the same on your other devices (make a new token there, or reuse this one).</li>' +
