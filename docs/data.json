@@ -1,225 +1,7 @@
 {
- "generated_at": "2026-10-07T14:36:17+05:30",
- "generated_display": "07 Oct 2026, 02:36 PM IST",
- "open": [
-  {
-   "chittorgarh_url": "https://www.chittorgarh.com/ipo/rkfashion-accessories-ipo/3138/",
-   "name": "R.K.Fashion Accessories",
-   "open_date": "2026-10-05",
-   "close_date": "2026-10-07",
-   "ipo_date_text": "5 to 7 Oct, 2026",
-   "listing_date": "Mon, Oct 12, 2026",
-   "face_value": "₹ 10 per share",
-   "issue_type": "Bookbuilding IPO",
-   "sale_type": "Fresh capital only",
-   "listing_at": "NSE SME",
-   "type": "SME",
-   "lot_size": 1600,
-   "price_band": "₹77 to ₹82",
-   "price_high": 82.0,
-   "issue_size_cr": 35.0,
-   "min_application": {
-    "label": "Individual investors (IND) (Min)",
-    "lots": 2,
-    "shares": 3200,
-    "amount": 262400.0
-   },
-   "financials": {
-    "periods": [
-     "30 Jun 2026",
-     "31 Mar 2026",
-     "31 Mar 2025",
-     "31 Mar 2024"
-    ],
-    "rows": {
-     "Assets": [
-      28.32,
-      23.88,
-      16.88,
-      11.7
-     ],
-     "Total Income": [
-      7.49,
-      31.54,
-      17.82,
-      14.46
-     ],
-     "Profit After Tax": [
-      1.83,
-      6.29,
-      2.0,
-      0.95
-     ],
-     "EBITDA": [
-      2.55,
-      7.34,
-      2.98,
-      0.11
-     ],
-     "NET Worth": [
-      17.99,
-      16.16,
-      9.81,
-      7.82
-     ],
-     "Reserves and Surplus": [
-      6.74,
-      4.91,
-      9.16,
-      7.16
-     ],
-     "Total Borrowing": [
-      3.06,
-      1.7,
-      0.61,
-      0.61
-     ]
-    },
-    "unit": "Amount in ₹ Crore"
-   },
-   "objects": [
-    {
-     "object": "To meet the working capital requirements",
-     "amount_cr": 5.21
-    },
-    {
-     "object": "To Finance Establishment of-New plating facility at Baruipur, Kolkata West Bengal",
-     "amount_cr": 8.8
-    },
-    {
-     "object": "To Finance Establishment of-Proposed new B2B showroom in Kolkata",
-     "amount_cr": 5.37
-    },
-    {
-     "object": "To Finance Establishment of-Completion of B2C Stores in Kolkata",
-     "amount_cr": 2.48
-    },
-    {
-     "object": "To Finance Establishment of-Inventory cost for the proposed new showroom and stores",
-     "amount_cr": 5.6
-    },
-    {
-     "object": "General Corporate Purposes",
-     "amount_cr": null
-    }
-   ],
-   "kpis": {
-    "ROE": "10.71%",
-    "ROCE": "12.56%",
-    "Debt/Equity": "0.17",
-    "RoNW": "40.66%",
-    "PAT Margin": "24.40%",
-    "EBITDA Margin": "34.08%",
-    "NAV": "15.99",
-    "P/B (x)": "5.13"
-   },
-   "valuation": {
-    "EPS (₹)": {
-     "pre": "5.59",
-     "post": "4.71"
-    },
-    "P/E (x)": {
-     "pre": "14.67",
-     "post": "17.41"
-    },
-    "Market Cap at Offer Price": {
-     "pre": "₹92.25 Cr.",
-     "post": "₹127.24 Cr"
-    }
-   },
-   "reviews": {
-    "Subscribe": 0,
-    "May Apply": 0,
-    "Neutral": 0,
-    "Avoid": 0
-   },
-   "legal_name": "R.K.Fashion Accessories Ltd.",
-   "about": [
-    "Incorporated in March 2010, R.K. Fashion Accessories Limited is engaged in the manufacturing through contract manufacturers and wholesale distribution of imitation jewellery, along with the trading of branded cosmetics. Its product portfolio comprises handcrafted imitation jewellery incorporating traditional designs with contemporary styles, catering to various segments through wholesale and direct sales channels. The Company operates with a focus on the B2B and B2C segments, supplying its products through wholesale channels while expanding its direct presence among individual consumers. It has also adopted a multi-platform e-commerce strategy and has established corporate tie-ups to support its sales and customer base. The Company has purchased a property on Rash Behari Avenue, Kolkata, which is currently under construction and is intended to strengthen its retail presence and expand its B2C customer base in Kolkata, particularly in areas with relatively lower concentration of its existing B2B customers.",
-    "The Company focuses on product quality through multi-stage inspection and quality control processes and maintains relationships with its customers through its B2B operations. Its business model combines traditional jewellery designs with contemporary styles while expanding its sales reach through wholesale, retail and online channels. The Company also aims to diversify its customer base through greater penetration of the B2C segment.",
-    "As of June 30, 2026, the Company had 50 permanent employees, including directors and key managerial personnel, supported by contractual labour engaged according to business requirements and high-volume orders. Its workforce comprises personnel across operations, management, finance, marketing, design, sales, customer service, packaging, quality control and human resources."
-   ],
-   "about_lists": {
-    "Competitive Strengths": [
-     "Strategic corporate tie-ups.",
-     "Growing B2C and retail presence.",
-     "Multi-platform e-commerce strategy.",
-     "Established B2B customer relationships.",
-     "Multi-stage quality inspection and product reliability.",
-     "Blend of traditional and contemporary jewellery designs.",
-     "Diversified sales channels across wholesale, retail and online platforms."
-    ]
-   },
-   "strengths": [
-    "Strategic corporate tie-ups.",
-    "Growing B2C and retail presence.",
-    "Multi-platform e-commerce strategy.",
-    "Established B2B customer relationships.",
-    "Multi-stage quality inspection and product reliability.",
-    "Blend of traditional and contemporary jewellery designs.",
-    "Diversified sales channels across wholesale, retail and online platforms."
-   ],
-   "status": "open",
-   "day_label": "Closes today",
-   "subscription": {
-    "as_of": "Oct 07, 2026 14:00",
-    "rows": [
-     {
-      "category": "Qualified Institutional",
-      "times": 14.11
-     },
-     {
-      "category": "Non Institutional",
-      "times": 1.41
-     },
-     {
-      "category": "Retail Individual",
-      "times": 2.06
-     }
-    ],
-    "total": 1.93
-   },
-   "insights": {
-    "metrics": [
-     "FY26 income ₹31.5 Cr",
-     "PAT ₹6.3 Cr",
-     "PAT margin 24.4%",
-     "Income +77% YoY",
-     "PAT +214% YoY",
-     "Post-issue P/E 17.4x"
-    ],
-    "flags": [
-     {
-      "tone": "good",
-      "text": "Strong growth: income +77%, profit +214%"
-     },
-     {
-      "tone": "good",
-      "text": "Profit up 3 years in a row"
-     }
-    ],
-    "partial": "Period to 30 Jun 2026: income ₹7.5 Cr, PAT ₹1.8 Cr (part-year, not compared)"
-   },
-   "business_news": [],
-   "news": [
-    {
-     "title": "R.K.Fashion Accessories IPO Day 3: Subscription Closes Today, 7 October 2026",
-     "source": "Univest",
-     "date": "07 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNzVXTl9Zd3pSYXh4Yl91UGtFNVhkWjZiN3NQSmdHcTBjN2xfeU83VHN3X1lHMjJFZkdPZlFZS3ZRcDB2YndTbm1WYVdwMTE1NDk0a195TExndHczb3RGTVJuWTRrOUh2QlhXNGJNNWFOME1fN0M3QnllSjBVQUU0Yzgtd2hfSU9wbXR0X3I4Z1g3VWRHOWx6b3dwTkt2X2VCUWFIcDRrVHQ?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "R.K.Fashion Accessories IPO Day 2 Subscription Status: 0.44x",
-     "source": "HDFC Sky",
-     "date": "06 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVlRuVVRxdWNlNmZuajNYTVRnSl9PQUMzeFNweUdwUGJfUTJ0eGpJRHZTNkxZdHFQa1FvWUhPSmRSdlFxekRYYV96a0VRTXdKVm13SmdPYWhpMjlPQ0V0anhoZjdOZGpSMjMtUk1EMkI4UkxSYm5zbjFkTjZXRGIyTlhmeFo?oc=5",
-     "tone": ""
-    }
-   ],
-   "key": "rkfashion accessories"
-  }
- ],
+ "generated_at": "2026-10-08T14:51:15+05:30",
+ "generated_display": "08 Oct 2026, 02:51 PM IST",
+ "open": [],
  "upcoming": [
   {
    "chittorgarh_url": "https://www.chittorgarh.com/ipo/hd-fire-protect-ipo/2628/",
@@ -347,15 +129,15 @@
     "Well-established global presence in a certification-driven, high-barrier industry."
    ],
    "status": "upcoming",
-   "day_label": "Opens in 6 days",
+   "day_label": "Opens in 5 days",
    "gmp": {
-    "gmp": 0.0,
-    "gmp_pct": null,
-    "est_listing": null,
+    "gmp": 90.0,
+    "gmp_pct": 33.21,
+    "est_listing": 361.0,
     "updated": null,
-    "trend": "🟡"
+    "trend": "🟢"
    },
-   "ipowatch_url": "https://www.ipowatch.in/hd-fire-protect-ipo/",
+   "ipowatch_url": "https://www.ipowatch.in/hd-fire-protect-ipo-gmp-grey-market-premium/",
    "insights": {
     "metrics": [
      "FY26 income ₹505.1 Cr",
@@ -378,23 +160,23 @@
     {
      "title": "HD Fire Protect Sets IPO Price Band At Rs 258-271; Issue To Open On 13 Oct",
      "source": "BW Businessworld",
-     "date": "07 Oct 2026",
+     "date": "08 Oct 2026",
      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeEtOZ21Yalk2QmlWbTFQUmEzRW43TENZeUJkOTdjNF9qZFF0THdoelRPZzlXQ3Fkc1UwdHpsNW9kUHVpeEtiQmZxMldHTTdodEJXd1ZMa2o3S19ROXhTYmZNUm5kUk9ZWGtwNVFPaWk4N2xSbG9QNnp5SjlubGVZU2F2b3V6Z3ZINlRpT2dhckFZR3I4dVJCNXhZVmllX0NnazlUYlI4ejY1eTZSOF9RYThFd1Z4Y0df?oc=5",
      "tone": ""
     },
     {
-     "title": "HD Fire Protect IPO opens on October 13; check price band, issue size & key details",
-     "source": "Business Today",
-     "date": "07 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQV3l6aG40d1RLV3JzWFJ3YTlacTU2SEFvTzJIcUgzVFRoZW9NRFZDdUtyMGN6b2oxWkpEMWxFRzZtRlJydUxaeVBXMVVNVnU1VHh0WmlmQWRrTXhmNXFRS0JUM01aVFNUQ2tsZkZxZEthYVBPelEwUnB2djgtSFk1Q0UzSEpRdFc2X0VtLUx5ZVhWRFFjUnRPeTFWeFlxSXJmaXBZV3hkODBMSm9CcXNVaTFYa2lGZ1BLX0FJRzNhNURycms0bURyQnIxMkJvckVZQkV1eFJsb0RLYXRBa3N0NDYwVkpMSmRmbExGYkR30gHzAUFVX3lxTE5pQjdLSEtFV1cwYW9CTVUwNE1ZWXdMZVFSMDViX2wwcDhrbktrV3NaZDJKcXFzZ2ZzV3l5cU8yRDB5eE5GcFBtN0VBVkJaVDdOUmswYW40Z1kzNlE4T2dZalQzbHpSekxuVFRReTJXbW1xd1VJYjNJenpCcG5YekRjcldBN2pvVG1SejItSzUzNk9XQWZaSUZtRnFVOUtobzFRZzdDQUVCdmpzejRleVgyMDlzMkoxZHd0RFJ5QWJUSWpUVV9zb2VMOVV1cUNNTGJSUURUQ0puaEtnSTV4VThfbWZ1TVlpYjRmNVptcHhNa0NzUQ?oc=5",
+     "title": "HD Fire Protect IPO Opens October 13 at ₹258–₹271 Per Share",
+     "source": "Business Upturn",
+     "date": "08 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOY1hYV0V5S2tjUkcwZERJLXdPdFA2azU4SkVrU05WM1Y4ZmUyX2UxSllMbTBhYk9DSlQ0bE1fckJIcmtFenJBbWhxRTBhTWc4Q0d4dURnU21yUjJURWkxWm1qR3V4SXFOMVkzbG5yMmt6OWEzSUlMSFh5Sks3ZU9aUkdrYWFQU0swa1JMSFlTdlJRQWdPcnVXdFJTc3lleHM5S19TUjJQY3c4UUdzYmV6RU13OS1tWEd0T2wxaGZB?oc=5",
      "tone": ""
     },
     {
-     "title": "HD Fire Protect sets IPO price band at Rs 258-271, seeks valuation of Rs 4,750 crore",
-     "source": "Moneycontrol.com",
-     "date": "07 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPU1VTS0w3NHV6TWNZa2xHZDZuNlVObGFodjU1dFpRY2JPd1dtX3JfUzVSWnlHalpuZ1drTWRtbjJXeTl5bmoyYldqelFZcmwtcFg3TU15Ry1QTEhadzlWSVVZdE0wOXh4b2M5cVdKNXkycmZUckI4djZaSFlLOEZXRWtrcEgzU3FYSGZpaUxXQkdpSG9xaFNNeDN2Q0lrSS1iMUlqQ0o3N3Atc3NVZGNYZU5VS2llS0F1RzZHZk4tSTBsWVI5QW9ITDZUUGxCTEhKb3Vxbm9WemhLTmxSUjJvS1ZR0gHiAUFVX3lxTE9TVVNLTDc0dXpNY1lrbEdkNm42VU5sYWh2NTV0WlFjYk93V21fcl9TNVJaeUdqWm5nV2tNZG1uMld5OXluajJiV2p6UVlybC1wWDdNTXlHLVBMSFp3OVZJVVl0TTA5eHhvYzlxV0o1eTJyZlRyQjh2NlpIWUs4RldFa2twSDNTcVhIZmlpTFdCR2lIb3FoU014M3ZDSWtJLWIxSWpDSjc3cC1zc1VkY1hlTlVLaWVLQXVHNkdmTi1JMGxZUjlBb0hMNlRQbEJMSEpvdXFub1Z6aEtObFJSMm9LVlE?oc=5",
-     "tone": ""
+     "title": "HD Fire Protect to launch INR 700-750 crore IPO on October 13",
+     "source": "Prop News Time",
+     "date": "08 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOV2h2ejQzX1EzdFR0VVJvSl81WFZyNkRuem5lUnVRaUJKVFdGd1NObEtvSWlwUWExVDh1LU9PdFQ2cmppZWRQWW9EMzhOODhnX0lldnJSem5mOEI0Zl9mSlMyenVHdjQzRkdlNkxuOVVwUEpRc3dvR3o3UWlHX3g4ZDFnb2ZmZndGdjJQenBHcUpDdTU1S0RuTWhpOXdYTEQxajlpellwODF4WWtaVVltb2pmMA?oc=5",
+     "tone": "good"
     }
    ],
    "key": "hd fire protect"
@@ -498,13 +280,13 @@
    "status": "upcoming",
    "day_label": "",
    "gmp": {
-    "gmp": 170.0,
+    "gmp": 165.0,
     "gmp_pct": null,
     "est_listing": null,
     "updated": null,
-    "trend": "🟢"
+    "trend": "🔴"
    },
-   "ipowatch_url": "https://www.ipowatch.in/jio-platforms-ipo/",
+   "ipowatch_url": "https://www.ipowatch.in/jio-platforms-ipo-gmp-grey-market-premium/",
    "insights": {
     "metrics": [
      "FY26 income ₹149,759.1 Cr",
@@ -522,6 +304,13 @@
     "partial": null
    },
    "business_news": [
+    {
+     "title": "Jio Platforms Targets Bigger Enterprise and Digital-Services Play",
+     "source": "Kalkine India",
+     "date": "07 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTUhXZjhkNmRlWFBBOEh3c2Jvajh5Z3JTMERIRkNlUGk4OE55SkNYZ0V1UWtKMUxJYzdvSUsza3U1VnRlZXpndzB0MjJVLUcxUHpBNmp3Zkd3Qk96Wkd4OTdKVU9yV0UxQ1BvdG1NaV9nLXlzcWZzWG9sZzZ5dS1IanVMemdzaU9pSWtfTXFJR000UjZ0SFZwZUdLaGdId1M2emxUTmdoNUlQYV9ybk9udzl1TXExTGZsMEZwTm03N3BKZUlsbUhYdjROdVVmR2I0djlLU3JLcE9GUQ?oc=5",
+     "tone": ""
+    },
     {
      "title": "Jio Platforms shifts from telecom to global tech contender",
      "source": "NewsBytes",
@@ -542,35 +331,28 @@
      "date": "17 Jul 2026",
      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNa0VQRHZYU1pIQlBHZ3Y4WEIxVnplZ245dzRPZFFpclJGQURUOU5pcTRSOGF2MmRuX21wc0VqRmFudmJrS3p5RVRLSTVWXzhwMlJRR2t5b2YyNkN2WUxtYzNRb3F3blBYNVdTanlCcjdTR0RIMXdoYmdGbmlaajJ2eUswRkxvdjN2ZXduOUd6dDZ1U0lYVUVUbndQb0ZHZHN3MmpmSUJGeVNybEVhTXp5cUFNNFlaelFtcmozNU9kWTJvRUw4QWlZ?oc=5",
      "tone": ""
-    },
-    {
-     "title": "Jio Platforms net profit rises 9.2 pc to Rs 7,764 cr in Q1",
-     "source": "ThePrint",
-     "date": "17 Jul 2026",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdzZsZlFFTVRQeFVjU05tVmM1Y3puMzZreXp0NVdBdW5Vd2lZdVRpalQ0bWZEYU1VZ2pXQVdwWURXbXFrbk85QXJRWlR4RUZPZE56ZFdHcjZ0d3pjcDExUGJrQ05JOHFQN1hvS0kxeFdyd1JNenk1bEg3bWdMS2FqX3lyQ1duVXd3b0ZjQkVzbmYyUzFLX2d5OUx30gGfAUFVX3lxTE81RUgtdFI2RF9Ga0Jsa21PUjVLZERrdVZWcXV3SEM5OFloRkRPRC1BTDVXbmdYeHBYZ0hFZEJsZE5STUtETVA4S3lzUDBPcnFuTWhxUmFTVHhsV1EyZ21zYzgzRkRjaXZIUFJ5VE5uNEI2a1ZGYkE3THMwU3FkTUQ5eXpYOEk5TmZTcmRCLUhFd0JpeVNPdVRJY3ltdVo0bw?oc=5",
-     "tone": "good"
     }
    ],
    "news": [
     {
-     "title": "Jio Platforms IPO can be a re-rating trigger for Reliance Industries, Bharti Airtel: Motilal Oswal",
-     "source": "CNBC TV18",
-     "date": "07 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNTc4QXN2WHJzUWZKN3ZFeDNIdHlIZWZIMTByQkhYTjBzdjJBWVI2ODctT3NpbFVnV1NrckwyWW9FMlU1bk43dm9TUVJXNGFfOUlhbVNCTUI5ZkRtaC1KS3gtSl9vZG5MUGRoeHF1UnhJalNvX3FmT1BqLXRJc2MtaklJejlubDh6VlJ5MjB6TEwzbGRxbXBKWTBvUnpxY2VXRFNlOWFDVllFZ3NtMHZtWlc4Q0x6Vjk1SDRtZnFfRWlFYkRXcjFuMFNjdnMxNEdxb01fZTZOZjBsMVRJMXg1SmdoVHHSAeoBQVVfeXFMUEdzU3loNWRnckdHdGltOGJqZEs0aWtwRlc3UDZXbU5kYkNocEg2NUxkQzFJWmx0d3NLQ3VKXzVfakxHWUN4LXFNREZ0NzNSUnJ3dGNjb09BNkJHLURydlNZeHZjYWpzM0VCMnFJY2tKbXQyc19IMzFSMEVFUy1Fa25rYW4zYk1McDNFenNTUW1VYjRNSm9VUHNWM1piNDJjR3Q2VDNQaUVSUDR2MnE5bG55dmcwOS1XSThiMW1mNnJsYzZuR3NFeWJsdE1sN3RDQkF5T2Q3bnQ3bFZWLUw2d0FQRHdaTlBXMlVB?oc=5",
+     "title": "Jio Platforms IPO may come without OFS, valuation could cross INR 12 lakh crore",
+     "source": "Prop News Time",
+     "date": "08 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYmp2NllBUFU0SkR0dWhKVEF4aUZkTElKZnotbEJzZVVtU1ByTXFUaDNHS3RBQW5IUHcwTzNETW9UbGN1dnlXVjVvSDZNcE9KRXBjMDFocDktVGdTQnVkQ3ByNGV0YnRBMnJwUnBtaWV2SFRDYmpfdjFBVUhUcWVERlhRWFNpRGtXOEc2b25sYVF0WVZNWFllOGRXc1oyZWozYkdRWmdDZ3l0VFJ0bm5tUG11bklCcGZxNXFNREZfaHFiRWJOaXNlZ2pR?oc=5",
      "tone": ""
     },
     {
-     "title": "Jio Platforms IPO could unlock value at RIL, drive re-rating: Motilal Oswal",
-     "source": "Moneycontrol.com",
-     "date": "07 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTC1XRkc0MFBpcU80M2c1Ry1HTF9iWU9meDdLeDl5OW1yUE1uR3FMYlJMcW9ZZ3Vsd0d1SVdUZXk4UXlUVlNxa3RyYTAyT2taQjcxc1ZTanhZdmxLSGVkaUlyTnBLb1dMa3M1TlgxdFNkMWJlWmxrM3BuWk1oRXl5ZWk0SVVMY3JEcVdZcGJKdkVXTXE3Nk1iYl81WDZENlF1YmhKNWd1akF4WkI1Z2NlRDRnNUtXMUlIRGxscWVWbWxtellIZk12ZmxjR0MtODBWN0lKetIB2gFBVV95cUxPSkJDSW45ZFdxdmpmTnp6YUltTTlFZjlYMEh5VTY5X21jeWpWdlZIX09JZE5GYnlvaFA5NU5TLVNkZHhwUXFJSGgyRUdrSkxrRDJKWlhISV9YdWZZMmlhREtOUGhVa3ZPUHRwNjBoaWl6WmVzTXhpR09NTXJ4VWJoQndYQy1iWnZHWEJXNlJxQTdHTjFoTng0TUpTdEdCblJkSUlFSkVlbmhUNW1Jbm90RGlrYlRLX1pzM2dOV1JSaWVjWmg2VjJaWEJBU3NWclIycUpiSkVVU2dodw?oc=5",
+     "title": "Jio Platforms IPO: Key Dates, Issue Size, Valuation And Other Details",
+     "source": "Dalal Street Investment Journal",
+     "date": "08 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWWt5blA3S25Va09lYkNTa3dVMVhwZDRvZHdGYWJYS3h2QmlZRFNGNlk5M3RBaE4tRThERDM1dFVzanNvNDFRYThFRllDZ0tHNDRTcXR5endnQ0MxdThpVFB0clB2QWhHNWx0QjFVcDRBTVczeG9YdFhXUjBWSmg4QmNpNUJBUnl1VWNZLWhQSkR5dXdSX05MWjNMb1BWS1cyQXhubC1XRjU3dDNjcmxwUHlvVEhhRGZkUVFrNHFR?oc=5",
      "tone": ""
     },
     {
-     "title": "Jio Platforms IPO: Can You Still Buy RIL Shares to be Eligible for Shareholder Quota?",
-     "source": "HDFC Sky",
-     "date": "07 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUDhrZmVtd0g0QV9NbFRUZHdYZW1Qa0pTSUtRUlZKWmFLT0l1RGJDRkpmdzdNMmY1SVdHc1JrOHZxeDJzVG5GQS1EM085amR6Yk5LQVE0bDZxRjE4STBNVjc1d0txODBlR0FrVzM3S1Z0VXVnY1RLTHJGLTVSVnY3YTZLWUFqZGNSbzRJaHNLMVk4WFlsSEpfN2lDQXdsZDgxeTdDTGdyMFJKdW1p?oc=5",
+     "title": "Jio Platforms IPO: Should you buy RIL shares for shareholder quota? Check latest GMP",
+     "source": "Business Today",
+     "date": "08 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeUlEX0YyMG5KWGl6UFA0STVFblBTQTZBc0tWcHEycW9mT2xPRTlwMmYxZUM3LUpldG90bjZzRTBQX1VwZ3hzTUVTZjQxbFFuMWdlNGlzd29RN3JEcTdzeUxmTVNJWUItcGxQZlJ1WnliaXhiWHRkUEpxbGk5OVhrTm9jQ3pHeC1zZnpuVVlxeGtyUmdVZ0Y4LWc3LTUwOWttM0Y0RjVhUHJ0eFBfSlM2RXh2N3V4ZjJWSHVxaWpiYl9VYV81T2Z3ako2S0xCdm1OaGJLcC03bGp0UksxNFQ4SWthSVcwVWI2a0HSAe8BQVVfeXFMTW1HM05UVUpKc011VnhDYTRNcjFfN3V2OTB6SXAzMDZwTVRXNmt0b0RwRnQ3YXhOWG54ZTdOLUxWWnFWRWU2c1JMRTlBOW5EYzlsUFJPSWRtM3N4VDBFNVhmX21iOUNUdEZmbVpybklPSlZPeXlYWWhfOWg5dmFoUFRZMWw3VUZvWlFiWjFFV01BdFpJSk1lQ1UtQVpHVTFReDVIaWVMRXlzVXdUS2ZtbHFXTDUybjhWNHotLVhWWDBBNHJaNFVEMDVoZzJfY1FDcGF6V0FqbzRqNzVWRVdqWDdwcVVFVWFVdFNDWVY5Zms?oc=5",
      "tone": ""
     }
    ],
@@ -2475,7 +2257,7 @@
     "key": "jio platforms",
     "name": "Jio Platforms",
     "type": "Mainboard",
-    "gmp": 170.0,
+    "gmp": 165.0,
     "gmp_pct": null,
     "status": null,
     "updated": null
@@ -2484,26 +2266,8 @@
     "key": "hd fire protect",
     "name": "HD Fire Protect",
     "type": "Mainboard",
-    "gmp": 0.0,
-    "gmp_pct": null,
-    "status": null,
-    "updated": null
-   },
-   {
-    "key": "vishal nirmiti",
-    "name": "Vishal Nirmiti",
-    "type": "Mainboard",
-    "gmp": 2.0,
-    "gmp_pct": 0.91,
-    "status": null,
-    "updated": null
-   },
-   {
-    "key": "nityas gems",
-    "name": "Nityas Gems",
-    "type": "Mainboard",
-    "gmp": 1.0,
-    "gmp_pct": 1.33,
+    "gmp": 90.0,
+    "gmp_pct": 33.21,
     "status": null,
     "updated": null
    },
@@ -2511,8 +2275,8 @@
     "key": "rkfashion",
     "name": "R.K.Fashion",
     "type": "SME",
-    "gmp": 15.0,
-    "gmp_pct": 18.29,
+    "gmp": 2.0,
+    "gmp_pct": 2.43,
     "status": null,
     "updated": null
    },
@@ -2520,8 +2284,8 @@
     "key": "tna solutions",
     "name": "TNA Solutions",
     "type": "SME",
-    "gmp": 3.0,
-    "gmp_pct": 4.29,
+    "gmp": 2.0,
+    "gmp_pct": 2.86,
     "status": null,
     "updated": null
    },
@@ -2529,8 +2293,8 @@
     "key": "acme india industries",
     "name": "Acme India Industries",
     "type": "SME",
-    "gmp": 65.0,
-    "gmp_pct": 33.16,
+    "gmp": 59.0,
+    "gmp_pct": 30.1,
     "status": null,
     "updated": null
    },
@@ -2542,62 +2306,12 @@
     "gmp_pct": 0.0,
     "status": null,
     "updated": null
-   },
-   {
-    "key": "sollfege smart electronics",
-    "name": "Sollfege Smart Electronics",
-    "type": "SME",
-    "gmp": 0.0,
-    "gmp_pct": 0.0,
-    "status": null,
-    "updated": null
-   },
-   {
-    "key": "omara ventures",
-    "name": "Omara Ventures",
-    "type": "SME",
-    "gmp": 0.0,
-    "gmp_pct": 0.0,
-    "status": null,
-    "updated": null
-   },
-   {
-    "key": "sjp ultrasonic",
-    "name": "SJP Ultrasonic",
-    "type": "SME",
-    "gmp": 0.0,
-    "gmp_pct": 0.0,
-    "status": null,
-    "updated": null
-   },
-   {
-    "key": "eventions",
-    "name": "Eventions",
-    "type": "SME",
-    "gmp": 0.0,
-    "gmp_pct": 0.0,
-    "status": null,
-    "updated": null
-   },
-   {
-    "key": "dove soft",
-    "name": "Dove Soft",
-    "type": "SME",
-    "gmp": 0.0,
-    "gmp_pct": 0.0,
-    "status": null,
-    "updated": null
-   },
-   {
-    "key": "everestims technologies",
-    "name": "EverestIMS Technologies",
-    "type": "SME",
-    "gmp": 55.0,
-    "gmp_pct": 64.71,
-    "status": null,
-    "updated": null
    }
   ]
  },
- "warnings": []
+ "warnings": [
+  "Chittorgarh SME list page had no IPO links (layout change?)",
+  "Could not load Chittorgarh Mainboard performance tracker: ConnectionError",
+  "Could not load Chittorgarh SME performance tracker: ConnectionError"
+ ]
 }
