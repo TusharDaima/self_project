@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-13T15:10:38+05:30",
- "generated_display": "13 Oct 2026, 03:10 PM IST",
+ "generated_at": "2026-10-14T13:26:37+05:30",
+ "generated_display": "14 Oct 2026, 01:26 PM IST",
  "open": [
   {
    "chittorgarh_url": "https://www.chittorgarh.com/ipo/hd-fire-protect-ipo/2628/",
@@ -17,6 +17,7 @@
    "lot_size": 55,
    "price_band": "₹258 to ₹271",
    "price_high": 271.0,
+   "issue_price": 271.0,
    "issue_size_cr": 712.0,
    "min_application": {
     "label": "Retail (Min)",
@@ -128,33 +129,29 @@
     "Well-established global presence in a certification-driven, high-barrier industry."
    ],
    "status": "open",
-   "day_label": "Closes in 2 days",
+   "day_label": "Closes tomorrow",
    "subscription": {
-    "as_of": "Oct 13, 2026 14:59",
+    "as_of": "Oct 14, 2026 12:34",
     "rows": [
      {
       "category": "Qualified Institutional",
-      "times": 1.01
+      "times": 1.06
      },
      {
       "category": "Non Institutional",
-      "times": 8.59
+      "times": 25.66
      },
      {
       "category": "Retail Individual",
-      "times": 3.1
-     },
-     {
-      "category": "Employee Reservations",
-      "times": 2.45
+      "times": 7.28
      }
     ],
-    "total": 3.67
+    "total": 9.43
    },
    "gmp": {
-    "gmp": 86.0,
-    "gmp_pct": 31.73,
-    "est_listing": 357.0,
+    "gmp": 91.0,
+    "gmp_pct": 33.58,
+    "est_listing": 362.0,
     "updated": null,
     "trend": "🟢"
    },
@@ -179,24 +176,24 @@
    "business_news": [],
    "news": [
     {
-     "title": "IPO GMP Check: Tonbo, HD Fire, Bonfiglioli, Zetwerk, Fusion CX",
-     "source": "Univest",
-     "date": "13 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQcmVxRGprN3B4VUlxeGFTR3FOZ3JYVkZSWm1maDUwQjJwWWp6UGU5RmNZQ1lYYTE4dVJiZEIwWVJsOHhVV3V1YjU1Ry1uUldRSlNWVmg2VGM2X3Naek5EeUM2VWotTWhmYlhneGlYaXY4LWVtV0NhT21KSV9BS2NLNENZOXp3TExfcGNSYVg1cFkyS2s5QUlpVUgwY3haTkpSYWk2MVRSTGVpU29xM0t5aENZeXdsRE5BR0hkYVU4d2RkeV9qWEV0Tl91MXIxbVRwU3JXVGRYcFZJRHFVYzR2eF9LVnRJVDJWSU9nUWFVb2k0S2xQeVE?oc=5",
+     "title": "HD Fire Protect IPO: Apply or avoid? Here's what Anil Singhvi suggests",
+     "source": "Zee Business",
+     "date": "14 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVmRSVWtmbUprV2JNRElDeFpCZkRMNHpPN29VVllkUkJfZDNtQndIMUt4R3JSbkxFQklvbkdqWXoySGNkbWNneW9VX0I4VkhzVHg0WVJSWlZPem8wdHlGb011STFQWE9xSDBrZlJRRUo3ak1weV9FTXZVem56dU41SDlWWUEzMUIzZkRQd1BSX1B3TzBiZUsyeGpmaE5VTFliTzRycXU5SkZYOGVUbk1FTzc0TFA?oc=5",
      "tone": ""
     },
     {
-     "title": "HD Fire Protect IPO GMP at 31%; issue subscribed 1.72 times on Day 1, check details",
-     "source": "Fortune India",
-     "date": "13 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLW1vQVdtdWg0N2VpT21pZUZ0OG1JT0tZLUMweGNtSG5ycmV0N1RONmRjbUN6cjFnQlp2dVhNX05fcEdaQkpSVVBEcklWU0NRZm5CMnlRbDdQOXcwUlltTmF4bkt1Z2l0MHNoR0hBQkVqTWVqQkNOS1FoWktVTDZJeGZGNGV0ZDM2UW5iYmhVcFA4Y0pfTkdfRFZHLVVON1FuVkNneU5ZTkdYRk5PRW9jVE9ZNG16d1hXZmVtTmVqcUdUczNDVWfSAdMBQVVfeXFMUExYMnZvU0hUcklhZF9uSGpTNFVLZDVWWFFUMGQ2a3BBcEwzMFNneFRGdkpsU25VUFZybklXdWREVlVjT3Fzc1FuUTdORUtfNVl1dXJzSE80MkhIWldoR3czejljYy11U2N1VHppY1kzX1QwU29MdFJGQk0wODdNbVVkWjdCUHZNT1pTR3dzMUxMUzFrSDh2ajRzZEt6bEhGa29GT0dDcTNlV2JHSm9JNzFwZkx6MmxQNHBWXzhpaktTTTFRcHpkWFk2N0xEVWczREtycw?oc=5",
+     "title": "HD Fire Protect IPO Day 2: Subscribed 8.7x; NII demand surges to 23.7x",
+     "source": "scanx.trade",
+     "date": "14 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcHlHWFlFS2hKNVpnTlplTHRQcklhZE5KZ25zRGpTakNQRTY5ajJDVlZUalQ3anU3MHRkVXExQmhxbUFIUy1Pa1Z3WV9LQk9ucl8wSVk4UWw4ZXZYNmVPSGtmMzVjektSclFDTjZmdjFHaWh4dGdKZFRIMjZJTE80dngybUR0ZWNId19GQ0tDWXYzaU94Z1dVYUV1eFN3b0l4V0c1YmJQaGtDRGtUTHphRWEwSGNLdWs?oc=5",
      "tone": ""
     },
     {
-     "title": "Hd Fire Protect IPO Opens On 13 Oct; Price Band At Rs 258-271 Per Share",
-     "source": "BW Businessworld",
-     "date": "13 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRFN4bm5qa3IxQ1NJRDM3blozWk5qNm5fRUdmTElwUDFWVk5xaTJfdWJsNXQzenVTZVlYNlh4OWhJVEdKV0tzSUk5VjFlcmRINTJCdTNqcER2M2l1d0pxWnp2YnRIcExCZjZWM1ZmQVpHZWozVDBLT19IZl9jMWFYNjdTdnM4U1JpekpzNGw1VkIwdkRwLS0zc0JKX1lFb2ljQlRsQ1ZXMGZ6cFBIUlQ0clpQZV8?oc=5",
+     "title": "HD Fire Protect IPO subscribed 9.05 times so far on Day 2; check financials",
+     "source": "Upstox",
+     "date": "14 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOblRCdVBaODgwLU1VcVN5bnJXM09hOThOQi1yLWJUQVlYZlFkMHRScVlZU2JfajJkWll0M0J2N3NKaWpDd2VldFBvUFdIb01JUWNtNVBBSVhfNlNRX1NmWHd0aUltOFRVeUtieVBUZTdnYy1tYUZDSndBRmtOcGVlemZuMzJkdXFjRzRpcVg1RUJGbm52T0pZaUpycEJtbkxoMmg5ekg4Wk9PcEZhWGV1dDhtMW9rbHhKWktMYUk1b3hteGFwRHpRR3pR?oc=5",
      "tone": ""
     }
    ],
@@ -340,20 +337,20 @@
     "Disciplined underwriting framework and robust risk management."
    ],
    "status": "open",
-   "day_label": "Closes in 2 days",
+   "day_label": "Closes tomorrow",
    "subscription": {
-    "as_of": "Oct 13, 2026 13:00",
+    "as_of": "Oct 14, 2026 12:34",
     "rows": [
      {
       "category": "Non Institutional",
-      "times": 0.03
+      "times": 0.09
      },
      {
       "category": "Retail Individual",
-      "times": 0.13
+      "times": 0.31
      }
     ],
-    "total": 0.07
+    "total": 0.17
    },
    "gmp": {
     "gmp": 0.0,
@@ -391,31 +388,29 @@
    "business_news": [],
    "news": [
     {
+     "title": "Vaibhav Vyapaar IPO Day 2 Subscription Status 14 Oct 2026",
+     "source": "Univest",
+     "date": "14 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTFkzOHlIYmtBZG5ONUpBeVFSWnJrYUZJazlsbXFRNnhoT2FtaWlpOGs2R2QyYkE2LXBtM1plSkprNDE3c3hkaWFfNHRFYXRaa3pTSFltS1dDS3FDRlNvMnlkWmJLR3VFa3BfMXdwcmUxR2thdlZXaUI1aFNCLVAwOWU5M1IzUzJIV2w4RUhDTVZOTWx4bDVvV2czbXd6Z1hi?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Vaibhav Vyapaar IPO Subscription Status Day 1: Issue Subscribed 0.19 Times",
+     "source": "HDFC Sky",
+     "date": "13 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9fOER1TTdoZXVCTk1kNjBUcEN3VDZJN1p0R25MbEFnRmMyU18wZFczZGNsSW42aXdrdnhxMzNWcWZJSHpleTVQemFFMlBseW01bVZJYjFGaTNZTk9EV2I3MkVoUWdYWDR6d1o1MmNyNWwwRlFlN1dnZVRn?oc=5",
+     "tone": ""
+    },
+    {
      "title": "IPOs open today, October 13: HD Fire Protect, Vaibhav Vyapaar, Ravita Engineering; Fusion CX opens tomorrow",
      "source": "SME Futures",
      "date": "13 Oct 2026",
      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTG1fZmlwQ2Q2Wk1QTU55VHlLcGx0dEtyYjJ3ZE95RTVDZmFQcG1yNGFvdlAxb2ZYbm0zbnB5MnFBNnM0ejFzSnIwaFBWZTBFQ1FVWGw2UDBwZUNKdFNiUGtJb3Y4dm9TYmRkZ284TElQUXhmZ05zdEFkTXdhaFZrMWZ3enNjWW5jcWRGNHg4MjFOYjdDWVFRVzh0WG9HekhvVnlDMnM3U0d4TnNlSFdNLW1jUHNJOHhseGZUdDJ1SGxINk13?oc=5",
      "tone": ""
-    },
-    {
-     "title": "Vaibhav Vyapaar IPO Day 1: Subscribed 0.04x; Retail leads at 0.07x",
-     "source": "scanx.trade",
-     "date": "13 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUm52SlYzNi0zNm44dWJPTWhOb3VwbGVDRHpXR0stdkxZTV9jaDZCY2JmTXpLYVVTeEJCN084WUxXZUV3NWJYWms4dURoZFp0UTBia3VmM2luQjMtcjFlVlBQc0gzVFZDUllEbm8yZzgtN3pXaENYUEdvOTZSS29uc1pMNnRJVEZ3ZllPZHdNTXBpZ1V3OUF4ZWlyMjYtSHdsRlAyN09FbmlLV3dZdmp1djZn?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Vaibhav Vyapaar IPO Day 1: Check subscription status, price band, lot size and key dates",
-     "source": "Upstox",
-     "date": "13 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbjAxMms3TjNaeFlYZTI0WWlxN1FXQUt4TkdwRXVMUzd1dnd4dldtVGJ0ZUxSbFV2WlI1SV9TQUxtMkJ6Qk1yZjBuY0EzM19jVjd6YjVoa21CRjJpYV9ObF85YkFRWWNkUHkzX3ItRFd3REV4aXhHcEw3V2s4SXh0QVM3ak5JQXhSME9XMFpEaWl3M3k1RTdmM094Vm1SMS0zWEhSZE1rQ3duNGctazZQQjZDSmJ5MUxIdVIyM0xQVEU4ZnA2S1puSmh2OXZjUUVsbzlidFNaUlY?oc=5",
-     "tone": ""
     }
    ],
    "key": "vaibhav vyapaar"
-  }
- ],
- "upcoming": [
+  },
   {
    "chittorgarh_url": "https://www.chittorgarh.com/ipo/fusion-cx-ipo/2455/",
    "name": "Fusion CX",
@@ -532,7 +527,7 @@
    "reviews": {
     "Subscribe": 0,
     "May Apply": 0,
-    "Neutral": 1,
+    "Neutral": 2,
     "Avoid": 0
    },
    "legal_name": "Fusion CX Ltd.",
@@ -559,12 +554,26 @@
     "Customer-Centric Approach: Offers tailored, multilingual and omnichannel solutions to meet diverse customer requirements.",
     "Experienced Management Team: Benefits from experienced promoters, a diverse Board and management with industry knowledge, supported by a skilled workforce."
    ],
-   "status": "upcoming",
-   "day_label": "Opens tomorrow",
+   "status": "open",
+   "day_label": "Closes in 2 days",
+   "subscription": {
+    "as_of": "Oct 14, 2026 12:34",
+    "rows": [
+     {
+      "category": "Non Institutional",
+      "times": 0.16
+     },
+     {
+      "category": "Retail Individual",
+      "times": 0.74
+     }
+    ],
+    "total": 0.18
+   },
    "gmp": {
-    "gmp": 20.0,
-    "gmp_pct": 6.92,
-    "est_listing": 309.0,
+    "gmp": 34.0,
+    "gmp_pct": 11.76,
+    "est_listing": 323.0,
     "updated": null,
     "trend": "🔴"
    },
@@ -606,40 +615,40 @@
      "tone": ""
     },
     {
+     "title": "Fusion CX acquires VA Platinum entering its Australia 16th deal",
+     "source": "Outsource Accelerator",
+     "date": "07 Sep 2026",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CUkdaSHEzV196UUpOV01lYk1mNW5ReWFpeGFUMUtOay1aYWQyVDNfTW8xSFlFSzJkLXZOZ3lCUkNuNHNPMGpodkFGSGJSTHZ2dlNFYklCMWo1UVBjN0VvaFVhRmdMM21JOUhaVA?oc=5",
+     "tone": "good"
+    },
+    {
      "title": "Fusion CX Obtains HITRUST i1 Certification, Validating Enterprise Cybersecurity and Data Protection",
      "source": "EIN News",
      "date": "20 Jul 2026",
      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQX0MtR1V3dUZLUXloMlpoamFvYktxYUtPSjU4cFRLMFVudVhZbE9uckhQNndiemhiNEtjdEZvRnpyLWViUHdvN2c1WjM0SjM3b3pYMF9MVnN5bFdnaDVnUmlDTENRREZ4WmdZZVRfS3daVFhqZENBN3g4MmVDUWZ6NDBJaEY0Q3c5OFFsRWVVa3ZnNkhjU2Z0bjJ5R1JVSC1INnpyU2NnWUFXU2NIZWVjVUZqaEt1OGl4OTJJU2pKcTNkVC1BLS05bGZhLTdacUNacDVob0dCbw?oc=5",
      "tone": ""
-    },
-    {
-     "title": "Fusion CX to invest Rs 100 cr in Bengal Silicon Valley IT campus; over 9,000 jobs planned",
-     "source": "Daily Excelsior",
-     "date": "29 Jun 2026",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdS1fTmtHcU9LSWY4MWdBRG8zckdGcVdPSEZ4MDFZY1hXWmsyWFhSZGw1bGFmX0cxYi1yMm5oYzZPTmdUbHNFanZTeWhLOGV0SWQ2RlNYT3A4UVlhQUdaanJtaHV2X2RrejN4WHAtRVMyN0FMSndfeUhKSU9mZTRBak1STGdScS1KcU10a3BJSkJsMGQ1dW40V1UxX2tXek5vOEFINHRRak5WMUdhVW54ZlF1RlhaSkx1cWtV0gG_AUFVX3lxTE1YN1M3S2JKazZkRVJHbFR5SVQ3U0dyWHdkRmVtNElaenhyRWFoMG10YkFOaTlXODl4WjZodFJMUWhtOE1ydDZJSnZkd05DZl90eVJndFMtQkkwZG5XM0hzZmxNTTJtc3JsNGZDTXcyQ1pYZmtOV2RkQ01GcERMN25tTmp4ZlFtMFNBSWRVM1I0NEE5YTNyU0lnMURROUJETjc1VUszVTFMVXZrSF9qOHlJcGZyM0tLcjd4dGVjcHln?oc=5",
-     "tone": ""
     }
    ],
    "news": [
     {
-     "title": "IPO GMP Check: Tonbo, HD Fire, Bonfiglioli, Zetwerk, Fusion CX",
-     "source": "Univest",
-     "date": "13 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQcmVxRGprN3B4VUlxeGFTR3FOZ3JYVkZSWm1maDUwQjJwWWp6UGU5RmNZQ1lYYTE4dVJiZEIwWVJsOHhVV3V1YjU1Ry1uUldRSlNWVmg2VGM2X3Naek5EeUM2VWotTWhmYlhneGlYaXY4LWVtV0NhT21KSV9BS2NLNENZOXp3TExfcGNSYVg1cFkyS2s5QUlpVUgwY3haTkpSYWk2MVRSTGVpU29xM0t5aENZeXdsRE5BR0hkYVU4d2RkeV9qWEV0Tl91MXIxbVRwU3JXVGRYcFZJRHFVYzR2eF9LVnRJVDJWSU9nUWFVb2k0S2xQeVE?oc=5",
+     "title": "Fusion CX IPO: Rs 702 crore issue opens today; should you apply? Anil Singhvi shares his views",
+     "source": "Zee Business",
+     "date": "14 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWGZoUkozUDJkU014RXZwVUE5VWJpTnd3MUNoUUhXTWNyQ1J1bmR1RVBDY1RUeWVzUGtPU0NwTFNVXzM4VVlwdlpRa3pNckRuckZCOE54dnNzVmdBYnQwVm8wR0w0clNSSVg2SG50b1VKWjRmYjZlQ3lldWhidjJNQVhGTFVsbDZVYV9SdnBvbm1yWXRkMkFlSUx5dTFiWHlJRy14YUVucGVzeV9VTEFtemw2cVNiQk52QU4yc2QweDhXRjdLSTN0aVB1THRPeGxzSEM5Xw?oc=5",
      "tone": ""
     },
     {
-     "title": "Fusion CX IPO Opens Tomorrow: 5 Key Things Investors Must Know Before Subscribing To Rs. 702 Cr Issue",
-     "source": "Goodreturns",
-     "date": "13 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSkE3ZGkzelktWXBRMEtocm4yczdVVG9PZWNwN2dWOUozZWU5OFhJWnIzcDFFTzBoR0pQTHJrSkRnS1d6cTl2UEViTmloTWJITTNSRVAyWnp2Zm1zY2xfbjdWQko4ejc3d1BlMkIxOGJvMlFOUDFzY0tIelU1NGJ5aWRrdkxCQkNpVDZYUi0zU0RkUk9tLVA5ZGJEOFI5ckhfbWcxeUE0d21kZW9VRkF2YXhJMk1xeGNMNUhxdmJDemJLZWQ2enRzU3NCQlFSa0NHVFp0VjJoTm9ET1E?oc=5",
+     "title": "Fusion CX IPO Subscribed 12% on Day 1 So Far; Retail Portion Booked 52%",
+     "source": "NDTV Profit",
+     "date": "14 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNlpqZFQxWXRuYkVFNm44aGU2QnZMNWlZd1dZX2l6b2pxQnBWd21FN2NLREZmZlJVTWhCeHQ0NkpPNUx5T0hfT0Z2WWQycjhWZFg3Rk5KTFMyYm9ZNFB5Wk9tc29oZEFPZzA0bTNaeXR2TENHdEhNcThsNzVqWTJjUlh3eTdveFE4b1MtZVFqS2RXXzRod0ZManBTZlpuZ3RqZ3U5bVdacVFBU3NYSzROQWJQWHXSAbwBQVVfeXFMT1VjVVViM01SOTR6NXZvTU5TUFBJYU0wVE1INmhDNkVPZTJqVHBJSFJvRDhUSm1KX1prWmJ5aVZPWWxYbk5hdHhlQmlrM3hJWEpSVFRDcHFCOGs2SExPZFgxRGVRYlhNVmROdmQyZS1YbGRYZ0IxNDFJUnhlNWFWVFhmdllhczQ5LWhUbjFBblQxazk1X3NWZmkzdGx4Nlk1QWdfaVUzVzNPZ0RRb1pBXzFaWTAxdVZTa2V2Yno?oc=5",
      "tone": ""
     },
     {
-     "title": "Fusion CX IPO DRHP: ₹1,818.14 Cr FY26 revenue; 22 Fortune 1000 clients",
-     "source": "scanx.trade",
-     "date": "13 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeFRxQ3hmTElrak5UeDhSdnNkN2w0QUN5NEhiazJCZXRwZWhUZXJhUkFXMmhac3Z5WkYzRzJDT1RPdkhfeVhZTVJNdENrTGtkRUdfekVPNHFNOFBpZXE5WjJrdWJKMzBHVWRzZG5FeURfZ0VYNVNkSDRLZENlWUIzR1E2bWdYWHVPSjc4enVkU0MtZENfbVJpZ2ZvZW84REVVNHl0Q1VnRUo3Yms3Qm9VZ1E4Rk5uNWVoclE?oc=5",
+     "title": "IPO GMP comparison: HD Fire Protect vs Fusion CX | Check subscription status, listing share price prediction",
+     "source": "TradingView",
+     "date": "14 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQMmZ6b0FCd3czTWhTdldJc2hONlpDSHR4M2ZYRFllenJCcWVzX3RDQ0g3b3ZZVU5sSDNTNHlnRkpacXY5OWVic2VUdzJtQ0h5MnBzdnhSQUJaWFFmWFh2MEFneURmTF9GYkhhZmNfX3ZWdkRlQzlWZEY5WXF6N0NsUUlzVzlfd0hkc3ZTd2ozNnItMS1oQWMyWHk5UmxaSWhQaElHUGlNYWlZS2pTaHhOMzludEtZZ1lHM3ZCdlVQZFFIZmpONjNvLXJJU09KbXJVNUlGaGw5WW83ZDJqRzNwbVNxYnAxbjlHY3ctSlpxN0N2Q1E?oc=5",
      "tone": ""
     }
    ],
@@ -792,12 +801,30 @@
     "Comprehensive electro-mechanical engineering capabilities.",
     "Specialised experience in offshore and data center operations."
    ],
-   "status": "upcoming",
-   "day_label": "Opens tomorrow",
+   "status": "open",
+   "day_label": "Closes in 2 days",
+   "subscription": {
+    "as_of": "Oct 14, 2026 12:34",
+    "rows": [
+     {
+      "category": "Qualified Institutional",
+      "times": 0.37
+     },
+     {
+      "category": "Non Institutional",
+      "times": 0.16
+     },
+     {
+      "category": "Retail Individual",
+      "times": 0.35
+     }
+    ],
+    "total": 0.32
+   },
    "gmp": {
-    "gmp": 4.0,
-    "gmp_pct": 3.57,
-    "est_listing": 116.0,
+    "gmp": 2.0,
+    "gmp_pct": 1.79,
+    "est_listing": 114.0,
     "updated": null,
     "trend": "🔴"
    },
@@ -826,29 +853,31 @@
    "business_news": [],
    "news": [
     {
-     "title": "Ravita Engineering Opens ₹116.05 Crore IPO, ₹491 Crore Order Book Supports Expansion",
-     "source": "Free Press Journal",
-     "date": "13 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOM0pZVjJnRDdRSGRMWHRIMHBBNi1ma01aY1Z4WGtpNGZZclVuUDh3blA3TlM4U09KV19FYTNxLUZ2R2tiUWVYOWZfZ2pwVUg3MDJ6c1p4RUd5ZkU4a3pMVjJUSVhzSENWOU5lLVkyMnEzeG5iSEJxY2g4Q0QzTnIwOXVkUzQ4QVh0OTN6TkFSU3hNQnVPNG9FR2dPdjZSdklzLVFCdS1oR1VqVU5FXzlMRHdDdjdYRm9xNkFXajNR0gHDAUFVX3lxTE1nWFBGWjI5RURmaGZPVG1JNjZZU3JraEowVmJyeE8ydGV6RjNjeUxxR3hnb09GaTZ4Sm5mc1VQYXM4Yk5fOWZUVEtqOTY0eXkxdmlUNUJyazJJWU8zLUVhVTJhalpvZTNXSm1LSUp1Y0pndF9hT1cwRzlQZndlLUNQMWVmSnA1ZS03Um9CcTRaTkdveVhhRTMzckNobjFwZXZEZmNiZVZ4bWJhOGctSG96NTYzU2FZZVk4SUFRTVRHSlRiUQ?oc=5",
-     "tone": "good"
-    },
-    {
-     "title": "IPOs open today, October 13: HD Fire Protect, Vaibhav Vyapaar, Ravita Engineering; Fusion CX opens tomorrow",
-     "source": "SME Futures",
-     "date": "13 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTG1fZmlwQ2Q2Wk1QTU55VHlLcGx0dEtyYjJ3ZE95RTVDZmFQcG1yNGFvdlAxb2ZYbm0zbnB5MnFBNnM0ejFzSnIwaFBWZTBFQ1FVWGw2UDBwZUNKdFNiUGtJb3Y4dm9TYmRkZ284TElQUXhmZ05zdEFkTXdhaFZrMWZ3enNjWW5jcWRGNHg4MjFOYjdDWVFRVzh0WG9HekhvVnlDMnM3U0d4TnNlSFdNLW1jUHNJOHhseGZUdDJ1SGxINk13?oc=5",
+     "title": "Ravita Engineering Services IPO Day 1: Subscribed 0.11x; retail leads at 0.17x on opening day",
+     "source": "scanx.trade",
+     "date": "14 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWXFmd2tZb1diUDljNWlWb1NtMWlhLTdzcmRxX2dWTTRRVWJsb2xET1hCQXl1a1Q5TDlNd245QWstd0ppRjk4bkplclp4YldoaUhYazRHd1Ixb1pfVDNDaFYzVjdtTHpXVGxlYzdKNGpNcEw4WTl5d2s4MnpPeFQweS0tZHpXTG56cFp3MThfSC0wZ2xlWnFaVS1LYW56NnNMTzRkb3dzTy13U1F3YzBNNzF3UXdiT1dtaHJwTg?oc=5",
      "tone": ""
     },
     {
-     "title": "Ravita Engineering Services IPO Opens October 13 with Price Band of Rs. 105–112 per Share",
-     "source": "First India",
-     "date": "12 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPc2xvMnJZYjZkZWlrSHc5RTBWNnhJMkh6YXJlaF8yUHFpRjFMN0FYdGIxS0o1Z2RITUNnb1RQc0JoTjVyTnpUT21UMnNsSVlQVmtubEFjS1FxRmFXUWNBWTdyVHZaMXJYUXFGdkQyOHlWOUVSN2FFbVZIdlZJRXI3dWw3cUMtUHJ5c0U3UHJYRU9lcThtZDZBU0p0Q0RsN3lCdU91REt5Vkhoa0xmdkg2U05lQzBOVk9jZmUyZ2NkS2hvQnFGYmRUbU45U3JPYTFxTXA4b1BWekJlalZN?oc=5",
+     "title": "Ravita Engineering Services IPO Day 1: Check subscription status, price band, lot size and key dates",
+     "source": "Upstox",
+     "date": "14 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPalROR3RmZXFhcV83X3kyOU5yY0c1bXdTTmlLdmxJa1FtMUZzX085OXRrUmhTZmxhZ3JFWHJBOFRCVnVYTExjM1FtaEJ3SDhNZU5zMmdPVjZ2TXRvaHVyUWVuRGpZQ3NJQUtOSjZPbjZZUWtNRl9kSHpfUHBaQ2t6enAzUVZvZlJQRGhKa2lfWk90Y2RJNmdQbmJOZFRVYkpqbzlacEM0Uno2Mng4NUlXWTVNV2JtVE9ZOEJPWW1ub3dvRkx0MmNzUFFseWIyWmNHeGNPSW10dC15RnlncDVSUXZfX2QwRnd3?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Ravita Engineering Services IPO opens today: Check GMP, price band and other key details",
+     "source": "The Economic Times",
+     "date": "14 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZzhveUZSQm4xcC13TUNPUi1HeV9GYVdWRFgzelJmU1lXOHZkaHdvb1VReng5RmphTDFRLVU2a0FtRFNTSWZTaGlOX3VsWXRZbFp2SG1lT3A5T2tCaERreHVTWmFoWjlYMWJlbGJDelpWOXlZN0VhdFFpYy1vMVZScEtxOVpxaFNuSWllT0U2RW5lQVhoekZDbl9kdW80T292Mmt3Mm5VbGVFWEdEcHQ0WnlsbUh5NmFnM3Nhd2tRQmJQWUpTMlRHT2syeHljTEdvakczZmdYTVFEZlhVZnI0X1dRRG1Ua0xUV0VwcDd4SdIB9AFBVV95cUxNVjIyQi1WRUlkdzY4RlQ3WlRyaHYtU3cxOV85anZYNkU0WC1fdWdYenY4MjM1UGJJdVJoZU5aNkJIVUVYWWtPUUFhY0g0RTV6eHlWME4xOTNYZ3BLcXItdEJyTmJDTDN2RUNwak10RUZ5TmdDM1BGUUpIVnJRRXdCTDlmNFJuSjkycHQ3aXJCVklWVFZUd1VmOWhNcm82UllrcVpuR0FXaFZYN0lWTlNOWUdkekJDWnRlU0hVWnMzaWt5NlNVaVBpUFJpRU5MUkktX2NDWE9oUzVhdVFtaGFMZl85c291aHhMMVNkZ0lFU25IbDlH?oc=5",
      "tone": ""
     }
    ],
    "key": "ravita engineering services"
-  },
+  }
+ ],
+ "upcoming": [
   {
    "chittorgarh_url": "https://www.chittorgarh.com/ipo/tonbo-imaging-india-ipo/3215/",
    "name": "Tonbo Imaging India",
@@ -950,7 +979,7 @@
    "reviews": {
     "Subscribe": 0,
     "May Apply": 0,
-    "Neutral": 0,
+    "Neutral": 1,
     "Avoid": 0
    },
    "legal_name": "Tonbo Imaging India Ltd.",
@@ -981,11 +1010,11 @@
     "Experienced management team with deep expertise in defence technology and product development."
    ],
    "status": "upcoming",
-   "day_label": "Opens in 2 days",
+   "day_label": "Opens tomorrow",
    "gmp": {
-    "gmp": 427.0,
-    "gmp_pct": 61.0,
-    "est_listing": 1127.0,
+    "gmp": 500.0,
+    "gmp_pct": 71.43,
+    "est_listing": 1200.0,
     "updated": null,
     "trend": "🟢"
    },
@@ -1024,24 +1053,24 @@
    ],
    "news": [
     {
-     "title": "Amansa Investments, SBI Mutual Fund, others invest ₹413 cr in Tonbo Imaging ahead of IPO",
-     "source": "BusinessLine",
-     "date": "13 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOaWlBYUZPcjZKTXU2Sk1DdHhpcDRkYzB0NjFaUlZLczZTYWNqMkx0XzhyZTRndDZJc2wwTU50bE50QmFpWHZQakhMbHFIZ3p3eHhFdWZ2TGEwczVSemw1LWhjZVBuVkNoX21tNjBKdVpLSHZIeWJoZ044ODItbE1IbWl1OGN4THdXRjZ0N2hqOEFuc3ZGU0lRWHZFV09Sd29YRXBHcDdBT2V6QjlDdmw3Y3poWDBaXzBFUzJyQUJLdThHOXZySjh0MU1PRW11VmtWWXdDVHJSLU9KV2JzQnNPX09ZWFHSAesBQVVfeXFMTmF3Q1U0NXVyWmlmdFp0cWtFbC1lOWtiRFl1cFB0MG1nUkZNQzdaY3JjcWNvQm1NTjdKQ2RBSVdHZUJRYnNHVG5fVzBOT1FfekpNZjB1enNFTmhRVzRod2hEamdNNDRYM2NtdTY0eWp0amUzVUl1VnRIQmNRaEZreDZVQlZxQkdYVktteGtzMy1HU0tkUHZzMnBvdkhPcXVPejBmdF9IeV9wRHBTYk1WU1pITHo0djJ2UkpXTTlBa0s0a2tTRWZibm04RFRvLWVzMkViZzBUWnNXby1Fdk9HZmRKUE1MeDlYelM4TQ?oc=5",
+     "title": "Tonbo Imaging Vs Fusion CX Vs HD Fire Protect IPO GMP Today: Check Expected Listing Price",
+     "source": "NDTV Profit",
+     "date": "14 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZzc0a3NRcUpQTG1hZUlocjJzSmFqTXRIbm1neXo0TFpfWkt2dmwwQzNOSGVFMDU1Y1JvUWFDRUdPSm10aXFnNGV4ZFZhel9pYVh6dHR5T1dVRzlYdHFaRVcyZlBucE42TGZqNWdiV2RKNEIzbExmN3RMX29aVHNqbHFPb3BIeWxaMzM5aFZQOHgzcmR1Ry1abDB5MmhjMEl4WFVxMnI4VVFWaVFnRzRxLTdJU3pINjcxVGkxYVRDek1LYzVvd09oMTd1UkJ1SjBpSm5qZUJsOG44Z0nSAeMBQVVfeXFMTWwxeVdrQ3BUUUljbndVS1FXWmU5VU5pZU5Gb0FGLU1iTmpKX1lqT0tORmJ6aTNYcTU0UHY3QzBnelg3LUJ3M0JwMTRWTEFNYVBfeExLTlEwdXYyU05sTDZMY2J1NW5pZ2lvb1Q0eVNfRXpRMjRtVG9UazhPN1M4cFVRWUtWVzVYQ25xcGFXSGpPS2pMWGltNUdacW9fMmo1cHVNMjh1NUd1X2hpc1drMS1ON2dEdzVNOFl5d2kyZmJWQzVkTC1DM2djUG0zZllONC1qQzBzNXRfdU9lZFFBdFdmc0k?oc=5",
      "tone": ""
     },
     {
-     "title": "Tonbo Imaging IPO: Business, Offer Structure and Risks",
-     "source": "Kalkine India",
-     "date": "13 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNb2x4UU5FTmNIaDhVclM4ZlA4NVhGdFJRR1JZVFEySzdhN3h5Y2t2RWFWa25WWXZWZDFVZFg1Sk5zZWx1ZWlmLXhjV203Sm54b0l2eDdLdTVJOEl5bGRDLU9hNGRieDByeUU2NWJUOHFJQzEwU004MDREcmEwbGFyYjdPTUV5UWRzUWZ0WnZlTHpRQk9sLUVrV1gtZkpBWDQyYkhYN0NMUWZJVVQtaElWS0pDc05PUEdZYTVaX201d3NNSXNnZG44anIzbldGdGN5cmdpZ2tReEpIVW9TZFdZdVRaNGxXZFM0WDdfVQ?oc=5",
+     "title": "Tonbo Imaging India IPO GMP Today: Grey Market Premium At Rs 490, Listing Gains Estimated At 70%",
+     "source": "NDTV Profit",
+     "date": "14 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYW8zbUxQd0FEUlJwdW45cV9Ib2lCbklPTzJlNFdWN0VLdEFXUkZEdGNURFNJSlFrdkQyNGZEbldjeUJicl9mYThCS0U3M0NfWmEzcHl5TTZNb2hsQ291Qi04UlFNYzh2dGpzNUtSQWlhS2J4d2FRdWhEeDlVWWdQakFCN20xVkNYbVdsV01Na0hJN0ktUU1EdkM1RHZweWZrTjNGcDZ5b3EtTmUzWFctNXFZZ2d1aW13aXpiNGh3MEVCcENlbVh3NE1walI3R2R1ZVdj0gHbAUFVX3lxTE9rYUdzbGJZYnRpWDFfdHV1QzdSclZFakltNmxuYlZqMUM2YXQ1d19jQnFVQWZzUGx1eDFLc0JkWU1XQ3k0QmlkN1lwckxMZlRzeDdhQUVCb21jejNXa2NLeEx4VERpVExFdU1PSy15bk5Nem1WNTJxTDNnd19BLUt2bDljdnplcEpmcFVqb2NoSE1FVGlvWUJ1NFpNV1hHbzd4N3p3WlJfRHhGbXU3UFNrcXotOUpQVjhxYUJicFBxZXZOVFMxUkF4a21sRmdMYVphVlBwcy1yS2Y0cw?oc=5",
      "tone": ""
     },
     {
-     "title": "Tonbo Imaging IPO To Open On October 15, Bringing Defence Technology Into The Stock Market.",
-     "source": "TRIPURA STAR NEWS",
-     "date": "13 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWnFfMDh2Xy1qZ2JIVjNCdEJVUHh2d1JPUXUzX1dmY0J0UDdjQmthRlVXM0tDSmRGa0VmR3FRdTdNcldiNDFBRDFZX3BCVXM5d1NvSktaZWEzeUpwakFLSDA5UndfS2QtLTVtUVF2cElXcmJieG9yemRteXN5cEhBQ3d4QmYyZ2xGNUdQSWoxdVFqQzBOelI2d2RnbS12VHVSczhYdWhIdXJ6RmhYR1lKTnQ0Tkh5WldBSl9SWWlNbw?oc=5",
+     "title": "Tonbo Imaging India का IPO 15 अक्टूबर से खुलेगा, Price Band ₹665-700 तय",
+     "source": "Business Remedies",
+     "date": "14 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQamNoQlJ6TUpxWXBvR1pvVGZfNWZZYWVEclViZWdwcWtxSjktV3NaSDcxdU1DVDFiZ0QwazlRdUJNcFlmVWNrenZ5WjVqM2hTRVd5N0xWdExfNHU0bG0zR3ZOM0dYcGlpbDZ1c0tnZzNEWEpXQmhCT2licThhVnU2SXV4WWJycmZo?oc=5",
      "tone": ""
     }
    ],
@@ -1132,7 +1161,7 @@
    },
    "objects": [],
    "kpis": {
-    "ROE": "13.24%",
+    "ROE": "25.66%",
     "ROCE": "18.62%",
     "RoNW": "23.96%",
     "PAT Margin": "11.90%",
@@ -1147,7 +1176,7 @@
     }
    },
    "reviews": {
-    "Subscribe": 0,
+    "Subscribe": 1,
     "May Apply": 0,
     "Neutral": 0,
     "Avoid": 0
@@ -1181,13 +1210,13 @@
     "Experienced management team delivering strong financial performance"
    ],
    "status": "upcoming",
-   "day_label": "Opens in 2 days",
+   "day_label": "Opens tomorrow",
    "gmp": {
-    "gmp": 155.0,
-    "gmp_pct": 26.45,
-    "est_listing": 741.0,
+    "gmp": 180.0,
+    "gmp_pct": 30.71,
+    "est_listing": 766.0,
     "updated": null,
-    "trend": "🔴"
+    "trend": "🟢"
    },
    "ipowatch_url": "https://www.ipowatch.in/bonfiglioli-transmissions-ipo-gmp-today/",
    "insights": {
@@ -1206,24 +1235,24 @@
    ],
    "news": [
     {
-     "title": "IPO GMP Check: Tonbo, HD Fire, Bonfiglioli, Zetwerk, Fusion CX",
-     "source": "Univest",
-     "date": "13 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQcmVxRGprN3B4VUlxeGFTR3FOZ3JYVkZSWm1maDUwQjJwWWp6UGU5RmNZQ1lYYTE4dVJiZEIwWVJsOHhVV3V1YjU1Ry1uUldRSlNWVmg2VGM2X3Naek5EeUM2VWotTWhmYlhneGlYaXY4LWVtV0NhT21KSV9BS2NLNENZOXp3TExfcGNSYVg1cFkyS2s5QUlpVUgwY3haTkpSYWk2MVRSTGVpU29xM0t5aENZeXdsRE5BR0hkYVU4d2RkeV9qWEV0Tl91MXIxbVRwU3JXVGRYcFZJRHFVYzR2eF9LVnRJVDJWSU9nUWFVb2k0S2xQeVE?oc=5",
+     "title": "Bonfiglioli Transmissions का IPO 15 अक्टूबर को खुलेगा, ₹558-586 तय हुआ Price Band",
+     "source": "Business Remedies",
+     "date": "14 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPR1BFbWdqQTFGYUJJalJCT0dkRmRibEhnS3MyQUlGNWh6TU52QzNVTGxleWVkNkNFVjlpX2NPYTZHbWJpb0k2R2ZtRW1haGZhZmF3QkhSSDJIeE1EdUt0bnNxbUpoakFIWjVidGRQNGUyMkVobHRzS01jZUJWVkQ4ek1vN2R5TmdIRzdNVk40eGY?oc=5",
      "tone": ""
     },
     {
-     "title": "Bonfiglioli Transmissions IPO Explained | MD & CFO on Growth, Valuations and Outlook",
-     "source": "Business Today",
+     "title": "Bonfiglioli Transmissions Limited’s IPO to open on Oct 15",
+     "source": "DeshGujarat",
      "date": "13 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPY1p2YkxrT2ZTaUl5Y1JITHdoVE11ODVBYlc2UG9BaTUwMzhPQ1paQ2RiNTNUWW82VWVkOEljWFo5V1JYaGx0SUY5WFhRdlV0Q2pTcG90cWtNa0s3ckFmZ3B0OXIyYmo3eUVFWTZ3eDBVMzlSX2c2eFRrYzN4R0FRYmw4b28ydmZIMk9BSjVZU0pEaXNjaThWUDIxQUpUOGszZFNzVkdFMUM5Zm9FSFZHV2VWZUVCRWZIVHhkVHRseFd6c2VtX2Mxd1V6ZUtZR1V4Y2xFUnplMW9MUFIxSy1ld1ViWHh3WjZVanZF0gHrAUFVX3lxTE9jWnZiTGtPZlNpSXljUkhMd2hUTXU4NUFiVzZQb0FpNTAzOE9DWlpDZGI1M1RZbzZVZWQ4SWNYWjlXUlhobHRJRjlYWFF2VXRDalNwb3Rxa01rSzdyQWZncHQ5cjJiajd5RUVZNnd4MFUzOVJfZzZ4VGtjM3hHQVFibDhvbzJ2ZkgyT0FKNVlTSkRpc2NpOFZQMjFBSlQ4azNkU3NWR0UxQzlmb0VIVkdXZVZlRUJFZkhUeGRUdGx4V3pzZW1fYzF3VXplS1lHVXhjbEVSemUxb0xQUjFLLWV3VWJYeHdaNlVqdkU?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRm9BdVhOTlhxMjZPSGNIcnNfWHVpNFBQb0dHTnUxdndONUk3OTRRYkVOck02WG9HSEJaa0lHYTV1U216OUZ1a3pSZUJZdFN6RnF1RUF1MjhFSFNMamI3aW5TeTVTOHdWc3JUVXppaFc5ZjhWQXZZWDYtUTZhZnVpMWNjVVRBYXVodTRYMXVKcnhMaTE4dHF3?oc=5",
      "tone": ""
     },
     {
-     "title": "All You Need to Know About Bonfiglioli Transmissions IPO",
+     "title": "Bonfiglioli Transmissions IPO: Check IPO date, lot size and Price",
      "source": "HDFC Sky",
      "date": "13 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOXdJSG1YZG9EMUU5OXdobUtuaWFiX1RVTzhCWjFrUmJFWlBBODVkcGc3R2RGRHJwRHFTYWNnN3hQcFUxMFVXU0ZjU2lZb2ZwRlNOaWRwN00zQzdsc2pBRjhFSHIteVVXNVlsR3E2ZVRwRnVaVXl1VXkyZ255cHdOajlXd3RxVGxTZEwtbGF1c2VMTnJw?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZXzYxTXZoTkk4VlM4UUFObVl4aWZtSjlEMTZoaWpkc0Y2dXoxMkNDNUdaLXI2T2FEZmlsRWpKTC0tbWlySHNJc09rQ0ZBekxBMDlmMHl3b3Y1dzlvTWw3V0FVVQ?oc=5",
      "tone": ""
     }
    ],
@@ -1351,7 +1380,7 @@
    "reviews": {
     "Subscribe": 0,
     "May Apply": 0,
-    "Neutral": 0,
+    "Neutral": 1,
     "Avoid": 0
    },
    "legal_name": "Zetwerk Manufacturing Business Ltd.",
@@ -1365,11 +1394,11 @@
    "about_lists": {},
    "strengths": [],
    "status": "upcoming",
-   "day_label": "Opens in 2 days",
+   "day_label": "Opens tomorrow",
    "gmp": {
-    "gmp": 18.0,
-    "gmp_pct": 11.92,
-    "est_listing": 169.0,
+    "gmp": 23.0,
+    "gmp_pct": 15.23,
+    "est_listing": 174.0,
     "updated": null,
     "trend": "🔴"
    },
@@ -1400,25 +1429,25 @@
    ],
    "news": [
     {
+     "title": "The business behind Zetwerk's ₹5,000 crore IPO",
+     "source": "LinkedIn",
+     "date": "14 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSVRWdF84SUVQeThQY0dWUk9VSWpFaVRlUHg5cmR6SmxwVnU4SjJOSV9xR08ybFdHLS1jbGx1NVVLVElRRGRCdzVZbmVidURya3p5em9rUXZneWxHSVhfeW5vSU9xLVQwLWI1Ylk0VGtudmVLTmdfTlpJMWRzdHpZM2VfS1V0WHM3V0xxLQ?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Zetwerk IPO: This ‘Zomato-style’ manufacturing marketplace plans to raise ₹5,012 crore; issue opens on October 15",
+     "source": "Upstox",
+     "date": "14 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNM016Y2J1RW5ydVlFWTdvSlhiRkxWYm95QlJ5bHQ3QWw5LUxTUFF0U18wb21Xa3NRZnpob0h6bGtMWHRtUDBRQWdCaHR0REdkRHhJY1BXTkhUZWhFVlgxLVdnOTU3ODMtYWgyQ2NzcXctOFl0RTBpZDM0eUFfS1B2S3Z2VWwtcWZMTkFjb0g3MzgyM0hOS3FwUUJETGg1bkl5SlQ4WHk1ZVZKNXRYaFJlQUktSm5VUTNGVHNXVkJpNUhZNVozSUNKNlFEZC0ySUV2ZzlETmVCa3hwX3BJNF9QYzlham92MmlsRmpDdVlYWFV5cmRaWFo0?oc=5",
+     "tone": ""
+    },
+    {
      "title": "Zetwerk Manufacturing Business IPO: Check IPO date, lot size and Price",
      "source": "HDFC Sky",
      "date": "13 Oct 2026",
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91U1lwQVVhTFVXS2lTVVpDcjdOZWM0dGhjYTN4ZGpOYVNDUnpsOEp4bG41ZldYeWJteHZUUndYbzhOdVpMUWZvdmpyeFNlSERJUlJGZTRUVHNWRy1SR2N3MjFmeW5oa2I5S2c?oc=5",
      "tone": ""
-    },
-    {
-     "title": "All You Need to Know About Zetwerk Manufacturing Business IPO",
-     "source": "HDFC Sky",
-     "date": "13 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdHh2VXJZVV9pWFNPYl84TUoxUGNPbFVjM1poRXVOWGpPTlkyWHgyV1pGYXVsSHlGZWliTmJvWTgyVk00aGhmeDh2WWZYZTQzaUZmbzFoT00wOTNwbmdVUms4UlZXVnc0UW5Ydm5OOWR1c0dsSFFYbjlPTUlrdFpybW14TkV5a1gzR2FkNk5fdUUyNllEM0RmQmluSQ?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "IPO GMP: Zetwerk vs HD Fire Protect vs Fusion CX vs Bonfiglioli vs Tonbo? Check grey market premium winner",
-     "source": "Livemint",
-     "date": "13 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYng1dGpJSVlDYVp4S2xwUklxZzNvUEJwX2F5akhJVDV4Vy1PNWhCZWtCR05PTjNjUk5SOEJvRFlKOUxaaFpjcnB3ZXpfc1JILWxtQl9JQXl0MVJDQkh6NkszcFBjT01XQVNGQkkzeTZvdTFNdl9sczBaQUNyTjR6RWFtSGJpR1ZZcDRTM1Z2WnByUzBXT0hOMlJaREpwcGFXVDJXTE13eW1ZODdsNlMzNW13c3l6MWZhQlZGWWlaMFdXUFNFQXZUXzFXOTFnQjFqZktKOEhPcFBrclZUQ2MtWlpuVkJqaTFSbHlpNVhLMHFfd9IB9wFBVV95cUxONnMxWk9URkk3QWw4NHVyd2xtRDNHRDhmMDkwUWw3V1V2Y0thX2JuOWhrbDhuRkVZSm1lQ2ozZnE1UUIwTGt1RjJkU0p4YnJiM0c3Wm5WYjM5eXZXd0RMNlJaQ2V5ZXhYdGNWeGl3NkZRbnZKZ1UtRmE5aGR2NUlEcmxSZUVuOUwzZzF6ZzcycGdvZU8tdHg1T2VRTUFUQXJaOGY2d01IdkxTN3FQMW1iNWJSajM4cUVmdUlhWU5pYmRONDk4SEhXRnRHWFF2OUVRaWJLa2tMeU1iY0x5SEUxR2pNZmNuaWZjaXR4QlRNcUJZaEJ2THpn?oc=5",
-     "tone": "good"
     }
    ],
    "key": "zetwerk"
@@ -1525,7 +1554,7 @@
    "reviews": {
     "Subscribe": 0,
     "May Apply": 0,
-    "Neutral": 0,
+    "Neutral": 1,
     "Avoid": 0
    },
    "legal_name": "Sahajanand Medical Technologies Ltd.",
@@ -1556,11 +1585,11 @@
     "Experienced leadership team backed by reputed institutional investors."
    ],
    "status": "upcoming",
-   "day_label": "Opens in 2 days",
+   "day_label": "Opens tomorrow",
    "gmp": {
-    "gmp": 36.0,
-    "gmp_pct": 10.46,
-    "est_listing": 380.0,
+    "gmp": 42.0,
+    "gmp_pct": 12.21,
+    "est_listing": 386.0,
     "updated": null,
     "trend": "🟢"
    },
@@ -1609,24 +1638,24 @@
    ],
    "news": [
     {
-     "title": "All You Need to Know About Sahajanand Medical Technologies IPO",
-     "source": "HDFC Sky",
-     "date": "13 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbzQ0RC1qZDI2TlNmVklFRWw2OWwxZE8xVldXRmJaUUlwT3B0bk1iRDA4VFZINE41dmdudVBwZlg5cHZINXJYanZCRy1TWmhpbXdTbHdOSHBLZXlvUWZRX1o4ZGxrSHE3MUtZWHI0eEpwcnFRbmpkOWl2d080QXYtU1NJZlFzRGVOeG5XdEJUS3hsd2MwZ2hXZkYwQ2g?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "From Heart Health To The Stock Market, Sahajanand Medical Technologies Makes A Big Move.",
-     "source": "TRIPURA STAR NEWS",
-     "date": "13 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcWsxcWpfbWUybGxNSWhHNEkyQmE3Zno5U0JnMG9Rdl9UNTZLb0RBMm04XzlEeEktUmdNSXRERXJ5RDE2Wm5MVktfV21adW9vdV9FQVpVa09PMHNCOHVOUno2QWtpZDZ1a1prc2VCbVlfSl9yVjByUG1nVHR4T2Q0SXVBdXZ5M2RKdjVxVE1pdmV0cHUxY1VUZlBQUTRkeTl1N3kwbnlKSUNjQk5FeWpSMmZBMnJmUzlqV2pB?oc=5",
+     "title": "Sahajanand Medical Technologies Ltd IPO",
+     "source": "Moneycontrol.com",
+     "date": "14 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMXJCQ3B2aVJfcjItRXdZbGEzOUFjTHg5NjZZenNJbGgzNUtfazlkOEt6aUxObDBReXY4WXRrZ3ZOWHRUYzBYOHZTeWdRSGlKMjFzU2dZNUZKWXlaaFFIVGgzUEt2V0hoV0FxZ2lrWllSOFFYcU5GWnN6RHhBdk93WFQtbGVia0NyVjUw?oc=5",
      "tone": ""
     },
     {
      "title": "Sahajanand Medi Tech IPO Price Band @ Rs327-344",
      "source": "https://www.fintechbiznews.com/",
-     "date": "12 Oct 2026",
+     "date": "13 Oct 2026",
      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQamNVaVA2WWVlNDd4d0hiX3VCa1ZrTUtpOFNNLV96ZnVpaFdXYzBEVWU4ZGFmd2FzVEpWLW5TWlZsLVBibEE3UzljcFBmRTBVazk5TzdjSnVrdlpzLUVCTlpCTEhQY1hkLV9DdHNIX09SSlZfaXR0TjdPMzdMMHJzN25WZmZONjVnUmF1c1JYZUx4RG96TnRrbkdtVTlldw?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "IPO GMP: Bonfiglioli vs Tonbo vs Sahajanand vs Zetwerk",
+     "source": "Univest",
+     "date": "12 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMzJxQy1UanRRTVZOTHdSUE9IbVVnbFZXeC1aVjY0MGZTc19rNVpPWGZtd296c2dUWk0wVm1GN1pjbVhESVVvNGItTFJDVkJwSl9SY09jWmxFSG9fS18zVF9KV2pWVHRudFYyeEtqQVpzTGE4aHJNcEVaTDV2Qm11RHliaHk3UnhQZXlTLTZnbTBEUG1Md0NnbUtsSG1YRll5THBmamoyLTRmbDFDNkhRUl9Kc0VLUQ?oc=5",
      "tone": ""
     }
    ],
@@ -1774,7 +1803,7 @@
     "Integrated in-house manufacturing capabilities with a focus on scalability and process control."
    ],
    "status": "upcoming",
-   "day_label": "Opens in 2 days",
+   "day_label": "Opens tomorrow",
    "gmp": {
     "gmp": 0.0,
     "gmp_pct": 0.0,
@@ -1807,24 +1836,24 @@
    "business_news": [],
    "news": [
     {
+     "title": "Shellz India IPO DRHP: ₹45 crore fresh issue; FY26 net profit ₹13.37 cr; 59.52% CAGR",
+     "source": "scanx.trade",
+     "date": "14 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSkhKMlJBX0RaSFpTa0Q3QmxzS2laX2RXTS1iaXM1NE1pWUJqYU4tak0zb0JnVzNVZDF0U0NMMHZ6NjBYRHk3VUw0X005amxTSllKM0ROSFRnR3BOSnNMbXMzaWVCM0s4MF9nUXpRVy05RWxiWFlXcFVxUFRDZlppaVhyVm1KVFZIbHFWb2FHU3N2R0dSQTlCNG5CaEszNXZWYWVYN3dxTGkxYV9ldGRmMEtObDMtLWY4LVE?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Shellz India IPO: Check IPO Dates, Price & Lot Size",
+     "source": "HDFC Sky",
+     "date": "13 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ObC1QT0dNc1pjbXBCSTM3R0RlM2tEQ2V3OXhKNW95U3ZLbGVxSzFaZ2o4SDBRS1dFZUVDY05SRGtEOXhFQnRxZXU3QVJORW1hX2R1Y0dybw?oc=5",
+     "tone": ""
+    },
+    {
      "title": "Shellz India plans ₹60-crore fund-raise via IPO on BSE SME",
      "source": "BusinessLine",
      "date": "13 Oct 2026",
      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQS1iNm8yaGduOU5yYmVUNXJQb0gyRWlDVGx2QXVkRFZlWldlR0dJTXZyYzh1QUtSWXVMWEUzQmpDZGJPcU80TXMtSUVxNWVNNzJmRm9FS3pnb0ZkT2FwMVUyUTdJa1I2RWhEM0pxZXdERHNRd2hvVWJ5Nk9ZWUtFWkczNDJPRDl6S0pyaDlkUEx6Nm9YdEFrcFg0RmdEb2FtY0JUNVFoaTNOY1ZEdl9odFZpNnliZjN6clcyVlB6UdIBxgFBVV95cUxPM2tKaE05TjBOYzFpdHR3NGFDLXprZUpXRlVlTnhvRzB3eFRwMkRJdDQyM013aFVwelRmbEppMjk1dUtWMlZITHVLU3Q3a0hteEQyUUVwY0psTEtUcU51bjRsTTFRMUh0UlByTGNkamxSbDF2VThWc19sRWxqSTBSUmNhdkRXWk03bkNqbmxONzFNbHZSb2RBVW15ejM2QkdSY3pNY01OcUtlOHEySldxNjRyQmdvQXM3aHphaTBHYjhrU3h2NlE?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Chocolates and treats maker Shellz India to open IPO on October 15, sets price band at Rs 170-179 per...",
-     "source": "Moneycontrol.com",
-     "date": "12 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQa0ttVzAtaHVoS2xXSzNoYWFrWGxfalg2MEZLZ19MVW92OHlneHlxQTJ1Tk9OOTMtb2lTaXVBSlNNUmlWSU1YRkstLVF4d1otNl9sNTVVQ3gtT0pXamtSQ0gtcktNMmY5bkxHaUFvUllUaHNqY2ExMFI4c2JZVWdxUjJhNTBuOVh0UGlGMVlRYzZybmVNWGR3YzJBUG5BMmFzVy1rXzRRZDIySmQzZkhHc2d1Ry1sX0tnYXJjeWZxY282WExNUHBMMzBXZ0JlYzItZjdjaGt2RkhFeVZWQzIyelNvV00zMkE1WFRqanV2Y25EUUI4akhvS1k4TGIxSFV60gGAAkFVX3lxTFBrS21XMC1odWhLbFdLM2hhYWtYbF9qWDYwRktnX0xVb3Y4eWd4eXFBMnVOT045My1vaVNpdUFKU01SaVZJTVhGSy0tUXh3Wi02X2w1NVVDeC1PSldqa1JDSC1yS00yZjluTEdpQW9SWVRoc2pjYTEwUjhzYllVZ3FSMmE1MG45WHRQaUYxWVFjNnJuZU1YZHdjMkFQbkEyYXNXLWtfNFFkMjJKZDNmSEdzZ3VHLWxfS2dhcmN5ZnFjbzZYTE1QcEwzMFdnQmVjMi1mN2Noa3ZGSEV5VlZDMjJ6U29XTTMyQTVYVGpqdXZjbkRRQjhqSG9LWThMYjFIVXo?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Shellz India IPO 2026: GMP, Price Band & Details",
-     "source": "IndiaIPO",
-     "date": "12 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ibG9INWpTbkk2c2ttcUhzLU9MUjJmcFJFU0xna0NoZmRUSHVJcUV5MC05Y2E5d0ptOVE0OEUxc3NmWEdkVWFnTTN6SVBwNEYxWjFiRkY1UjJkMGtDaTdJ?oc=5",
      "tone": ""
     }
    ],
@@ -1929,9 +1958,9 @@
    "status": "upcoming",
    "day_label": "",
    "gmp": {
-    "gmp": 200.0,
-    "gmp_pct": 17.87,
-    "est_listing": 1319.0,
+    "gmp": 220.0,
+    "gmp_pct": 19.66,
+    "est_listing": 1339.0,
     "updated": null,
     "trend": "🟢"
    },
@@ -1954,6 +1983,13 @@
    },
    "business_news": [
     {
+     "title": "Fastly Expands Partnership with Jio Platforms to Power the Next Generation of India’s Digital Economy",
+     "source": "AiThority",
+     "date": "13 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZzRlUjBvdlQ5cGZjWUZlVWVIaEIzbUZ1dW1vZUExeTk4d0ZKQkVnSkpsSDlNNFlBMjhmLVZQTHZuVnRITlowaThSN3Zqb1lwTUtNVjJzdGUxNFEtUTYwU3BleXFScmR3SWZqNlhDS1VZSmZScXpKZlhUbVRGWXphQjMxS19Ec0JUaEJYMnNKZmE2R3RLc19jSEJxcVJsdjJKSmdQeHhPd2NfZHZ5ZkJfNDdlaVk5N3FUb0RVSDQzNVUxbWFUMjNnRjJyeE0zUGt5R2M3U0tuakpmTTA?oc=5",
+     "tone": "good"
+    },
+    {
      "title": "Jio Platforms Targets Bigger Enterprise and Digital-Services Play",
      "source": "Kalkine India",
      "date": "07 Oct 2026",
@@ -1973,36 +2009,29 @@
      "date": "05 Oct 2026",
      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdkd1LXRSczlSMHBOSFh3Yzd4aElSMkJuNVl3bWZtd0RYZTZzcXJiLUc3X0UtQzFBMHJmVmxrRVQ4Z2R0dmpmWTVPdVpaRkEwVDRzd0dLMVpWMWpoSEZuMFhqU3NLMnlfdENfOEVpOWJubkE5cjRRMXlaajZqY3Z0VlZSU3ZwVzNKODcxSUNJSWNKcThDVXBiakZ1YkU1b1MzLTdoQnQ1cl9YenFHekRrdUFjQkM?oc=5",
      "tone": ""
-    },
-    {
-     "title": "Jio Platforms Q1 revenue rises 12% YoY to Rs 45,961 cr, ARPU improves to Rs 215.6",
-     "source": "ANI News",
-     "date": "17 Jul 2026",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNa0VQRHZYU1pIQlBHZ3Y4WEIxVnplZ245dzRPZFFpclJGQURUOU5pcTRSOGF2MmRuX21wc0VqRmFudmJrS3p5RVRLSTVWXzhwMlJRR2t5b2YyNkN2WUxtYzNRb3F3blBYNVdTanlCcjdTR0RIMXdoYmdGbmlaajJ2eUswRkxvdjN2ZXduOUd6dDZ1U0lYVUVUbndQb0ZHZHN3MmpmSUJGeVNybEVhTXp5cUFNNFlaelFtcmozNU9kWTJvRUw4QWlZ?oc=5",
-     "tone": ""
     }
    ],
    "news": [
     {
-     "title": "Jio Platforms IPO: Why Religare sees re-rating in Reliance Industries; check target, upside",
-     "source": "Business Today",
-     "date": "13 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeHFjdVR0UlVtLUpXUkhCM0liN3I5bG5pUzlFeENieDFnMlR1Y1plSGZlT1FCUEFBalRJZUF5Z25qeXhVbmpWUGdlWHdITnh1dnU3NGY1QnFPV2FEMV9teTh4S09KY3BmOWlhZFpWdEtZeEMxbGFhNElGMzBNUXVOeEVYX1hXbE5Rb1pNRmcyQ0ltUm9iUlktb3Q5T3B2SWEwa2NhZGh4Y1FmS0VCZEV6REo5UGQ4aWFVUDNIUHdRYTN0VGJyMHBUNUVWUUR1RGVYT0dsNTVuSHQyOGlYdnBLVFBtRTVCY3dPWXJBVNIB8gFBVV95cUxPbjRmY3hjS2REdF9EQVZZWUFzWkZsc1VKLXlCbUZwZ1lxUjgtd1MxdzJvWjlSd2Q1a1l5anU5bVRtTV9VUWV5Z2o3RG03UXQ4LXJaV2pNNVlzN015cTNiRDVSRU9oVkNwYzBmMzZLa3NDa0NDOU9iWGlvZzRVU19vT1Q1MDVEVkY5ZkFfeGNzdkJtdDlaQnJwOHZIMTN0RWJEbjhxTkdPaVQ1Z0pGb2lna3oyeDFiUkcwUkVIbjJlalVqR3oyYTljQVVSZDlEX3JQR0N6bmdNUTJ3WlE5TVNKckotS2FtU3Fhb2huQkR2dGJWZw?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Jio Platforms IPO likely to launch this month: A look at its strengths and risks from DRHP",
-     "source": "Upstox",
-     "date": "13 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcHhUeWkteFdhTzJuazNpdElPX01ndFBrZUpPclZNdlBXS0lPdWpBbzFGMlc3ZXYzcy1BN01wSk9BSmtJS2dabV8wT3lKT0xPRUtZN2NueGFHZVd5d3ZTU2E0dmdWTE1RMHpfOU5uUUJ6WXN4RkJSSVBBV0hJT05BMUlJWkpPVk5zYVI3VHlEMzNBYjNBcXdjNUdjdmlRYXdxN3U0Z3RqMTFQUE8yWGxBcURQbWVVZmh1WU5nRm50Z3NQRGtMbHV2S2I1OFJ5VXlENXo1RFpUU3VqNW9N?oc=5",
+     "title": "Jio Platforms’ Record IPO Inches Closer, RHP Filing Expected Today",
+     "source": "Outlook Business",
+     "date": "14 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYUg5M084TWYyaXpqZENZTGFHT2xEOS12UXZ3NDhwYjhQZWc2b1V4NXhqTmhsM0tVbjB4TEhBNEhiczJsMU9xbUp6b3FvVkh5ZHg3UjF1TTZ6dm1vb0VtOUgyd3VRN2Vsd0lEMWJycjVIRWJDNWVxMG56Q2VMWS1QSXlFanVXT0Y3U0Z0eU40RXBKR1hLSE1oT1RjRWZzb0xuT1B5a2NQd9IBtAFBVV95cUxNbEFmSEdQdW9jSTJTbmFKTE9HYUg4dFpfVjA5UlNyTXgxbEs1RWVkR2RESi10NnlEZ3dlb212MllNQTdsMnVQeGdXRGVQZWtJYmk0YU40MjRXSGhJWHMyczJaNzJvV1FFa1BuMzE5N3BNc1F5T1ZybE9pQlJhSUdmT2tKeXphYXVmTThqcm5oZkFER3VCLTN5ekxGMHluWUJiRUhTM0s3Wlg0OEtONUtHWjdGRGM?oc=5",
      "tone": "good"
     },
     {
-     "title": "Starlink dispute adds pressure ahead of Reliance's Jio Platforms IPO",
-     "source": "Traders Union",
-     "date": "13 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQUlQd3NmNlZmVy12U0dGYkEwak94Zlh6SnN6YkdfcGF3eEFVSUIwdnZYNmJjbE5TbHFxU0p4LVA5MG5QU1UwVHdEeFl0NlJBVEY3TlJnb3VUUVhvUXFfdnRDaFVUb1Ffa3hlc0J0aGc2X1N4UElfbE5wdy1BVUtKQk1kMjYyNk5UQ3hsQ2I1YnN1U01JSk40?oc=5",
-     "tone": "bad"
+     "title": "Jio Platforms Said To Attract Over $20 Billion In Bids For IPO: Report",
+     "source": "News18",
+     "date": "14 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR2Q3NXlKNmVkS2RXTU1BdGRNX1RZRWZpVTFwYjY4NkJCdzBCN1lfZmRxQnZhZFNGdmVEX1ZkNWJoS1NtZ3h4QUhlclVBTktHWlFOQVhaczZLNWNCUTlEQnB2eHd1UGg2SUQtemJHTm5mYVZFSmVZdlJ6OFFUVERwQTVEQ1h3Q3JYNFlUUmZQaEU3RkpwVms3cGhaWTZxbnAxOFBwXzcxYWwyeS1kVlQtTkJKUVpuazlYZ2fSAb8BQVVfeXFMTXpNc0FiMUY1QkI4WENIZTRxdktQVi1ZcGlHSFpXVnJhWm1NdXRwRkdJWHFwTHI3a25EQVpScXNkNUd2S1JSLTY5T2dQN0tmaF9WWEgyNXkzSDhvdk01aU15ZEdGTXlKc21aZjdKYXFzZHBncjlCNGZBYjlqV1VoSnJ0eXBjeWZWaksyZy1lQjVlMDVCa3ZnZTZPald4OUY0QUtQVjFXTU85N0NjZVRQd2lzTjFYSE9fNkxmQ3dSaDA?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "India’s biggest IPO in the making? Jio Platforms IPO attracts over $20 billion in bids; GMP surges to ₹200",
+     "source": "DhanamOnline",
+     "date": "14 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWE9rdzlIeHUyZkg0ajJ3Ukl4TW1zbHBKdEZWUFczY0dDRTlHMC1GemxsZmNDQUpqZ0l4MF9KVTNXSUU1NnB0eE9fSWFoMHp6OWlDaU9TMGd3NGxqZVd2Q0dqdE9KRWh2TS1telBqZWZNYUNyUDRhXzVjMzUyZktvUDJ3c1B4RFBjdTQzZThrQkZKYWRqak1TM25OWlpaYnBETEcwemZaWlh4RnRDWmVzZ1VRUHEyUWxNWGFTenlYdDJsZFpvS2ljNFpHQVJKMnZweFEzZkNKZmFYaTZDTWMzOU0ybWo1QXhocElWOdIB-gFBVV95cUxPVEFHWDdVdXJaX1lNbndwdU1vOUtTNHFLRFNYN0paaDByRXFJeS1wT2hRSVpETUFSeExXb1RmZXJaTEZPbERHTm16VDBKMl9qU3NWWEg2M21YRUh4YjFaOFowMm5qTjc1WV9mM0RwNGpfVF9hMVNiMnBvWGM0X0N1clZNYklscFhQU2I0QTBPRHlsQmJOcV9NaTh1ZGtuN3Ewd0s1TXFhY0dxY1dsV3B5Q1FlckRKU2s0bERUNW5oNzRGMGZieEFMQkg2N1UxbXFLV3lIZC11UXQ5RF9zRE9DSER5bVRyWHRTN3hsNkdLNXN0c2M5ak9vSXh3?oc=5",
+     "tone": ""
     }
    ],
    "key": "jio platforms"
@@ -3906,8 +3935,8 @@
     "key": "jio platforms",
     "name": "Jio Platforms",
     "type": "Mainboard",
-    "gmp": 200.0,
-    "gmp_pct": 17.87,
+    "gmp": 220.0,
+    "gmp_pct": 19.66,
     "status": null,
     "updated": null
    },
@@ -3915,8 +3944,8 @@
     "key": "bonfiglioli transmissions",
     "name": "Bonfiglioli Transmissions",
     "type": "Mainboard",
-    "gmp": 155.0,
-    "gmp_pct": 26.45,
+    "gmp": 180.0,
+    "gmp_pct": 30.71,
     "status": null,
     "updated": null
    },
@@ -3924,8 +3953,8 @@
     "key": "tonbo imaging",
     "name": "Tonbo Imaging",
     "type": "Mainboard",
-    "gmp": 427.0,
-    "gmp_pct": 61.0,
+    "gmp": 500.0,
+    "gmp_pct": 71.43,
     "status": null,
     "updated": null
    },
@@ -3933,8 +3962,8 @@
     "key": "zetwerk",
     "name": "Zetwerk",
     "type": "Mainboard",
-    "gmp": 18.0,
-    "gmp_pct": 11.92,
+    "gmp": 23.0,
+    "gmp_pct": 15.23,
     "status": null,
     "updated": null
    },
@@ -3942,8 +3971,8 @@
     "key": "sahajanand medical",
     "name": "Sahajanand Medical",
     "type": "Mainboard",
-    "gmp": 36.0,
-    "gmp_pct": 10.46,
+    "gmp": 42.0,
+    "gmp_pct": 12.21,
     "status": null,
     "updated": null
    },
@@ -3951,8 +3980,8 @@
     "key": "fusion cx",
     "name": "Fusion CX",
     "type": "Mainboard",
-    "gmp": 20.0,
-    "gmp_pct": 6.92,
+    "gmp": 34.0,
+    "gmp_pct": 11.76,
     "status": null,
     "updated": null
    },
@@ -3960,9 +3989,9 @@
     "key": "hd fire protect",
     "name": "HD Fire Protect",
     "type": "Mainboard",
-    "gmp": 86.0,
-    "gmp_pct": 31.73,
-    "status": "Open",
+    "gmp": 91.0,
+    "gmp_pct": 33.58,
+    "status": null,
     "updated": null
    },
    {
@@ -3978,8 +4007,8 @@
     "key": "ravita engineering",
     "name": "Ravita Engineering",
     "type": "SME",
-    "gmp": 4.0,
-    "gmp_pct": 3.57,
+    "gmp": 2.0,
+    "gmp_pct": 1.79,
     "status": null,
     "updated": null
    },
@@ -3989,7 +4018,7 @@
     "type": "SME",
     "gmp": 0.0,
     "gmp_pct": 0.0,
-    "status": "Open",
+    "status": null,
     "updated": null
    }
   ]
