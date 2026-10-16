@@ -1,416 +1,7 @@
 {
- "generated_at": "2026-10-15T13:11:48+05:30",
- "generated_display": "15 Oct 2026, 01:11 PM IST",
+ "generated_at": "2026-10-16T12:57:47+05:30",
+ "generated_display": "16 Oct 2026, 12:57 PM IST",
  "open": [
-  {
-   "chittorgarh_url": "https://www.chittorgarh.com/ipo/hd-fire-protect-ipo/2628/",
-   "name": "HD Fire Protect",
-   "open_date": "2026-10-13",
-   "close_date": "2026-10-15",
-   "ipo_date_text": "13 to 15 Oct, 2026",
-   "listing_date": "Wed, Oct 21, 2026",
-   "face_value": "₹ 5 per share",
-   "issue_type": "Bookbuilding IPO",
-   "sale_type": "OFS only",
-   "listing_at": "BSE, NSE",
-   "type": "Mainboard",
-   "lot_size": 55,
-   "price_band": "₹258 to ₹271",
-   "price_high": 271.0,
-   "issue_price": 271.0,
-   "issue_size_cr": 712.0,
-   "min_application": {
-    "label": "Retail (Min)",
-    "lots": 1,
-    "shares": 55,
-    "amount": 14905.0
-   },
-   "financials": {
-    "periods": [
-     "30 Jun 2026",
-     "31 Mar 2026",
-     "31 Mar 2025",
-     "31 Mar 2024"
-    ],
-    "rows": {
-     "Assets": [
-      477.6,
-      432.03,
-      450.08,
-      392.63
-     ],
-     "Total Income": [
-      114.07,
-      505.12,
-      450.68,
-      392.02
-     ],
-     "Profit After Tax": [
-      23.87,
-      116.79,
-      109.72,
-      87.92
-     ],
-     "EBITDA": [
-      29.73,
-      150.46,
-      138.01,
-      106.63
-     ],
-     "NET Worth": [
-      null,
-      375.93,
-      396.01,
-      342.19
-     ],
-     "Reserves and Surplus": [
-      309.93,
-      286.07,
-      302.59,
-      332.19
-     ]
-    },
-    "unit": "Amount in ₹ Crore"
-   },
-   "objects": [],
-   "kpis": {
-    "ROE": "6.13%",
-    "ROCE": "8.36%",
-    "RoNW": "5.97%",
-    "PAT Margin": "20.92%",
-    "EBITDA Margin": "27.26%",
-    "NAV": "22.82"
-   },
-   "valuation": {
-    "EPS (₹)": {
-     "pre": "6.66",
-     "post": "5.45"
-    },
-    "P/E (x)": {
-     "pre": "40.69",
-     "post": "49.72"
-    },
-    "Market Cap at Offer Price": {
-     "pre": "₹4,748.73 Cr.",
-     "post": "₹4,748.73 Cr"
-    }
-   },
-   "reviews": {
-    "Subscribe": 11,
-    "May Apply": 1,
-    "Neutral": 1,
-    "Avoid": 0
-   },
-   "legal_name": "HD Fire Protect Ltd.",
-   "about": [
-    "Incorporated in April 1997, HD Fire Protect Limited is an Indian manufacturer and supplier of fire protection equipment and systems, offering water, foam and gas-based fire suppression solutions. The Company offers a comprehensive portfolio across eight product categories, including sprinklers, alarm valves and accessories, deluge valves and systems, foam equipment and suppression systems, monitors and nozzles, water spray nozzles, custom-engineered systems and gas suppression systems. Its products cater to industrial, residential and commercial applications, including oil and gas, refining and petrochemicals, power and energy, heavy engineering, aerospace, pharmaceuticals, data centres, hospitality, healthcare and other sectors. The Company develops a majority of its products in-house and focuses on proprietary designs meeting national and international standards.",
-    "The Company has over three decades of experience and has established a global presence, with exports to more than 90 countries since inception and 49 countries during the three months ended June 30, 2026. It was the first Indian fire protection equipment manufacturer to receive UL Listing for deluge valves in 1996 and the first Indian manufacturer to receive FM approval for a range of low-expansion foam system products. As of September 2026, it had 21 UL Listed and 87 FM Approved product certifications. The Company operates two manufacturing facilities in Jalgaon and Thane, Maharashtra, covering approximately 8.50 acres, supported by a fire test laboratory and R&D capabilities.",
-    "The Company has supplied fire protection equipment and systems to 2,066 customers in Fiscal 2026 and has supplied products for major projects including the Samruddhi Mahamarg, Jamnagar refinery, new Indian Parliament building, Saudi Aramco's Ras Tanura Sea Island site and Oman's Integrated Power & Water Plant Project. Revenue from operations increased from ₹3,729.53 million in Fiscal 2024 to ₹4,892.81 million in Fiscal 2026, representing a CAGR of 14.54%, while its order book stood at ₹1,586.01 million as of June 30, 2026.",
-    "As of June 30, 2026, the Company had 279 permanent employees and 253 contractual employees."
-   ],
-   "about_lists": {
-    "Competitive Strengths": [
-     "Strong product certification and quality track record.",
-     "Advanced design, manufacturing and R&D capabilities.",
-     "Experienced management team and qualified personnel.",
-     "Comprehensive fire protection equipment and systems portfolio.",
-     "Track record of profitability and consistent financial performance.",
-     "Strong and diversified customer base with long-standing global relationships.",
-     "Well-established global presence in a certification-driven, high-barrier industry."
-    ]
-   },
-   "strengths": [
-    "Strong product certification and quality track record.",
-    "Advanced design, manufacturing and R&D capabilities.",
-    "Experienced management team and qualified personnel.",
-    "Comprehensive fire protection equipment and systems portfolio.",
-    "Track record of profitability and consistent financial performance.",
-    "Strong and diversified customer base with long-standing global relationships.",
-    "Well-established global presence in a certification-driven, high-barrier industry."
-   ],
-   "status": "open",
-   "day_label": "Closes today",
-   "subscription": {
-    "as_of": "Oct 15, 2026 10:59",
-    "rows": [
-     {
-      "category": "Qualified Institutional",
-      "times": 2.2
-     },
-     {
-      "category": "Non Institutional",
-      "times": 87.05
-     },
-     {
-      "category": "Retail Individual",
-      "times": 15.61
-     }
-    ],
-    "total": 27.02
-   },
-   "gmp": {
-    "gmp": 91.0,
-    "gmp_pct": 33.58,
-    "est_listing": 362.0,
-    "updated": null,
-    "trend": "🟢"
-   },
-   "ipowatch_url": "https://www.ipowatch.in/hd-fire-protect-ipo-gmp-grey-market-premium/",
-   "insights": {
-    "metrics": [
-     "FY26 income ₹505.1 Cr",
-     "PAT ₹116.8 Cr",
-     "PAT margin 20.9%",
-     "Income +12% YoY",
-     "PAT +6% YoY",
-     "Post-issue P/E 49.7x"
-    ],
-    "flags": [
-     {
-      "tone": "good",
-      "text": "Profit up 3 years in a row"
-     }
-    ],
-    "partial": "Period to 30 Jun 2026: income ₹114.1 Cr, PAT ₹23.9 Cr (part-year, not compared)"
-   },
-   "business_news": [],
-   "news": [
-    {
-     "title": "HD Fire Protect IPO Subscription Status: Issue Booked 24.10 Times; GMP at ₹90, Signals 33% Listing Premium",
-     "source": "India Infoline",
-     "date": "15 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNN2lhbXNoald4cVpXVnJWQjRSVVVoUW4yMWFWTlBIVS1qLUVVaXVGWld3cFY1cERKUTdZTmxJSjUtYWpyYndGbXU1Vzhnb0hpd1Q4WmE0ZG45cUdaSXVSVXRzZmNNM3drQTg1N1V6bmthV0hBNFowMjYxS21qcndRZVlCc0lYczJmUkJvQUwxaVVleTNTcXFXSFltcnBFalpOR1FVc2VuZG15dmstMjNocldUbWJsTWNNWkw1MGY1NnFNQ3hibkFXM0hTV0IxTFdYaWVUVV8wVQ?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "HD Fire Protect IPO Day 3: Subscription Status, Timeline & Key Issue Details",
-     "source": "Groww",
-     "date": "15 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQdm02S1U0MHh0ZGUwa2txdE9JOWhRbVVrcElRamFXUTM2ZFpMUldtRnlIOUh2WDFPbVlBc1VQNFl0Ti04czFkVXBIaXR3czhWaEt6S0xZUHdFb1RWekphdVVwdGRmaGJ6ckhzMXpvMWoxa09uZXc?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "HD Fire Protect IPO subscribed over 20x so far on Day 3; GMP at 33%",
-     "source": "Moneycontrol.com",
-     "date": "15 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ1JCa2hsdUF5LWJFbG1jNDZfSFRUQXZhNFlnZFhublBra3hhUE9PR1MxMDJVcWtSTFVMSW5JNk9GdnRGRmYzVDNfdDVuT3lvZEdJYXVMbUlzemcyZi04bXYxTWlURTNYcV9IZXdzUERRWnU5NXFaUHg2N1RyN1Nfd2NRZVhKNjFLUFpYRGFNRmpiNGZPLUhoeVN2Q0NZQTlTTEZNa1F0c2tVOTFSd3lITjh3RG1Jc0d0bkNsadIBvAFBVV95cUxNZ1JCa2hsdUF5LWJFbG1jNDZfSFRUQXZhNFlnZFhublBra3hhUE9PR1MxMDJVcWtSTFVMSW5JNk9GdnRGRmYzVDNfdDVuT3lvZEdJYXVMbUlzemcyZi04bXYxTWlURTNYcV9IZXdzUERRWnU5NXFaUHg2N1RyN1Nfd2NRZVhKNjFLUFpYRGFNRmpiNGZPLUhoeVN2Q0NZQTlTTEZNa1F0c2tVOTFSd3lITjh3RG1Jc0d0bkNsaQ?oc=5",
-     "tone": ""
-    }
-   ],
-   "key": "hd fire protect"
-  },
-  {
-   "chittorgarh_url": "https://www.chittorgarh.com/ipo/vaibhav-vyapaar-ipo/3180/",
-   "name": "Vaibhav Vyapaar",
-   "open_date": "2026-10-13",
-   "close_date": "2026-10-15",
-   "ipo_date_text": "13 to 15 Oct, 2026",
-   "listing_date": "Wed, Oct 21, 2026",
-   "face_value": "₹ 5 per share",
-   "issue_type": "Bookbuilding IPO",
-   "sale_type": "Fresh capital only",
-   "listing_at": "NSE SME",
-   "type": "SME",
-   "lot_size": 2000,
-   "price_band": "₹51 to ₹54",
-   "price_high": 54.0,
-   "issue_size_cr": 42.0,
-   "min_application": {
-    "label": "Individual investors (IND) (Min)",
-    "lots": 2,
-    "shares": 4000,
-    "amount": 216000.0
-   },
-   "financials": {
-    "periods": [
-     "31 Jul 2026",
-     "31 Mar 2026",
-     "31 Mar 2025",
-     "31 Mar 2024"
-    ],
-    "rows": {
-     "Assets": [
-      96.16,
-      84.23,
-      55.04,
-      61.18
-     ],
-     "Total Income": [
-      18.15,
-      37.64,
-      25.34,
-      25.46
-     ],
-     "Profit After Tax": [
-      3.01,
-      1.97,
-      1.48,
-      0.45
-     ],
-     "EBITDA": [
-      7.51,
-      10.84,
-      7.07,
-      5.38
-     ],
-     "NET Worth": [
-      47.2,
-      29.19,
-      27.22,
-      25.74
-     ],
-     "Reserves and Surplus": [
-      37.0,
-      21.14,
-      23.19,
-      21.71
-     ],
-     "Total Borrowing": [
-      37.9,
-      46.8,
-      22.66,
-      26.76
-     ]
-    },
-    "unit": "Amount in ₹ Crore"
-   },
-   "objects": [
-    {
-     "object": "Augment the capital base of the company",
-     "amount_cr": 32.0
-    },
-    {
-     "object": "General Corporate Purpose",
-     "amount_cr": null
-    }
-   ],
-   "kpis": {
-    "ROE": "7.87%",
-    "ROCE": "12.44%",
-    "Debt/Equity": "0.80",
-    "RoNW": "6.37%",
-    "PAT Margin": "16.70%",
-    "EBITDA Margin": "41.72%",
-    "NAV": "23.15",
-    "P/B (x)": "2.25"
-   },
-   "valuation": {
-    "EPS (₹)": {
-     "pre": "0.97",
-     "post": "3.20"
-    },
-    "P/E (x)": {
-     "pre": "53.61",
-     "post": "16.25"
-    },
-    "Market Cap at Offer Price": {
-     "pre": "₹106.01 Cr.",
-     "post": "₹152.19 Cr"
-    }
-   },
-   "reviews": {
-    "Subscribe": 0,
-    "May Apply": 0,
-    "Neutral": 0,
-    "Avoid": 0
-   },
-   "legal_name": "Vaibhav Vyapaar Ltd.",
-   "about": [
-    "Incorporated in February 2009, Vaibhav Vyapaar Limited is a Non-Banking Financial Company (NBFC) providing unsecured personal loans to salaried and self-employed individuals through its fully digital lending platform. The Company provides personal loans under the “LoanFront” brand through its mobile application, which supports loan origination, customer verification, due diligence, underwriting, documentation, disbursal and repayment. It provides loans through both direct lending and co-lending arrangements with other NBFCs and also generates revenue by providing application and technology services to other NBFCs. Its lending operations primarily cater to salaried and self-employed borrowers, including first-time borrowers and lower-income salaried professionals across urban and semi-urban regions of India.",
-    "The Company follows a technology-enabled lending model supported by digital verification, credit assessment, credit decisioning and risk evaluation tools. It has been operating its digital lending business through the LoanFront platform for the last six years. The Company was acquired by CapFront Technologies Private Limited in October 2019, following which it continued to expand its digital lending operations. As of July 31, 2026, the Company had Assets Under Management (AUM) of ₹812.41 crore, net worth of ₹471.96 crore and a debt-to-equity ratio of 0.80.",
-    "As of July 31, 2026, the Company had 56 employees, including 17 employees in technology, 11 in operations and 11 in risk functions. Its operations are supported by an experienced management team with expertise in digital lending and financial services."
-   ],
-   "about_lists": {
-    "Competitive Strengths": [
-     "Technology-driven digital lending platform.",
-     "Focus on underserved and first-time borrowers.",
-     "Strong market understanding and customer insights.",
-     "Diversified lending model through direct and co-lending.",
-     "Disciplined underwriting framework and robust risk management."
-    ]
-   },
-   "strengths": [
-    "Technology-driven digital lending platform.",
-    "Focus on underserved and first-time borrowers.",
-    "Strong market understanding and customer insights.",
-    "Diversified lending model through direct and co-lending.",
-    "Disciplined underwriting framework and robust risk management."
-   ],
-   "status": "open",
-   "day_label": "Closes today",
-   "subscription": {
-    "as_of": "Oct 15, 2026 11:00",
-    "rows": [
-     {
-      "category": "Non Institutional",
-      "times": 0.74
-     },
-     {
-      "category": "Retail Individual",
-      "times": 0.69
-     }
-    ],
-    "total": 0.51
-   },
-   "gmp": {
-    "gmp": 0.0,
-    "gmp_pct": 0.0,
-    "est_listing": 52.0,
-    "updated": null,
-    "trend": "🟡"
-   },
-   "ipowatch_url": "https://www.ipowatch.in/vaibhav-vyapaar-ipo-gmp-grey-market-premium/",
-   "insights": {
-    "metrics": [
-     "FY26 income ₹37.6 Cr",
-     "PAT ₹2.0 Cr",
-     "PAT margin 16.7%",
-     "Income +49% YoY",
-     "PAT +33% YoY",
-     "Post-issue P/E 16.2x"
-    ],
-    "flags": [
-     {
-      "tone": "good",
-      "text": "Strong growth: income +49%, profit +33%"
-     },
-     {
-      "tone": "good",
-      "text": "Profit up 3 years in a row"
-     },
-     {
-      "tone": "warn",
-      "text": "Borrowing up 107% (debt > net worth)"
-     }
-    ],
-    "partial": "Period to 31 Jul 2026: income ₹18.1 Cr, PAT ₹3.0 Cr (part-year, not compared)"
-   },
-   "business_news": [],
-   "news": [
-    {
-     "title": "Vaibhav Vyapaar IPO Day 3: Subscribed 0.58x; QIB demand remains at zero",
-     "source": "scanx.trade",
-     "date": "15 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbEM0Y0ozcFdobFZFR2V4YnJ1aVpvZ1NxTEd4cUx1WW5YanFEVkV4bmQyLVNqQmt3Tk1Obkx4aDNwQm5rZVV2WXVkMHZCSk5nZTJMSFpveWF2V2NqeXBfNnRwMURHUlhsNlFMMy1sWnpUMXQxSHNoWVpQWXR4QUJFNnU5TGtJeVBnRjRzbWxqUkN0T2Q4OFpQUjFIUnE5UEYwMkRBR2JGNDFhVlZCeW84b1VvakQ1VUY0?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Vaibhav Vyapaar IPO Allotment Status: 0.38x Subscribed, Check Online",
-     "source": "Univest",
-     "date": "15 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pblJuYXNkLTB3QVJfem1ja2ZGc29nWU9ObjRPalJvTDNjV21qYU9JUU84MHEtZGlYMG82QUF2enhyYjlZRGpWNC1yQ0Uwa2xWYmFDTW1kV05yZXczSUN5TF9mdXN5VkEtNFYwUjRYcVpHcGRQNVQtNTJzX0tCQ28?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Vaibhav Vyapaar IPO Date, Price Band, GMP, Subscription & Allotment",
-     "source": "IndiaIPO",
-     "date": "15 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wQkdsTG1NcmpVNkVJUnVlNmVsVVg2R093TUhfclFfSGpZYmEtSTVTQlBzMkZfcV85RVFVRmZLRTZQV0RLck1fWE8wQ0JXWDE5cl9XejhIVXFsQzNJZTFBQVlZTQ?oc=5",
-     "tone": ""
-    }
-   ],
-   "key": "vaibhav vyapaar"
-  },
   {
    "chittorgarh_url": "https://www.chittorgarh.com/ipo/fusion-cx-ipo/2455/",
    "name": "Fusion CX",
@@ -555,27 +146,32 @@
     "Experienced Management Team: Benefits from experienced promoters, a diverse Board and management with industry knowledge, supported by a skilled workforce."
    ],
    "status": "open",
-   "day_label": "Closes tomorrow",
+   "day_label": "Closes today",
    "subscription": {
-    "as_of": "Oct 15, 2026 11:59",
+    "as_of": "Oct 16, 2026 10:59",
     "rows": [
      {
+      "category": "Qualified Institutional",
+      "times": 0.05
+     },
+     {
       "category": "Non Institutional",
-      "times": 0.92
+      "times": 1.9
      },
      {
       "category": "Retail Individual",
-      "times": 2.68
+      "times": 4.52
      }
     ],
-    "total": 0.74
+    "total": 1.37
    },
    "gmp": {
     "gmp": 34.0,
     "gmp_pct": 11.76,
     "est_listing": 323.0,
     "updated": null,
-    "trend": "🔴"
+    "trend": "🔴",
+    "stale": true
    },
    "ipowatch_url": "https://www.ipowatch.in/fusion-cx-ipo-gmp-grey-market-premium/",
    "insights": {
@@ -601,6 +197,13 @@
    },
    "business_news": [
     {
+     "title": "Fusion CX Ltd. Earnings and Revenue – NSE:FUSIONCX",
+     "source": "TradingView",
+     "date": "16 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuaUNNdmpXNTVMZl9FZXVEbWJqXzNpNXVDQXNqRVU1N2t1OEpPU0ViQkZFbWUyTkZHclFLd01Uc3VaMXQzTVVZQXY0YXlQTkNJcldwWDFNNnFLa2FubjZuVnU4OFg0bDdpZzZNMTI3RnUxa2hHZlpQNw?oc=5",
+     "tone": ""
+    },
+    {
      "title": "Fusion Connect Names Brian McClintock Chief Executive Officer",
      "source": "Yahoo Finance",
      "date": "05 Oct 2026",
@@ -620,35 +223,28 @@
      "date": "07 Sep 2026",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CUkdaSHEzV196UUpOV01lYk1mNW5ReWFpeGFUMUtOay1aYWQyVDNfTW8xSFlFSzJkLXZOZ3lCUkNuNHNPMGpodkFGSGJSTHZ2dlNFYklCMWo1UVBjN0VvaFVhRmdMM21JOUhaVA?oc=5",
      "tone": "good"
-    },
-    {
-     "title": "Fusion CX Named Winner of Two Gold Awards at the US Customer Experience Awards 2026",
-     "source": "EIN Presswire",
-     "date": "17 Jul 2026",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdGpKQks4b3pKQkZHUXRhT2RlTk9rQzljRllqWDVXOG9zOVQzSkhqUXVVWElxdWpEZ1pFbTJ5Q2ZKaFQzOGFoWGtUM2FWeFJtOXFpNGszRlUzT3QyQjlYOXlhZWk1cTRjaVNkUGgtTE9xT2kxWW5wbEVDc2xseFp6S3RzeFpOTjJPM3NqekI4S29VdVo0TmtXc0lMb2EwMzBuZE8tNllUaWFzT2lEU2JMNFdUaDhZNVRYS3JSeGFqUzVfdWkycGZ5LVBB?oc=5",
-     "tone": "good"
     }
    ],
    "news": [
     {
-     "title": "Fusion CX IPO Day 2: Subscribed 0.71x; Retail demand leads at 2.56x",
+     "title": "Fusion CX IPO subscribed nearly 1.5x so far on Day 3; NIIs, retail investors lead demand",
+     "source": "Moneycontrol.com",
+     "date": "16 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQm9yRTBlV0JvcWdVemFuQWVHSUtVeDh5d1JQNlBRMzBBSVBIYkpZUHNZR0tzN21TNWZMQTdOcE4tZ2ZDSTF1T3VXSUV4eF9YWHhiYnJmaW1XY29fN3Q2YzIyRndJSUkzYzhqdC1ab3VsbVdhOEJ1RzIxczRmT09HN2F3YU9sTWM5QWZ2YU5ZT3ZhbEF1a3dSR1ZuejZab0FjS3c4MVRRUHFEVS1NV3VQYWNSTEpqSXd4Znp4WEpnRXZic1Uwcm9SQ2RhUjV5TDNVMUc3cUlxTUpWQjJkN0dfZ9IB5gFBVV95cUxPRDdhZnNkanhjRlBZWWM3cnhoamRKdnVubDNqZDVRX0ZpQ3Fqc2NycUEyOHZKYWhkTDVMWVFOUTFBSEVyS2ZUeDNRWjFHeW9kUHZROVAybVFjUlU4eUZxMFpBbEJSaWV6ajFGYzJIakxvODU4MTBTNjRvb283MlJxTUwwYUMwZ3gxUW9HQjJTNzhhcTN3V3pXcVpIU0pGVjZLcUhJRWpwZTVDVXpEYVVyUDJ4Wk1fbjBrSHZQaTFHUlUwLXVBWHYxUkZXQVhyV0x2NGtjb2RTdW9nQjV2a3dZV1BMLXhjZw?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Fusion CX IPO Day 2: Subscribed 1.10x; Retail demand hits 3.73x",
      "source": "scanx.trade",
-     "date": "15 Oct 2026",
+     "date": "16 Oct 2026",
      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRlpBNVlVc0pxQ1N0QlRSOHBfdkJIQ0NjM1MwWmt3YXEyR1lOWDNYWmpmc0w4YXRJWXNJWUI3VGF5UWVtV3I4ZFdZVjBTTHY1Um1oaHZEMXRCVDlDSGhKRzZKWFJfdy10U0ZyVWFEZzF2RnNWRnJtZnM4MVM5djB3bUN6aTlEMG45d0o5YThCYVV0bVJ2Vmh3Ml9iUUJQNGFUeVpic3c0cUw5UGdJd3ZBT3l6bw?oc=5",
      "tone": ""
     },
     {
-     "title": "Fusion CX IPO Day 2: Subscription Status, Timeline & Key Issue Details",
+     "title": "Fusion CX IPO Day 3: Subscription Status, Timeline & Key Issue Details",
      "source": "Groww",
-     "date": "15 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4ydEdMd3gtWE1FS2ZjNXpMYkFSQU4zRVZRa0xpaGVnYldWOW5yZkdKY2RRUk5MUjhTTnNmM1NVblhTQVYzUXBVMVdsOEt2b3B6ZVJLcl9OZFJ6bUphNnZ4OTFlclhGRTU4VW5JUnpB?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "IPO Feast: 6 issues including Tonbo Imaging, Bonfiglioli & Fusion CX available for subscription; check GMP, other details",
-     "source": "The Economic Times",
-     "date": "15 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNaG1YQjB4eHVpMlhYQnRKQmRQSkkxN182NTdvam94ejR5VUF1aV9vWXhmRUtScGtKYWNEa1VVc29DSUdscEdkTkZ1UXUtbTVVV0w4UUtaQU5UTGoydXdWWFlkZWNBb3N4blk3b2NFTUlrX25BM1c4MHdqa2VNa0wzamVqakpubHVDOGFUTnEwTzVwVkZub2E1OVB5RXppSmVQcVlzZUpCUHZ1TlJRTy1fLW9FR0tLcjkxQm45SnZ5UUt6N2hkcmIzaDNBWkdYaXBfTU5VTXNtLWR6UGdmU3NQWUhFTWRRTk1PclZSTGFQc3AxeS1tLXV6MElvdW82QW0zUVlhQTBWa1lYWUNPaWRHUElLMkgwTmVKVjUyOVZQRWVCUQ?oc=5",
+     "date": "16 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82WjkxOE9IZW0tcVlxR3VDS1lELUR4Y3RzNmFTTFdpak00d1VMWDFNTlBrODdaeVNlYmE0cHgxVHJNTF9EMnZLQU82elkxWjlmTjg4QUxPODg3eVlKb0dESV9VM2NudHJITjBUcnZn?oc=5",
      "tone": ""
     }
    ],
@@ -802,31 +398,32 @@
     "Specialised experience in offshore and data center operations."
    ],
    "status": "open",
-   "day_label": "Closes tomorrow",
+   "day_label": "Closes today",
    "subscription": {
-    "as_of": "Oct 15, 2026 13:00",
+    "as_of": "Oct 16, 2026 11:00",
     "rows": [
      {
       "category": "Qualified Institutional",
-      "times": 1.1
+      "times": 1.33
      },
      {
       "category": "Non Institutional",
-      "times": 2.04
+      "times": 3.03
      },
      {
       "category": "Retail Individual",
-      "times": 1.28
+      "times": 1.75
      }
     ],
-    "total": 1.39
+    "total": 1.9
    },
    "gmp": {
     "gmp": 7.0,
     "gmp_pct": 6.25,
     "est_listing": 117.0,
     "updated": null,
-    "trend": "🔴"
+    "trend": "🔴",
+    "stale": true
    },
    "ipowatch_url": "https://www.ipowatch.in/ravita-engineering-services-ipo-gmp-grey-market-premium/",
    "insights": {
@@ -853,24 +450,24 @@
    "business_news": [],
    "news": [
     {
-     "title": "Ravita Engineering Services launches INR 116 crore IPO, targets NSE Emerge listing",
-     "source": "Prop News Time",
-     "date": "15 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVmVvdFdhSFlyNTFzb1c1b1VZdGhRdkFNa1pQWGpINnhodmplVjBCRHhTQzRtNVBJQ3g2RE95bXRsY0NPSVhxdDBfUlBlbXV6dG00dV9aZjRENW9tZ3c2UEg4OU1OQjRpS2ozT2lvSHoxWjZ1VFVBdGd6SlFxalQxcWJsSHNNT0hUcEYxYzMtMEJoUkZnTERHSFd0TUY4V2pqQ05pUkFQdWpTUXN2OVVyY2xRWGFlOE02dWxHWHRHV3lELXhNYjJTZjE2OVgyUQ?oc=5",
-     "tone": "good"
-    },
-    {
-     "title": "Ravita Engineering Services IPO Opens On October 13; Company Reports FY26 Revenue Of Rs. 277.63 Crore",
-     "source": "Outlook Business",
-     "date": "14 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPYWt6OHhzb054RHJldnBxZk1neTlveDd1cHM4SUJQQzZod0lqTE1RcFp2QXN6R19LVVdYRzcwM092bmRtZ1hYcGdVRmFxTVNYbVpzQkRDNHVwcEZsWWIzUHdNZ2FqVmhwaEE2VGRPal9MZjB0angwWVk0LU9fTi1yb1VRaVRQbUs5XzBRWnZzRnpWZ1VOZndBbl9abGd2SC0wUXlDcEpXWDhIR2JWQzB0UXdScHVDN3hnUXFESmY0MGo4ZC1LSnpnQ2lQS1BiOGFUNGFQdXFkOTNtb3ZHSU96ZGZYYmZOOUpuV1pGRzd4Rm5td9IB8gFBVV95cUxPYWt6OHhzb054RHJldnBxZk1neTlveDd1cHM4SUJQQzZod0lqTE1RcFp2QXN6R19LVVdYRzcwM092bmRtZ1hYcGdVRmFxTVNYbVpzQkRDNHVwcEZsWWIzUHdNZ2FqVmhwaEE2VGRPal9MZjB0angwWVk0LU9fTi1yb1VRaVRQbUs5XzBRWnZzRnpWZ1VOZndBbl9abGd2SC0wUXlDcEpXWDhIR2JWQzB0UXdScHVDN3hnUXFESmY0MGo4ZC1LSnpnQ2lQS1BiOGFUNGFQdXFkOTNtb3ZHSU96ZGZYYmZOOUpuV1pGRzd4Rm5tdw?oc=5",
+     "title": "Ravita Engineering Services IPO Day 2: Subscribed 1.73x; QIB demand jumps 26.7% to 1.33x",
+     "source": "scanx.trade",
+     "date": "16 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQTFSbTJSR2JjTndRMkhiMWR1RlQ4VlpkTGdEb1h4RnRfc3B1RnJHeWVqX3p3emJ2VUc2YVZzSUgweGUteGJsSU5jdmNiUEhMVnB0UmFvRDVaMi1yZVQ5YnMwWUh0bllmX0RwQ1FQSEw4QllNUHgwdzBPXzlTZTdOUzM4WW5WbFZWRGhCVl9Send5RmpxeE9QeEVlWnY1azA5SjVfTmE5aTJVRmVsMGpNNDFDQUpXeXhBSDQ1Zg?oc=5",
      "tone": ""
     },
     {
-     "title": "Ravita Engineering Services IPO Subscription Status Day 1: Issue Subscribed 1.14 Times",
-     "source": "HDFC Sky",
-     "date": "14 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQmM1eVAxQnB4QXZBSm1rWkRWLU9lU3RJME9iZmJYQUk1X011NGpiN250bUlLZFVJalFmSXBac25zS28tRU9KaDlxQW56a3RpclRXWEl3clF2bU1UTXgwMWt6VUROcXUwYmt0OU1kRGFNVHc3UlFFa0VIZEpJY19WNkdXVU5pclBNcUE?oc=5",
+     "title": "Ravita Engineering Services IPO Allotment Status: 1.70x Subscribed, Check Online",
+     "source": "Univest",
+     "date": "16 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPa3l2anVaTXl2bHBBQXBVcWQ0LTBydXBIdmo0SzZtXzVXQ2ZPSmdla0ljVnRha2t4Q3E2YzJrS2dwZWhsX29hYjlkMTY5djM4ZDduTnZ3dEJlcHdscW4xMzF1UnBZUUVudHU5NkFyWnZ0RXdlNVRab2hIUzZXMDYxb1FFTlctcFBFQ3dER1hFRQ?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Ravita Engineering Services IPO Day 3 Subscription Status 16 Oct 2026",
+     "source": "Univest",
+     "date": "16 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU2wyaEY0LUZKMnJNVzRxc1l2dlg3SGU4YUR3Mk9KV0VqcHg0em9JTjhBeDRFWklHNktwSDJyTThocVlkZzJsbGRZWDNubjRjdE5RbW94czdhSERaY3R3N1VyUzBLblB3WDBYdXQ5cjNGLTFPVUtCZzFsdng2Zk9rVmMydlNpOVhCbE10WnZWSElQdzMybEdMb0ZoU3NGZ1lpTDFTVVhnc0R6RG1hcnY1ag?oc=5",
      "tone": ""
     }
    ],
@@ -891,6 +488,7 @@
    "lot_size": 21,
    "price_band": "₹665 to ₹700",
    "price_high": 700.0,
+   "issue_price": 700.0,
    "issue_size_cr": 852.0,
    "min_application": {
     "label": "Retail (Min)",
@@ -975,7 +573,7 @@
     }
    },
    "reviews": {
-    "Subscribe": 3,
+    "Subscribe": 4,
     "May Apply": 1,
     "Neutral": 2,
     "Avoid": 0
@@ -1008,31 +606,36 @@
     "Experienced management team with deep expertise in defence technology and product development."
    ],
    "status": "open",
-   "day_label": "Closes in 4 days",
+   "day_label": "Closes in 3 days",
    "subscription": {
-    "as_of": "Oct 15, 2026 12:49",
+    "as_of": "Oct 16, 2026 11:00",
     "rows": [
      {
+      "category": "Qualified Institutional",
+      "times": 3.93
+     },
+     {
       "category": "Non Institutional",
-      "times": 2.55
+      "times": 8.15
      },
      {
       "category": "Retail Individual",
-      "times": 1.67
+      "times": 4.36
      },
      {
       "category": "Employee Reservations",
-      "times": 3.74
+      "times": 8.88
      }
     ],
-    "total": 1.39
+    "total": 5.06
    },
    "gmp": {
     "gmp": 500.0,
     "gmp_pct": 71.43,
     "est_listing": 1200.0,
     "updated": null,
-    "trend": "🟢"
+    "trend": "🟢",
+    "stale": true
    },
    "ipowatch_url": "https://www.ipowatch.in/tonbo-imaging-ipo-gmp-grey-market-premium/",
    "insights": {
@@ -1069,24 +672,24 @@
    ],
    "news": [
     {
-     "title": "Tonbo Imaging India IPO GMP at ₹500; Issue Subscribed 1.20 Times on Day 2",
-     "source": "India Infoline",
-     "date": "15 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMmpwc2lDZkpsWWdydEZYQUdZS1lCTG9JdW0xTGxIUmlyWkdYajZGa2hON293LThNTzE5a1BkR2JSSlM5UUZIV3lKbEZldzVjT1JPWnFlbGVKYXZFNVg4eG5jRDBDUHB1QVdMelg4c0tvYlVaZVpqNlhTNzFFY3Zjd3N2bDNTTDA0RWhWSFJ4eURfTS1GVGZwYnRJRU02RFNsRVltX0hMN0xqV2t4MWE0?oc=5",
+     "title": "Tonbo Imaging IPO Day 2: Subscribed 5.53x; sHNI demand surges to 13.21x",
+     "source": "scanx.trade",
+     "date": "16 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeFNtMng2Tkp4Q09BUVFOSGc1d253V3dWcmQxQjU4RFVRanRrNERvU0pVZTUwdzIzZDFXMkU3aFVhaFRDQm1KeVdhNXVnUnJPN3lLZjZQTGt4WmlXVzh0RU9kQUptRWd5bGJ4VnVRMjdFdG1xaFZqdXVaRUlZblhYa1h6THNHOV9xZGh2N0JObXZsaEpZS1J4T3h2M1R2dDlOTUJ1UzU3QnJYT3ItalJsUFhxVjhGUXh2?oc=5",
      "tone": ""
     },
     {
-     "title": "Tonbo Imaging IPO Opens On 15 Oct; Rs 852 Cr OFS Puts Defence Tech Business In Focus",
-     "source": "BW Businessworld",
-     "date": "15 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNnliM3FvWkxaMl92ZkNNNXRrd3BLUmplZXRuTEpiZjFOQ2FyT1FPUDFPSmZtSUlLbmZBZ05iUU5EYm05eUNpNENGSTZxTEJiZEdlLWlTM2RWYVBGcE9zOHZnU1N4SHdmeUhicnotalZqcmpQYzJQN0ZuNjYyWTRKOENiYmhtaXFEMmRjT0gwRE41X3haWFYxNVg1NDYyZEJxdnpoT2g1cEcyMGZxOGQwNWE1MmRiQ1JiN3cxWjJxbFYxUnhsUnc?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Tonbo Imaging India IPO Day 1: Issue fully subscribed within 2 hours; how much is RII portion subscribed?",
+     "title": "Tonbo Imaging India IPO Day 2: RII portion subscribed 4.69 times",
      "source": "Zee Business",
-     "date": "15 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQR0xrSXFnakdXQ29aUG5xZklXam9FM1FqSHZxaXpRRTM2c0FrUTFEbUVINDN0YmlNM0JsVXJ3ZEg4LXlVNE9LNDY2NGNTNHdqUEUyTF9IdDQ5Z3R4WFprY0NtanZGNnJaZWoycnFmVHZDalF4ZEE4U2g1ZkZvNl9oSHRfTzktbFgwMExiWlZhNUpGZVZabkh0U3FyR0VwZ212LW85SnA3dDZVSTZIX3lkLW9VaHVMcnJaTVJndTFhdU5KbmQ0R1V0dHVaMDZzU2Q5MExRc1dRYW9vSGlSVW05eEhLQQ?oc=5",
+     "date": "16 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTzJaWTIyQVVfTk13ZHhjcWwyV05CZzlQUjZOQURXNXE0eWRCVjVETG9td2V0T3l2dU0wdkV2dzdkSXM5bFdDYXNJVDBPeGxCWFJHV2x5N1VPWE0tYjByRVZJTkZuMnE5bVNSWG9CdEdqcUFHQU9qLWN4RmRabWZraVVmOGZLcWhYZjBDRzVIRG9CVHg3V1o5UEdFSEMwcF9Ud0dRakVyVWV1bHhTX3c?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Tonbo Imaging India IPO Day 2: Subscription Status, Timeline & Key Issue Details",
+     "source": "Groww",
+     "date": "16 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1aERtQmJCNXBiV3YyVTV5cnRIMGFQUUZCWVdwenI4Wm9abkhsUEZ2SVk0Smp2V1l0RE10NTVpUFlrdzJVZ2RkSnB3YkVHdW54TGYtV05aSzRndVh2LWRna2UzNEc3RjMtYjFDcWh6RFJEc1NVZFhkdnI0Zw?oc=5",
      "tone": ""
     }
    ],
@@ -1118,7 +721,6 @@
     "periods": [
      "30 Jun 2026",
      "31 Dec 2025",
-     "30 Jun 2025",
      "31 Dec 2024",
      "31 Dec 2023"
     ],
@@ -1126,47 +728,40 @@
      "Assets": [
       1495.82,
       1439.46,
-      1387.94,
       1299.08,
       1414.72
      ],
      "Total Income": [
       1139.17,
       2023.59,
-      966.5,
       1861.16,
       1701.8
      ],
      "Profit After Tax": [
       148.58,
       237.87,
-      114.97,
       195.16,
       148.49
      ],
      "EBITDA": [
       223.87,
       370.77,
-      176.43,
       295.07,
       243.89
      ],
      "NET Worth": [
       1034.27,
-      992.99,
-      875.45,
+      975.25,
       860.95,
       801.36
      ],
      "Reserves and Surplus": [
       846.27,
       867.66,
-      750.12,
       735.62,
       670.24
      ],
      "Total Borrowing": [
-      null,
       null,
       null,
       null,
@@ -1177,22 +772,30 @@
    },
    "objects": [],
    "kpis": {
-    "ROE": "25.66%",
-    "ROCE": "18.62%",
-    "RoNW": "23.96%",
-    "PAT Margin": "11.90%",
-    "EBITDA Margin": "18.37%",
-    "NAV": "52.82",
-    "P/B (x)": "11.09"
+    "ROE": "14.66%",
+    "ROCE": "20.03%",
+    "RoNW": "14.37%",
+    "PAT Margin": "13.04%",
+    "EBITDA Margin": "19.78%",
+    "NAV": "55.02",
+    "P/B (x)": "10.65"
    },
    "valuation": {
+    "EPS (₹)": {
+     "pre": "12.65",
+     "post": "15.81"
+    },
+    "P/E (x)": {
+     "pre": "46.32",
+     "post": "37.07"
+    },
     "Market Cap at Offer Price": {
      "pre": "₹11,016.56 Cr.",
      "post": "₹11,016.56 Cr"
     }
    },
    "reviews": {
-    "Subscribe": 7,
+    "Subscribe": 12,
     "May Apply": 1,
     "Neutral": 0,
     "Avoid": 0
@@ -1226,31 +829,36 @@
     "Experienced management team delivering strong financial performance"
    ],
    "status": "open",
-   "day_label": "Closes in 4 days",
+   "day_label": "Closes in 3 days",
    "subscription": {
-    "as_of": "Oct 15, 2026 12:49",
+    "as_of": "Oct 16, 2026 10:59",
     "rows": [
      {
+      "category": "Qualified Institutional",
+      "times": 0.08
+     },
+     {
       "category": "Non Institutional",
-      "times": 0.32
+      "times": 1.02
      },
      {
       "category": "Retail Individual",
-      "times": 0.29
+      "times": 0.74
      },
      {
       "category": "Employee Reservations",
-      "times": 0.69
+      "times": 1.66
      }
     ],
-    "total": 0.22
+    "total": 0.61
    },
    "gmp": {
     "gmp": 180.0,
     "gmp_pct": 30.71,
     "est_listing": 766.0,
     "updated": null,
-    "trend": "🟢"
+    "trend": "🟢",
+    "stale": true
    },
    "ipowatch_url": "https://www.ipowatch.in/bonfiglioli-transmissions-ipo-gmp-today/",
    "insights": {
@@ -1258,35 +866,27 @@
     "flags": [],
     "partial": "Period to 30 Jun 2026: income ₹1,139.2 Cr, PAT ₹148.6 Cr (part-year, not compared)"
    },
-   "business_news": [
-    {
-     "title": "Cleantech Solar to Supply 9 MWp Solar Power to Bonfiglioli India in Tamil Nadu",
-     "source": "Energetica India Magazine",
-     "date": "02 May 2026",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQjFNN2s3ZjNTcU1UNlpLRmtodFhPQlIxYXZZSko2RVM5RXZ1WVRxQlhZSGE3VVJaTHZzaDF1WVB4V3IzbWFwdXBBU2RENHI4SVFzY1JxN3I5dkZUSFFNWmRhOUpfZnFqS3V3bE11SnRxV3E2dU9ScUg5QXJtOXMyT0lrRzFPU2dydGRERjRJRHpYV1NDbl9wWFlKaGE1SUkzcU1vNjljNTJodWg4MmRVT3pQRk5HeW8?oc=5",
-     "tone": ""
-    }
-   ],
+   "business_news": [],
    "news": [
     {
-     "title": "Subscribe for Bonfiglioli Transmissions Ltd IPO; Geojit Financial Services",
-     "source": "Moneycontrol.com",
-     "date": "15 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWllWam5rY05FMFd4S2FCU050eHZES3JPb3FyZFdKa2ExM1lJZXVGcTc0MldYTUYwdEJ4cFV1TFl1NVg3cVlJaHV1TE1TQ29lZ0I5eklSaDQ1dll3NDhmbE1tQXZWZ0doSmFQSndna0JUczh1Qm4ySkJiaVhrTGViRXlYYTBtU0hFckFkUTFfTWFxOEFCYks0UHVtZGZxaG1wRkZ1WTl4cTROcVRJX0hoS2FIbjlydVl5WDVVeXNvdE1nMHd4MUZnZ0hfN08wT3fSAdQBQVVfeXFMTmZReHhld0VRRkY0WnpJVENaZHRPT1RUY2ZVNUZubXZRbFQxN3U5S1ZjbEJVUlY0Wnp1b2x4eFUzSlA0U1pxWHRjNWVseFcyaTZGRE14WVNmTmhkN1VfaGtHTnFGY0pXR3EyeU5VdjljV19ZeEhuT1hzUm5yWE4xSnd0X3dKQ0ZsWWdPZ19mN1FFekIzYmNEbnpNV3ZuVE5zNm9OdHhyYVExX042ckx0am5NWHVFZXQ1R2phMHcxWHA0dHpOT1hITWRBMG94Q0ZLVG8xYTU?oc=5",
+     "title": "Bonfiglioli Transmissions IPO Day 2: Subscribed 0.67x; sHNI demand leads at 1.49x",
+     "source": "scanx.trade",
+     "date": "16 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWnl2bWYxdGo0d3puMjV6MHFCSUhtaUtUOW1GLW9pZ2JEa1hWUW94VXlFd1dBZko1eGhsREYzRlo5cGYwZG1xNkx4M1dtRl8yOTBHeUZ2OUxxcFU4OWlDMVlMNGJPQUJDZGtSYWRnOGFZYld2YXVNNW8xMTJLU1ljakQyZXZEUzdRLTJTSjRQdTdZakYxZl83LWtaUnBCZGJ2T09hUHJrZVBrVG1Sc3B5SWpBRXYyZw?oc=5",
      "tone": ""
     },
     {
-     "title": "Bonfiglioli Transmissions Rs 2,534 Cr OFS IPO Opens On 15 Oct",
+     "title": "Bonfiglioli Transmissions IPO Day 2: Rs 2,533 crore issue crosses halfway mark; QIB demand remains low",
+     "source": "Zee Business",
+     "date": "16 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUHh1YkNuY1BfTFhPQjZMeklnU3kwRmJGWmo0YVU4OVhVX0hLbVZDeFdMMVVIX2tLNnViSEVYR2EzT29ua0VwVURjb2Jad3FBVG9OYzFWUko3Qm9JZGNoRWI0VXE5UXNnWl9NeEdRTGJhdDNGbTdwWjNvS1J4eDZmejVWMDR2OW1ERExWUFU2TG5PQnBUVlpBTFBZUHBNNTZialZldmQ2ZG4zVzd6anVweURsZThFS28zZ1YzYXlsWlB2UzhKQkQ2ekFOWUJKWExZX0pvdnl1cTFudklJNnJn?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Bonfiglioli Transmissions IPO Subscribed 47% On First Day",
      "source": "BW Businessworld",
-     "date": "15 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGtfWTFiay1JM0pXc2l2Qi1XUGliVnFPa19oN0d5WFM0SG9aR0NMUlZQY1E0RnZuVU9iS3JMb0I4VFJJRTljaFNoM3NlMkdXQndsbWN5Z1Juc3dtbG9ybjdjZHpUQW53Q0dtZHVndE4zWTh3azRuQTlYbkYwVkdlal90UG5YLUxLcEx1Y1Qza1E0bnMzVWwzUzk0Sm44NnFHRWhHTzkwTXU?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Bonfiglioli Transmissions IPO Day 1: Subscription Status, Timeline & Key Issue Details",
-     "source": "Groww",
-     "date": "15 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdi1MeXU4Uk5rXzR6bnFFWXVQd2Nid3QxM2lBdXpWZWhKbmxkWWJqMHYyZ1h5TjNCb0phSWozUzNXSkQwNDRkV08wVVdBRmRHNm12V1NDOVFIX0hic2JBbFBpVy1fRVdVbXdfbDlCQ1k3YkNEV2dHYm1WSld6T092dThpOA?oc=5",
+     "date": "16 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb2QtajVfbWswb2ZnQmUwSEs0ZUZvWEdaR2dGVWRyd1JrbHFBeU9OOFE0X3pTMXo3akVKU0FSZks1Sm9TSERmSk5lR1VjZjVYQ0N1UEZ2T19wbzJDQ2gzTEhpczRUakI5SXZFcTBDbEZHakZJX3l2VTc3dHliRHU0MEJrUzNtVzNpcG41LU9Db244QWJ3OWY5cnZKelNQOFlNSUE?oc=5",
      "tone": ""
     }
    ],
@@ -1428,35 +1028,36 @@
    "about_lists": {},
    "strengths": [],
    "status": "open",
-   "day_label": "Closes in 4 days",
+   "day_label": "Closes in 3 days",
    "subscription": {
-    "as_of": "Oct 15, 2026 12:49",
+    "as_of": "Oct 16, 2026 10:58",
     "rows": [
      {
       "category": "Qualified Institutional",
-      "times": 0.08
+      "times": 0.3
      },
      {
       "category": "Non Institutional",
-      "times": 0.03
+      "times": 0.11
      },
      {
       "category": "Retail Individual",
-      "times": 0.12
+      "times": 0.28
      },
      {
       "category": "Employee Reservations",
-      "times": 0.16
+      "times": 0.34
      }
     ],
-    "total": 0.07
+    "total": 0.24
    },
    "gmp": {
     "gmp": 23.0,
     "gmp_pct": 15.23,
     "est_listing": 174.0,
     "updated": null,
-    "trend": "🔴"
+    "trend": "🔴",
+    "stale": true
    },
    "ipowatch_url": "https://www.ipowatch.in/zetwerk-ipo-gmp-grey-market-premium/",
    "insights": {
@@ -1485,24 +1086,24 @@
    ],
    "news": [
     {
-     "title": "Zetwerk IPO Opens Today: Rs 5,012 Cr Issue Tests Investor Appetite Despite Widening Losses",
-     "source": "BW Businessworld",
-     "date": "15 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObXoxbFUzYkFvcE5ZVHJJV1BMODhHQnhrXzY0VmlnN1lCd1VCNk5RUW1GeURpd0V0bnJ1R2o3a0VBcGNBZm9iVFNBY0t3a1dJUUVnck9STDctTHNCVDd5b3kwRjd0NEdLNmdyd0tublc2LTFFNWV4VlRPVWxHaHdwTFdIRFIwdHFNUFBlSXI2VlZlWHAtemFtQV9SRmsxTUVXUkdIYnF6OV9xOEUybFZ1dThxTGhvNnFRSWFoN2N5SGQwT3F5STZBS190NTF3UQ?oc=5",
+     "title": "Zetwerk Manufacturing Business IPO Day 2: Subscribed 0.25x; QIB demand remains weak",
+     "source": "scanx.trade",
+     "date": "16 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNDJxM3B6YU51cTZVNkIzUlVSelNBNndJSThFbklNb0FLNkZNc3FYSlBTaTl3UmV6Z2pLQ09nOUNOU2J3bzF2UDJlNDMxNFNZWE9GVEpIemM5ZGtFWHlJQ1A4ZVRvWi1xbFhNbnByQzZKQl8zZmdaNlBHUW1HYkUwb1RIN1h4VWJLbHZ3TEdkTUw2ZWJzVnBpTmRVQUxFQzNaSEV1WS1ScnE2RmluRkJaNFBOLVlsTkhVS0hN?oc=5",
      "tone": ""
     },
     {
-     "title": "Zetwerk IPO: Issue booked 2% so far on opening day; GMP at 15%",
+     "title": "Zetwerk IPO subscribed 25% so far on Day 2; check latest GMP",
      "source": "Moneycontrol.com",
-     "date": "15 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZlNDeEs0aWRaN3Q1Vlo2cGwyRy1SbEZNUnRWTzd5UkJVanRpdEZBd0RRaXJNVWpZRS0tWHZNbVA0YnNZRWczTVZpdzVuQ1N6dncyNlhYZkRfUWl1MzNTLVVzLXVVOTkwQXhWRXFScW0zbHZHbWtyWjJ4aHBvcWlnSlVjM21CczIwLS0wNzkwbWtZWm5SSEtvT0FMRG10NllYUU84TGpKQ1hzUV9NWDFQdlVSNGFNS0otQlJrX2ZDWENsRWp3VjhZay1xX3A2d9IBzgFBVV95cUxNZlNDeEs0aWRaN3Q1Vlo2cGwyRy1SbEZNUnRWTzd5UkJVanRpdEZBd0RRaXJNVWpZRS0tWHZNbVA0YnNZRWczTVZpdzVuQ1N6dncyNlhYZkRfUWl1MzNTLVVzLXVVOTkwQXhWRXFScW0zbHZHbWtyWjJ4aHBvcWlnSlVjM21CczIwLS0wNzkwbWtZWm5SSEtvT0FMRG10NllYUU84TGpKQ1hzUV9NWDFQdlVSNGFNS0otQlJrX2ZDWENsRWp3VjhZay1xX3A2dw?oc=5",
+     "date": "16 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQV2l2UG82WWRvRURaaVpsd2JRSDRuN0g3RHlSRmt2dnQ3Zms4SkNLTXNib1Raa0lyN21fa2lxV3RDM3VKNXhiNWJJbzlxcF9HUjd5S0tFX2IyR01uOTNNWWRYTndlbXhsaEJEczJ1OHppeVFSWW4zcW5YQXRoZXQ2ZE9BNVcyR05iYk1EZWR4SmxPNWE0MlgxbFpFVnExeWpiYWRwZkRYMWducV85cUdLTE4xc3RSVEhmWnhXRk1rdExNZXBHTG50dHFFcnUyUExYR2fSAdcBQVVfeXFMTkwtTFZOX0ExQWVhMWdoeTR5X3BmY1ExcU5Gekg3RVhXQ1FqS0poZFM2Y1FqV2pQWjFUVUF1T2pYUzlPQzBqTDNWWkNCbGg1S3FPdWRUelFtcy0yV3U3M1NLZmRiYXM0M3gtYTVpbzRvWXBGeDhsb3M3ZW9OY2RMR0R5aG1zeUU1YktfTkhfbF9QeXRHVGRzNEVTVlJINlM3MUl1cmEyOXUtWkkzaWNpNDQ2S25YLWlTSjJ1ejBTSW9CcEJnMDNpTEk3T2R2bmxQRXlhSXRxR3M?oc=5",
      "tone": ""
     },
     {
-     "title": "Zetwerk IPO Opens: Should you subscribe to the Rs 5,012 crore issue? Anil Singhvi explains",
-     "source": "Zee Business",
-     "date": "15 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdnBTSnQzRDM3aWdjZno0Ny1VaUNnSmoycnVCeHNhaWl2X3NUTTNWakszZWdsT1RkcGlRbkpIb09wUHo3enk4OU9oVVBMeldrYno3OVZLcFlEZ1FXS2VEZTFVeVc2MzlMZjRxSG05dXEwQ3RPOXA5Q3E3MmwwdmFxRUlRT1RwaURBWlkwdDZPanZOZkE0X0JqZGlJNTZwSmlYQ0t4cktnV2pUMklHVTdia3VJaF9rbVVKbnBsemp2UmxINjBPZ2JUQi1LQ1UwQXI2cndRNA?oc=5",
+     "title": "Zetwerk Manufacturing Business IPO Date, Price Band, GMP, Subscription & Allotment",
+     "source": "IndiaIPO",
+     "date": "16 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5LMHRkSXQ3QjVaRkFGSjJ4ei1XR1JPSXR4YzR4Y21xcXRXRDYzUjFUbHFjOExkRm5FZXhNVU5LdjZBV1ZjbTFZYlFVeGF0VG5MZElhVVNjSHBRSmNRQ0t1LXJrQWJseXNsWVMzalVpUUNxQTZiLWlZ?oc=5",
      "tone": ""
     }
    ],
@@ -1641,31 +1242,36 @@
     "Experienced leadership team backed by reputed institutional investors."
    ],
    "status": "open",
-   "day_label": "Closes in 4 days",
+   "day_label": "Closes in 3 days",
    "subscription": {
-    "as_of": "Oct 15, 2026 12:44",
+    "as_of": "Oct 16, 2026 10:59",
     "rows": [
      {
+      "category": "Qualified Institutional",
+      "times": 0.37
+     },
+     {
       "category": "Non Institutional",
-      "times": 0.08
+      "times": 0.3
      },
      {
       "category": "Retail Individual",
-      "times": 0.2
+      "times": 0.54
      },
      {
       "category": "Employee Reservations",
-      "times": 0.05
+      "times": 0.1
      }
     ],
-    "total": 0.12
+    "total": 0.43
    },
    "gmp": {
     "gmp": 42.0,
     "gmp_pct": 12.21,
     "est_listing": 386.0,
     "updated": null,
-    "trend": "🟢"
+    "trend": "🟢",
+    "stale": true
    },
    "ipowatch_url": "https://www.ipowatch.in/sahajanand-medical-technologies-ipo-gmp-grey-market-premium/",
    "insights": {
@@ -1690,17 +1296,10 @@
     },
     {
      "title": "Sahajanand Medical Technologies Secures Regulatory Approval in Egypt for Supraflex Cruz Coronary Stent",
-     "source": "ANI News",
+     "source": "The Tribune",
      "date": "16 Sep 2026",
-     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNT3ZJb3JlU2twdVhoTlpEbGtxb21YMjNlMG5pRkpuV3BRbzNjbEE0aS1vd1FLdmVXMkxOekpYM290N3czRnpIamRwX1NpQWFWQkpRMmJ1UVVpaTZnaDg5ZmhyZDFZT0dNbzlJNS1wQ2w5Y0lIYmxraVVSS3Z2ZlFaMDV1ZUdfX0ZuY25fNDRjUUpOSWhmaFpyZEFwMXFKTExOdHJhcXBzRmFoVTk0blpmQ2M4MmlralVuWS1aR2xwdWhNakhPU1RoQ3lzVXc3TlBXWXNvM2xIS1EwR2l3TkJNVmFocUROSHV5?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTEVTSlpZZlFLcEV6UTdJa2RqS0pyT2lJUnVoaG01X2NMUWVtaVJUekZHUHdEaHU3NDJsdU95OVN4WFotd2JEeE44LWFPM09fRkpZYVVncnJiUTVBeXFIQVB0dThqS1ZEMlgwcXY4TmRobklEd0FTUHhnT0hDX19ncExLU3lPZWVzMENLVWc4QVIzZE51SXFsNFJnOWowcXNxckpNVmN5ZzYxYWVyUWZfcDY3ai00R29sWjFRWjRfbFV1VmZ6QzdYbDg1eVVKdGdlTzBVUHRLb3RabmF0dEZR0gHjAUFVX3lxTE1qN1kxMlZ6NE93NnVqTHVnb1ktQlVhQUI0eWRKNDJ0WW5Pb1VjMlBUdXN4N3V1WmRwWE9sUk9LT3U5WGRzRnl6RGtaelNtZ3pCNG5wVHdmd3ZyUksycWhoWXJibVhicGxqeFhKUVUtbVJBRWdjZ0VfdUNUSmZ0UUFVcnpodTJ0bEJzamdZaEpEb2lvMjUxTXVMOG5rN0tweTFoczZ5c2ptczg5WWJDU1FqX01JTmh3MUwzY3BKYlRiVTJZSXpUU1BJYzZtUzgwNERGT2paSjdVbVIxUGVRaXJqblU0?oc=5",
      "tone": "good"
-    },
-    {
-     "title": "Sahajanand Medical Technologies promotes Anil Suri to Chief Commercial Officer",
-     "source": "Indian Pharma Post",
-     "date": "08 Aug 2026",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWWdncjgwTkMzQzdDek83dHhta1VVWGdQbTBRQjBPODVDZFVxVURjaHFaY1dLLXZVUE03ZmFmTk9hVHhhNm44Z2lQdTJHYVlSclhKaElNeEZtempaUjdZcEREdUVwTDZpN0NYS1o1MGQtaExMMkNDQ0U2MHNfcDlWamhiWkJGbEFFRDdsTUNmbUdkYXlDaC1oZE1EVEdmdVBaLTQyYkR1c0dQMHA5Mnh0TVVNMldFeXpFSnhva3dVX0c3QdIByAFBVV95cUxOdHk4YmlFMmxrVG9faWZaYk5HSmJfa0dzWUQxSjQtNGxtN19jSkI5NW5MM0hhVmpwSnpVRndQYkJQT3BHZU9lYm1uc25GNW4yYU1tdWthVnhTajFKQWFYQ09CeGRhNnhzMW0tRW5OX3Rsbnl5ZE5GOGpvM0VUWndFMzVjOWYxQTlqcE9SV1FyX1lwa3FiczUwMkJRT0Jod3MtNzhBWWlIdG1NdkdhWjZjLXRIdXI5N2F4QmUxV253Y1JGcEZ5bUNJWQ?oc=5",
-     "tone": ""
     },
     {
      "title": "Sahajanand Medical Technologies Deploys Siemens Teamcenter to Connect Product and Quality Processes",
@@ -1708,28 +1307,35 @@
      "date": "04 Aug 2026",
      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPck5peWMyTWZEV1dpeG1fZW9qalpLTWs4NDIxMVZveF9BbnZLYWtLZDFjVkotQm9MS1dGeEpJMkRfcXBsN0pzdlBDZk1rTk95dVBCRXV3bWNTVlhmTTVNeDg5dkM1WmdrRmJ1SHZnX2JVTnBWV1g3OVBoT09TWjVwZzVJaDRiblFMbkZ4c2gyRERWa2xFbTVGUkVxbzlIdGVhUWVEckUwRHdnRkpBSHpBclJUUWtfTEZYUllSXw?oc=5",
      "tone": ""
+    },
+    {
+     "title": "Sahajanand Medical Technologies Achieves ISO 50001 Certification, Among Early Adopters in Indias Cardiovascular Device Manufacturing Sector",
+     "source": "TheWire.in",
+     "date": "29 Apr 2026",
+     "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxORnJKLXVjalZyanc1WkNfQWJqZWdQaDNyU3ZzdnFRYVlVMUdlLUNwaXM5b0xyV01yWklfMGFydFR5a09XMWpRRTdOVU9VeEJSOUMzLTRxTHJIeEFxNjF4RUxBQVFja3JNcG1JU1FZQmR3SGRVSzIwYWFBdkFZeWVsckhHSzVoLWJRMUFWN0I0bmNZUW45N2JONVRhUWZPMlBxRExSeWF4TUtSVUtnSlFTcGk2UGtIdTVDVEpsRTNjZ3pEZWxuV1EtT21GdGc1cE9Lc0Y2aUluN2oxYW9SVmtpeFNhN0g3SFZ4UEJFbUJGMFRZYjNWSlkyejR1V0FhWEV3QUxOWXFzVjbSAY4CQVVfeXFMTkZOU0xMZUpxaGxRTjFHVWhHMzhVVDZncGMyb093VVBWNEFMVWdVZW5NLWlpVmJGQ183WkpEWFVFdWM1WE8wX1IwVE5RLWRVNTBRYUJOVUxkWnBYRklrNDR6UVgxaGRJVFg3YXJyVDBadUJZM1FUSGhYOGtTVXRKRHpWclhNc2xmYjZ4OWV3TVV2N3VDTk5fZnZ1dzVZX29GMVRvWldMZFA5WnplSUplVGFfejIza0ZoZmdKMFlIaXZQY0RtSDV5RFJ1ZW03OHJXZDFyLXBEZXU4bDF0dkJJQ1dmWlUxRWRKTy1vZFhuXzZtYXZVakw3T0F3dTdIR0V3QmY0aFVDNjZRMXNUS1Fn?oc=5",
+     "tone": ""
     }
    ],
    "news": [
     {
-     "title": "Sahajanand Medical Technologies IPO subscribed 10% so far on Day 1; check latest GMP",
+     "title": "Sahajanand Medical Technologies IPO booked 47% so far on Day 2; retail investors lead demand",
      "source": "Moneycontrol.com",
-     "date": "15 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYmFHLXcyQWF4Smg5S0thLVVHZmIzVWpyRFpybUhxRGFVcVBuLUJSUi04ZHRPOUtxaVVmaWFjQjRZTXlfdk1FNFo4cTFXMHJHNmRDUmdIdS1aRTZ0X012OEdOVlRQd1J2ajZZMEZmdnd6S0ZONWlGVXJ3UmladGo5c2JIakxCbzM4dzFLRVJSa05LUTNkMk9feDRCTGNtT0F1eEZpMXd5eHJxU1Q5REQ1b0ZiM3FEQVIzdm0zS2xVbWxNVXBRZVF4YUdrYVJfMVhOQU0zLXUzdTBRUnPSAeABQVVfeXFMUHRiMUNtZ1RTUGpWN0EtdUxmWDdvOWRES09uRXRZWnE2anlPY1BLOE1qbTcxbnluYmoyZkI3WjU3RVNMRjFUT2E5ZVlmNG55aGFMUEpiMDRJMV9yZ0hQLU1uSVRtMmt1Y1NIY2VjY1I1TWpkWE82MzZUWDBCZkFtQVVBS2FrM1daWUxQYVg3U3d5X1c4cnZXSlZjU2UzeFFLdU9OaUtZMzNRZm10U3JrekhDbUc5VzdENXZDN3YtVHFfeGs1OGVjQWs2X2pkYlRROHkwXzZkWEFZaU5JYVB3QTc?oc=5",
+     "date": "16 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSGNtaGVVcDluQkJpaUw0LURpdVNWeFIwZE4zRWpyaVZGclVaUzBlcHdkRFpTY0Ziazh6VzJvUWRabjNtWHllSHlLUkpQNDJlcVlzTWxPVk9WQ2RWR2p1THN3b1pLVmd3OXpDVG1pR0VzT3BaRnh3Rnczb2FjRWZGazE5Z3QyYTZoY2kyeW5rRHJUV0NSSnRwOEg3aUxRMmxfX1ZNUVhXSk4wRGZWT2xIQnZIbC1CU3hUbGF3SjVIdExYOXBMUEh2Z1MydWMzT0JYY0RlOG8zY0ZaOGhQQkctOGZ1VWZJQdIB6wFBVV95cUxQSFN2LTFOeVNOVVZ6RGdKNFJYUUpNdUQza1Z1M214V1JLeVNSLVdTQlhUbVozVW1zbjBhUHRqMU9SQnE0ZmlpaTVoZlRmWXhzd05sYkF0WVFoOXRGbnh6SlloMmdyTjhiWV80UHBwN2hyTDRvbjV5WWJJRExYeTRQbTVJNGlnckx4a01pYWJCZlMtenFuRlNncDhjS1l3YmZwR0lOSzFZQ0EtVEVlb2xKYldBbnAzcGVZSHBuQjl2dlZySEREM2xjWnhKdFZDREY0Wm53QTBlc2dDMUpoRUR0dThpc1lvX2QxRVFr?oc=5",
      "tone": ""
     },
     {
-     "title": "Sahajanand Medical Technologies Rs 475 Cr IPO Opens On 15 Oct; Price Band At Rs 327-344",
-     "source": "BW Businessworld",
-     "date": "15 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMm1QbURadngxZzhRVWFQRzFUeDNGOUVtRmxZb3pvYkZCOUZSaWlnQmR1UXpPYVI1ZHFFM1VScVYxM01XTVk5ckRSc2p1aWQyYURqMzZ5eFhLZWE5eGJCTU1sb1ExeEJuN2NrWjREQmNSdlBySWRrVnNoU3lQb0kxQmY0QnpqTDBTTWRFaGhLdTN5aG1laE5uSGJQdm1mY29Nd0x5T2lqVDBIQlhzUVZHM1RjNkx4WXhBWDd5QkpQNzJPNm9ST0Vpbmxn?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Sahajanand Medical Technologies IPO Day 1: Subscribed 0.06x on Day 1; retail at 0.10x, QIB yet to participate",
+     "title": "Sahajanand Medical Technologies IPO Day 2: Subscribed 0.43x; Retail leads at 0.54x",
      "source": "scanx.trade",
-     "date": "15 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZkVpXzZwUW5nbFJKamhMaXJVelRsRzlxazl6NDNTU0FzNzd0UGNTRVl1VldwdUpIczlpQ1h3OHFreEMxenRYaVpJMkJHbDBsTXRGVkozenFXRGNWNkkyck04UG11Q3JqQnhrbTNIYUpwa2RjbGl4d2loMktUbVljQkFLUHJDUXkwTEpLMy05WXJWdmR2a0U4U2ZVaHF1akFYM3VlYS1PdzEyT29CakgwcEJFX1N3UQ?oc=5",
+     "date": "16 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdmtrZ3FBNm9LTlhJbEpNRmVGdXhId0Faa3k0LXM2eXBkSDE5cnFPRGE3Y2FwWGdmNkhHMmdjLU53cW4wbHFuUE1icXJpZXpuTDllLWVxZldzdWk4V1NyX2lhZjF0UWNqenJuempjRWlUV1dRUGtCczJYaHZMWjFNWTVaU0lFSmtTTDJIZVoxWWZpdkNpMDNySk05TjJtZTdrWnRGenJyYnFKUS04c1ZXQzctWlhLOU0?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Sahajanand Medical Technologies IPO Day 2: Subscription Status, Timeline & Key Issue Details",
+     "source": "Groww",
+     "date": "16 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTjAxMEUxbW00SUZaM3RGZ29JYTNrQThZelZ1UjhMVHJqaEtmSlA2SG4xY0xfQ3R1WlpOQnFyeGNvckF5cy1QeXJIRnVPNlRub2dnV3FLRG80QkE5OFg0d3lnQ01BcE5RNU53RFdhaUxvdzhoQkdlSWhic09Rd3ZOcHJZSHlIenNDeENZ?oc=5",
      "tone": ""
     }
    ],
@@ -1877,27 +1483,28 @@
     "Integrated in-house manufacturing capabilities with a focus on scalability and process control."
    ],
    "status": "open",
-   "day_label": "Closes in 4 days",
+   "day_label": "Closes in 3 days",
    "subscription": {
-    "as_of": "Oct 15, 2026 12:59",
+    "as_of": "Oct 16, 2026 10:59",
     "rows": [
      {
       "category": "Non Institutional",
-      "times": 0.6
+      "times": 1.31
      },
      {
       "category": "Retail Individual",
-      "times": 0.16
+      "times": 0.69
      }
     ],
-    "total": 0.21
+    "total": 0.63
    },
    "gmp": {
     "gmp": 0.0,
     "gmp_pct": 0.0,
     "est_listing": 179.0,
     "updated": null,
-    "trend": "🟡"
+    "trend": "🟡",
+    "stale": true
    },
    "ipowatch_url": "https://ipowatch.in/shellz-india-ipo-gmp-grey-market-premium/",
    "insights": {
@@ -1924,24 +1531,24 @@
    "business_news": [],
    "news": [
     {
-     "title": "Shellz India Limiteds IPO opens on October 15, 2026",
-     "source": "TheWire.in",
-     "date": "15 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa0xXcVVLeWE3Zkc4dzhrNWRaLUlUSl9pOHZVb3EwRnhfN21iU3NwTlBxNDZrQnpDVTQtaDEwSXphWnZZdnFXX3JxbXA3Ni1fcUtDOU03OE1lVnF0WEJRenRLNEFYMG11d0JtQ0JrcHJWMlF4alhOQjlrN2JEY19HZ29sVmF2bTd0ckRwNWtxNFdxSzDSAZgBQVVfeXFMTlE4U3ROY3BXaElENVRndzhXN1R6Y2x6RDhZbFp5QksyTjFLOXMxWEd4OHA1Yll5R3NEXzk0WVE3UzZGRGVjNTkyY214VVF5dmZEamJnQnpON1dkYWp4eW5DS0pycDVadjZtV2xpY1o3TEJtMWJOcnlMTXE4Q2JOZXgydDhnc3NOWnVETjhLazNfVUd4b1c1Tzk?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Shellz IPO Day 1: Subscribed 0.06x; QIB interest remains at zero",
+     "title": "Shellz IPO Day 2: Subscribed 0.81x; QIB demand absent, Retail at 0.71x",
      "source": "scanx.trade",
-     "date": "15 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNnFKQ0R3UWY2ejdobUhrM29zTWhXYmxJYnJFM1gzZ2VLRTdZZ05IVURJWnFIS3Fxa1BadVpYaDFFVUtoejBqNmktM1puYTR5OTU2UWdPZWtmS3ZNeW9hOElfbTFkX0N1eHhxY29Ya2JPZ3FnTjFESFpBcElaMUZmN0FpZU1mdnlXTnIwNFFTTFEtNFpzMVJuWlBFWDhrYm1EazZoMW1YUC1Cc0ZOekVR?oc=5",
+     "date": "16 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb3lKT3VQcVhsRkZvR3p2Z1lmdkJERkM0N3pROUdvaWtiQjR6aWl1cm9Bazl4X0t2bHJLWmNYWWpyMW1ZZVdmYkxGNF83ekJzaXJPNUtIcUJ1WDRBeUJiVnZtNy1ULWk4MDd2TTZReG1sZElsLUNYQlNoUURrQXlFbjdnb3pEMHpnWmkyd2xYRFlicHFENlNCbEt5TGh4dGw2YzFDTDNzS1dIZktpbm5Yd2pDWVEzUQ?oc=5",
      "tone": ""
     },
     {
-     "title": "Shellz India SME IPO opens for subscription today: Check price band and key details",
-     "source": "The Economic Times",
+     "title": "Shellz India IPO Day 2: Subscription Status on 16 October 2026",
+     "source": "Univest",
+     "date": "16 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTl94SS1jMVBzaS1RMWwwWHlISGliWHNZaE9sYXh2Ry03RUZoNnNENlBGMUQzWVhOWUVrTWV5TTZuejlfdjF4bzlHUnVESWdRUFZmbUY0c0prMW96eExCaWVIT05HUTcyTndLMXZnT0IwWGdmS3N6ek1oNVg3ZWpGM3NKOHViSjBNUVpzOHZQYzZCUldyY01GckR2Xzc?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Shellz India plans INR 60 crore SME IPO, sets price band at INR 170–179 per share",
+     "source": "Prop News Time",
      "date": "15 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdGlrUm5rT1lHajBEV19QNnRWOFFpenZ1enpfS05FMzdoc2g2VE9tUXVEdUx2UXpYa2FlM1JXcmhra25DaE1TOExUTUd6Q1BydjFuU3FKajRQcDBrdlA1RlNTS2hNQnAxdTRUUFgxTk9vdkpxODFZNHkzS3lwOXVMYXVnLWZTVmRzekcyc0JabWk3Q2w2U0pjZktVeUo1Q1ZyV1FKaXpZRUhDWGlYeWp5WmVLdXJUU2t3LTVwMWF6N0VFbmNmUGdzWXh0T0w2ckEyVjdSUXFtMEZDR1Y0VHNtek5kTFlGQlJlUnfSAe8BQVVfeXFMTk9QbFRxdEFvaGFXUDBxbmlnMWVOdUpNVU9IVU55RlV0bEM3ZzYyajR5TjIyMWg5ZG01UHlNeW1MQnRvaHZQX2pjT0otZ19FYnBKZDNMMXNKaTNlYzFFTUhGQTFNekRPSEdhckhEZXBDT0NuXzlQdmxsSTBnSFlrME9IeUtzZDRwTXNodjEtdXNYYlBpLUdnelIwTjBGM2JWajl0S3lsWFdNM1lLMXR0TFhacE1ZQTl3ZlhOR3RVclBEYVhNOGpMLVVUMC1yM3JEU1o5LVBSQlJoeW1TMmNGa2txVmpNdW1HR2hmNGpKWG8?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOams0Sjd3Zi1sVG9NYVoxZk9QQ0J2cFZnaFZpcUdfU1F5SDY3OVJYV1RFWWctUmlNTl9VblVra2lSU3lXM2RZbFdaNXNVVkF4dkExNGpBZUFDNU1lYjFXY3o3YWx0dE82cG9oaURnYWU0bXhHTHJTQXFhZHY4MzRuY1lHN24wYnRpZUk5VEhyZlM3U3ZnTWZoR2RRR0ZJaHJDQ0VZQmpTZEp6YWlZM1l2a2luME5jaF9YQkd0UXgtVms0ZmVFY0FnYlQwMlQ?oc=5",
      "tone": ""
     }
    ],
@@ -2056,7 +1663,7 @@
     }
    },
    "reviews": {
-    "Subscribe": 0,
+    "Subscribe": 1,
     "May Apply": 0,
     "Neutral": 0,
     "Avoid": 0
@@ -2090,13 +1697,14 @@
     "Strong innovation capabilities supported by patents, AI and technology development."
    ],
    "status": "upcoming",
-   "day_label": "Opens in 6 days",
+   "day_label": "Opens in 5 days",
    "gmp": {
     "gmp": 220.0,
     "gmp_pct": 19.66,
     "est_listing": 1339.0,
     "updated": null,
-    "trend": "🟢"
+    "trend": "🟢",
+    "stale": true
    },
    "ipowatch_url": "https://www.ipowatch.in/jio-platforms-ipo-gmp-grey-market-premium/",
    "insights": {
@@ -2118,54 +1726,54 @@
    },
    "business_news": [
     {
+     "title": "Grapevine: Jio Platforms, ADIA, GIC, IDBI Bank, BharatPe, others in news",
+     "source": "VCCircle",
+     "date": "16 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMkFWc2puVng5TmVfUjhFMkJZSnBDSFktU0QyaDIwemFHYVhOLWI3aGt0aUtyMmx4blNvdVlTREhRYnBGQ004LXZtTkJXMXJhQVhlWkxTREFtby05TTJDUEhpWDZ6MUFhMkVoZGVtTzBhaHRNSHVieDhsdE5ZVEpsS21ZMDFVTzNzVU9FMTZ5RlFwc1Z4U3ZGRnVvbk7SAZwBQVVfeXFMTjJBVnNqblZ4OU5lX1I4RTJCWUpwQ0hZLVNEMmgyMHphR2FYTi1iN2hrdGlLcjJseG5Tb3VZU0RIUWJwRkNNOC12bU5CVzFyYUFYZVpMU0RBbW8tOU0yQ1BIaVg2ejFBYTJFaGRlbU8wYWh0TUh1Yng4bHROWVRKbEttWTAxVU8zc1VPRTE2eUZRcHNWeFN2RkZ1b25O?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Fastly expands Jio Platforms partnership for JioCDN in India",
+     "source": "ET Telecom",
+     "date": "16 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNXlZekV2SnI3NlJzOUJ5cXI5d1JRWXd5Y1NrSXFoMXNTLUUyWFFNMFdsM1otQW5sb3VLX3RLOE50YmZRRGcxNk1oeFN2YWtqbnpXYXFUelhwd0ZabVMwTmlTdUVPR1hXbktXQS1XTUNVUXJMbFF1Nl9UTm9SVXMtQndIR3k3MHByMEQ1RG45UWlIV1VnN1dxdC1razBlT0JJSGx4T0t4a3o1WnlTNWNDRWpLSGZPbE1OMC1YSGJ2UEdHWVFuVlZaSm1SdklFQdIBzgFBVV95cUxPNXlZekV2SnI3NlJzOUJ5cXI5d1JRWXd5Y1NrSXFoMXNTLUUyWFFNMFdsM1otQW5sb3VLX3RLOE50YmZRRGcxNk1oeFN2YWtqbnpXYXFUelhwd0ZabVMwTmlTdUVPR1hXbktXQS1XTUNVUXJMbFF1Nl9UTm9SVXMtQndIR3k3MHByMEQ1RG45UWlIV1VnN1dxdC1razBlT0JJSGx4T0t4a3o1WnlTNWNDRWpLSGZPbE1OMC1YSGJ2UEdHWVFuVlZaSm1SdklFQQ?oc=5",
+     "tone": "good"
+    },
+    {
+     "title": "Jio Platforms Capex Falls 23% to ₹34,184 Crore in FY2026 as Software Investment Rises",
+     "source": "TelecomLead",
+     "date": "15 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeFJSX3BvQ3lzY015enpMT2NscncyZXVsT0dCYW1HWWNOOFlsOWEyR2tBRWhvcnVWQ3M4cFZqSHoyZTJ6NUxVSEo1Zk9XekxSdHFjeUJybUFVeDZ4Sk9vQmE2b0VvMk9CbjU3bUdoU3JNQXQzeVN1M1poTjVrRmY5eW1iQ21zSDFsSHpXTWRDQU42X2JGdVd1LUhqOWtsb0RheXhKQ21zNU9yUEUyZDE3dGdlTWZ1ZnRuWWo2bEwzNmM4RlM2eHg5UmpvONIBywFBVV95cUxOeFJSX3BvQ3lzY015enpMT2NscncyZXVsT0dCYW1HWWNOOFlsOWEyR2tBRWhvcnVWQ3M4cFZqSHoyZTJ6NUxVSEo1Zk9XekxSdHFjeUJybUFVeDZ4Sk9vQmE2b0VvMk9CbjU3bUdoU3JNQXQzeVN1M1poTjVrRmY5eW1iQ21zSDFsSHpXTWRDQU42X2JGdVd1LUhqOWtsb0RheXhKQ21zNU9yUEUyZDE3dGdlTWZ1ZnRuWWo2bEwzNmM4RlM2eHg5UmpvOA?oc=5",
+     "tone": ""
+    },
+    {
      "title": "Jio Platforms Ltd. (Derivatives) price today, JIO to USD live price, marketcap and chart",
      "source": "CoinMarketCap",
      "date": "15 Oct 2026",
      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yNmxjU0UydG1ncjRVLUtaMDdEUDhvNmhpRjZfX2NPeFpJZ3RUaFNnY25zVmt3N3ZpT0N2ZllVdUlLWEYyOVdxNGgxSnZEWkZtemJlRW1WSENrNHNMTG83UGJNdllzSXU1WnNpS1BxcFdPN1M5SEE?oc=5",
      "tone": ""
-    },
-    {
-     "title": "Fastly Expands Partnership With India's Jio Platforms",
-     "source": "Yahoo Finance",
-     "date": "13 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVDlrRlpvMW9wQnRCZDB0R1VKMVBqQUZHZExfcGNxcTA2M2pZSWRIVXdlZ2VWZ2hPbHhiTGROa05aaGRtbXF1bVZ1c2lzdWxwV2lfZG9DS3B6Ylo2UjBxV2VFVmtpT1BObm5XSWRmZS1wcEZQekpvT180bW9lZFh1cTE4VXM4Yld6dUNzZU81RjFuTVF4allaRHo4VlpWTGc?oc=5",
-     "tone": "good"
-    },
-    {
-     "title": "Jio Platforms Targets Bigger Enterprise and Digital-Services Play",
-     "source": "Kalkine India",
-     "date": "07 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTUhXZjhkNmRlWFBBOEh3c2Jvajh5Z3JTMERIRkNlUGk4OE55SkNYZ0V1UWtKMUxJYzdvSUsza3U1VnRlZXpndzB0MjJVLUcxUHpBNmp3Zkd3Qk96Wkd4OTdKVU9yV0UxQ1BvdG1NaV9nLXlzcWZzWG9sZzZ5dS1IanVMemdzaU9pSWtfTXFJR000UjZ0SFZwZUdLaGdId1M2emxUTmdoNUlQYV9ybk9udzl1TXExTGZsMEZwTm03N3BKZUlsbUhYdjROdVVmR2I0djlLU3JLcE9GUQ?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Jio Platforms shifts from telecom to global tech contender",
-     "source": "NewsBytes",
-     "date": "06 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZHFQOThGbHhNdzNEbU56UC0xQVhieVBWd3kzazMyTnptT0c4bGktV0kwZEE0ZGNKbzdJdk80UFFjYkU0QkNzbmlSOC1tVmFnVzVfc1RhOHE2bUhfZFFJVGZtNGNnZjlzTDJTakRhVm56STR3RTNLUHZWM3cxMnpYeUxaVVNUdWF5Mmppci1XX1NxUC1DT3h6OERFaFRocVdlQlRlNWdPUGQ0Zw?oc=5",
-     "tone": ""
     }
    ],
    "news": [
     {
-     "title": "Jio Platforms IPO: How does it stack up against Bharti Airtel on valuation, revenue and profitability?",
+     "title": "Jio Platforms IPO: Grey market premium surges 84% in two weeks to Rs 230",
      "source": "Moneycontrol.com",
-     "date": "15 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQWTBhc01OZUkwa0pqTFVQTlhNUUdNSG5iRVNSeU02bU54bnB0TEJIZTIzdTJyYXdKNFN0aGF6WmxXdzVuYy1MaTIwbngxYk00dnlkZGVzZ09mTkxldnVoMW8zbU9RRHlsdGd2OHlvYUwzX0F1SHJqU3ZMa3h2TGVjWmJFTFA0bFhROUVLanQ0SUpwcF90a1JnbzZFV2QwWkJNazVGY3JXeFhfOFJ2azJBSE5vajJUZVhaenliRF9sQ29VZzBmMi12dmJUbnRNTmdTWHU3enRoS3U4T1d0M3VDdXdkMVhxYWc3YVNHVzMxN2FGVU83aHZR0gH8AUFVX3lxTFB1M0RlMVd0NExfckJveTdnQVNjdFdsZjUtTU1YMUZ1dDVDeTFCYk1MZDc4SkU3Nnpud2g5ajFnREFYbGVPUVBieG5BWlNKdDR5ZWFJRXpsVjQtRWtUN01PbnFWLVdzS0Fpb1JSS2RxcVlKd2JUTWM0X1dBYzVnT1l1VWNuS2tTMURYUmhDdkFjSHF5OWhmdHV1UHk1RWdNd25iSG5sc3dzbmx0c2hlaUY1aUpWV2dOZjhQb3ZrWGZVR05Md2tLVGNpOWh4aDNxWTlyM21peVB5WV9oM1RsQmpWeUxSQ0VQUHJFRWh0bnhRTVI4aTFNbVZWQ1BCMw?oc=5",
+     "date": "16 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUXdOOFl1V3h6SXhPcnJFSUMyd0ZuQ1V1b21lNFg1eDlpVTVnOHpTMWp3bzZKbGVoTEpxeHFZcVdkVS10Z0tPS1o1WFRnN3J3SzFyakFNNTVFRnQ2Ri1zSkZCQ3JYbTIzZmJhMW9CMFVYbXJ6akNlcmhfd3Bpb09HcElpTDhjUWFuZFZhVzY0b1IxcE5sNms2eUNFT29pLVVZYmpxMmpuVmlFZDBFTE16QjhabklYUlRJM3p5UDAxcG5zY09xS2pWNUFZZlRabGVJ0gHWAUFVX3lxTE1UMjhJQXoxNFZJR2E4RnNaWDU2a1ZXR1VIcWhIUTlNXzkxRGxmbEs5d0szUnJLMUVXNkU5U0dmM0p5d0s5WUdNVHNlaF9vMUt1ckNyWk1YQzJydDFHNVo5aFhncUVweFZYeEJ4U0w5OVNZcExVQlA2M3UtbEUzRW1qUllwV3kxbmlxNERQYjU2U2Nza1NaUy1UaVJpYWhha2dwejVCVWlldUFvRVVWcHlXMXFaeUtSZHlLOTBBa0JVcnItVFFqbFZhRWx1Tk1fejc5aEdmR0E?oc=5",
      "tone": ""
     },
     {
-     "title": "Reliance Industries shares climb 3% as Jio Platforms sets IPO price band",
-     "source": "BusinessLine",
-     "date": "15 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeFZ5VjhfV1hxRktaTTJFQXdTT3hwV3FtbnFqdWU5LWdUbW05OTBCMGNMdkd5bkJ6bG03RFdvUHJ6d3lfS0ZMem9HSzVkcWFVcGhHbjg2UTVmTWdNNko5Q3lfNnc5SUxtTjVvaHJkelJlckpFQWxTUEhjTG15eHZ0Q256dVZGck5kNkpCZlQyVmh2TnVEdkZLbGJGNGxYemE2LTF0bmVpeHZPNEgxeFk3NUFJbGNZSmRQVFAwRmZhTm1vTHo4LTJDSWczY1lHcWlvTWfSAdgBQVVfeXFMT215R21GdldtN0pNVDRFR0g3LXg4clVPc1lZSHFsYUJuVGZOckVBZDJfd0NBRTZQMmZYN1QtZXowc0V4YlRiZFU3UGVMekJUWjhnckRaWEQ3Y2lXZlZVYnljMnJfeDFMNUpXTFJuSThVVVdDaEF0X1lqOTM3Nk9SZXhqdjJsS0RJaTgzV2ZUZzFjZndkWkhKNkNkQjAzM0tYZngzUHAwaEQyblBZUURIOGdNQWJ6VHBxY1EzbzdaNllMbE0wQUlNLXZmSjVoMnhNMmZlMWpOdG1G?oc=5",
+     "title": "Jio Platforms IPO: ₹30,213 Crore at ₹1,119 Share [2026]",
+     "source": "https://tech-insider.org/",
+     "date": "16 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mWl9tejR4MVFGLWRCZVFmd3JxVlVSMF9DWHdKWlZCSC1UZFRjMXZWb0M3NTF5ZmFvaW9uNlJzMTliS2V3OGw4dWg0MzNkYmphcG1MRWgwcHIyN1g0ZFJMMWdJZkx6WXB1RTlIMw?oc=5",
      "tone": ""
     },
     {
-     "title": "Jio Platforms IPO GMP Signals 19% Premium; Issue Opens On October 21, Check Estimated Listing Price",
-     "source": "NDTV Profit",
-     "date": "15 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSTVzTlBBTVJtN00zQjFsZmgwQzg5dU0yM3RLalVKdVo2Zmh1SEJpMzV2Uk04ektjWXQ0eGRLcWlOdzZDYVo0YWlLTmNWdFZsQVpqTUFPeVEybF9WN1dmeDNHazIxUU9lY0dmMXF2VzJBNVI3bllCZmxOZ0tIQ0txQ25sd2RGQld1cGhDcE1Jay1tMU9SUE40TlZ1RFpIN3VQVGFBRU5oWXhYYS1ZU3hWSGt4WHB4TFk1X0Q4NENFRzRCQksyQWttOXJqVmFWZXVvVjFGcVRSMzBnWEs0S2FSQWdKbDkwcXpxeTdObnhfQVPSAfgBQVVfeXFMUDBxZWRJMmdJY245dzhUeFNBaGR4Z3o4NW9nRXhTNDdaYTB1Mnl0dnRBV2x1ejdoTWltYlh5SjdJc3hmS2RFTlVSdnBGRHMwN1ZYZXh3ajVjX0xZRzYtWmpjUHgydlRmeEtLenhsM2RmZ0NzeEVzYXp2RFhjbWtaYzh3SXZISHNsRkZ1Yks4TDl3ODVUazNYUGdvVjZXR3RIWnlPV3VMaEc4c3E0WjFHM20teXRic2NfbE1WYXIxenRhM25IbldFQkg4dklQcmo4Ni1KTVNGTmlKR1VvTjA0SjdCcDUtc09oU092bmF5azhWMEJQcGVYQko?oc=5",
+     "title": "Jio Platforms IPO: Here's how to apply under Reliance Industries shareholders’ quota",
+     "source": "Upstox",
+     "date": "16 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQREJaMU4xVDBMT1BxTUI4TXhnb3QyZEpTTkhMcm93U1NGY2p6a2E1bXNhS2YwWWItbHNLYldtcHQ5UVVHbjd1QWlaLXRCMVh4TGMyRm01bllzVkNIUVVHSGxLcEgyZU9hYVVCR2JjM09XZGwyU2VWYm92VWt6QTVoaERnYUE0THkzNE11MUVqUERnX19TLTRqcG1DMUh3SVRKT0pqOHpNcXdyLWpVSjhrc19MeWRIbFBULV9wR0hQTy1halJ5MjJsY2t5ZGJRNk15YVR1dg?oc=5",
      "tone": ""
     }
    ],
@@ -2322,13 +1930,14 @@
     "Advanced clinical infrastructure and standardized care protocols."
    ],
    "status": "upcoming",
-   "day_label": "Opens in 6 days",
+   "day_label": "Opens in 5 days",
    "gmp": {
     "gmp": 85.0,
     "gmp_pct": 12.26,
     "est_listing": 778.0,
     "updated": null,
-    "trend": "🟢"
+    "trend": "🟢",
+    "stale": true
    },
    "ipowatch_url": "https://ipowatch.in/paras-healthcare-ipo-gmp-grey-market-premium/",
    "insights": {
@@ -2362,24 +1971,24 @@
    ],
    "news": [
     {
-     "title": "Paras Healthcare IPO to Open on October 21, 2026: Check Price Band, Issue Size and Key Details",
-     "source": "Groww",
-     "date": "15 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44NWxMdVZyVmJkWk1FZjNldXVqRU11QTJDV0lSbWN2QzUwdDR1QU9jdXhRdjBwUHFINXFRV0FtbTNaaWlFWTlxSnJJdzBhdjc3ZW01MTRBWUd1dXAyYUdROE45SkgydzBqVF9pM0Q4cjdoUU96U3FQVQ?oc=5",
+     "title": "Paras Healthcare Rs 1450 Crore IPO from Oct.21",
+     "source": "Deccan Chronicle",
+     "date": "16 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZVZxQlEyNTNDeVNJdUNyTWVKYnZocjV6ZWF3SURBem9NT3dyaDUwTGpjSTl0aE9JblNXRm9lZHhEbjcyWHI2VVdDaEhScFhVT2RJUjVRV19aeUVZaFY5azVWWWVMUmcyX3Y5QmxuWTZ6UjVNUDFrdFFaSnoyQTZnbnJfb0h2dUJGLVJ3X1pIeUM2ZFpnTHdVRlozU05sU2ZWbmVj0gGoAUFVX3lxTE5QamV4WXNGSUczVGw0VVo3WHl1Ty1Fb3Y0M1dHbElrVEFVdWc5d1hMbEFkX0pRc2Y1VHZyWUpETUc1d2hKUzRlQUQ2S09EaThfbHI4TF9WdGNIMEpsS0ZFLV9MRmJvTGRqM3d0ems5YmltWUxOdGdiSWNjSmVQRzZYaEpMU2hiMnNqZmFMMzQzdHRvWE1uTXp6NWJhMGd6TmZLN0NBVVFONQ?oc=5",
      "tone": ""
     },
     {
-     "title": "Paras Healthcare opens IPO October 21 to raise ₹1,450 cr",
-     "source": "NewsBytes",
-     "date": "15 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNExKZl96b252Z1FYVUVjN0FlXzZUaTNxTlVXUlNpMTFlOEdmdVp0aE9JX0gzZG9yQmpuUXQtQUdWX1hDNWZxQXA5TlpPbkRUR3hBZGJfcHBsajBjY3Vwa29ySUtWRVhuY2o4Y1VLeE1CQTh1bDdLOWttZjlZems4V3RLRDdlNEpvRGRoSFpFMkozdmhsT2h4Tjd5aUJSREI2a2JwS0NfYw?oc=5",
+     "title": "Paras Healthcare’s IPO Opens On Oct 21",
+     "source": "https://www.fintechbiznews.com/",
+     "date": "16 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYkNseFZqY29rTXZhcUV6QkdyVkVmdTRtUF9wci1CaVhON1A1RHFZN1JHd0JqNmx5QWxDWEJhc2JGaTh4X25NNjloT001NXFHNjdSOWx0R3JNZjhOWEl4VmtaaDllMlFRRi14ODBaakE0SzRtYVN2dTNNQnk2MHV4YW9KUGpFd2ZQcC1LeURtS1N1QQ?oc=5",
      "tone": ""
     },
     {
-     "title": "Paras Healthcare IPO DRHP: ₹375 crore issue; revenue CAGR at 19.26%; debt repayment focus",
-     "source": "scanx.trade",
+     "title": "Paras Healthcare ₹1,450-Crore IPO Opens October 21 At ₹660–₹693 Price Band, Check Listing Date & Issue",
+     "source": "Free Press Journal",
      "date": "15 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRV85WGhSMlBNVzc5ZHVzVHlQb25PZW1zaDNncEZJUGJIclZwMlNHY0NuQ2RLR1JpZm4ycG9UbjAwYXZodHFFY2NKMmdMNlhEeFNPUEFOWFNiU0o1M2VuMUtkN3V1emNhLTd0bElvcnVYTmtyMGl0VTZFRkFCOGYzT2I3VEh0SGlTc2RHb182TkgyRVlQWlhRd0QyeFlxTDk3MFdNejNDRDJDSUUwZ1NSM3U4TEFrTXM?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdjdiUEJkRFlXR0QyLTdtUE44MjA5aUdIeTFWOWpNZEhiamN4bEp6ZS1aSDhKYkNlNHBxV2FMVl85bVNlc01SNlVsUTA4VGZjYk1fUWhSZDF3dUV2dmNtRXJTdHVDZ1YxazJ1bE14aC1JWHpheUVuWEZWUFAyTzVsS2lOZEhaeUh4WDBJRzFQOUtxNk5FZC1pNWpybndpSFNBeFFibUpWa09ZVV9Ub194RUpWZ295dFhWODdCd0NfWUNKTWxEeWdMdmZKbGpoRnpEZUppV2RrdE1VN1VqdEx5c9IB4AFBVV95cUxNdjdiUEJkRFlXR0QyLTdtUE44MjA5aUdIeTFWOWpNZEhiamN4bEp6ZS1aSDhKYkNlNHBxV2FMVl85bVNlc01SNlVsUTA4VGZjYk1fUWhSZDF3dUV2dmNtRXJTdHVDZ1YxazJ1bE14aC1JWHpheUVuWEZWUFAyTzVsS2lOZEhaeUh4WDBJRzFQOUtxNk5FZC1pNWpybndpSFNBeFFibUpWa09ZVV9Ub194RUpWZ295dFhWODdCd0NfWUNKTWxEeWdMdmZKbGpoRnpEZUppV2RrdE1VN1VqdEx5cw?oc=5",
      "tone": ""
     }
    ],
@@ -4382,6 +3991,7 @@
   ]
  },
  "warnings": [
+  "Could not load IPOWatch GMP: HTTP 403. Showing last known GMP values.",
   "Could not load Chittorgarh Mainboard performance tracker: no rows found (layout change?)",
   "Could not load Chittorgarh SME performance tracker: no rows found (layout change?)"
  ]
