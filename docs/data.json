@@ -1,8 +1,7 @@
 {
- "generated_at": "2026-10-20T13:21:45+05:30",
- "generated_display": "20 Oct 2026, 01:21 PM IST",
- "open": [],
- "upcoming": [
+ "generated_at": "2026-10-21T13:25:32+05:30",
+ "generated_display": "21 Oct 2026, 01:25 PM IST",
+ "open": [
   {
    "chittorgarh_url": "https://www.chittorgarh.com/ipo/jio-platforms-ipo/3152/",
    "name": "Jio Platforms",
@@ -143,8 +142,30 @@
     "Proprietary technology platform with in-house engineering and full-stack capabilities.",
     "Strong innovation capabilities supported by patents, AI and technology development."
    ],
-   "status": "upcoming",
-   "day_label": "Opens tomorrow",
+   "status": "open",
+   "day_label": "Closes in 2 days",
+   "subscription": {
+    "as_of": "Oct 21, 2026 11:00",
+    "rows": [
+     {
+      "category": "Qualified Institutional",
+      "times": 3.77
+     },
+     {
+      "category": "Non Institutional",
+      "times": 0.3
+     },
+     {
+      "category": "Retail Individual",
+      "times": 0.29
+     },
+     {
+      "category": "Employee Reservations",
+      "times": 0.66
+     }
+    ],
+    "total": 1.19
+   },
    "gmp": {
     "gmp": 220.0,
     "gmp_pct": 19.66,
@@ -173,6 +194,13 @@
    },
    "business_news": [
     {
+     "title": "Jio Platforms Ltd. (Derivatives) price today, JIO to USD live price, marketcap and chart",
+     "source": "CoinMarketCap",
+     "date": "20 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yNmxjU0UydG1ncjRVLUtaMDdEUDhvNmhpRjZfX2NPeFpJZ3RUaFNnY25zVmt3N3ZpT0N2ZllVdUlLWEYyOVdxNGgxSnZEWkZtemJlRW1WSENrNHNMTG83UGJNdllzSXU1WnNpS1BxcFdPN1M5SEE?oc=5",
+     "tone": ""
+    },
+    {
      "title": "Jio Platforms, Fastly Expand Partnership to Strengthen JioCDN Services for Businesses Across India",
      "source": "TelecomTalk",
      "date": "16 Oct 2026",
@@ -192,36 +220,29 @@
      "date": "16 Oct 2026",
      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWTgwLXdLQ0VsV3FWc0p6dktkMUNERE9pWnlTSWtidkx1MFRzMnhzZTM3amdrQnk2MHc5R1hxb29XblpvYXo3T3diR1hXUWgtb1h5YlJrZW00bHRabXVjZHRvS0l3QUVzT1lRdk9TbFI4YTRfLTBGc1lCeWFOUklRd0F6b0pZM3VRZkhza0JzamlCSkZjNGxZekczcmVaZkdSNGtoRXFHOGwtcWg3cWNWT3lJdHU1bmhYNnlz?oc=5",
      "tone": "good"
-    },
-    {
-     "title": "Jio Platforms Targets Bigger Enterprise and Digital-Services Play",
-     "source": "Kalkine India",
-     "date": "07 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTUhXZjhkNmRlWFBBOEh3c2Jvajh5Z3JTMERIRkNlUGk4OE55SkNYZ0V1UWtKMUxJYzdvSUsza3U1VnRlZXpndzB0MjJVLUcxUHpBNmp3Zkd3Qk96Wkd4OTdKVU9yV0UxQ1BvdG1NaV9nLXlzcWZzWG9sZzZ5dS1IanVMemdzaU9pSWtfTXFJR000UjZ0SFZwZUdLaGdId1M2emxUTmdoNUlQYV9ybk9udzl1TXExTGZsMEZwTm03N3BKZUlsbUhYdjROdVVmR2I0djlLU3JLcE9GUQ?oc=5",
-     "tone": ""
     }
    ],
    "news": [
     {
-     "title": "Jio Platforms' anchor book draws record ₹2.5 lakh crore in bids ahead of IPO",
-     "source": "The Hindu",
-     "date": "20 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOb0JNdkdFR0VuUGRramlUbFU0M2x5MEdSaFV5TFdncG04Zi1EQWE4aGlJWkxHdE5xWHRoUkRDdlZGZG5BeThPRS1lXzlSTHhCZDZaLUFfWXdxaUlWODVSckhhVW5lMVZCeHVlRmFScG1LQ3VCZ3F3NmpudVpfUDh1YVpaX1ZpSnZwal9aZjVnaUZOUGFiTUhFWHcxanh6MWdCQ1lVQjZnNC04cWtjeEUxZTNKRk9iVTNFa0J4dGNPbWFNTGUtbHfSAcwBQVVfeXFMTW9TclM5OE5EaThwNGFtdHVPRDYwdnpScWV6NDBJMVZBaE56REhVSE8yRUlBRy1Nb01YY1Eyc0RtSjF6bTBwSXRhR0RZMHkwN0tMVDdFRTQ5VktKMkJYYnZYdjhoTkhIYWhhUlFCYmNud3JJZzV4NUQtTXRzWF84VGg1NzZvOEpNNW5wTkN0M0JhQnFRTWtnOUVXSnBrbjdxdFFHbk93NExodDZGal92S0c5TVF4ZnptYjE5cUR2Njc2Tm01V0tlbVhUMVFC?oc=5",
-     "tone": "good"
-    },
-    {
-     "title": "Jio Platforms IPO listing: Can Reliance overtake Tata Group as India’s largest conglomerate by market cap? Details",
-     "source": "Livemint",
-     "date": "20 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPZGdOWGdkVGlNZUIwQnNWQmZ0MWFad1dHdzdHbFlXMXRKUmRSZXRHeFJUR1BVRzZaVWoxVjBNQnlaT3FqS3htLTBWNkpzLWhvV0FHSE5panNQbUNWWEt3ZndHcXRyU0tQNklxRS1UNTgyWHBwek5UWEZPdzdmaDRxOExqMjg1LVNnMlFncDFVSi1jb3Jqc3dudThyVVVrV0NFSXVSclJLVVlpZlVMd3ZDNGlhaGNVZExURk1aWHFTdkwyMkI5SzB0UkREa01JU3BSRndMZ0VaTkM2eXhiY2RKS3VGXzFaS0ZxYm1UelprQmdlSGpadURLUG82QktJSGs5ejh0OTRUekdqT1R0X1RJ0gGUAkFVX3lxTFByejNLQ3R0RFZIZEJCV2JZOFQ0UjhBOWhhdkdtTGFtbHBaa0dkWWJNN1JYRV9ZZUNkNlZsUGUtOUw0dVd0T3dTcXl4WHF1NVRrLUhvbjZ1T1AzNlE0bTZVVl9oQTFEM1NCZ004YlJES3lySHo2R09Fc3I2YmNCMVEtUGNJWUhrVFU4SkdUd1JuYVhHQ3NBUjBZcUxWYjViQkFySHJpWFpsenQwMy1MdGlyVGZEdWU0OUJzVFVjTjNOUFhYdmFrZ0VVLXZpTmhBRUtENUhEaGFkaUtvN05XQUwzak5kWTNCQW1KWC1SbEpQeHhiSkItY3NrVTlseUsxR19XNGlBTzRFT2VpTklMN2V4bU1DVw?oc=5",
+     "title": "INR/USD: Indian Rupee Rises to Six-Week High on Jio Platforms IPO Flows",
+     "source": "Bloomberg.com",
+     "date": "21 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQTF1LXZ3eGNYNy1FdjRKbTVvLTJuZ1l0Qk43d084RTNQdTV0OFNqQjhqdmpPV3JKcGt2eUR1LVVaU0twOW1OSTN5M2FLZGpEZGJfLWVybGROR2Etd2VHQ3pPWkxjV1c2SThqYkhOMURNbzJoaEwyZTZCeE82aXZzeWFERG4ya3VwU0FuOTR4a09iX1NabzZoUmJyNGZ4eUdJd2JtbUNMZEF2SGEzV2h6Mnh0ekZPQmo2OW9jbHdn?oc=5",
      "tone": ""
     },
     {
-     "title": "Jio Platforms IPO draws record ₹2.50 lakh crore institutional demand",
+     "title": "RIL's stock climbs 2% as Jio Platforms IPO achieves full subscription in just 100 minutes",
      "source": "BusinessLine",
-     "date": "19 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOREdvV3ItUnBlUURvakRlNmZQUnlSXzJVWTRENlc5SUdoNFZsazZSSS1SZEV0elhCWDN6U2ZlMVF2RXNUU0ZJalYzQWwzcTJ5NmlXQ2NJa1c2Um93b1VsNmZiZEh0TGhVbjdEUVVsMVdVRS1PZnNPQlBycTN4TnJMZGwwaDFyX3gzakN0QVdLSThMSURKQUxZZWJzSUFhZGprdkJyaEpkeDB3dEw1RjQwSU9hVUxzYU5xYi1RX3FVUVdUZ29EWXJJVVdlQdIB0gFBVV95cUxQT2NFcUQ0WThfdmZ5R05qUWdhdExiMjk1TmxFRnZZXzk3Q2w3QVViM25QRmJzQUxyUndGY2I3QkUybDM2MWpDN3k3WkhzeW1pRTdVU2lwNmJCUG1vZTVDNFFtWE1YeTgxTF9NekVsNUtCQURTbUktWkwxRzNRWG9BN2ZVMFV6cGNFN2JITkprNzB2d05kd2VuMDhJNnF3eGp2T1phUXFzWFppVDV6T2ZIbG9MUnB3RnFOZnBJOFhxWGhSYkNMUXk1alVUSDM0NTJYaXc?oc=5",
-     "tone": "good"
+     "date": "21 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOMkJwZmJET19mOFdJTHlseDN3bjFtNG9DTk9EYzhTMlp1UlJySmhvdG5WZjFJaV9Ea3BoMjNrMHNqT0U5cGVlazhDeERUV0I0RGVKNmhBMUdBWUFrZHhsd2RfNjFoWlJkRm94Ni14RW9TRXVvQWlVTzR3M29rWHhSbHpWWERROWxGNmVpVWplRWFXQ2p0UWVORF93SVlvZ0UyX01MTE9IX3VnNzlZZnQ3ay1PUktsMHVLN2ZuN0RKYVFRb0c1WEpYT1ZPTVdTRDIyel90NlhMczdYcDZnQkltS3J1dFcxOVVUeVRsWFhJM2k4bFplYXgtTHN30gGAAkFVX3lxTFBZTnM3VzlIaEhJcW5JUzQta09UODdXZXh2a1dZODJYM0NlSXdSN0h0eGhkX2l6c05pT1Q5T0tkN1dWZlFMLUNBVTJUNzhfcjFzaWR0d2ZLRVNkMXdsVzF0Y3BGd0pmU0lCX2hUczdiM3lZLTlaNHNBOUpHZzRIYnJGX3RhQmhBSmtQUVdXS1hhVTQ3Q1RGQURmZGl0WEs0SDNSYVFIcFMwYUNRVldfaGkwa2J0eGFmdUFITUExa05wLWFaNEIyV1IyVG02SVgzZmU0ampFSi1HQTdFOUpINzZvbHUzQzBRSWVndUJxZ2duZFVVM282ajFnYlRCRWJpbzM?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Jio Platforms IPO sets new benchmarks in scale, speed and appeal",
+     "source": "India IPO",
+     "date": "21 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdkVPNEN6SFJEZTFadURhNjZsMGQ4V2lCV0N3d2prVnpnZXhZci1ZM2ctRjQ3VUE3V3UzNGhFWHRGSzJiUmJlTXkxWjJaaklMZEhUVHFjMnF0UXhCWnZWdFdwaXBLYlBzblRXMWVIQXJWUHdFMGNvVXJfVnlXYmZaODEwU0NTTmI0UUpBZjJIdEtjdDZiWXhoZGpNa0pBeTlR?oc=5",
+     "tone": ""
     }
    ],
    "key": "jio platforms"
@@ -376,8 +397,22 @@
     "Expansion pipeline to reach 3,011 beds by FY28.",
     "Advanced clinical infrastructure and standardized care protocols."
    ],
-   "status": "upcoming",
-   "day_label": "Opens tomorrow",
+   "status": "open",
+   "day_label": "Closes in 2 days",
+   "subscription": {
+    "as_of": "Oct 21, 2026 10:59",
+    "rows": [
+     {
+      "category": "Non Institutional",
+      "times": 0.02
+     },
+     {
+      "category": "Retail Individual",
+      "times": 0.24
+     }
+    ],
+    "total": 0.05
+   },
    "gmp": {
     "gmp": 85.0,
     "gmp_pct": 12.26,
@@ -418,30 +453,31 @@
    ],
    "news": [
     {
-     "title": "Paras Healthcare secures Rs 652 cr from anchor investors",
-     "source": "ET HealthWorld",
-     "date": "20 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU3oxSzB4UThpbHZ1WUpvM2pfMk5Rck5mZWJkRkdHZU9nQTQ4Y01RSThaS1Q0bERhVmtQQkFUbnY2NTh0U241STh3aVJxdDRCZnNSVERLQlRaRUVTRHhCbXZQMXR2cjdxMTZsaldPQ2NUU3JxUHNpeHNqd21YR2xsSnkzMl9rZXlXXzJxSEFjdmp3dlBaODBfODZ1cnVScVB4elZCbDl2YmJjUXN5MVk0Q1hsZ1o3TWtTa0RSSWEzNkh6a2J2Ymd3c9IByAFBVV95cUxNU3oxSzB4UThpbHZ1WUpvM2pfMk5Rck5mZWJkRkdHZU9nQTQ4Y01RSThaS1Q0bERhVmtQQkFUbnY2NTh0U241STh3aVJxdDRCZnNSVERLQlRaRUVTRHhCbXZQMXR2cjdxMTZsaldPQ2NUU3JxUHNpeHNqd21YR2xsSnkzMl9rZXlXXzJxSEFjdmp3dlBaODBfODZ1cnVScVB4elZCbDl2YmJjUXN5MVk0Q1hsZ1o3TWtTa0RSSWEzNkh6a2J2Ymd3cw?oc=5",
-     "tone": "good"
-    },
-    {
-     "title": "Paras Healthcare IPO Opens on October 21: Price band, lot size, key dates & 10 things to know",
-     "source": "Zee Business",
-     "date": "20 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZkVhbXF2Z2FZWU5rbjhtSm5RWVZTbVUxQXlyMlRNbVBjR1hCbGhReHZCbi1oVTBxLVJRemh4WVk0WHpDZEk4cHAzTkZHaU1ibnJtcUlPRW02TlFUekdURVotc2t6WWxuaERBMWNkSW5RcHFhT2VmTEtxZ3FsS3pDWkljYjItd1d1YklqUlIwR0pLN1QtLUktUGltR1Y3Yll4VjJJN3ZkTzhnSDR6SV9rUmRDcWxoSzF5Ylc4NVUxcDFYd3FJV1lUeS1jeWwwNmNw?oc=5",
+     "title": "Paras Healthcare IPO Day 1: Subscribed 0.08x; Retail leads with 0.41x demand",
+     "source": "scanx.trade",
+     "date": "21 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSDZ1M2ZHdEFvbDlXLWpKV20wcXlpVDJSeHhrT29nc2VXMEcxSE5OV3pkYk4xZXhXenlVWjRXQ2cyZWxWaDNUbVFlYnpLMnl5R3RhRWV5QzRMZ19IcXF5NmFsYnVjMlhTLURsQVB3YWhOOUNYSnBmd3d1NjJBb1ItM0Rqd2l4ay1xUy1nMTRaYWhQOENPYkw2WEFvQllBRmE3YUlKRVVwVWdmYXFJTHIwVVhUYXJkQWFVckV2eVBSZkdHd0xESmJsS1hna1Q2cTVmMjNISW1FazJzUms?oc=5",
      "tone": ""
     },
     {
-     "title": "Paras Healthcare mobilises Rs 652.5 crore via anchor book, Rs 1,450-crore IPO to open on October 21",
-     "source": "Moneycontrol.com",
-     "date": "20 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPWFFyOFVYcDRFYWJVS1hMaldRYWsxdGNpZnBHSTNhR1FHVk05TDF4bEs0TDJVRi1rempaUUJYZlNyM1dBMFpLMDBaUXZlQWlzcUFXSmwtdjFPTmNmNFQzS2tjcFo4cnhJcTlhT2RZbzRUUkZ1YkVObUlkNHdQWWVZTGlFOTJfekFfM2haUzZ2Y0h2YnF4VVBsOHpxaS13aXp4ZHRfcVhkTklYUy1vWC0zVlBpenhlZHdfOGRBcHFuZjRxNnhVcVNYcm91THA4d2V1Vzh2WnVxcmlpMTVwV0RNWUR5ak5Jc19NM2JYd2dZV3dqOGhHY1HSAfYBQVVfeXFMT1hRcjhVWHA0RWFiVUtYTGpXUWFrMXRjaWZwR0kzYUdRR1ZNOUwxeGxLNEwyVUYta3pqWlFCWGZTcjNXQTBaSzAwWlF2ZUFpc3FBV0psLXYxT05jZjRUM0trY3BaOHJ4SXE5YU9kWW80VFJGdWJFTm1JZDR3UFllWUxpRTkyX3pBXzNoWlM2dmNIdmJxeFVQbDh6cWktd2l6eGR0X3FYZE5JWFMtb1gtM1ZQaXp4ZWR3XzhkQXBxbmY0cTZ4VXFTWHJvdUxwOHdldVc4dlp1cXJpaTE1cFdETVlEeWpOSXNfTTNiWHdnWVd3ajhoR2NR?oc=5",
+     "title": "IPO Review: Paras Healthcare Limited",
+     "source": "Moneylife",
+     "date": "21 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPazdwaFdKTEZCc2toMndzRTZlMlIzU0MxOWUyNVNpeUM2bWF4YUxwQk5WZHFqQjIzNDFXbnBDSk8wbHRfdTNuaTA2aWFEcklTVVJ3V3FGbGpES0x2eFl2TU5WUlV6NnFGd29Val9kVWFtdjl3cjI4cmNEN1BGWE0xenlVRWdDZw?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "ADIA unit anchors India’s Paras Healthcare ahead of IPO",
+     "source": "Zawya",
+     "date": "21 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVl9TcUVYWVNTcEk1aG9wUnJEMzlwRzlhbzA2Q091Nkg4N0FscGxsaG02dkpyS1FZWFFlN2NCQWRpLU9iZXZZbWhxc2FfSDBqVUZrQWROaWF3VjVwOXlsU2lLR0hNVk1YYnN1VWtkS01NZXFBaFd0bGhQQTNSbmdyMHpzZ3J2SzQxTzdDT09NQk44NFdiY0pPanl5T0U0Snp6S3NLYTRIc2hMV0E?oc=5",
      "tone": ""
     }
    ],
    "key": "paras healthcare"
   }
  ],
+ "upcoming": [],
  "market": {
   "performance": [
    {
