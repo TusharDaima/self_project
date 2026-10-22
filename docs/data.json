@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-21T13:25:32+05:30",
- "generated_display": "21 Oct 2026, 01:25 PM IST",
+ "generated_at": "2026-10-22T13:22:20+05:30",
+ "generated_display": "22 Oct 2026, 01:22 PM IST",
  "open": [
   {
    "chittorgarh_url": "https://www.chittorgarh.com/ipo/jio-platforms-ipo/3152/",
@@ -17,6 +17,7 @@
    "lot_size": 12,
    "price_band": "₹1065 to ₹1119",
    "price_high": 1119.0,
+   "issue_price": 1119.0,
    "issue_size_cr": 30213.0,
    "min_application": {
     "label": "Retail (Min)",
@@ -143,28 +144,28 @@
     "Strong innovation capabilities supported by patents, AI and technology development."
    ],
    "status": "open",
-   "day_label": "Closes in 2 days",
+   "day_label": "Closes tomorrow",
    "subscription": {
-    "as_of": "Oct 21, 2026 11:00",
+    "as_of": "Oct 22, 2026 12:54",
     "rows": [
      {
       "category": "Qualified Institutional",
-      "times": 3.77
+      "times": 9.61
      },
      {
       "category": "Non Institutional",
-      "times": 0.3
+      "times": 3.35
      },
      {
       "category": "Retail Individual",
-      "times": 0.29
+      "times": 1.22
      },
      {
       "category": "Employee Reservations",
-      "times": 0.66
+      "times": 1.78
      }
     ],
-    "total": 1.19
+    "total": 3.87
    },
    "gmp": {
     "gmp": 220.0,
@@ -194,10 +195,10 @@
    },
    "business_news": [
     {
-     "title": "Jio Platforms Ltd. (Derivatives) price today, JIO to USD live price, marketcap and chart",
-     "source": "CoinMarketCap",
+     "title": "Jio Platforms Ltd. (Derivatives) Price (JIO/USD) Today | Live Price, Market Cap & Chart",
+     "source": "Binance",
      "date": "20 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yNmxjU0UydG1ncjRVLUtaMDdEUDhvNmhpRjZfX2NPeFpJZ3RUaFNnY25zVmt3N3ZpT0N2ZllVdUlLWEYyOVdxNGgxSnZEWkZtemJlRW1WSENrNHNMTG83UGJNdllzSXU1WnNpS1BxcFdPN1M5SEE?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9IWWVBTTYyamk5VFpwQ1dKNnhUVDhnbEhjODE0ZmFGS2ZFaHFDYUxZUDlkNlNOQjhiMGtUS2I4eFRlYzRSeVNPRE1lbDJqV3lPQkRlVUZyZ0pSaTRreG1YSlNHSWdBQWJCVUxWSGdxTQ?oc=5",
      "tone": ""
     },
     {
@@ -224,25 +225,25 @@
    ],
    "news": [
     {
-     "title": "INR/USD: Indian Rupee Rises to Six-Week High on Jio Platforms IPO Flows",
-     "source": "Bloomberg.com",
-     "date": "21 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQTF1LXZ3eGNYNy1FdjRKbTVvLTJuZ1l0Qk43d084RTNQdTV0OFNqQjhqdmpPV3JKcGt2eUR1LVVaU0twOW1OSTN5M2FLZGpEZGJfLWVybGROR2Etd2VHQ3pPWkxjV1c2SThqYkhOMURNbzJoaEwyZTZCeE82aXZzeWFERG4ya3VwU0FuOTR4a09iX1NabzZoUmJyNGZ4eUdJd2JtbUNMZEF2SGEzV2h6Mnh0ekZPQmo2OW9jbHdn?oc=5",
+     "title": "Jio Platforms IPO Day 2: GMP Trend and Subscription Status",
+     "source": "India Infoline",
+     "date": "22 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQakJBLXZTTjlkYXhfUTVzY0hlWXJVa21udUJ4OFNfbDRCNWs3UXdWcjUxMlpRUm9TUnUxQjBBSnN6TTZtcXdtTDhVLXA1UldlY05hakJ6ODVhdVowenB6dWYzWmF4eDVUc1JxM0RTcHRpV2c1UW5QWkZjYWZqc2pXZ2tfZTVBck5JQmJUalluV2ZpNEpNZExOamp6Ukw?oc=5",
      "tone": ""
     },
     {
-     "title": "RIL's stock climbs 2% as Jio Platforms IPO achieves full subscription in just 100 minutes",
-     "source": "BusinessLine",
-     "date": "21 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOMkJwZmJET19mOFdJTHlseDN3bjFtNG9DTk9EYzhTMlp1UlJySmhvdG5WZjFJaV9Ea3BoMjNrMHNqT0U5cGVlazhDeERUV0I0RGVKNmhBMUdBWUFrZHhsd2RfNjFoWlJkRm94Ni14RW9TRXVvQWlVTzR3M29rWHhSbHpWWERROWxGNmVpVWplRWFXQ2p0UWVORF93SVlvZ0UyX01MTE9IX3VnNzlZZnQ3ay1PUktsMHVLN2ZuN0RKYVFRb0c1WEpYT1ZPTVdTRDIyel90NlhMczdYcDZnQkltS3J1dFcxOVVUeVRsWFhJM2k4bFplYXgtTHN30gGAAkFVX3lxTFBZTnM3VzlIaEhJcW5JUzQta09UODdXZXh2a1dZODJYM0NlSXdSN0h0eGhkX2l6c05pT1Q5T0tkN1dWZlFMLUNBVTJUNzhfcjFzaWR0d2ZLRVNkMXdsVzF0Y3BGd0pmU0lCX2hUczdiM3lZLTlaNHNBOUpHZzRIYnJGX3RhQmhBSmtQUVdXS1hhVTQ3Q1RGQURmZGl0WEs0SDNSYVFIcFMwYUNRVldfaGkwa2J0eGFmdUFITUExa05wLWFaNEIyV1IyVG02SVgzZmU0ampFSi1HQTdFOUpINzZvbHUzQzBRSWVndUJxZ2duZFVVM282ajFnYlRCRWJpbzM?oc=5",
+     "title": "Jio Platforms IPO to Open on October 21, 2026: Check Price Band, Issue Size and Key Details",
+     "source": "Groww",
+     "date": "22 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zVXlqbkpwT0kwV1U0R2I4Ymp1T0hFVnVJaEhQZWZUTlVKaU1wcFpHVF9mRzJIelg4UmY4M21JSi1LTHgxYllrdXg4c1J4VGlZZHJRZHhGUDhpVWh2WEQ0UzVhdThIeTE1V3JOTk9DVnpCVU5l?oc=5",
      "tone": ""
     },
     {
-     "title": "Jio Platforms IPO sets new benchmarks in scale, speed and appeal",
-     "source": "India IPO",
+     "title": "IPO GMP race: Reliance Jio Platforms IPO vs Paras Healthcare IPO - Check grey market winner",
+     "source": "Livemint",
      "date": "21 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdkVPNEN6SFJEZTFadURhNjZsMGQ4V2lCV0N3d2prVnpnZXhZci1ZM2ctRjQ3VUE3V3UzNGhFWHRGSzJiUmJlTXkxWjJaaklMZEhUVHFjMnF0UXhCWnZWdFdwaXBLYlBzblRXMWVIQXJWUHdFMGNvVXJfVnlXYmZaODEwU0NTTmI0UUpBZjJIdEtjdDZiWXhoZGpNa0pBeTlR?oc=5",
-     "tone": ""
+     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQaE90VmNOSUpUMkIwd0Z4TUJodldUNWxRUXQwX0NUczRXQjh0ZnBNdUszbXRJUTFaM1ptbXZvaFFwMkxxOVlnY0s2MGNpcG9Cd2xLa010dDRZNWVnTDUzTXJWN0d1R25VNXhrNngzczNkeGxJRng1d2JGVk5SaGN6WWh6T2w2OEFwSWhLMG9HOUpyLWpVSmF1bldhcXM1WWJXajk5LVFKaWZORWFyU1hzLUNHWkQzUzVwRDdiTGZ0eWtXX1RLOHJSSThXemxmSGRzcVZlMVNSVmp4UVNRWnp0bDZpZkw1WUVEN1NPMmlaZ9IB9AFBVV95cUxPM1RYZFFiQXo4c1EyT1JqX1pwdW1COXZzVlpxRmxMWDdwMXA1UW1kMklYOW9BWG5oS0FnZnA0SFdKczVWMzh4NU9SWUNncG5HbVA2ZUl2NkFXamJLMVpOVTdQUC1zQkxvVUZwaGR4bms0eDE4a2JsOVE4X3dyR0hBZUJ4WG5xaWlCSmZaMFRiQUFVcnJDV3AtY1A3WGJrckVuM0F3NnpwX2dyNjRPWEFJcVo1dmNxWWlMbm1zLUNTcG5jVEdNWUdBR3NqTFIyTWgzd0dvWV9MV05RMHpnVU1Qd1cyZURvVmdvb29haXVzQkF2ejAx?oc=5",
+     "tone": "good"
     }
    ],
    "key": "jio platforms"
@@ -361,9 +362,9 @@
     }
    },
    "reviews": {
-    "Subscribe": 4,
+    "Subscribe": 5,
     "May Apply": 0,
-    "Neutral": 2,
+    "Neutral": 3,
     "Avoid": 0
    },
    "legal_name": "Paras Healthcare Ltd.",
@@ -398,20 +399,20 @@
     "Advanced clinical infrastructure and standardized care protocols."
    ],
    "status": "open",
-   "day_label": "Closes in 2 days",
+   "day_label": "Closes tomorrow",
    "subscription": {
-    "as_of": "Oct 21, 2026 10:59",
+    "as_of": "Oct 22, 2026 12:54",
     "rows": [
      {
       "category": "Non Institutional",
-      "times": 0.02
+      "times": 0.14
      },
      {
       "category": "Retail Individual",
-      "times": 0.24
+      "times": 1.16
      }
     ],
-    "total": 0.05
+    "total": 0.25
    },
    "gmp": {
     "gmp": 85.0,
@@ -444,6 +445,13 @@
    },
    "business_news": [
     {
+     "title": "stock in news eternal paras healthcare bajaj finance today",
+     "source": "Zee Business",
+     "date": "21 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSDhIb1Y1SHpZY1VLMkRYUl9mNDEyaktRUm9VbDRJYm5pSzRoeFRKdVByckxmR1R4UU12TEhkN3RhZzlmeDdocHNYM3BNQi1ILW9MRXJuN05vUEVIRjU0VzRxQjNWUFRhMV9iWlVnWWdLYlZOSU83R3llWnpKVW54MTRObFRjWjJJa1I5RmJGS2VYdUluSDJTVmFhOWNMaE51MmZWVDNLYlV5UEhrZXNlTXNnVXI?oc=5",
+     "tone": ""
+    },
+    {
      "title": "Thank You Kashmir’: PARAS Health Srinagar Launches Gratitude Campaign",
      "source": "Only Kashmir",
      "date": "10 Aug 2026",
@@ -453,31 +461,788 @@
    ],
    "news": [
     {
-     "title": "Paras Healthcare IPO Day 1: Subscribed 0.08x; Retail leads with 0.41x demand",
+     "title": "Paras Healthcare IPO Day 2: Subscribed 0.21x; Retail at 1.00x, QIB nil",
      "source": "scanx.trade",
-     "date": "21 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSDZ1M2ZHdEFvbDlXLWpKV20wcXlpVDJSeHhrT29nc2VXMEcxSE5OV3pkYk4xZXhXenlVWjRXQ2cyZWxWaDNUbVFlYnpLMnl5R3RhRWV5QzRMZ19IcXF5NmFsYnVjMlhTLURsQVB3YWhOOUNYSnBmd3d1NjJBb1ItM0Rqd2l4ay1xUy1nMTRaYWhQOENPYkw2WEFvQllBRmE3YUlKRVVwVWdmYXFJTHIwVVhUYXJkQWFVckV2eVBSZkdHd0xESmJsS1hna1Q2cTVmMjNISW1FazJzUms?oc=5",
+     "date": "22 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdE9FNEdmZnk0OFVrb1dmQTRWYnhtQWdCZzQ1VVhCbkItc2hhcnloRVlaTjJuaG1HMWVQX2U2bW1oNHAyWVRoU3FENXpTWkxrcFEta0tfOGQtNGhaOHlwSkdwSDJlMVp3bWxhay1aekM0RmxIMEFsTHQ3Z1RhN0JYbU1OazZRUE5ydUl0RzIxbUxQNDFjZk5sa2dHd0JOMEYyMXVvYjlLX1FOeVh6YTFkeVV6Nzl1dDAxOHBPMHJQb3VxLXF4SlZST2labTJKTXhCWVc2YQ?oc=5",
      "tone": ""
     },
     {
-     "title": "IPO Review: Paras Healthcare Limited",
-     "source": "Moneylife",
-     "date": "21 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPazdwaFdKTEZCc2toMndzRTZlMlIzU0MxOWUyNVNpeUM2bWF4YUxwQk5WZHFqQjIzNDFXbnBDSk8wbHRfdTNuaTA2aWFEcklTVVJ3V3FGbGpES0x2eFl2TU5WUlV6NnFGd29Val9kVWFtdjl3cjI4cmNEN1BGWE0xenlVRWdDZw?oc=5",
+     "title": "Paras Healthcare IPO subscribed 15% on Day 1",
+     "source": "ET HealthWorld",
+     "date": "22 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWHVXbG5ubGZxTnY2R3VsZ2NWSHlYZjRadDlNeGJGZTZ6R3gtWjVOaDhLbzFCdXBNalRQYVVsdmVVTFRmUEZPekNveXhIOFR2MWxGZEdfdHEwMUl6cktUWkNjWWVHU2xOUGM1aUhiTlJ6ejRrcDloS3o2dk4zdTZZV0xtQWlocmZiNVRzRUdVa2JWR083aldhdDZIZXhySFUtYnl6ZlJ3dll1U01CSFNPZExR0gG3AUFVX3lxTE14N2dnRldZZ1QzaGd4WUdjV2t0WHZwNUhVM0pZX09wTXA3WEJYUk9nUzJ3YU5KNWN4MVlIcXVRem5HZW5DNm5OU2RoZ0otRzMtWklZamdoUXByLXZETW1YSkUxVHI5dk90TU9mazJ0SEtlMXhJbWVwdWMwT3NUWTJVNWhYNFlOSVNGbDdUM0xid19OSXM2bTAyVWh4ZWhqb21WWHBXS2dHa0dNQlFPQXhPN2lFTGViaw?oc=5",
      "tone": ""
     },
     {
-     "title": "ADIA unit anchors India’s Paras Healthcare ahead of IPO",
-     "source": "Zawya",
-     "date": "21 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVl9TcUVYWVNTcEk1aG9wUnJEMzlwRzlhbzA2Q091Nkg4N0FscGxsaG02dkpyS1FZWFFlN2NCQWRpLU9iZXZZbWhxc2FfSDBqVUZrQWROaWF3VjVwOXlsU2lLR0hNVk1YYnN1VWtkS01NZXFBaFd0bGhQQTNSbmdyMHpzZ3J2SzQxTzdDT09NQk44NFdiY0pPanl5T0U0Snp6S3NLYTRIc2hMV0E?oc=5",
+     "title": "Paras Healthcare IPO Day 2: RII quota nears full subscription; check category-wise bids",
+     "source": "Zee Business",
+     "date": "22 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbUh4V21iVE8wWi0yNlFET0dBRkJrS01Gd2lEU1pqT2dsRUF3WFFfMUZIczdvWnhOZVE0NjdkQmFQTEkwN1licU9ReVctNGlKOXhDdnBCQ0YxU1cteWNxMXJoRjAzNHdZRE9kTWtLUEtWUnVQSXcxMTZ2WlJYRW1GVEFyTFlBVGhrSFFJQlV1bUVfdVhSeTE2TGVSQnFPQ1BNM1doeldkR3VpMG53bVZtT0ludWVrSkxoOWVjMUhKUUtEOUNmR1dZSk9NT04?oc=5",
      "tone": ""
     }
    ],
    "key": "paras healthcare"
   }
  ],
- "upcoming": [],
+ "upcoming": [
+  {
+   "chittorgarh_url": "https://www.chittorgarh.com/ipo/core4-engineers-ipo/2969/",
+   "name": "Core4 Engineers",
+   "open_date": "2026-10-23",
+   "close_date": "2026-10-27",
+   "ipo_date_text": "23 to 27 Oct, 2026",
+   "listing_date": "Fri, Oct 30, 2026",
+   "face_value": "₹ 10 per share",
+   "issue_type": "Bookbuilding IPO",
+   "sale_type": "Fresh capital only",
+   "listing_at": "BSE SME",
+   "type": "SME",
+   "lot_size": 1200,
+   "price_band": "₹88 to ₹93",
+   "price_high": 93.0,
+   "issue_size_cr": 55.0,
+   "min_application": {
+    "label": "Individual investors (IND) (Min)",
+    "lots": 2,
+    "shares": 2400,
+    "amount": 223200.0
+   },
+   "financials": {
+    "periods": [
+     "30 Jun 2026",
+     "31 Mar 2026",
+     "31 Mar 2025",
+     "31 Mar 2024"
+    ],
+    "rows": {
+     "Assets": [
+      145.43,
+      116.32,
+      67.12,
+      31.97
+     ],
+     "Total Income": [
+      45.77,
+      91.79,
+      34.6,
+      33.63
+     ],
+     "Profit After Tax": [
+      6.17,
+      12.37,
+      3.81,
+      2.89
+     ],
+     "EBITDA": [
+      9.08,
+      18.3,
+      6.71,
+      4.96
+     ],
+     "NET Worth": [
+      37.23,
+      31.07,
+      18.7,
+      6.43
+     ],
+     "Reserves and Surplus": [
+      22.44,
+      16.28,
+      15.74,
+      3.63
+     ],
+     "Total Borrowing": [
+      40.57,
+      31.58,
+      18.58,
+      16.75
+     ]
+    },
+    "unit": "Amount in ₹ Crore"
+   },
+   "objects": [
+    {
+     "object": "Funding capital expenditure for the acquisition of a property comprising land and an existing building, proposed to be utilized for establishing and operating a new manufacturing facility and corporate office;",
+     "amount_cr": 4.12
+    },
+    {
+     "object": "Funding incremental working capital requirements; and",
+     "amount_cr": 40.48
+    },
+    {
+     "object": "General corporate purposes",
+     "amount_cr": null
+    }
+   ],
+   "kpis": {
+    "ROE": "18.06%",
+    "ROCE": "13.23%",
+    "Debt/Equity": "1.09",
+    "RoNW": "16.56%",
+    "PAT Margin": "13.51%",
+    "EBITDA Margin": "19.90%",
+    "NAV": "25.18",
+    "P/B (x)": "3.69"
+   },
+   "valuation": {
+    "EPS (₹)": {
+     "pre": "8.36",
+     "post": "11.93"
+    },
+    "P/E (x)": {
+     "pre": "11.12",
+     "post": "7.8"
+    },
+    "Market Cap at Offer Price": {
+     "pre": "₹137.54 Cr.",
+     "post": "₹192.35 Cr."
+    }
+   },
+   "reviews": {
+    "Subscribe": 0,
+    "May Apply": 0,
+    "Neutral": 0,
+    "Avoid": 0
+   },
+   "legal_name": "Core4 Engineers Ltd.",
+   "about": [
+    "Incorporated in June 2014, Core4 Engineers Limited is an Engineering, Procurement, Construction and Commissioning (“EPCC”) company providing integrated infrastructure solutions across railway infrastructure, power transmission and distribution, and water and wastewater treatment. The Company offers end-to-end project execution capabilities covering design, engineering, procurement, construction, installation, testing, commissioning and operations and maintenance.The Company operates through five business segments: railway electrification and infrastructure, Extra High Tension (“EHT”) transmission and distribution systems, water and wastewater treatment EPCC, automation and Supervisory Control and Data Acquisition (“SCADA”) systems, and supply of High-Tension (“HT”) and Low-Tension (“LT”) distribution panels and related services.",
+    "Its railway infrastructure activities include overhead electrification, traction substations, station redevelopment, civil works and allied signalling and telecommunication interfaces. In power transmission and distribution, it undertakes turnkey projects involving substations, transmission lines and distribution networks up to 220 kV. Its water and wastewater division provides solutions for water treatment plants, sewage treatment plants and effluent treatment plants, supported by automation and process control systems.",
+    "The Company also designs and implements PLC-based automation and SCADA systems for railway, power and water infrastructure projects. Its in-house manufacturing facility produces HT/LT distribution and control panels, including VCB, PCC, MCC, APFC and PLC-based automation panels, as well as compact substations. This manufacturing capability complements its EPCC operations by supporting customization, cost efficiency, quality control and timely project execution. The Company also undertakes subcontracting assignments, providing on-ground execution support for engineering and infrastructure projects.",
+    "The Company serves government organizations, public sector undertakings, utilities, infrastructure contractors and private enterprises across India. Its business model combines multidisciplinary project execution, in-house design and engineering capabilities, panel manufacturing and vendor partnerships to deliver integrated infrastructure solutions.",
+    "As of June 30, 2026, the Company had a total workforce of 462 personnel, comprising 62 employees on its payroll and 400 floating labourers engaged primarily for project execution."
+   ],
+   "about_lists": {
+    "Competitive Strengths": [
+     "Integrated EPCC Capabilities.",
+     "Diversified Business Portfolio.",
+     "Experienced Project Workforce.",
+     "Technical and Execution Capabilities.",
+     "In-House Manufacturing Capabilities.",
+     "Presence Across Key Infrastructure Sectors."
+    ]
+   },
+   "strengths": [
+    "Integrated EPCC Capabilities.",
+    "Diversified Business Portfolio.",
+    "Experienced Project Workforce.",
+    "Technical and Execution Capabilities.",
+    "In-House Manufacturing Capabilities.",
+    "Presence Across Key Infrastructure Sectors."
+   ],
+   "status": "upcoming",
+   "day_label": "Opens tomorrow",
+   "insights": {
+    "metrics": [
+     "FY26 income ₹91.8 Cr",
+     "PAT ₹12.4 Cr",
+     "PAT margin 13.5%",
+     "Income +165% YoY",
+     "PAT +225% YoY",
+     "Post-issue P/E 7.8x"
+    ],
+    "flags": [
+     {
+      "tone": "good",
+      "text": "Strong growth: income +165%, profit +225%"
+     },
+     {
+      "tone": "good",
+      "text": "Profit up 3 years in a row"
+     },
+     {
+      "tone": "warn",
+      "text": "Borrowing up 70% (debt > net worth)"
+     }
+    ],
+    "partial": "Period to 30 Jun 2026: income ₹45.8 Cr, PAT ₹6.2 Cr (part-year, not compared)"
+   },
+   "business_news": [],
+   "news": [
+    {
+     "title": "Upcoming issue: Core4 Engineers to open for subscription on BSE SME on Oct 23; check key details",
+     "source": "Moneycontrol.com",
+     "date": "22 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPXzNjZEpEbDVGWHkzcVNYY2xzYW9RVzUxLV9OWjBFWVA1MU1jVHpVWjEtaTY1YjZYbTJmZDJMWWQ4YlctN1BZRndlejlucVcxWkpCaTlrZmRLZF9pMTZlSnViZ2FqdXAtYW9PLU9IaFFzQWhMYmdMcVVGbEtDcVA2cGxMNFRwZFZBMi00cWE2YWcwRm1OM2liNlQ5UFZmTnJjNkZEU0JxR1Y0S3dtbzgxTk9BOHdyZnk0R1JGQWJ1bGF5eTlyMFU5eE5lVmdPcnczdkEtRnYzalZ3U3BPMnJXcXBObUJJS255Qm1j0gHrAUFVX3lxTE9fM2NkSkRsNUZYeTNxU1hjbHNhb1FXNTEtX05aMEVZUDUxTWNUelVaMS1pNjViNlhtMmZkMkxZZDhiVy03UFlGd2V6OW5xVzFaSkJpOWtmZEtkX2kxNmVKdWJnYWp1cC1hb08tT0hoUXNBaExiZ0xxVUZsS0NxUDZwbEw0VHBkVkEyLTRxYTZhZzBGbU4zaWI2VDlQVmZOcmM2RkRTQnFHVjRLd21vODFOT0E4d3JmeTRHUkZBYnVsYXl5OXIwVTl4TmVWZ09ydzN2QS1GdjNqVndTcE8ycldxcE5tQklLbnlCbWM?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Core4 Engineers Limited IPO Opens on Friday, October 23, 2026",
+     "source": "First India",
+     "date": "22 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWXdNTTVsMm5NS1ZoclQ5TG9hOFV2LWZ1V29OaW05aGtCNWxSbi1TbUlMZzk4MHp6SlJGVVRPc2JuRnZ5NWpvWTFBRzFDRzYxX09KZktHb0d4RVk4Rk4yV25QVF9acVNnT0FYcDdtQVp0YkhRMlN0ZHRpZW1BeDRYTXByWXlsVzlUU2tzLXFsVERKb0puRG5ocC1qREN2cHhQZGhieElJeWZ5am9fdkUxbnlBVmFidw?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Core4 Engineers reserves 12.21% of issue for market maker",
+     "source": "Multibagg AI",
+     "date": "21 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTjRMbW4tSVN6RWl2X2lQRmE0Smc4WV94MzNmQk5LWmM2UUZNTmJoNHRoUXA3MDNRVmVkVTBrSk9XMVpuamxsWnZPWXBlQW1USkdzQkRLM2NDb2NXX3ZJbnF1Q1lhcnNEeDBFcGw0cFJ5cHJuSV9vaUVlalNEWW0yWU9fU084YUJPWEJCdnFzMlU3bHA1Vy1yeG5hdXBSMDAzU3FuM1kxZVFNQ3NNX1ZNdV8xNDlvSjJ6?oc=5",
+     "tone": ""
+    }
+   ],
+   "key": "core4 engineers"
+  },
+  {
+   "chittorgarh_url": "https://www.chittorgarh.com/ipo/eaaa-india-alternatives-ipo/2061/",
+   "name": "EAAA India Alternatives",
+   "open_date": "2026-10-26",
+   "close_date": "2026-10-28",
+   "ipo_date_text": "26 to 28 Oct, 2026",
+   "listing_date": "Mon, Nov 2, 2026",
+   "face_value": "₹ 5 per share",
+   "issue_type": "Bookbuilding IPO",
+   "sale_type": "OFS only",
+   "listing_at": "BSE, NSE",
+   "type": "Mainboard",
+   "lot_size": 9,
+   "price_band": "₹1585 to ₹1665",
+   "price_high": 1665.0,
+   "issue_size_cr": 1200.0,
+   "min_application": {
+    "label": "Retail (Min)",
+    "lots": 1,
+    "shares": 9,
+    "amount": 14985.0
+   },
+   "financials": {
+    "periods": [
+     "30 Jun 2026",
+     "31 Mar 2026",
+     "31 Mar 2025",
+     "31 Mar 2024"
+    ],
+    "rows": {
+     "Assets": [
+      2101.84,
+      2170.28,
+      2085.07,
+      1769.66
+     ],
+     "Total Income": [
+      336.13,
+      963.76,
+      786.54,
+      584.25
+     ],
+     "Profit After Tax": [
+      80.71,
+      265.2,
+      229.78,
+      175.16
+     ],
+     "NET Worth": [
+      1160.38,
+      1075.54,
+      966.45,
+      729.48
+     ],
+     "Reserves and Surplus": [
+      1128.24,
+      1043.4,
+      934.31,
+      480.64
+     ],
+     "Total Borrowing": [
+      399.2,
+      441.03,
+      507.49,
+      444.83
+     ]
+    },
+    "unit": "Amount in ₹ Crore"
+   },
+   "objects": [],
+   "kpis": {
+    "ROE": "28.96%",
+    "Debt/Equity": "0.34",
+    "RoNW": "28.96%",
+    "PAT Margin": "24.01%",
+    "NAV": "176.67"
+   },
+   "valuation": {
+    "EPS (₹)": {
+     "pre": "41.02",
+     "post": "49.93"
+    },
+    "P/E (x)": {
+     "pre": "40.59",
+     "post": "33.35"
+    },
+    "Market Cap at Offer Price": {
+     "pre": "₹10,765.10 Cr.",
+     "post": "₹10,765.10 Cr."
+    }
+   },
+   "reviews": {
+    "Subscribe": 0,
+    "May Apply": 0,
+    "Neutral": 0,
+    "Avoid": 0
+   },
+   "legal_name": "EAAA India Alternatives Ltd.",
+   "about": [
+    "Incorporated on May 14, 2008, EAAA India Alternatives Limited is an alternative investment management platform focused on India’s real assets and private credit markets. It manages investment funds and provides alternative investment solutions to domestic and global institutional investors, high-net-worth individuals (“HNIs”), ultra-high-net-worth individuals (“UHNIs”) and family offices.The Company operates primarily through two business verticals: Real Assets and Private Credit, along with portfolio management services and other investment solutions. Its Real Assets vertical invests in infrastructure, commercial real estate, perpetual capital and energy transition opportunities through equity, quasi-equity and debt instruments. Its Private Credit vertical provides financing solutions across performing credit, special situations, real estate credit and investment-grade credit. The Company also offers co-investment opportunities through portfolio management services.",
+    "As of June 30, 2026, the Company managed assets under management (“AUM”) of ₹953,448.78 million and fee-paying assets under management (“FPAUM”) of ₹486,231.76 million. Its portfolio comprised 10 active Real Assets funds, including two Infrastructure Investment Trusts (“InvITs”), and 16 active Private Credit funds. The Company is supported by its wholly owned subsidiary, Sekura India Management Limited, which provides asset operating and management capabilities, including operations, maintenance, monitoring and efficiency improvement.",
+    "The Company has a diversified client base and a technology-enabled investment platform supported by dedicated investment, asset management, coverage and enterprise teams.",
+    "As of June 30, 2026, it had 277 employees across investment, asset operating and management, coverage, enterprise, legal and compliance, and other functions."
+   ],
+   "about_lists": {
+    "Competitive Strengths": [
+     "Established Market Presence: Over 17 years of experience in alternative investment management.",
+     "Diversified Investment Platform: Presence across real assets, private credit and portfolio management services.",
+     "Strong Assets Under Management: Managed AUM of ₹953,448.78 million as of June 30, 2026.",
+     "Diversified Client Base: Long-standing relationships with institutional and non-institutional investors across multiple geographies.",
+     "Technology-Enabled Operations: Dedicated asset operating and management platform through Sekura India Management Limited.",
+     "Comprehensive Risk Management: Structured investment assessment, portfolio monitoring and risk management systems.",
+     "Experienced Management Team: Led by professionals with extensive asset management, investment and risk management experience."
+    ]
+   },
+   "strengths": [
+    "Established Market Presence: Over 17 years of experience in alternative investment management.",
+    "Diversified Investment Platform: Presence across real assets, private credit and portfolio management services.",
+    "Strong Assets Under Management: Managed AUM of ₹953,448.78 million as of June 30, 2026.",
+    "Diversified Client Base: Long-standing relationships with institutional and non-institutional investors across multiple geographies.",
+    "Technology-Enabled Operations: Dedicated asset operating and management platform through Sekura India Management Limited.",
+    "Comprehensive Risk Management: Structured investment assessment, portfolio monitoring and risk management systems.",
+    "Experienced Management Team: Led by professionals with extensive asset management, investment and risk management experience."
+   ],
+   "status": "upcoming",
+   "day_label": "Opens in 4 days",
+   "insights": {
+    "metrics": [
+     "FY26 income ₹963.8 Cr",
+     "PAT ₹265.2 Cr",
+     "PAT margin 24.0%",
+     "Income +23% YoY",
+     "PAT +15% YoY",
+     "Post-issue P/E 33.4x"
+    ],
+    "flags": [
+     {
+      "tone": "good",
+      "text": "Profit up 3 years in a row"
+     },
+     {
+      "tone": "good",
+      "text": "High ROE 29%"
+     }
+    ],
+    "partial": "Period to 30 Jun 2026: income ₹336.1 Cr, PAT ₹80.7 Cr (part-year, not compared)"
+   },
+   "business_news": [
+    {
+     "title": "CAM acts as counsel to EAAA India Alternatives Ltd. and Avendus Finance Pvt. Ltd. in connection with a secured financing of INR 585 crores raised by Gujarat Themis Biosyn Ltd.",
+     "source": "SCC Online",
+     "date": "10 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeDFHUkMzajkxM2dHZlN3eG1SU0Z4Njg5SEREM0c2cVJzM3prZ3hSODBCeFoyUldaRC1jeDRieG9DODl2dFhVWEVBSDNIaHNRSlNTNi0tcWpEMkxGYkJkRE1HbEpaUVNJQ3haaVhaM0x6YzlyU1dNYTRFYXV5R1hxM19JbjdpWEpQMFVkT1hVSzM3QW40Uks1ZGEyUndDNDM4bFVYV3RHc245bTdrc0RZMGlfVGRSVHgtYlVyM0RVZUUyNGlZc2c?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Trilegal advises EAAA India Alternatives on acquisition of 1 million sqft office park in Pune",
+     "source": "Bar and Bench",
+     "date": "14 Aug 2026",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRW1kQU9NVk1WdUdYQnJUM0dlOFByX2Y0Yk5NRWFhZWxkNUFmaF94X3A4M0JKc0VtOWYwQlJTYW5tQ2x4NmFDVzdUOHJmSDNuY3VBY2VaaHF0bXZGWHQyVVZveEs3aTNsa3NhNkR3SzF3M2NySmZrZU1RbWJFbjBpcWEtQVFGN3FsV2NQTjNQRmU2Z0dKZ0d3RUdITi1wTWRjeU82QXdpbkQtVkRabFlXUWppSy1lcTE1ZGlVVFlyZEk4YnAway1TeEloY2ZYendhR3VwV3JwUV9iQdIB5wFBVV95cUxOaG5mQjUteE05cFVNdmhybWVfZjM4UGFEVHZWQmp5aGY2eWkwV1BYSi1tUjJ1SmQtcTNrYnhBM1FDc2JiZ3RQOWRka3FDYXp0T1owU0NGbk14MldudVFQa1FTMVNic3pEYlFwamdUbzdudXduQzU1bzZLaV9VNzRPcC16UGZRM2pnbWpxMEpXSFJ5aUNwUUl4enUyV09USWZEX0tQeW03NVc5RFV2aXl0V2J6VUhBZE5CQnY5bWNLNllVQ2o3NGhPb21XeDRYMEpuS0htQUotbEZoQjY4TWpuZXh5cUR3RlE?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Trilegal Advised EAAA India On Acquiring Grade A Office Park In Pune",
+     "source": "LawBeat",
+     "date": "11 Aug 2026",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcUVhZUU2azlDOWtPa0dPa3ExdHZIdW5QaWIzX1NZRmREU2RRR2E0WjBvNGVIdlFRNlFQZnpLWkNtYmpULVlJSnVlNmhjWEVNalJRV2k3aHoxTlFrdUdCWW8zLV91QzJVUHRXUEx1WkVXakdmV0NwQkd6dVlJQ0ViZUpFNnhuQ0pNSFZRb1M3ZmlVaDJpNk9hVDdub204dE9zLWpKWWpOMETSAa4BQVVfeXFMTjk5WmpJZG00RmlWalNyOUdTSFZhVEtpVm9sLVhjUUQ1c1BoYUFsWTgtZjI0Y0s2TUtRaWV5dDJ0cU1NR0VobUMwTnpUVjhaM3IxRDlndlg5NG05eE4zTlgxQjFXdmRqX0dtNmNnakdyRzRmMjlWWjNGeVZhazUxc0ROMkpTSjMxd1NCeGxmM2U2TEVobWJScFRJbGlnNWdtOUU5emR3MDRpa2xTRWFB?oc=5",
+     "tone": "good"
+    },
+    {
+     "title": "EAAA India Alternatives CEO Subahoo Chordia departs",
+     "source": "ION Analytics",
+     "date": "05 Jun 2026",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX1gzYV9nLTg4VzRCZkpOZkRwSk5kel90R0JkcmhoSXB0dVVuTmFoN2ZaTHhVbnljUndGZDFXMy0zTjFJQzVCOTN0Mk1mSXQtb3gxdFJQZFg4bzVmc2FIVWV6Mms4R3B3eGFycVlENVlESHNuM1k1LW9ObU5obzRQdlF4Z1ZtOE5m?oc=5",
+     "tone": ""
+    }
+   ],
+   "news": [
+    {
+     "title": "Upcoming IPO: Edelweiss unit EAAA India Alternatives' Rs.1,200 cr public issue to open on Oct 26 - Top things to know",
+     "source": "TradingView",
+     "date": "22 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPOUVtSEh1RzE1N2FuRVhWZl9QN1BRS0xZMnNCTnNvYThOa1MyM1lhVmhaVWdnVDh0NllfeGEzWmMzV2xXWkhmeTVoLWc1MlhicmJ5VkhaenlldlpPZUJZbE1vSDZBMzEtR2NjODNlVGY5aWFDcEpFLVVkaWhOMlJlQ21NWVBueGFSb3ZWQ1p5UEFyeG5uenBUS1hPQUk0UFhSNWRNbXFPQUIzVG04Y2hNaW01TDZtaHJpUXU3MVNYRGVtdDRUUDZRcHBka0VCVXI3UnVMRTdOZDlPS3BwNGR1aXRxNFRKRWZBamhZbkZ4Vm1xcDlnNGZJQ1BRdjd4OHM?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "EAAA India Alternatives Ltd IPO Date: Check Issue Date, Price, Lot size, Subscription, News and Details - Moneycontrol",
+     "source": "Moneycontrol.com",
+     "date": "21 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VNmF2Si0zZWtNLUdVd0FVVHkxa2Q1UnhzNG1yTkRmeDl2Zlc4S1dUWHJIYjZlbnc5VEhVeUM1OGVUVXNLWUhCcDlZaHNOZURLYngxb2RiVlMtazlMLWFVUzNTVllVMXZCLWpGajhIMXhZdDZWRncyZ1Z2dU9GZWM?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "EAAA India Alternatives IPO: Price band fixed at Rs 1,585-1,665",
+     "source": "Mid-Day",
+     "date": "21 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbWUyaUxMZThUdUdfZ3NEZ0k1b0lfYllHZTRsZS1Kd2k0OWFwZnRPVTAzMG52bVNjMmM0RWVwcnhSdU5EV1JHYVhTaG8ycFllOTRyWDdHSzllYlhYa2NwX2VTd2h5QmRKRDlWd21vRjE5NlRRaGpiOGVGcDZvVUhaaDA3WUNtWG9jVGZQbkQ2WTdaSDg5SGpfM1VfWHUwb0Q4eV9HRjJtR3JYcV9obmVGWDAzMU54TG1IZ1lDdG9RWm5HbWtCOXphZXpfdw?oc=5",
+     "tone": ""
+    }
+   ],
+   "key": "eaaa india alternatives"
+  },
+  {
+   "chittorgarh_url": "https://www.chittorgarh.com/ipo/sfc-environmental-technologies-ipo/2070/",
+   "name": "SFC Environmental Technologies",
+   "open_date": "2026-10-27",
+   "close_date": "2026-10-29",
+   "ipo_date_text": "27 to 29 Oct, 2026",
+   "listing_date": "Tue, Nov 3, 2026",
+   "face_value": "₹ 2 per share",
+   "issue_type": "Bookbuilding IPO",
+   "sale_type": "Fresh capital cum OFS",
+   "listing_at": "BSE, NSE",
+   "type": "Mainboard",
+   "lot_size": 45,
+   "price_band": "₹313 to ₹330",
+   "price_high": 330.0,
+   "issue_size_cr": 668.0,
+   "min_application": {
+    "label": "Retail (Min)",
+    "lots": 1,
+    "shares": 45,
+    "amount": 14850.0
+   },
+   "financials": {
+    "periods": [
+     "30 Jun 2026",
+     "31 Mar 2026",
+     "31 Mar 2025",
+     "31 Mar 2024"
+    ],
+    "rows": {
+     "Assets": [
+      1224.56,
+      1323.43,
+      999.47,
+      904.94
+     ],
+     "Total Income": [
+      137.9,
+      821.27,
+      726.96,
+      676.74
+     ],
+     "Profit After Tax": [
+      1.48,
+      160.21,
+      152.01,
+      144.17
+     ],
+     "EBITDA": [
+      9.86,
+      235.81,
+      207.48,
+      193.25
+     ],
+     "NET Worth": [
+      805.49,
+      804.17,
+      648.68,
+      534.3
+     ],
+     "Reserves and Surplus": [
+      784.14,
+      782.63,
+      628.54,
+      526.41
+     ],
+     "Total Borrowing": [
+      204.77,
+      195.64,
+      83.71,
+      139.16
+     ]
+    },
+    "unit": "Amount in ₹ Crore"
+   },
+   "objects": [
+    {
+     "object": "Prepayment of all or a portion of certain outstanding borrowings availed by Company and wholly owned Subsidiary, namely Vasudha Waste Treatment Pvt.Ltd.",
+     "amount_cr": 42.23
+    },
+    {
+     "object": "Funding working capital requirements",
+     "amount_cr": 74.92
+    },
+    {
+     "object": "General Corporate Purposes",
+     "amount_cr": null
+    }
+   ],
+   "kpis": {
+    "ROE": "0.18%",
+    "ROCE": "0.72%",
+    "Debt/Equity": "0.25",
+    "RoNW": "0.19%",
+    "PAT Margin": "1.11%",
+    "EBITDA Margin": "7.36%",
+    "NAV": "86.23"
+   },
+   "valuation": {
+    "EPS (₹)": {
+     "pre": "17.15",
+     "post": "0.61"
+    },
+    "P/E (x)": {
+     "pre": "19.24",
+     "post": "540.98"
+    },
+    "Market Cap at Offer Price": {
+     "pre": "₹3,082.57 Cr.",
+     "post": "₹3,232.57 Cr."
+    }
+   },
+   "reviews": {
+    "Subscribe": 0,
+    "May Apply": 0,
+    "Neutral": 0,
+    "Avoid": 0
+   },
+   "legal_name": "SFC Environmental Technologies Ltd.",
+   "about": [
+    "Incorporated in March 2005, SFC Environmental Technologies Limited is an environmental technology company engaged in providing technology, design, engineering, manufacturing, supply, installation and commissioning solutions for wastewater treatment (“WWT”), wastewater recycling and reuse (“WRR”), and solid waste treatment (“SWT”). The Company’s wastewater treatment business is primarily based on its proprietary C-Tech technology, an advanced sequencing batch reactor (“SBR”) process used in sewage treatment plants and industrial effluent treatment. Its solutions include technology packages, equipment, automation systems, installation, commissioning and related services. As of July 31, 2026, the Company had commissioned 728 wastewater treatment installations and its technologies facilitated the treatment of 17,511.11 million litres of wastewater per day. It has also expanded into wastewater recycling and reuse through ultrafiltration (“UF”), closed circuit reverse osmosis (“CCRO”) and membrane bioreactor (“MBR”) technologies, supported by an exclusive supply arrangement with DuPont for selected products in India.",
+    "The Company’s solid waste treatment business is based on its proprietary Organic Extraction (“OREX”) technology, designed to separate biodegradable organic matter from mixed municipal waste to support biogas generation and resource recovery. It provides end-to-end solutions covering design, engineering, construction, equipment supply, commissioning and operations and maintenance. The Company operates two integrated solid waste treatment facilities in Goa with an aggregate treatment capacity of up to 425 tonnes per day. Through its subsidiary, it has also secured orders for compressed biogas plants in Assam and Odisha, with cumulative order value of ₹5,017 million, and has expanded into projects involving agricultural waste and biomass.",
+    "The Company operates across 23 states and five Union Territories in India, with a business model involving technology supply, engineering solutions, project execution and operations and maintenance. Its customer relationships include engineering, procurement and construction companies, municipal bodies and government-owned entities. The Company’s growth strategy includes expanding its wastewater recycling and reuse capabilities and pursuing opportunities in solid waste treatment, compressed biogas and waste-to-energy projects.",
+    "As of August 31, 2026, the Company had 264 employees, including 149 engineers, supported by teams across design and engineering, electrical and instrumentation, erection and commissioning, manufacturing, proposals, sales, finance and other functions."
+   ],
+   "about_lists": {
+    "Competitive Strengths": [
+     "Technology-Driven Market Leadership: Strong position in wastewater treatment, supported by proprietary C-Tech technology and over 80% market share in SBR technology in India.",
+     "Integrated Technology and Engineering Capabilities: Comprehensive solutions across design, engineering, equipment supply, installation, commissioning and operations and maintenance.",
+     "Established Presence in Wastewater Recycling and Reuse: Expansion into UF, CCRO and MBR technologies, supported by an exclusive supply arrangement with DuPont for selected products in India.",
+     "Proprietary Solid Waste Treatment Technology: OREX technology enables organic waste separation, biogas generation and recovery of recyclable resources.",
+     "Strong Order Book and Repeat Business: High repeat-customer revenue, contributing 91.98% of revenue in Fiscal 2026, alongside significant orders in wastewater recycling and compressed biogas projects.",
+     "Diversified Growth Opportunities: Presence across wastewater treatment, wastewater recycling and reuse, solid waste treatment, compressed biogas and waste-to-energy projects."
+    ]
+   },
+   "strengths": [
+    "Technology-Driven Market Leadership: Strong position in wastewater treatment, supported by proprietary C-Tech technology and over 80% market share in SBR technology in India.",
+    "Integrated Technology and Engineering Capabilities: Comprehensive solutions across design, engineering, equipment supply, installation, commissioning and operations and maintenance.",
+    "Established Presence in Wastewater Recycling and Reuse: Expansion into UF, CCRO and MBR technologies, supported by an exclusive supply arrangement with DuPont for selected products in India.",
+    "Proprietary Solid Waste Treatment Technology: OREX technology enables organic waste separation, biogas generation and recovery of recyclable resources.",
+    "Strong Order Book and Repeat Business: High repeat-customer revenue, contributing 91.98% of revenue in Fiscal 2026, alongside significant orders in wastewater recycling and compressed biogas projects.",
+    "Diversified Growth Opportunities: Presence across wastewater treatment, wastewater recycling and reuse, solid waste treatment, compressed biogas and waste-to-energy projects."
+   ],
+   "status": "upcoming",
+   "day_label": "Opens in 5 days",
+   "insights": {
+    "metrics": [
+     "FY26 income ₹821.3 Cr",
+     "PAT ₹160.2 Cr",
+     "PAT margin 1.1%",
+     "Income +13% YoY",
+     "PAT +5% YoY",
+     "Post-issue P/E 541.0x"
+    ],
+    "flags": [
+     {
+      "tone": "good",
+      "text": "Profit up 3 years in a row"
+     }
+    ],
+    "partial": "Period to 30 Jun 2026: income ₹137.9 Cr, PAT ₹1.5 Cr (part-year, not compared)"
+   },
+   "business_news": [],
+   "news": [
+    {
+     "title": "SFC Environmental Technologies Limited has Rs 668 crore IPO",
+     "source": "The Financial World",
+     "date": "22 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMHU3dERqQlc4TG9YZTRaaHF4MndWZXN5WkRRX0dFSXNyeUh6SHZlVXZJNmdfZE1SZXhwalctVnhYVEk2WlUxM3k1S0lLZUp1MXJVanNUR0poM0lUa1A3c05zZHRjVWN4WkhFOEZHVVJkclFQbERfOGEzLVQ5ZHdhaWJoY09KYWJYVnk2c0lJM1IyMXpIa05sZzJB?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "SFC Environmental Technologies’ IPO: Price Band @ Rs313-Rs 330",
+     "source": "https://www.fintechbiznews.com/",
+     "date": "21 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaGJvRTIzTHBkeEd1blVwNWFxRk1pZkRxeEtSSmE1UjluMC10dktTVm9qeDY5a0RqdGlXeW5ZQjBLNS1UQ3dmSnpfU2FoelRDY1p1SS0wdUs0YjBQX3ZyZ3BPSmkzeUZEb3E5b04tcVI3cVFDUFBtcjlvYnhxdGVfeWxnSlprYVQzQ1I4U3NnRjRmd0tOdWt0Q1hPTDBLZVNYU3pVMnZwT0RpdV9WVEE?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "IPO Pipeline Stays Active as SFC Environmental and J Pan Tubular Advance Their Fundraising Plans",
+     "source": "Kalkine India",
+     "date": "21 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTVpIVkJzcnVCT1RsOHB4ZDJEMG5HMmdCOWRmLVY0NWl5eU5BV0x6RkNObFp5R3lKajduQ0JQQzIyeUtKNHk2SzVqakNaa1k4OG4wZ0xkMWVzdXpscW8xZ3RtYmRucUotRnlFSVlEd2FxbGdUWFRicHN1Z3hiZVVuZ2oxRjViLWVJa1pNV1hFUHRGaHJnZkJxcnJ6S25pV1NJRmlnNXZ0Yjh4NVp5NEtZWUY5R19vT2QtV21QTHlrYlliOVFqU3BIYXY0VFJXQ3hGWVlaNktwLURMTGI2cngzVA?oc=5",
+     "tone": ""
+    }
+   ],
+   "key": "sfc environmental technologies"
+  },
+  {
+   "chittorgarh_url": "https://www.chittorgarh.com/ipo/bls-polymers-ipo/2559/",
+   "name": "BLS Polymers",
+   "open_date": "2026-10-27",
+   "close_date": "2026-10-29",
+   "ipo_date_text": "27 to 29 Oct, 2026",
+   "listing_date": "Tue, Nov 3, 2026",
+   "face_value": "₹ 10 per share",
+   "issue_type": "Bookbuilding IPO",
+   "sale_type": "Fresh capital only",
+   "listing_at": "BSE, NSE",
+   "type": "Mainboard",
+   "lot_size": 100,
+   "price_band": "₹142 to ₹150",
+   "price_high": 150.0,
+   "issue_size_cr": 255.0,
+   "min_application": {
+    "label": "Retail (Min)",
+    "lots": 1,
+    "shares": 100,
+    "amount": 15000.0
+   },
+   "financials": {
+    "periods": [
+     "30 Jun 2026",
+     "31 Mar 2026",
+     "31 Mar 2025",
+     "31 Mar 2024"
+    ],
+    "rows": {
+     "Assets": [
+      231.34,
+      206.13,
+      179.14,
+      168.49
+     ],
+     "Total Income": [
+      107.81,
+      354.41,
+      336.7,
+      301.5
+     ],
+     "Profit After Tax": [
+      10.23,
+      27.01,
+      21.14,
+      7.52
+     ],
+     "EBITDA": [
+      16.21,
+      46.6,
+      39.66,
+      21.05
+     ],
+     "NET Worth": [
+      105.17,
+      94.93,
+      67.94,
+      46.83
+     ],
+     "Reserves and Surplus": [
+      60.14,
+      49.9,
+      58.34,
+      37.23
+     ],
+     "Total Borrowing": [
+      62.91,
+      51.72,
+      73.92,
+      93.77
+     ]
+    },
+    "unit": "Amount in ₹ Crore"
+   },
+   "objects": [
+    {
+     "object": "Financing the capital expenditure requirement towards expansion of our Manufacturing Facility by increasing the manufacturing capacity of certain of the existing products",
+     "amount_cr": 77.56
+    },
+    {
+     "object": "Funding working capital requirements of the Company",
+     "amount_cr": 89.5
+    },
+    {
+     "object": "General Corporate Purposes",
+     "amount_cr": null
+    }
+   ],
+   "kpis": {
+    "ROE": "10.22%",
+    "ROCE": "9.11%",
+    "Debt/Equity": "0.61",
+    "RoNW": "9.73%",
+    "PAT Margin": "9.56%",
+    "EBITDA Margin": "15.15%",
+    "NAV": "23.35",
+    "P/B (x)": "6.42"
+   },
+   "valuation": {
+    "EPS (₹)": {
+     "pre": "6.00",
+     "post": "6.60"
+    },
+    "P/E (x)": {
+     "pre": "25",
+     "post": "22.73"
+    },
+    "Market Cap at Offer Price": {
+     "pre": "₹675.48 Cr.",
+     "post": "₹930.48 Cr."
+    }
+   },
+   "reviews": {
+    "Subscribe": 0,
+    "May Apply": 0,
+    "Neutral": 0,
+    "Avoid": 0
+   },
+   "legal_name": "BLS Polymers Ltd.",
+   "about": [],
+   "about_lists": {},
+   "strengths": [],
+   "status": "upcoming",
+   "day_label": "Opens in 5 days",
+   "insights": {
+    "metrics": [
+     "FY26 income ₹354.4 Cr",
+     "PAT ₹27.0 Cr",
+     "PAT margin 9.6%",
+     "Income +5% YoY",
+     "PAT +28% YoY",
+     "Post-issue P/E 22.7x"
+    ],
+    "flags": [
+     {
+      "tone": "good",
+      "text": "Profit up 3 years in a row"
+     }
+    ],
+    "partial": "Period to 30 Jun 2026: income ₹107.8 Cr, PAT ₹10.2 Cr (part-year, not compared)"
+   },
+   "business_news": [],
+   "news": [
+    {
+     "title": "BLS Polymers to launch INR 255 crore IPO on 27 October with price band of INR 142–150 per share",
+     "source": "Prop News Time",
+     "date": "22 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOb2Rta3VQcTdLNWotNGdSVHJGclJuQjVQeFR2TDE4cU1xbjRCV2l0T0ZxU3VRWHowZmltWGZlZ0hzUFlEaXVWSWkyYW85QXVZM1RnUldfSFFoTGNmYVdGMk5oekFPbk42cDVMUTJ1ci1iV3JaMXN2NVVvR1lIMm01Mkg5MS1VSXY0c2dwMThvU0ZqWkx2UmhDdUdSWmVfRm5wREQ2MFlVS0FDSmdHd3p2YnFZM0h6eWZScVM4bFVUbHlIVW5BRWV1MHRLN1NWOVVZZFdBM2k4RGM2ZE1PQVFkTA?oc=5",
+     "tone": "good"
+    },
+    {
+     "title": "BLS Polymers Ltd IPO Date: Check Issue Date, Price, Lot size, Subscription, News and Details - Moneycontrol",
+     "source": "Moneycontrol.com",
+     "date": "20 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB1bnE1Wk12T2U0czNwQ3MxbEx1enpwMEViRDJOUXdxXzctMUVyc2dIamVvRkdNOHdNeG5zUXFXSDVucVZ0X1hhNTZ5R0QxNGViWXBGMDFEcVV1Tlo5RXlGaDFjeW1IUUEycEl6NUFDU0FNQU0?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "BLS Polymers opens ₹255cr IPO Oct 27-29 offering 1.7cr shares",
+     "source": "NewsBytes",
+     "date": "19 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZEhpclFjR2JiMnAtR2piNkU3bVk0VnFwd3M2c0NrMUlmaUdMRFYyRjBPM2hkQ3FSY0FkRzdQWDVaV1BWcmFPVkMyUEM1bVMzM1M3bWk4U1lqcG1MWXAtX1p1S28yMHpteUNYNl9hUHlOeHdoVFQtMmJNdjdEbHBtTHZocGx3czlBSUVub0lFSGktbE9UYk5uT0J3RzZZd2IxenBJRDFWWTdicHZ3c0E?oc=5",
+     "tone": ""
+    }
+   ],
+   "key": "bls polymers"
+  }
+ ],
  "market": {
   "performance": [
    {
@@ -2475,7 +3240,6 @@
  },
  "warnings": [
   "Could not load IPOWatch GMP: HTTP 403. Showing last known GMP values.",
-  "Chittorgarh SME list page had no IPO links (layout change?)",
   "Could not load Chittorgarh Mainboard performance tracker: no rows found (layout change?)",
   "Could not load Chittorgarh SME performance tracker: no rows found (layout change?)"
  ]
