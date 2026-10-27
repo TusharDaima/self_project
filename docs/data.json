@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-26T13:32:29+05:30",
- "generated_display": "26 Oct 2026, 01:32 PM IST",
+ "generated_at": "2026-10-27T13:45:52+05:30",
+ "generated_display": "27 Oct 2026, 01:45 PM IST",
  "open": [
   {
    "chittorgarh_url": "https://www.chittorgarh.com/ipo/core4-engineers-ipo/2969/",
@@ -148,20 +148,20 @@
     "Presence Across Key Infrastructure Sectors."
    ],
    "status": "open",
-   "day_label": "Closes tomorrow",
+   "day_label": "Closes today",
    "subscription": {
-    "as_of": "Oct 26, 2026 12:55",
+    "as_of": "Oct 27, 2026 12:00",
     "rows": [
      {
       "category": "Non Institutional",
-      "times": 0.61
+      "times": 3.78
      },
      {
       "category": "Retail Individual",
-      "times": 0.31
+      "times": 0.9
      }
     ],
-    "total": 0.29
+    "total": 1.26
    },
    "gmp": {
     "gmp": 0.0,
@@ -199,24 +199,24 @@
    "business_news": [],
    "news": [
     {
-     "title": "Core4 Engineers IPO Day 2: Subscribed 0.27x; bHNI leads at 0.85x, QIB yet to participate",
+     "title": "Core4 Engineers IPO Day 3 Subscription Status 27 Oct 2026",
+     "source": "Univest",
+     "date": "27 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaXNiX1dMcVFWU2RoY2U2QmJRT3FxeG92aTJDUFNFaldsc05TeVFyZ0RwNXM0MUVQek1obGNmWV9Vckt1WEkwOEZjbU1wVDNvRFJ2UFJXcW5YY0dBQWl0djVYSkVzSDZUYlAyZWVZX2ZXSFdZT3VzbWtpMnhaNzNzREo5TWFCeVBmampTNVVEWmxIMi1rMVpENE1yZWNWS3dD?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Core4 Engineers IPO Allotment Status: 0.76x Subscribed, Check Online",
+     "source": "Univest",
+     "date": "27 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sZnBDaGdrZ0djcEFzT0JDUWZmTXEzVThkTnRxcGJOd3FGVlhXM3ppZVhobXFwbDAxamJKUzI2U3JPbTR1T1N0aVJ0SDgzQzdXbHRBdGt6a1ZDUEt4NU96SWJ3UnMyRktsRVRUekZCY0UwSG5DMWlIUHlyZ2xGbUU?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Core4 Engineers IPO Day 3: Subscribed 1.34x; bHNI demand leads at 6.22x",
      "source": "scanx.trade",
      "date": "26 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOT1NucDYzOFVuazdCQ1lyS2FZNHhHMjViTkJ2RTZtRktTelI0Uy1kck14UUhEa3hNRWZHZld4eGxudGZqUE8wTEE4bzBvRnF2T1h2TjhzVFIyUDBUZk1lSG93QllGTkdiaTlBVHVfWVhHYm1wOTBydFBJLVhaeGxsMUJiaTJ0UllPYkU3ejdEeTJWMGg2Ml9xVXpkY29rUDBOTlVQSEFiWC1JV0N3M1djVVY5UG82ZjNjZ2FIRDA1YWtrR3EyMWJlODJNZm1Vc1ctTFNWbHVpcFo?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Core4 Engineers IPO Subscription Status Day 1: Issue Subscribed 0.08 Times",
-     "source": "HDFC Sky",
-     "date": "23 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9KMlEteW9DRXpkWTRwc0FpXzl4Rnh2a3d5c3kwUWJBRkdYejJEMVBPbmt4cldBUlVPTVV4ODF5M1ZnMVJ5WE5sdmVrVGprbFlDZU5WRDZwekJQVHFORU9pQllEdXptTTNtRUZyWDd5ZU9LXzZGdXVGZjVB?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Core4 Engineers targets $5.77M in BSE SME listing",
-     "source": "Dealroom",
-     "date": "23 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUzk5N21rUGdXRUZZZS10Z3Z0OWNVN0FuSUVQQnpTanpMM3JqbTFnR0R6Z0ZWOU05aUNIVWpmbFNOUXdwRlhycGRwTzhjUGdNd1NSX1VUdE54WF9UOGlzdWIyNlBjaDllY3hjTkxkWm9fT18ya2phV1pfVVBqcHFSU2t3U0xjZ3VlYUE?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZnBKLVlvVlFScXZkMjNKeTg1ejNQR19sM0loUzh2aXgyVFJLOVZ0TFViZ1pwVDlQZ1gwc1BibVJVMHdQRGIxOVNmbnR6SDBwY1Y5SnhGYl91UlpVa3RfYWRReDI1MXlDWmRXOHVfX3FNaUtpYVdsWEFWakE5TW1tYkJJa0pCQVJnemYzbHdJQkxvNHBmbnZaOUhhQ3llTHhWbElsR0lXaDBlWXpHOEJYZVZLTnAtY0hnYm5HSnV2WEFHWjAzTkc5QXRteU1VVF9QVkcyaVhzTQ?oc=5",
      "tone": ""
     }
    ],
@@ -347,29 +347,29 @@
     "Experienced Management Team: Led by professionals with extensive asset management, investment and risk management experience."
    ],
    "status": "open",
-   "day_label": "Closes in 2 days",
+   "day_label": "Closes tomorrow",
    "subscription": {
-    "as_of": "Oct 26, 2026 12:54",
+    "as_of": "Oct 27, 2026 13:00",
     "rows": [
      {
       "category": "Qualified Institutional",
-      "times": 0.08
+      "times": 0.25
      },
      {
       "category": "Non Institutional",
-      "times": 0.08
+      "times": 0.38
      },
      {
       "category": "Retail Individual",
-      "times": 0.02
+      "times": 0.09
      }
     ],
-    "total": 0.05
+    "total": 0.2
    },
    "gmp": {
-    "gmp": 50.0,
-    "gmp_pct": 3.0,
-    "est_listing": 1715.0,
+    "gmp": 20.0,
+    "gmp_pct": 1.2,
+    "est_listing": 1685.0,
     "updated": null,
     "trend": "🔴"
    },
@@ -427,31 +427,29 @@
    ],
    "news": [
     {
-     "title": "EAAA India Alternatives IPO subscribed 5% so far on Day 1; check latest GMP",
-     "source": "Moneycontrol.com",
-     "date": "26 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWVFYVEh5NzYtTk5FeVFxenFsWXN4YzFRdmVIQ0NzOEdQU2xMSjRrWl9GWlBVbDFrVXdOaEFJcXVha1Y1STJCcGQzTmxaYWNwVmZlS2JkV2JscU1HY3RhRzJVeE1fcEhiM3V5N3hvT1FBbEVOUTI0TXJkeWI3UVNPWm9FVllPX01NWmphZXlOcHk1RW4xemZVcjNsT1dzbFhvQkNBNlFsX0FzWWpNNGI0SnRJRXZzOVBPYk5MOE1sdkI1UHNUMHl6NE9CRXBXdEHSAdQBQVVfeXFMT2R2QTBHUXdGYjliMHZhV3BWNnNUTlJGWmM4RUNsb2s3cjNrLXgtdkxZMUNLRnR6NVoxME41b2RBUHZkdlI0WUlNaDZvcUcyX1phZlVjMmVreTEzZmc3SzNNTXlsZWVsUW9CTHdEemRQT1ZvZkMyR3Q4STBnVko3R0ZqSWVwLWlITWtjWi05MVBhWDE1UWdtN2dabHQxQjVkM1RiRW5pbFlNM050Y3kzN2RtbUxPQ2VYUlVSb1JrLVExUkd3ZkliVWdCbDlDZkEzdTNDaGM?oc=5",
+     "title": "EAAA India Alternatives IPO Day 2: Issue booked 14% so far; check all subscription-wise updates",
+     "source": "Upstox",
+     "date": "27 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbWUxMTVIbjJCNlRwMXJ4WVNvcGJMNmNQSlVfc1k0QjdFajB1bUhBU0E1bTE5OWMzbExCbjk4ejBIVjZpZHl5MXBXXzF4V0Fyb252SV96RHJsMWxPRjJYeTFmaU9PX2RHdGhlZDdYam5scm5iSm1lRHdtTngtWV9CVUxfOWh3d3hOOUZIa0poOWhFdjE2WWVoRUFVNy1rRWpyQTBJajhxSXhldlNteEQyZ29oYXdoa1l6YzhrWERNdGFWUTVuMlZYUVEwMnFwdzVTZFItTEk5bVNnXzdpRGFlMzdB?oc=5",
      "tone": ""
     },
     {
-     "title": "EAAA India Alternatives IPO: Should You Bet on This Rs. 1,200 Crore Issue? Check GMP & Reviews",
-     "source": "Goodreturns",
-     "date": "26 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZU9fNU1sTU0yTkpYZS1HU2NST1Z0cDdGb0p0RGRvUTE5QjBtcVd5NExudjFjT1NLQmZCMXBGdkZYYjJHQ09oRi10VThrLUE4cUZfZEctSGJ0a0syUXJHNExKdWwtQU5DOXp2eGFSRGJoWWhVMWt3aVNoN21yeTVGN0taNjh5V1h4ZWFYenVmVEJFSFFmTXE5TEhCZ2hMdVQ2cGViSFJ2MEN2RXpsWHFwWVVvaFVsNzQtd19FenFZZWc0NFNqY1daWnNxMTRRR3M?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "EAAA India Alternatives IPO Day 1: Subscribed 0.02x; QIB demand remains nil",
+     "title": "EAAA India Alternatives IPO Day 2: Subscribed 0.13x; QIB demand remains minimal",
      "source": "scanx.trade",
-     "date": "26 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaFVjcV8zcHFBZDlKWmt1cndWMy12WXRnVkoxeUFzcDNsZlRuZTR3OUJVaXh5a3hHazBkTjRsaWJ5a0ZvNWhuNVViVzZmSWpxNGxGVE1PVVhtSF9Fc1ViUXlaUUJrSnMxV0ZFMVc5Tl90WE9DVmlYM2ZXaU5ldW5IVXNfNXptbUp5REhMV2tHYjZuVUdUUFdzOTAxc1lxbHJ3bEd4VnRkMV9DRWRkbmFKYlFVZHV2bUd3aVZUQ2lYdC13ak8yQnVsYjF1aTdsMGlkYTh3ckJsZXdNNUk?oc=5",
+     "date": "27 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNk1RM1FKNG85M2xVd1Ffdk9rZmNNMXpDa3BEX2Ywa25tdnlOTWxWcDBlQ3ZLRXRHY2huNE10UDk3OGxKeEVscGF5anZtRnl2Y3RQaTNnYnJ1WDd2MWIyaVVMczNTdWZVdXU1aGFuQ2hLS0ttMVJJTHp5bGpyTF8yQW40ZU1qakJic2tQUzFaZDFIdENoOUx1VmFkendySDBHbk04YlpnZUJMMGNHemV2N0hPcDA2U3FXSzUycFo1X1lER090NmhDSS02UldxYzdMM3JuWDBvcjhiZDg?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "IPO Note : EAAA India Alternatives Ltd by Religare Broking Ltd",
+     "source": "Investment Guru India",
+     "date": "27 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT2lDTzg4SFNzT0JHUjFEM2NkUDFiLTdvUkRBSV9vSEU1YXNybWxnX0tESktCZ2w3WE93clhZRU5IUFlzQlA5UWhKMHVKUF8xMTlOQ1d6V3ZvZnQwNHNCTTFxVDFlaUZkQjF2NTY1Y19XQWVZYkdFZkpfRHl2a2l1QWZ5cmZBRUQwZGZpQ3ZfVVJnQXUzR01abW8xa3ZfWWJGVWNhaG0tSWZXMDgxUmc?oc=5",
      "tone": ""
     }
    ],
    "key": "eaaa india alternatives"
-  }
- ],
- "upcoming": [
+  },
   {
    "chittorgarh_url": "https://www.chittorgarh.com/ipo/bls-polymers-ipo/2559/",
    "name": "BLS Polymers",
@@ -566,23 +564,37 @@
     }
    },
    "reviews": {
-    "Subscribe": 0,
+    "Subscribe": 1,
     "May Apply": 0,
-    "Neutral": 0,
+    "Neutral": 1,
     "Avoid": 0
    },
    "legal_name": "BLS Polymers Ltd.",
    "about": [],
    "about_lists": {},
    "strengths": [],
-   "status": "upcoming",
-   "day_label": "Opens tomorrow",
+   "status": "open",
+   "day_label": "Closes in 2 days",
+   "subscription": {
+    "as_of": "Oct 27, 2026 11:00",
+    "rows": [
+     {
+      "category": "Non Institutional",
+      "times": 1.45
+     },
+     {
+      "category": "Retail Individual",
+      "times": 1.27
+     }
+    ],
+    "total": 0.95
+   },
    "gmp": {
-    "gmp": 38.0,
-    "gmp_pct": 25.33,
-    "est_listing": 188.0,
+    "gmp": 40.0,
+    "gmp_pct": 26.67,
+    "est_listing": 190.0,
     "updated": null,
-    "trend": "🔴"
+    "trend": "🟢"
    },
    "ipowatch_url": "https://www.ipowatch.in/bls-polymers-ipo-gmp-grey-market-premium/",
    "insights": {
@@ -605,24 +617,24 @@
    "business_news": [],
    "news": [
     {
-     "title": "BLS Polymers IPO GMP at 25% ahead of issue opening tomorrow; check key details here",
-     "source": "Moneycontrol.com",
-     "date": "26 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMThWeVZxSlNILTVsN2N3ck5EMFlLQ3VJeUxiTjFTRTFNbFkta2k1VEJodmUyYTdQNFozZkt3V0tGVzZIdTl2SFltbU9uQm9EZVVfcGZyNEU4VHNZeUlmeFAwUzZmbS1abVpHcTZ3cFNhYlpnU0otYjNMTDlCdTJZRzRRUUNWTXJiS2pSS1lZWmZjakp5UGplVS1ON3cwMWF0emtycUZ3dWx3ZVdnMTJpOThwQzU1cThBV3VrUWJsa2pkVlpGemlCQjRXdmFWYXpJbF9uVnlHVVhad9IB3wFBVV95cUxOcXN5YS1NM3Q5YmJZQ1JWa0FKMV9tMGNlX1QtYXgxbjhzRXlYN2xNUXhzaDJHeDBxdlRLM0duek9HQkpwNU4xN3Raam9aQXg4Q0U1Q2J4VGhRaFc1T09ydUlibnpqSEFxN2JJNjl3MkxDUzcwRnlicjlRTEFIeUNRRk9hQUlHM1A5VUY2MW1na0wyaksxZ3hPQ1dJZGpwVUs2NGM3Ti16bTh2a3pSNDhaWUhtWklGamNRNklGZWo2RlVTTmVPaWlnb0lkeG92Q1FqYlVseUZTWHFaXzBNSVhV?oc=5",
+     "title": "BLS Polymers IPO Day 1: Issue subscribed 4.41x within hours; check category-wise demand",
+     "source": "Zee Business",
+     "date": "27 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbl9CVllObHdlUHE4aGZ5cTBBVEVsbUJmdk5hRUhxV0h0a3l6cUdsRzZ4MnRHbE9yM0R5dGFfSnNOZlBRXzA1V1c5LWkwS1prVUpMYWdQN09IQ2JIRlladk83UTZDSnJHN1JxamloOTEzdV9HeVBSMUFqSG1QUmd2TFVDaVFKWFJncjlGVTdHbnVLM0hRaHJ2czExd0pIWnEyLUJxTHRhaXpYcE9JMEtySFUwYlRRelRTLVBOTUFibHFRaWVSbzZVWTBoTQ?oc=5",
      "tone": ""
     },
     {
-     "title": "Upcoming IPO GMP: EAAA India vs SFC Environmental vs BLS Polymers vs MK Sons Fine Jewels vs Bombay Coated Special Steels",
-     "source": "Livemint",
-     "date": "25 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOTGFRMC01eDdjWGJpTXdmZE5oblltQ1M2dFZHd0RaUXhKXzg2WXFsMFFfaHF2ZlZlM19adElrejEzRnlqWlhfM2cyUkdyTXdnVzU2RkM3azJUdGtvLVNZb2FQR2l2R0kyWEsyR3hlSGtMcXNFc1pLZDJnMEdGTVo4YXN1YU9EeGJCekJJS3kwejh0WXJodjVDV3JQVTkxWXY5bFFHOGhBTXdCSnV2QngzbFRZVkxXRGNYdmxFM1FERUg0SVpDOTZIMm9FNERMUnRfeDlCUUQtWi1NY2F4ejJJUi1XbDlMWFl4NkNlVWh0TmlhUy1VYjhzZVpUS0ZZb3d3VjI3MEx30gGLAkFVX3lxTE9PU2pocE1NRko5Y1Y5RnF2TkpweHh0VC14dmo3c01nQ0laUjIyQ1c4NHBZQXJDZ21ZQi1INVVpRW1TU04zdWtYUVNEeHZVQmNyWFUxZjR0ZmNta2puTjBDS1Rybk5aa0JaV2thcGlHYjRXa1lJWnAxSktvOXdsb2dacHNmblNUcXRqUHIxR2JNQkM0LUNnZFJDS1Zjc2dScktmbUlTc01LbzBKUWxKQmU2VUN4U1VLZk42bXg5d0lHU3poMXN4b25JVVVZckw5ZGZyYXhOR3VTZGl1QVFJcUwtclYtc3Q2aXhVYkdHd25ndjBmWDdIUm9YR2VMZjV1YjNGSEp3UDBSN2h1WQ?oc=5",
-     "tone": "bad"
+     "title": "BLS Polymers IPO subscribed 3.9 times on Day 1; gets bullish brokerage nod",
+     "source": "Business Standard",
+     "date": "27 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORkhkMFkzdmllTzdJT1NMdWN6ZnBmUlAzUmFQT3lfQ3cybGpWZHRhTjY2ZUhLVWN0bDF4UlFTVUVVMWJuSHdSZFZXX0plM3NUU0hUeGxaNkhrQ1JMYmFnUGRxRDZHZldmNjFpTjMzME9oNmF1clNjQVdja2JYcUhqZThXRHVLbThQSkFpU091UHdscERFdnZJT2RRcGhDcFE2MFF2c1pHMWRUT29PeWsyaFo0c2p2ckVUSkxIY0hJcWNNWjZXZHpCVWxBMFhtbGRfQ1pmOThjc9IB3AFBVV95cUxOeWR4Y1pKNlVzSTd2d0p6c1YxeGdQM29LUDNMbmRKWUhzdGdPaE40MVk5TmJOZWFzX25DelMzVzR4RnJzdVVJR3I0TkRjaXZpMmJuLUxqSkxuYWt0eVJNSHpiQVRweTVPTU13bXJ0QllNUDczc256MmhuNXlNOWNvTmNIV0paR1lCcXE1UXBiRnkxVzFYckczT2diWkdRWEhGQk1rZURTejd1SnhyZ2k5MGFpLVh0dVR4U2RVX3pZdERqODQ4RVk3OWdzRk1vUGp4bVVHSmJQam1zNjNm?oc=5",
+     "tone": ""
     },
     {
-     "title": "BLS Polymers IPO Review | BLS latest GMP | EAAA India alternates IPO | JIO Platforms allotment #ipo",
-     "source": "YouTube",
-     "date": "25 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1EU3VEbWoyRUY5OGgxY0k2aWJlWHJyMkg0LS1RM185NGtnTTE2NG1meURwb2I5TjFDM2dmcFRfdkdwNWNOMUNQckJiSGlZcUpxNmd3NlZNY0RLaGZr?oc=5",
+     "title": "BLS Polymers IPO Day 1: Subscribed 3.47x; QIB demand leads at 7.49x",
+     "source": "scanx.trade",
+     "date": "27 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVndkM3V1LWFHNTh1VkQwU180aTFpY2xjYnhRZGZOUGpreUJhdmYxblVPTWRXbG1yemtpeUxOZHFuUUpiTXlZRmsta01YTWNzaGNlSjNnUWNCTkxINXdwM0hkN3FDTTRuSW84dlBmX01vY1R1X0U1c2VoRFZ4QW1hWnJKWXQ2cGM1YWRUTHU1ZFVfZzRPWVdkOHlmd2ptSHpqLUJ1SnJTOUZ4cXMzeldPdEtEZWJsbElDaHpmWmo1WXY4WWQyWkx6ZjFhNUwxTzNjc2c?oc=5",
      "tone": ""
     }
    ],
@@ -743,7 +755,7 @@
    "reviews": {
     "Subscribe": 0,
     "May Apply": 0,
-    "Neutral": 0,
+    "Neutral": 1,
     "Avoid": 0
    },
    "legal_name": "SFC Environmental Technologies Ltd.",
@@ -771,12 +783,26 @@
     "Strong Order Book and Repeat Business: High repeat-customer revenue, contributing 91.98% of revenue in Fiscal 2026, alongside significant orders in wastewater recycling and compressed biogas projects.",
     "Diversified Growth Opportunities: Presence across wastewater treatment, wastewater recycling and reuse, solid waste treatment, compressed biogas and waste-to-energy projects."
    ],
-   "status": "upcoming",
-   "day_label": "Opens tomorrow",
+   "status": "open",
+   "day_label": "Closes in 2 days",
+   "subscription": {
+    "as_of": "Oct 27, 2026 11:39",
+    "rows": [
+     {
+      "category": "Non Institutional",
+      "times": 0.02
+     },
+     {
+      "category": "Retail Individual",
+      "times": 0.08
+     }
+    ],
+    "total": 0.04
+   },
    "gmp": {
-    "gmp": 32.0,
-    "gmp_pct": 9.7,
-    "est_listing": 362.0,
+    "gmp": 22.0,
+    "gmp_pct": 6.67,
+    "est_listing": 352.0,
     "updated": null,
     "trend": "🟢"
    },
@@ -801,24 +827,24 @@
    "business_news": [],
    "news": [
     {
-     "title": "SFC Environmental Technologies IPO: Strong tech, slow cash",
-     "source": "Value Research",
-     "date": "26 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVHBfeXQ4anItU1l0VVpKcWJmUDQ5MGZxdE5YRW5DM1pRREFDNU9HN2ZIV3NzOUxXbndSUGd5WkZKYWdBN25xWmlRdjg4NXRHcW56LW5VcWtjN1g1R014MmpncHhQbmY0Y09adkg4UWF2RWhQdUFISVhibnFBc0RmU0N6RWtjUklHMk96b242MHU1UldfRFJZeA?oc=5",
+     "title": "SFC Environmental Technologies IPO opens today: 10 key things to know before applying",
+     "source": "Zee Business",
+     "date": "27 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUUw0RTNXWV9ZaGxJREt3YXhONXVreTM2MUZCQ1dIM1FTVGh2U3kwdUYxU1c0QXAwaTlMWmZpeGNaR0JyVWRtMDMteXhkbDA0RUhKVXRtWk54LV9IN2JBSHcyYlpES1A2MkUtUzkwM1NuQ2JlN01zUGRWM2Y2a1VzVE5UdG4yMWZ4UEFYMFhFZzlWc1BGQzIyakotb3dXYTMxV0wxUWZvdG1Nd3IyYXk0VXJmcTRZR3BhaWdfNUZLQVpqbm5nWl9hdlItajUtVEJGQlE?oc=5",
      "tone": ""
     },
     {
-     "title": "4 IPOs To Open For Subscription This Week: M K Sons Fine Jewels, SFC Environmental Technologies Among Key Issues",
-     "source": "BW Businessworld",
-     "date": "26 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNcEN6NlZJQS01enBlN0VUTDlQbTdSZHFnQ1ZyTWFzSWVQZFFRXzFtZXliWXc2QURuZF9MOVdiZE9DWnA4YTZkd3NSWFJ2bnNqNi0wbmxqX1Ixb0V1YVNHUm95ckdhOWwzVjJSY3JIU3VVUEZYa2NYOVlzZXpYU2xxMGg4SHFQeVIzdVQ2QlRrOU5JaElRaTBGaVNuS1ljZ1RhYTI1MVRZY2pzc2tiT1pxUnN3aENKUWhLN1JodTROYkdNLWJCOVBKc3RCN3N3X2RRWmtrUWMycy1ZMm9DNG5DSFJ5c3QzRDhScXc?oc=5",
-     "tone": "bad"
+     "title": "SFC Environmental Technologies IPO subscribed 5% so far on Day 1; check price band and lot size",
+     "source": "Upstox",
+     "date": "27 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQXo1MVJ3cWVLdE5rRGJuNF9iRFBWVUZ2bGtjdFplaUV5MlFGZlJPVW5IaWRNOU1FTjdnbmM5dlRPRk93QnUyTUo3WFBweVNGQWpYWHRBUVhMWXBSb0E4RjIxcEhnbl81MVhCMVZQbjVKb1FQdmlPZFh5b29vT3FoUTMyMDh6bm1ZUFBKNUt1a1k4Ymlva3dUeDNzZlVGNFZLVjVsSWY3VEdac3VMd3dQSUZIY1dGbmY1MVpZMEY0MHFxMEoydVhfdkJkS0tFOThsalZZd0hRbTBGandUYnhpRUJOUQ?oc=5",
+     "tone": ""
     },
     {
-     "title": "Five IPOs to raise nearly ₹2,600 crore next week; EAAA India Alternatives, SFC Environmental among issuers",
-     "source": "Fortune India",
-     "date": "25 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONS1QU1RuWllEbHZrc0Z6N3A1N3J2a3dZNENIc1VOdEk4WFRQRF91QW1GYko2WVdpdEhrSDZYRzdON1dqdGd0am11dVdqV0xrSmZHSzgxNGtvSHpmN3lxaE13VzVUWHhXTlYwUVZYdDU2b3JfaENNUFV3T2ZKeWJENVhzZ0RHQU5Qd3JCakxVanlSZUx0YjdadGpOOGlKbExyOGxxOGJpRGlmclpuN1V2MEpB0gG_AUFVX3lxTE5lUDAxYTgyXy1KeVpZeWM2TUZkYTZ0R3VGc05WQldDVE81RWlCcGdoZFNZUUZjanpjQWdSUVFETkMxeTBIT2FKdW5sUC1VdDJkSzNwTVpEejZ3blBLdmRzMFJxb3R6ZW5CN1lJWUc2SEVSaWtIbExwY3JvQXRKdHhzUWI4VDBiYUk5LVdaSWE1WXc3bnlXUWZCOTEwZ2ZWOXdvdGFycXZEaWNQS3dRZnZxRWFvazZfbXRNVmdYWU9V?oc=5",
+     "title": "SFC Environmental Technologies IPO: GMP, Price, Apply or Avoid",
+     "source": "INDmoney",
+     "date": "27 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkd2dtX1l5LWFNaTk1ZFFTY3BuR3JEdF9oRVdLWjR2dWJCa1lLZkJrNXh4RG1vdkoyd1Z5Q0JJTEZpT2dtUU1yN2k0RUd4OFNQbU9PRGhMTTdPN1pBU0JpM3dLN0xNX25mUjc1OWszT1pFYnBFLUE?oc=5",
      "tone": ""
     }
    ],
@@ -949,8 +975,22 @@
    ],
    "about_lists": {},
    "strengths": [],
-   "status": "upcoming",
-   "day_label": "Opens tomorrow",
+   "status": "open",
+   "day_label": "Closes in 2 days",
+   "subscription": {
+    "as_of": "Oct 27, 2026 12:59",
+    "rows": [
+     {
+      "category": "Qualified Institutional",
+      "times": 2.0
+     },
+     {
+      "category": "Retail Individual",
+      "times": 0.15
+     }
+    ],
+    "total": 0.72
+   },
    "gmp": {
     "gmp": 0.0,
     "gmp_pct": 0.0,
@@ -977,29 +1017,31 @@
    "business_news": [],
    "news": [
     {
-     "title": "Wiscon Industries Share Price Today, Wiscon Industries Stock Price Live NSE/BSE Updates",
+     "title": "Wiscon Industries IPO Day 1: Subscribed 0.68x; QIB demand at 2.00x",
+     "source": "scanx.trade",
+     "date": "27 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQVVSWHdodGdQVG1HamE0amhwSXhIUkR0US1wOFBhNl9UTmQ3elFZYmNVV3FSbkJ3SHJwYXd5S2dMM3I4Wm56NDUyZlRUQW5wU1RpazRWTHp1N1Z5V1VUcGFmd3hEdDU5Z2VIS3RjWGotMEVOd2xRZHo5YzBpeE42VV9hdnpNSEo0Z1c0UDlSdjFJVFdwRFBQQ3B6VG0za1ZXbzROUXhPRjZNSmtTY0p5aGpZRklmVFAtdjJYM1JpME5tV1lQdml5U1JJUXRNaWZH?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Wiscon Industries SME IPO opens today; check price band and other key details",
      "source": "The Economic Times",
-     "date": "24 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZENKR3Z4VTVlM01na2h0aFFqVHZxLTZ6aEVzVTdZWGxkMElOeTN4TlJ6MHpRUHByeGk4M2hzZzlxMzhhU2tsT2c4WU1TNXVXQnN4eENuczMxTVlVSU1nYmZNMEtJS2V0Ym9UcXRqMXZYQmdSLS1FOVdKZEdHQ21xeEUwU1M?oc=5",
+     "date": "27 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPc3BFcWRIVENGRHptb3BISzhhcEhqNVlLemdLd3FQVk1XUkJ0eXpzUkFkU1plbUQxblRkTjFIblVYM2N0Uk1KWHZDYUpzNEpjRXhqQ2NsY2tjaFBWRmpYTlJJVHZZNTNwS3lxZldIdzJTQjlnUVNPd3ZMVENEZHNUS25tZTd4QVI4M1RiWHdRQzRraVA5dWNaS2ZJejc4MUF5eG13ejJCZ1paSXVZcWdFTzdTTlQ2MDY4Q3d3T2Y2VFNMVTk2X0JnSHdJcVF4SkV2OVhyT2VyaXdCRFpPellOMmNFMEpROG0zYTZIQW1n0gHnAUFVX3lxTE9sZ2dJcU53bU1QeDhUdkhVa3g0bTI2M0JhZEdLaEZudjhLVlF1aHlqTWRXSWEtN0FZY2QzY0RYZHNPMXVUWW9sVEpyUV9MTU9xcWhNNHB1R0JiUzIweHFxakxBU0RJdDdqaWJEcW1NTzk0UzIxUVhwV0Q0WDItbHVFRHA2NE9wYkdWQUNYRkFfbnZmWGhkMDZaOFNGR0c1S1ptNzBJOHVtem1CS3U1d2Etb1JzUjJfd3B2U2ozcm9GQVhKdmY0czZrdktrWGRNZXRfS2JqeTZQREM1d0RsSS1lWnJzYUxsYw?oc=5",
      "tone": ""
     },
     {
-     "title": "Wiscon Industries Limited added three independent directors in April",
-     "source": "Multibagg AI",
-     "date": "23 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNFJ0dlNEVVdXdXBTNndiWlFSZllQTEFJSXM2VktiV3lFdWVtd0RiWjVQZkV2U0pMeTVEUUtBYzFoNzJRc3BTSGhRVUhFYkNwZVc2aDY3OEtwS21VblotMEFnazlCY1Qya2NmRUtOREFSMGI2SWhnelgtYnBlTXkyd1VDMExXVHY0RnRhaDJuRll1Q1VFXzEzdHREWHFNMkw1cDdmbGJmUjJZay1qYWdqM1p2aXFKWS1UTFJfRmFvWjI0OHc?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Wiscon Industries Limited projects subsidiary gap of Rs 96.2725 crore",
-     "source": "Multibagg AI",
-     "date": "23 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT0FKRzNSNmNpODRSd01kbkdZcUpPWjlvRVZxVTJlaFBCWV9FcnJtamFHdi1ySm1GbjM2VzhLOU5wQ0xFTlFuX2ducUVuT1B6ZzBtcDdwRnBiLTAyeWxYR2VOLWhsVHh1aDZ2d1ZhNnluRzRkd21XUW9IVENPOElRRmo5ZVlVZzlYcWlXdnVBTTc0YXJaZ3I4ckFJSW5HRlRkbWY4dzY5WWZPc3d6aUZnV0xyWGlkc3IyLTRN?oc=5",
+     "title": "Wiscon Industries IPO Day 1 Subscription Status 27 Oct 2026",
+     "source": "Univest",
+     "date": "27 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZHBfZVlBbk8zV0tFeXo1ZDZVWUpMTkU3Q3RCWUdmMTlzWWt1VExvckNaZUpua18xVmNJM1MxZWJ1YnlYRnlVU3RYV2xtMUl6b2EwN0dyWjAxVGNpMGp4NGVLTjlKVWJqWUVfcC1EcHczX3RQcVNwTkpMekQwRU8yLWNlaHlVZ3ZmQWFEcVpib0ppUk1DYTB3VXpleUdOczZlVE5B?oc=5",
      "tone": ""
     }
    ],
    "key": "wiscon industries"
-  },
+  }
+ ],
+ "upcoming": [
   {
    "chittorgarh_url": "https://www.chittorgarh.com/ipo/mksons-fine-jewels-ipo/3100/",
    "name": "M.K.Sons Fine Jewels",
@@ -1150,7 +1192,7 @@
     "Customer-focused retail and customised jewellery offerings"
    ],
    "status": "upcoming",
-   "day_label": "Opens in 2 days",
+   "day_label": "Opens tomorrow",
    "gmp": {
     "gmp": 8.0,
     "gmp_pct": 4.94,
@@ -1350,13 +1392,13 @@
     "Skilled Workforce and Operational Capability"
    ],
    "status": "upcoming",
-   "day_label": "Opens in 2 days",
+   "day_label": "Opens tomorrow",
    "gmp": {
-    "gmp": 0.0,
-    "gmp_pct": 0.0,
-    "est_listing": 203.0,
+    "gmp": 10.0,
+    "gmp_pct": 4.93,
+    "est_listing": 213.0,
     "updated": null,
-    "trend": "🟡"
+    "trend": "🟢"
    },
    "ipowatch_url": "https://ipowatch.in/ajwa-projects-ipo-gmp-today/",
    "insights": {
@@ -1383,10 +1425,24 @@
    "business_news": [],
    "news": [
     {
-     "title": "Ajwa Projects Ltd IPO Status, GMP, Price & Dates Today",
-     "source": "Alice Blue",
+     "title": "Ajwa Projects IPO Opens Oct 28 After 65% FY26 Profit Surge; Price & Lot Details",
+     "source": "Motilal Oswal",
+     "date": "27 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DY1hFMlZfZWxtQ2wwbkh4eG5ucmNTVk45a1QzWTVWSDVfaEsyQlVNVG05UnBYaDFQQ2hRMXhOWlRfcFYyVG5WaWFtRGJkTC16UDNISlVHWmI4bFU?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Ajwa Projects IPO DRHP: ₹25.88 crore fresh issue; revenue up 31.8% in FY26",
+     "source": "scanx.trade",
      "date": "26 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0RGZkb1VPZmpMVThGeU45ektuMzVzMm82akltSFV2a2dWUTFXek4xZHljOHBzMVNjMFp2c096YjJrS1VfcnozTGJVd0pBQWpxUmxUUi1ka0dqbzFaUDEzNHViSzZiMGduMjFSQWZVbmN5OGFm?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOX2prR2R2czVkUW4xRnpFTUV4MVZLQUpWUjhzZWtOcUw0aFhnRUV2SUFwT2ZQRnBmekhLWHI0TmdpRDMyeExXQWVjTW82VHlNRzhZc1V3VExMRzhXRmVEZmdkc0tBVzN5YXQxOUU2YnRYeDJWWXhzcFFYdm1jVl9pZ1FRWTgwNEZZNk5ycTNIblcxclZxT202dnl0ZndYU1RELVJGN1UxeUpVMlZSZEoxU3Q2a1YwLU80TzJmVGVtNXV2MnNKeDYwTXZJZDRkdGxDSkIyUDk3NDI?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Ajwa Projects Ltd. IPO Review - Ajwa Projects Ltd. IPO Dates, Issue Price, Subscription and Allotment Status",
+     "source": "The Economic Times",
+     "date": "26 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR2R1cFdwSTdoZG9XOWdvdUJXaVMwSmwzd0hxWDBMN1oxTDM0SnZCenBTb2Fqb0wzRDRmRGdOUjdmQlBQLVFyTUJ1ckFpOWVpSE5rQTdVTkFRVjhJQnUydU5Xbl9lUVVJUDE0c1dkOUNVV2FwNTlEbU5iYUQ4MkFORWN6Nm5Makg2?oc=5",
      "tone": ""
     }
    ],
@@ -1537,7 +1593,7 @@
     "Robot rental model supporting long-term customer engagement and recurring revenue."
    ],
    "status": "upcoming",
-   "day_label": "Opens in 2 days",
+   "day_label": "Opens tomorrow",
    "gmp": {
     "gmp": 0.0,
     "gmp_pct": 0.0,
@@ -1570,6 +1626,13 @@
    "business_news": [],
    "news": [
     {
+     "title": "Carver Roboweld IPO: Dates, Price & Lot Size",
+     "source": "HDFC Sky",
+     "date": "26 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lRzJoYlk4T0tCc3dxRkdxcVFzckhpVUhZbnNERkF3UGdzenBLUnZaV2hJYzJ3TWtObDdWN0UwR21vbWN1LXV0YTdmQm1EYmlXWlo3WkhFRE9Ta0E?oc=5",
+     "tone": ""
+    },
+    {
      "title": "Carver Roboweld IPO 2026: Dates, Review and Key Risks",
      "source": "Univest",
      "date": "23 Oct 2026",
@@ -1582,13 +1645,6 @@
      "date": "22 Oct 2026",
      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBsbnRXVF9VSVg3Z1NQVGNlSU0zdmJxM0VIakczSnNLdVg0VG1wdmpmMXNOWGFzcDFneXpwVi1rR05fOGFITWVMWlp6bUFoMTBuQV9JX2ttdjVJVG1JanhnZHRabEU3VzRRRVVSX0gxdzhqeThyeFVR?oc=5",
      "tone": ""
-    },
-    {
-     "title": "Carver Roboweld IPO DRHP: ₹11.99 crore for robot expansion; debt repayment of ₹8.60 crore",
-     "source": "scanx.trade",
-     "date": "22 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMEpObDAwekNlemkwU0lFN21qSWd3dVI0cU5IY0N0bFlQeDJ0eDBac3Uyc3JvM09lY0xzc2R5OU9MYm1GOGlmODJHdXRFRWRBY2dXMWhWUXBmb3BmbXMwNE9UNVc4QlNDWDQyb2I1MlFleVZ1WnAzOVFlT1EzeEozbTdmVTM2NlZCWVdneExfNV9Qa2M0YVlzdE5CQ185NzF1ZnQtWUowcXJQWGlmRWwwNG9QbzNQWUgwZEkxRWFEMGI2Y2ZBY3A3Sk5BSlpjWkFjNWE2S3dYeWlpVlU?oc=5",
-     "tone": "good"
     }
    ],
    "key": "carver roboweld"
@@ -1737,11 +1793,11 @@
     "Established Relationship with JSWSCPL."
    ],
    "status": "upcoming",
-   "day_label": "Opens in 3 days",
+   "day_label": "Opens in 2 days",
    "gmp": {
-    "gmp": 8.0,
-    "gmp_pct": 6.1,
-    "est_listing": 90.0,
+    "gmp": 9.0,
+    "gmp_pct": 10.98,
+    "est_listing": 91.0,
     "updated": null,
     "trend": "🟢"
    },
@@ -1770,10 +1826,10 @@
    "business_news": [],
    "news": [
     {
-     "title": "Bombay Coated & Special Steels earmarks Rs 125 crore for debt repayment",
-     "source": "Multibagg AI",
-     "date": "23 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbWdXMUowa3FXODBOTHRPN0w5ZnNtSUc3bmNIMnJnRGtzOUNwLUZGZVZpNm5LeVJBdFY2Y1B0c1Q2dmVTZ2ltSURpOEE5RHBtQ2wyVFZ5ZDRCeVI2NXNpSzNNSXlqem04Zkpra2FKenVsaW55aG14QVdjY3FybkZQNkF1LTQyOUhFd0FUbDB0clh2Q0NEWXdhbjRTQXk2RFBWTG93ZHBqLXVYelVrOFZ4eURqbHV5NnlxX0FDRXdoVEh3dw?oc=5",
+     "title": "Bombay Coated and Special Steels IPO: Check price band, lot size and key dates",
+     "source": "Upstox",
+     "date": "26 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcTl0T0RVdndZd2Fkb2pKZmdHeVNCclFGRWVLLUJQdlpYdnpJR1lhdmhRZVAyWDAzUjhmYnV3QVVlZTZ3OWVWUmJ6MXQtNzk1YVZaSDVqSmJJcVlodnBEbU1ZU01BRnNSUXpYMGQ4MmFxWVljVnNOQW41cVUxRDl5Wjl6TlZaQnBNbEJMWEFvTVh1d2cyU3lPMlZYYWczT0otLVVuNGxMN3NfblpCWF9lb3R5T3lWcURYQWp4Z2FMRUQxZHFKa01iSEd4bmk?oc=5",
      "tone": ""
     },
     {
@@ -1784,10 +1840,10 @@
      "tone": ""
     },
     {
-     "title": "Bombay Coated & Special Steels IPO Date, Price, GMP, Details",
-     "source": "IndiaIPO",
+     "title": "Bombay Coated & Special Steels IPO DRHP: ₹125 crore fresh issue; revenue at ₹1,266.82 crore in FY26",
+     "source": "scanx.trade",
      "date": "22 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1iSVlfTzZsTEdGU0oxZmVfT2pwejFhZUZ4MTB6YWcwUXFGUWNiMkxIclpZdlZrdWNCRVZSSmRjOGZKeE5sNW5MRVQ0WmU1NlVxbHB5T0U5Q3lQUkEzamZaTGpXOUItMVZYcWtEUzNnTnFqLWEx?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOEE3LXB6ejM0REJ0aFJKXzE4OUY1Y3F4WjlnbDZNM3duZ3hiZ1diNkdSNmsyc2xTNTFZYnhHNU9FUTdGWmtKekFtRllyc2x2M18zdk5EMEYxTnF4YmtCU2FvcHQ4bFBUTjhYNk1mNGlkZFlMZVRUNjE1d1JVcjVSbWVHN2VPYjVnbUFZNXRBMHBzUTl1Q0xJWWNNREhISkxDa3VTaWhUcm5ybG5ha0NkemZ6cG52eExYc0ZPZC1mcGF0ZUhMYUpsT3NlTE81aWxEeVE?oc=5",
      "tone": ""
     }
    ],
@@ -1936,7 +1992,7 @@
     "Established supplier and customer relationships."
    ],
    "status": "upcoming",
-   "day_label": "Opens in 3 days",
+   "day_label": "Opens in 2 days",
    "gmp": {
     "gmp": 0.0,
     "gmp_pct": 0.0,
@@ -1973,11 +2029,25 @@
    "business_news": [],
    "news": [
     {
-     "title": "Rajkot-Based Antala Industries Set for IPO Launch Soon After Securing BSE SME Approval",
-     "source": "ThePrint",
-     "date": "21 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNX3h2TmFiNy1PcDliVmRQaDFJd1F5dHhRTHlYSXdIZWNnNm1xalZrSHEtWWlrMzdlV1A1aUtITHpkNWRrMnZIZkQ1S1ZYdE9HS0xscnZWUWFyV0NoT0QtbHpRa0VyS2xQUTNNN1lBUmkySV9MQ3lIY1JMWGJwUGxGa3J6ZWJlcmlEVy1FVWU4cXNQdzBPZTBkazhMMjgwNHFpajNzUHZwQUpOWWU5Mm8zMnhlQVRQWTF0Z1pXU3gwcEF0Uk5pblRBd0M4WWg3VEXSAdQBQVVfeXFMTUFLUTZ5bl9SenRhQ2xuc2FObjdSdDRkWXpmaTVfZ3prVm1kblBaRzBndHdiTmVhNFZKaGJ0M0w4SmM3OEZOSk56X2lMajQwVmZzNnpnWDRqU2sybkNNMjFPZGFwMFpjSGQ3RWxCbkxxQmptc3IyVGd0a2ViNzN0Ukt2Z1pBa3NfTVg4cXd4UGVrVG9wNHJINzc4aTNDSHQzdWt3UHIxM3I5S3ZhdUVPWEViUG9sa1NsYWRDR3Z5X19tOWM0ZHFSMFA0ZnJOUDZxVW5rNTM?oc=5",
-     "tone": "good"
+     "title": "Antala Industries IPO DRHP: ₹16.57 crore fresh issue; revenue grew 279% to ₹47.40 crore",
+     "source": "scanx.trade",
+     "date": "26 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbk9tOU9LN014enJtYVNzdHFOY2U1ZFVpbXFmdUhyU3dUTDEyTHotNUl6UVpUQkMtUDV5ejdkZ1I3d2VJY2MycVJLQVppVFA2VHhMZVM4TGRYS0I0Y1JtWDBDTy1GWk9majhGMjhORzZiSzBuR1NtUDFCdV9EMnZ6Mlc4TWhRb2VQXzVrNS1mc1NBam12bTVoeWNYSnFDUzNvQlV0cm9zNmV2ZVJKWVZsUGdaSWN2enNlRTJua29FeE5uSS1FMV96Ni0zazJZZUQ3Y1BJMDBvZjY?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Antala Industries Limited Reports ₹30.11 Crore Revenue and ₹4.19 Crore PAT in H1 FY27; IPO to Open October 29",
+     "source": "TheWire.in",
+     "date": "26 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPTUN0QmViQjR3UmZ3azgyMEI3VEVXcGZBM2U2OVFudWJEbHZKRHE4ZlJvWXJ1eEl1eVh2RHBFT3JCQ3VxQmNrSEJyR0JlRDhLN1ZpbnhmX2VZdFdveFliZkJZNFNkcExSY2NEMHRnZ1VyRzFFbXRURlhkMi1Bck8tRXhzYm1idm9mWFJlUGNYVG1pakk5SmRNXzBPTEoxRFJPcTE1aWw5TWQ0M0M4Rm9mcFdQSDZybFVscnNacEdTdlVaUUdWcHoxRHlGc2hwUzY2LU43T1liLTRVZk9VbnhoT3JWZ2ttamtMejI0b01sTjBRME1keVdKN9IB_gFBVV95cUxOTU93ZDEzc251b1Z0am8tNzR3LVpMQ3ZmQjVIbU92dVhGaE5ucThJRXUtOFY5RVNmd25VOWpFeFVSX3ZrelZDSWVTUk9abkVvZHBMM0JVNXBfU1hqYUNWOHN3bEJjTGRsVEN4UDlCN2dzSVJmM1ZRa09POFV1elpEcW5sQVhVcUM0OXFnc2QwaUpjVXlIQlFNU1F1eVFEbnFBbnNPVU84Ymo1RUxnbU5EbDdxNEVEOThhc1d6LXRwMkVGNHN5YmxRVnBUdEN3X2pTZ3p5bUR2OTVudWVEWXhJaUZSaWR2cGZjWjh6NVJZeWprVkd2TWFHZGdJdTJ0UQ?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Antala Industries IPO Opens October 29 After Strong H1 FY27 Performance",
+     "source": "Lokmat Times",
+     "date": "26 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdDBlQkttUzItdEZRVGNxalNjTjE0NGg5WmhoYm4xT0FQeDdRMTRrVlBzWDA3cHVya0NXeW9zNlgtQkxqTzY3dDkxUm9RanRGZk9GLVFRcE10QzdpX1ZFY0tWVmtQdExOLVFNamEtc1BmZXdZMzA5UXBBeE95RURmeThXVFBmZ2lfb1loR0xPV0N1aU4zN29jNjVpMUo3Sk9QeDFBcnVJdnJBbG5zNmhTd2psOUFwTGdxV0HSAb8BQVVfeXFMTXg1Y3VLLXJjVTRRbFRJV2Y1WENGQThrTlE2T1lqRmV3Nmh0cnpucVNYN3Itc2xGTmlNdGxjOTFVdXBuT1YtNHQ2SHlFNEZwVm5feEZQN2VmMWVOYUJUOVJZVHU5MXYyRGVZd0Q5c0xmQnZxd2MwY1dXcTVmNGJBT2RtMkJyOGN2Umc1eE4wcUczVnA2b1V0R2phU1NLWC1xcWlWQTE5OUdUQWxDYm5Tb2o5RHRFcDhad0piQVdjZTQ?oc=5",
+     "tone": ""
     }
    ],
    "key": "antala industries"
@@ -3895,8 +3965,8 @@
     "key": "bombay coated special steels",
     "name": "Bombay Coated and Special Steels",
     "type": "Mainboard",
-    "gmp": 8.0,
-    "gmp_pct": 6.1,
+    "gmp": 9.0,
+    "gmp_pct": 10.98,
     "status": null,
     "updated": null
    },
@@ -3913,8 +3983,8 @@
     "key": "sfc environmental technologies",
     "name": "SFC Environmental Technologies",
     "type": "Mainboard",
-    "gmp": 32.0,
-    "gmp_pct": 9.7,
+    "gmp": 22.0,
+    "gmp_pct": 6.67,
     "status": null,
     "updated": null
    },
@@ -3922,8 +3992,8 @@
     "key": "bls polymers",
     "name": "BLS Polymers",
     "type": "Mainboard",
-    "gmp": 38.0,
-    "gmp_pct": 25.33,
+    "gmp": 40.0,
+    "gmp_pct": 26.67,
     "status": null,
     "updated": null
    },
@@ -3931,8 +4001,8 @@
     "key": "eaaa india alternatives",
     "name": "EAAA India Alternatives",
     "type": "Mainboard",
-    "gmp": 50.0,
-    "gmp_pct": 3.0,
+    "gmp": 20.0,
+    "gmp_pct": 1.2,
     "status": null,
     "updated": null
    },
@@ -3940,8 +4010,8 @@
     "key": "jio platforms",
     "name": "Jio Platforms",
     "type": "Mainboard",
-    "gmp": 250.0,
-    "gmp_pct": 22.34,
+    "gmp": 260.0,
+    "gmp_pct": 23.23,
     "status": null,
     "updated": null
    },
@@ -3949,8 +4019,8 @@
     "key": "paras healthcare",
     "name": "Paras Healthcare",
     "type": "Mainboard",
-    "gmp": 10.0,
-    "gmp_pct": 1.44,
+    "gmp": 11.0,
+    "gmp_pct": 1.59,
     "status": null,
     "updated": null
    },
@@ -3967,8 +4037,8 @@
     "key": "ajwa projects",
     "name": "Ajwa Projects",
     "type": "SME",
-    "gmp": 0.0,
-    "gmp_pct": 0.0,
+    "gmp": 10.0,
+    "gmp_pct": 4.93,
     "status": null,
     "updated": null
    },
