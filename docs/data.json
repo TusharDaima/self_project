@@ -1,235 +1,7 @@
 {
- "generated_at": "2026-10-28T14:23:29+05:30",
- "generated_display": "28 Oct 2026, 02:23 PM IST",
+ "generated_at": "2026-10-29T14:18:08+05:30",
+ "generated_display": "29 Oct 2026, 02:18 PM IST",
  "open": [
-  {
-   "chittorgarh_url": "https://www.chittorgarh.com/ipo/eaaa-india-alternatives-ipo/2061/",
-   "name": "EAAA India Alternatives",
-   "open_date": "2026-10-26",
-   "close_date": "2026-10-28",
-   "ipo_date_text": "26 to 28 Oct, 2026",
-   "listing_date": "Mon, Nov 2, 2026",
-   "face_value": "₹ 5 per share",
-   "issue_type": "Bookbuilding IPO",
-   "sale_type": "OFS only",
-   "listing_at": "BSE, NSE",
-   "type": "Mainboard",
-   "lot_size": 9,
-   "price_band": "₹1585 to ₹1665",
-   "price_high": 1665.0,
-   "issue_size_cr": 1200.0,
-   "min_application": {
-    "label": "Retail (Min)",
-    "lots": 1,
-    "shares": 9,
-    "amount": 14985.0
-   },
-   "financials": {
-    "periods": [
-     "30 Jun 2026",
-     "31 Mar 2026",
-     "31 Mar 2025",
-     "31 Mar 2024"
-    ],
-    "rows": {
-     "Assets": [
-      2101.84,
-      2170.28,
-      2085.07,
-      1769.66
-     ],
-     "Total Income": [
-      336.13,
-      963.76,
-      786.54,
-      584.25
-     ],
-     "Profit After Tax": [
-      80.71,
-      265.2,
-      229.78,
-      175.16
-     ],
-     "NET Worth": [
-      1160.38,
-      1075.54,
-      966.45,
-      729.48
-     ],
-     "Reserves and Surplus": [
-      1128.24,
-      1043.4,
-      934.31,
-      480.64
-     ],
-     "Total Borrowing": [
-      399.2,
-      441.03,
-      507.49,
-      444.83
-     ]
-    },
-    "unit": "Amount in ₹ Crore"
-   },
-   "objects": [],
-   "kpis": {
-    "ROE": "28.96%",
-    "Debt/Equity": "0.34",
-    "RoNW": "28.96%",
-    "PAT Margin": "24.01%",
-    "NAV": "176.67"
-   },
-   "valuation": {
-    "EPS (₹)": {
-     "pre": "41.02",
-     "post": "49.93"
-    },
-    "P/E (x)": {
-     "pre": "40.59",
-     "post": "33.35"
-    },
-    "Market Cap at Offer Price": {
-     "pre": "₹10,765.10 Cr.",
-     "post": "₹10,765.10 Cr."
-    }
-   },
-   "reviews": {
-    "Subscribe": 5,
-    "May Apply": 0,
-    "Neutral": 1,
-    "Avoid": 0
-   },
-   "legal_name": "EAAA India Alternatives Ltd.",
-   "about": [
-    "Incorporated on May 14, 2008, EAAA India Alternatives Limited is an alternative investment management platform focused on India’s real assets and private credit markets. It manages investment funds and provides alternative investment solutions to domestic and global institutional investors, high-net-worth individuals (“HNIs”), ultra-high-net-worth individuals (“UHNIs”) and family offices.The Company operates primarily through two business verticals: Real Assets and Private Credit, along with portfolio management services and other investment solutions. Its Real Assets vertical invests in infrastructure, commercial real estate, perpetual capital and energy transition opportunities through equity, quasi-equity and debt instruments. Its Private Credit vertical provides financing solutions across performing credit, special situations, real estate credit and investment-grade credit. The Company also offers co-investment opportunities through portfolio management services.",
-    "As of June 30, 2026, the Company managed assets under management (“AUM”) of ₹953,448.78 million and fee-paying assets under management (“FPAUM”) of ₹486,231.76 million. Its portfolio comprised 10 active Real Assets funds, including two Infrastructure Investment Trusts (“InvITs”), and 16 active Private Credit funds. The Company is supported by its wholly owned subsidiary, Sekura India Management Limited, which provides asset operating and management capabilities, including operations, maintenance, monitoring and efficiency improvement.",
-    "The Company has a diversified client base and a technology-enabled investment platform supported by dedicated investment, asset management, coverage and enterprise teams.",
-    "As of June 30, 2026, it had 277 employees across investment, asset operating and management, coverage, enterprise, legal and compliance, and other functions."
-   ],
-   "about_lists": {
-    "Competitive Strengths": [
-     "Established Market Presence: Over 17 years of experience in alternative investment management.",
-     "Diversified Investment Platform: Presence across real assets, private credit and portfolio management services.",
-     "Strong Assets Under Management: Managed AUM of ₹953,448.78 million as of June 30, 2026.",
-     "Diversified Client Base: Long-standing relationships with institutional and non-institutional investors across multiple geographies.",
-     "Technology-Enabled Operations: Dedicated asset operating and management platform through Sekura India Management Limited.",
-     "Comprehensive Risk Management: Structured investment assessment, portfolio monitoring and risk management systems.",
-     "Experienced Management Team: Led by professionals with extensive asset management, investment and risk management experience."
-    ]
-   },
-   "strengths": [
-    "Established Market Presence: Over 17 years of experience in alternative investment management.",
-    "Diversified Investment Platform: Presence across real assets, private credit and portfolio management services.",
-    "Strong Assets Under Management: Managed AUM of ₹953,448.78 million as of June 30, 2026.",
-    "Diversified Client Base: Long-standing relationships with institutional and non-institutional investors across multiple geographies.",
-    "Technology-Enabled Operations: Dedicated asset operating and management platform through Sekura India Management Limited.",
-    "Comprehensive Risk Management: Structured investment assessment, portfolio monitoring and risk management systems.",
-    "Experienced Management Team: Led by professionals with extensive asset management, investment and risk management experience."
-   ],
-   "status": "open",
-   "day_label": "Closes today",
-   "subscription": {
-    "as_of": "Oct 28, 2026 12:44",
-    "rows": [
-     {
-      "category": "Qualified Institutional",
-      "times": 2.31
-     },
-     {
-      "category": "Non Institutional",
-      "times": 1.54
-     },
-     {
-      "category": "Retail Individual",
-      "times": 0.18
-     }
-    ],
-    "total": 1.08
-   },
-   "gmp": {
-    "gmp": 12.0,
-    "gmp_pct": 0.72,
-    "est_listing": 1677.0,
-    "updated": null,
-    "trend": "🔴"
-   },
-   "ipowatch_url": "https://www.ipowatch.in/eaaa-india-alternatives-ipo-gmp-today/",
-   "insights": {
-    "metrics": [
-     "FY26 income ₹963.8 Cr",
-     "PAT ₹265.2 Cr",
-     "PAT margin 24.0%",
-     "Income +23% YoY",
-     "PAT +15% YoY",
-     "Post-issue P/E 33.4x"
-    ],
-    "flags": [
-     {
-      "tone": "good",
-      "text": "Profit up 3 years in a row"
-     },
-     {
-      "tone": "good",
-      "text": "High ROE 29%"
-     }
-    ],
-    "partial": "Period to 30 Jun 2026: income ₹336.1 Cr, PAT ₹80.7 Cr (part-year, not compared)"
-   },
-   "business_news": [
-    {
-     "title": "CAM acts as counsel to EAAA India Alternatives Ltd. and Avendus Finance Pvt. Ltd. in connection with a secured financing of INR 585 crores raised by Gujarat Themis Biosyn Ltd.",
-     "source": "SCC Online",
-     "date": "10 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeDFHUkMzajkxM2dHZlN3eG1SU0Z4Njg5SEREM0c2cVJzM3prZ3hSODBCeFoyUldaRC1jeDRieG9DODl2dFhVWEVBSDNIaHNRSlNTNi0tcWpEMkxGYkJkRE1HbEpaUVNJQ3haaVhaM0x6YzlyU1dNYTRFYXV5R1hxM19JbjdpWEpQMFVkT1hVSzM3QW40Uks1ZGEyUndDNDM4bFVYV3RHc245bTdrc0RZMGlfVGRSVHgtYlVyM0RVZUUyNGlZc2c?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Trilegal advises EAAA India Alternatives on acquisition of 1 million sqft office park in Pune",
-     "source": "Bar and Bench",
-     "date": "14 Aug 2026",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRW1kQU9NVk1WdUdYQnJUM0dlOFByX2Y0Yk5NRWFhZWxkNUFmaF94X3A4M0JKc0VtOWYwQlJTYW5tQ2x4NmFDVzdUOHJmSDNuY3VBY2VaaHF0bXZGWHQyVVZveEs3aTNsa3NhNkR3SzF3M2NySmZrZU1RbWJFbjBpcWEtQVFGN3FsV2NQTjNQRmU2Z0dKZ0d3RUdITi1wTWRjeU82QXdpbkQtVkRabFlXUWppSy1lcTE1ZGlVVFlyZEk4YnAway1TeEloY2ZYendhR3VwV3JwUV9iQdIB5wFBVV95cUxOaG5mQjUteE05cFVNdmhybWVfZjM4UGFEVHZWQmp5aGY2eWkwV1BYSi1tUjJ1SmQtcTNrYnhBM1FDc2JiZ3RQOWRka3FDYXp0T1owU0NGbk14MldudVFQa1FTMVNic3pEYlFwamdUbzdudXduQzU1bzZLaV9VNzRPcC16UGZRM2pnbWpxMEpXSFJ5aUNwUUl4enUyV09USWZEX0tQeW03NVc5RFV2aXl0V2J6VUhBZE5CQnY5bWNLNllVQ2o3NGhPb21XeDRYMEpuS0htQUotbEZoQjY4TWpuZXh5cUR3RlE?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Trilegal Advised EAAA India On Acquiring Grade A Office Park In Pune",
-     "source": "LawBeat",
-     "date": "11 Aug 2026",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcUVhZUU2azlDOWtPa0dPa3ExdHZIdW5QaWIzX1NZRmREU2RRR2E0WjBvNGVIdlFRNlFQZnpLWkNtYmpULVlJSnVlNmhjWEVNalJRV2k3aHoxTlFrdUdCWW8zLV91QzJVUHRXUEx1WkVXakdmV0NwQkd6dVlJQ0ViZUpFNnhuQ0pNSFZRb1M3ZmlVaDJpNk9hVDdub204dE9zLWpKWWpOMETSAa4BQVVfeXFMTjk5WmpJZG00RmlWalNyOUdTSFZhVEtpVm9sLVhjUUQ1c1BoYUFsWTgtZjI0Y0s2TUtRaWV5dDJ0cU1NR0VobUMwTnpUVjhaM3IxRDlndlg5NG05eE4zTlgxQjFXdmRqX0dtNmNnakdyRzRmMjlWWjNGeVZhazUxc0ROMkpTSjMxd1NCeGxmM2U2TEVobWJScFRJbGlnNWdtOUU5emR3MDRpa2xTRWFB?oc=5",
-     "tone": "good"
-    },
-    {
-     "title": "EAAA India Alternatives CEO Subahoo Chordia departs",
-     "source": "ION Analytics",
-     "date": "05 Jun 2026",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX1gzYV9nLTg4VzRCZkpOZkRwSk5kel90R0JkcmhoSXB0dVVuTmFoN2ZaTHhVbnljUndGZDFXMy0zTjFJQzVCOTN0Mk1mSXQtb3gxdFJQZFg4bzVmc2FIVWV6Mms4R3B3eGFycVlENVlESHNuM1k1LW9ObU5obzRQdlF4Z1ZtOE5m?oc=5",
-     "tone": ""
-    }
-   ],
-   "news": [
-    {
-     "title": "EAAA India Alternatives IPO GMP flat on Day 3, issue booked 1.01x so far | Should you apply to Edelweiss Financial arm?",
-     "source": "Livemint",
-     "date": "28 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOYUpFb0d1aTY5dTBWLUd3TWFEdFg4eG5xOTJFUnRJejdFekY0OENxZGVsV2thNGkzRlA4R3ItdUxTbTVvSW1Cck9wdDhpbjhDb3lTZXVyZ19aZmRvbWlFVV9XZ2xzMWc3VDFscV9COUEtOHpabnVqY2lQV2NiRDR5a3NaRmpVQ01Hbl9QdFRqYnQ0Tjd6WkU3LVBEb0ZuSWI0d29GVExhdlppX1VhMUlhR0xOT2JQVVhhWjNlX3BoYlBydElGb1VPcThLR3ZzWVE2RVE5d2JuMlpKc0lXS0lnQW5rYTY3LWYyUmJRUlFxRW80VGNmTkxmQVJJZFUzZWFr0gGGAkFVX3lxTFByeG5FS1pNVzNDc3FmcnVjUmVMc2lUUmEyRkloUl9iS2N6YWU3VE9CM3VLdW5tWFNpYk8xbVo4NGQtSVNDMWdxbXp5S044dXppaF9TNklrWHNwclM1eHVMOHZFUDRaODR0eG5teXNnSVQ0eEkydlpLQkdOTVNFeExRODcyRS1uMHJrMnc5MHF6MmdlR3lvS180QVBsVlQxbDd0ektncW53NThmSEkxY25Gai1IamN4TWg3bGcwNFlGOEw3MUVWeGN6M19wb0htN0tqVDZodngybjR1R2w4TWEybElhRXFjZjR6dHgtX1IxVFVNMllnTldEX3cwWDNrZm9xeG93SFE?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "EAAA India Alternatives IPO: Weak retail response on last day; should investors subscribe? Check Anil Singhvi's advice",
-     "source": "Zee Business",
-     "date": "28 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYXBINHZTLUFCSnY1QTM0bEVvM04ycVFSbWh2SEFITlpXNkNaek9zZ0F4Nk53OUlILWxjSlFlaGFsWDV5ZjZGX3RqVUpMem5IRFItTDlWR0tPMjZrUE1DXzFhblpNQnVla3k4SmQtNmZmczJBcDM0SjJtRklENlFNTE5obVEtU281OVEzZHljdkx4TUZjdVp3bnpoUXRDcHlHTXBYYmR4M292NHNpSTR4TzZoWTNHRlVpeG9iNUpIQ2ROWHpISVpqazN4M0pKc2FvNm9VQnpZY0JiRVhTdGZ2Zmp5SXZTVlFvNUN0TkZ6NS1TckE?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "EAAA India Alternatives IPO Day 3: Subscribed 0.51x; QIB demand at 0.95x; Retail at 0.15x",
-     "source": "scanx.trade",
-     "date": "28 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZVRYazhXdjNVRXZvVFFjYkdXcjhsNHlvRFdYcnlvUDdxX09WeW5kWWNiN3oyWFlnVkdfRDhxSXpOdkxBbXRtb3BqSzNEWUFwc2R0Y0VKYVBhazNDNV96ci1SUE1ZSERyMXRrTC1ERFVtZVZUZkxyTnc4NlBNSHdlYUNTdENjdE5MOVc0Yl9ueHhkQ1F0OTZaZ0huNnphdHhtcm1oa0htUDJqRjFpanUxS2FSVE1mUjdjVmhLVkNVbjh5LXRQNU5CZk1Gam9tZy1RemhXTWdBT1E?oc=5",
-     "tone": ""
-    }
-   ],
-   "key": "eaaa india alternatives"
-  },
   {
    "chittorgarh_url": "https://www.chittorgarh.com/ipo/bls-polymers-ipo/2559/",
    "name": "BLS Polymers",
@@ -355,7 +127,7 @@
    "about_lists": {},
    "strengths": [],
    "status": "open",
-   "day_label": "Closes tomorrow",
+   "day_label": "Closes today",
    "subscription": {
     "as_of": "Oct 28, 2026 12:44",
     "rows": [
@@ -375,9 +147,9 @@
     "total": 20.73
    },
    "gmp": {
-    "gmp": 44.0,
-    "gmp_pct": 29.33,
-    "est_listing": 194.0,
+    "gmp": 51.0,
+    "gmp_pct": 34.0,
+    "est_listing": 201.0,
     "updated": null,
     "trend": "🟢"
    },
@@ -423,7 +195,8 @@
      "tone": ""
     }
    ],
-   "key": "bls polymers"
+   "key": "bls polymers",
+   "stale": true
   },
   {
    "chittorgarh_url": "https://www.chittorgarh.com/ipo/sfc-environmental-technologies-ipo/2070/",
@@ -569,7 +342,7 @@
     "Diversified Growth Opportunities: Presence across wastewater treatment, wastewater recycling and reuse, solid waste treatment, compressed biogas and waste-to-energy projects."
    ],
    "status": "open",
-   "day_label": "Closes tomorrow",
+   "day_label": "Closes today",
    "subscription": {
     "as_of": "Oct 28, 2026 12:44",
     "rows": [
@@ -585,9 +358,9 @@
     "total": 0.17
    },
    "gmp": {
-    "gmp": 18.0,
-    "gmp_pct": 5.45,
-    "est_listing": 348.0,
+    "gmp": 12.0,
+    "gmp_pct": 3.64,
+    "est_listing": 342.0,
     "updated": null,
     "trend": "🔴"
    },
@@ -633,7 +406,8 @@
      "tone": ""
     }
    ],
-   "key": "sfc environmental technologies"
+   "key": "sfc environmental technologies",
+   "stale": true
   },
   {
    "chittorgarh_url": "https://www.chittorgarh.com/ipo/wiscon-industries-ipo/3202/",
@@ -761,7 +535,7 @@
    "about_lists": {},
    "strengths": [],
    "status": "open",
-   "day_label": "Closes tomorrow",
+   "day_label": "Closes today",
    "subscription": {
     "as_of": "Oct 28, 2026 12:38",
     "rows": [
@@ -827,7 +601,8 @@
      "tone": ""
     }
    ],
-   "key": "wiscon industries"
+   "key": "wiscon industries",
+   "stale": true
   },
   {
    "chittorgarh_url": "https://www.chittorgarh.com/ipo/ajwa-projects-ipo/2761/",
@@ -987,7 +762,7 @@
     "Skilled Workforce and Operational Capability"
    ],
    "status": "open",
-   "day_label": "Closes in 2 days",
+   "day_label": "Closes tomorrow",
    "subscription": {
     "as_of": "Oct 28, 2026 13:04",
     "rows": [
@@ -1003,11 +778,11 @@
     "total": 0.16
    },
    "gmp": {
-    "gmp": 38.0,
-    "gmp_pct": 18.72,
-    "est_listing": 241.0,
+    "gmp": 35.0,
+    "gmp_pct": 17.24,
+    "est_listing": 238.0,
     "updated": null,
-    "trend": "🟢"
+    "trend": "🔴"
    },
    "ipowatch_url": "https://ipowatch.in/ajwa-projects-ipo-gmp-today/",
    "insights": {
@@ -1055,7 +830,8 @@
      "tone": ""
     }
    ],
-   "key": "ajwa projects"
+   "key": "ajwa projects",
+   "stale": true
   },
   {
    "chittorgarh_url": "https://www.chittorgarh.com/ipo/mksons-fine-jewels-ipo/3100/",
@@ -1207,7 +983,7 @@
     "Customer-focused retail and customised jewellery offerings"
    ],
    "status": "open",
-   "day_label": "Closes in 2 days",
+   "day_label": "Closes tomorrow",
    "subscription": {
     "as_of": "Oct 28, 2026 12:44",
     "rows": [
@@ -1227,9 +1003,9 @@
     "total": 0.24
    },
    "gmp": {
-    "gmp": 10.0,
-    "gmp_pct": 6.17,
-    "est_listing": 172.0,
+    "gmp": 15.0,
+    "gmp_pct": 9.26,
+    "est_listing": 177.0,
     "updated": null,
     "trend": "🟢"
    },
@@ -1279,7 +1055,8 @@
      "tone": "bad"
     }
    ],
-   "key": "mksons fine jewels"
+   "key": "mksons fine jewels",
+   "stale": true
   },
   {
    "chittorgarh_url": "https://www.chittorgarh.com/ipo/carver-roboweld-ipo/3239/",
@@ -1426,7 +1203,7 @@
     "Robot rental model supporting long-term customer engagement and recurring revenue."
    ],
    "status": "open",
-   "day_label": "Closes in 2 days",
+   "day_label": "Closes tomorrow",
    "subscription": {
     "as_of": "Oct 28, 2026 12:40",
     "rows": [
@@ -1494,10 +1271,9 @@
      "tone": ""
     }
    ],
-   "key": "carver roboweld"
-  }
- ],
- "upcoming": [
+   "key": "carver roboweld",
+   "stale": true
+  },
   {
    "chittorgarh_url": "https://www.chittorgarh.com/ipo/bombay-coated-and-special-steels-ipo/2671/",
    "name": "Bombay Coated & Special Steels",
@@ -1641,8 +1417,8 @@
     "Long-Standing Customer Relationships.",
     "Established Relationship with JSWSCPL."
    ],
-   "status": "upcoming",
-   "day_label": "Opens tomorrow",
+   "status": "open",
+   "day_label": "Closes in 4 days",
    "gmp": {
     "gmp": 9.0,
     "gmp_pct": 10.98,
@@ -1696,7 +1472,8 @@
      "tone": ""
     }
    ],
-   "key": "bombay coated special steels"
+   "key": "bombay coated special steels",
+   "stale": true
   },
   {
    "chittorgarh_url": "https://www.chittorgarh.com/ipo/antala-industries-ipo/3221/",
@@ -1840,8 +1617,8 @@
     "Customer-focused manufacturing and delivery process.",
     "Established supplier and customer relationships."
    ],
-   "status": "upcoming",
-   "day_label": "Opens tomorrow",
+   "status": "open",
+   "day_label": "Closes in 4 days",
    "gmp": {
     "gmp": 0.0,
     "gmp_pct": 0.0,
@@ -1899,8 +1676,11 @@
      "tone": ""
     }
    ],
-   "key": "antala industries"
-  },
+   "key": "antala industries",
+   "stale": true
+  }
+ ],
+ "upcoming": [
   {
    "chittorgarh_url": "https://www.chittorgarh.com/ipo/maxwell-engineering-solutions-ipo/2704/",
    "name": "Maxwell Engineering Solutions",
@@ -2056,11 +1836,11 @@
     "Established Customer Relationships."
    ],
    "status": "upcoming",
-   "day_label": "Opens in 2 days",
+   "day_label": "Opens tomorrow",
    "gmp": {
-    "gmp": 27.0,
-    "gmp_pct": 17.09,
-    "est_listing": 185.0,
+    "gmp": 40.0,
+    "gmp_pct": 25.32,
+    "est_listing": 198.0,
     "updated": null,
     "trend": "🟢"
    },
@@ -2096,382 +1876,8 @@
      "tone": ""
     }
    ],
-   "key": "maxwell engineering solutions"
-  },
-  {
-   "chittorgarh_url": "https://www.chittorgarh.com/ipo/vectras-enprocon-ipo/2740/",
-   "name": "Vectras Enprocon",
-   "open_date": "2026-10-30",
-   "close_date": "2026-11-03",
-   "ipo_date_text": "30 Oct to 3 Nov, 2026",
-   "listing_date": "Fri, Nov 6, 2026",
-   "face_value": "₹ 10 per share",
-   "issue_type": "Bookbuilding IPO",
-   "sale_type": "Fresh capital cum OFS",
-   "listing_at": "BSE SME",
-   "type": "SME",
-   "lot_size": 1200,
-   "price_band": "₹99 to ₹105",
-   "price_high": 105.0,
-   "issue_size_cr": 53.0,
-   "min_application": {
-    "label": "Individual investors (IND) (Min)",
-    "lots": 2,
-    "shares": 2400,
-    "amount": 252000.0
-   },
-   "financials": {
-    "periods": [
-     "30 Sep 2026",
-     "31 Mar 2026",
-     "31 Mar 2025",
-     "31 Mar 2024"
-    ],
-    "rows": {
-     "Assets": [
-      90.91,
-      74.94,
-      46.5,
-      21.47
-     ],
-     "Total Income": [
-      72.2,
-      119.9,
-      80.53,
-      54.37
-     ],
-     "Profit After Tax": [
-      9.1,
-      15.43,
-      10.17,
-      5.81
-     ],
-     "EBITDA": [
-      14.54,
-      24.01,
-      15.05,
-      8.67
-     ],
-     "NET Worth": [
-      46.85,
-      37.75,
-      22.32,
-      12.15
-     ],
-     "Reserves and Surplus": [
-      31.85,
-      22.75,
-      19.82,
-      9.65
-     ],
-     "Total Borrowing": [
-      31.36,
-      22.21,
-      11.87,
-      4.16
-     ]
-    },
-    "unit": "Amount in ₹ Crore"
-   },
-   "objects": [
-    {
-     "object": "Repayment / prepayment, in full or part, of certain outstanding borrowings availed by Company",
-     "amount_cr": 14.0
-    },
-    {
-     "object": "To Meet Working Capital Requirements of Company",
-     "amount_cr": 20.0
-    },
-    {
-     "object": "General Corporate Purposes",
-     "amount_cr": null
-    }
-   ],
-   "kpis": {
-    "ROE": "21.52%",
-    "ROCE": "19.69%",
-    "Debt/Equity": "0.67",
-    "RoNW": "21.52%",
-    "PAT Margin": "12.65%",
-    "EBITDA Margin": "20.21%",
-    "NAV": "31.23",
-    "P/B (x)": "3.36"
-   },
-   "valuation": {
-    "EPS (₹)": {
-     "pre": "10.29",
-     "post": "9.55"
-    },
-    "P/E (x)": {
-     "pre": "10.2",
-     "post": "10.99"
-    },
-    "Market Cap at Offer Price": {
-     "pre": "₹157.50 Cr.",
-     "post": "₹200.09 Cr."
-    }
-   },
-   "reviews": {
-    "Subscribe": 0,
-    "May Apply": 0,
-    "Neutral": 0,
-    "Avoid": 0
-   },
-   "legal_name": "Vectras Enprocon Ltd.",
-   "about": [
-    "Vectras Enprocon Ltd. is a Gujarat-based Engineering, Procurement and Construction (EPC) company operating in the midstream and downstream segments of the Oil & Gas industry. The company specializes in laying pipeline networks, building combined stations, and constructing related facilities across multiple states in India."
-   ],
-   "about_lists": {
-    "Business Verticals": [
-     "Combined Oil and Gas station works: Mechanical, electrical, and civil work in Refineries, petrochemical complexes, Gas Processing Units, Oil & Gas Terminals, and Petroleum Depots. As of August 31, 2025, its unexecuted Order book for Oil & Gas station work stands at ₹15,088.80 lakh.",
-     "Midstream and Downstream pipeline projects and related facilities: As of September 30, 2026, its order book for Oil & Gas Pipeline work stands at ₹ 18,327.88 lakh",
-     "Other allied services: Civil and infrastructure projects in the Oil and gas industry; electrical, Instrumentation, and Inspection, Testing, and Safety Auditing services in the Oil and Gas Industry."
-    ],
-    "Competitive Strengths": [
-     "Track record of timely completion of complex project",
-     "Strong Order Book for existing project portfolio and geography",
-     "Strong Execution Capabilities",
-     "Track Record of Growth in Financial Performance",
-     "Experienced management team with significant industry experience"
-    ]
-   },
-   "strengths": [
-    "Track record of timely completion of complex project",
-    "Strong Order Book for existing project portfolio and geography",
-    "Strong Execution Capabilities",
-    "Track Record of Growth in Financial Performance",
-    "Experienced management team with significant industry experience"
-   ],
-   "status": "upcoming",
-   "day_label": "Opens in 2 days",
-   "gmp": {
-    "gmp": 0.0,
-    "gmp_pct": 0.0,
-    "est_listing": 105.0,
-    "updated": null,
-    "trend": "🟡"
-   },
-   "ipowatch_url": "https://ipowatch.in/vectras-enprocon-ipo-gmp-today/",
-   "insights": {
-    "metrics": [
-     "FY26 income ₹119.9 Cr",
-     "PAT ₹15.4 Cr",
-     "PAT margin 12.7%",
-     "Income +49% YoY",
-     "PAT +52% YoY",
-     "Post-issue P/E 11.0x"
-    ],
-    "flags": [
-     {
-      "tone": "good",
-      "text": "Strong growth: income +49%, profit +52%"
-     },
-     {
-      "tone": "good",
-      "text": "Profit up 3 years in a row"
-     },
-     {
-      "tone": "good",
-      "text": "High ROE 22%"
-     }
-    ],
-    "partial": "Period to 30 Sep 2026: income ₹72.2 Cr, PAT ₹9.1 Cr (part-year, not compared)"
-   },
-   "business_news": [],
-   "news": [
-    {
-     "title": "Oil And Gas Infrastructure Expertise Enters The Stock Market As Vectras Enprocon Plans IPO.",
-     "source": "TRIPURA STAR NEWS",
-     "date": "28 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUFowaGJpdTlJUU82TEdXc0huRDJwU0JxeFprYktJZVhwSTdKNVhIWmRyOW5UMTV4bFhDZGdsYnUxeGxCdHlqU0tBT1lGdGQxTjRlMnVHdTR4SFpWMUhMLVZzSkVPNVN2cHl6SW5kWFFaQUZDVHh1R3VOY3E3WUFvNUlETFlIVUp4Yy1rOG8wcjU4SVhZWTN6dkNRS3p2MFlhNlk0U1hPbFFyTTNhT0VITFpMWDZLdEItemlqTVkzQjY?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Vectras Enprocon IPO: Dates, Price & Lot Size",
-     "source": "HDFC Sky",
-     "date": "28 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tTzF0N09vc2lVU3UzWGRERDB1Z3d2Sk5YUlZhUVQxZmx0QjhWOHhCelp2OXR2MHdvb3A3X3U3UWZ4X3JJT0tUelZTZ296SmM4UC1XWFZIZERsQ3Y0?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Vectras Enprocon IPO DRHP: ₹34 crore fresh issue; revenue CAGR at 48.51%",
-     "source": "scanx.trade",
-     "date": "27 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOR1dOQ2t0Zm1KOVo3b1NsTmJlb1BlcGw3RWxYUVZCSGpWbXQtT2dBVFRWa0lqbEVPSEc0YzN5UTFWZDk2X0RmMFZrVXBOMTQ4b2VDTlI1bUl6YjMtXzRQcjJFaHdZRzFhYXVadW9kalZvcEttaUNCaktJbUU2YmF2YmpiQVFYUlhYaTJTajRiUW85M3ZpYkpGN3VudGVWa25sTUJZbWFlOU1jRnlUaDEtN0JpU09ndDNsZXRIVmYzX09ueGlRck02clhZLXJNdFMwcVB5TXVB?oc=5",
-     "tone": ""
-    }
-   ],
-   "key": "vectras enprocon"
-  },
-  {
-   "chittorgarh_url": "https://www.chittorgarh.com/ipo/hgs-india-ipo/2981/",
-   "name": "HGS (India)",
-   "open_date": "2026-10-30",
-   "close_date": "2026-11-03",
-   "ipo_date_text": "30 Oct to 3 Nov, 2026",
-   "listing_date": "Fri, Nov 6, 2026",
-   "face_value": "₹ 10 per share",
-   "issue_type": "Bookbuilding IPO",
-   "sale_type": "Fresh capital cum OFS",
-   "listing_at": "NSE SME",
-   "type": "SME",
-   "lot_size": 1200,
-   "price_band": "₹114 to ₹120",
-   "price_high": 120.0,
-   "issue_size_cr": 35.0,
-   "min_application": {
-    "label": "Individual investors (IND) (Min)",
-    "lots": 2,
-    "shares": 2400,
-    "amount": 288000.0
-   },
-   "financials": {
-    "periods": [
-     "30 Apr 2026",
-     "31 Mar 2026",
-     "31 Mar 2025",
-     "31 Mar 2024"
-    ],
-    "rows": {
-     "Assets": [
-      111.9,
-      110.12,
-      104.04,
-      113.7
-     ],
-     "Total Income": [
-      3.79,
-      48.91,
-      53.45,
-      37.93
-     ],
-     "Profit After Tax": [
-      1.11,
-      11.64,
-      10.51,
-      4.0
-     ],
-     "EBITDA": [
-      1.58,
-      16.89,
-      15.31,
-      6.16
-     ],
-     "NET Worth": [
-      90.41,
-      89.27,
-      85.16,
-      95.04
-     ],
-     "Reserves and Surplus": [
-      91.8,
-      90.66,
-      87.97,
-      95.47
-     ]
-    },
-    "unit": "Amount in ₹ Crore"
-   },
-   "objects": [
-    {
-     "object": "Funding the capital expenditure towards replacement of plant and machinery for our existing manufacturing facility at Manesar, Gurugram",
-     "amount_cr": 15.05
-    },
-    {
-     "object": "Funding the capital expenditure towards Backward Integration for setting up in-house gold plating facility",
-     "amount_cr": 1.05
-    },
-    {
-     "object": "Funding the capital expenditure towards Infrastructural development of building on 3rd Floor at our existing manufacturing facility at Manesar, Gurugram",
-     "amount_cr": 3.26
-    },
-    {
-     "object": "Pursuing unidentified acquisitions and general corporate purpose",
-     "amount_cr": null
-    }
-   ],
-   "kpis": {
-    "ROE": "1.24%",
-    "ROCE": "1.60%",
-    "RoNW": "1.23%",
-    "PAT Margin": "35.80%",
-    "EBITDA Margin": "50.81%",
-    "NAV": "105.96",
-    "P/B (x)": "1.13"
-   },
-   "valuation": {
-    "EPS (₹)": {
-     "pre": "13.64",
-     "post": "12.29"
-    },
-    "P/E (x)": {
-     "pre": "8.8",
-     "post": "9.76"
-    },
-    "Market Cap at Offer Price": {
-     "pre": "₹102.39 Cr.",
-     "post": "₹130.30 Cr."
-    }
-   },
-   "reviews": {
-    "Subscribe": 0,
-    "May Apply": 0,
-    "Neutral": 0,
-    "Avoid": 0
-   },
-   "legal_name": "HGS (India) Ltd.",
-   "about": [],
-   "about_lists": {},
-   "strengths": [],
-   "status": "upcoming",
-   "day_label": "Opens in 2 days",
-   "gmp": {
-    "gmp": 0.0,
-    "gmp_pct": 0.0,
-    "est_listing": 120.0,
-    "updated": null,
-    "trend": "🟡"
-   },
-   "ipowatch_url": "https://ipowatch.in/hgs-india-ipo-gmp-today/",
-   "insights": {
-    "metrics": [
-     "FY26 income ₹48.9 Cr",
-     "PAT ₹11.6 Cr",
-     "PAT margin 35.8%",
-     "Income -8% YoY",
-     "PAT +11% YoY",
-     "Post-issue P/E 9.8x"
-    ],
-    "flags": [
-     {
-      "tone": "warn",
-      "text": "Income fell 8% in FY26"
-     },
-     {
-      "tone": "good",
-      "text": "Profit up 3 years in a row"
-     }
-    ],
-    "partial": "Period to 30 Apr 2026: income ₹3.8 Cr, PAT ₹1.1 Cr (part-year, not compared)"
-   },
-   "business_news": [],
-   "news": [
-    {
-     "title": "HGS India Ltd IPO Date: Check Issue Date, Price, Lot size, Subscription, News and Details - Moneycontrol",
-     "source": "Moneycontrol.com",
-     "date": "27 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TVzNFemdZdlh1OHZnaUVDTGRNNU1LZDBtamlndWxHLTNpZy1LQmNlYzQ2dWM4VjB1SFd4OHdyX3lOREk1MGxZWmxDUXNVV2F6ODlSRlVWSWw3a0VHR3RQek52N2t0NG9YT21NX3BIYw?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "HGS (India) IPO DRHP: ₹19.36 crore capex plan; exports 84% of FY26 revenue",
-     "source": "scanx.trade",
-     "date": "27 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOURsdl9Jck80SkVJN2FpOEN1XzNHS3pJSXBRU19uT1FPbFZTUkdwRXdqRldGRTJqVExyMWdENWJmYVQ0SmQ4RE5XMW1sa3JESkFrWXcyRWFYZkkzYXNqTFh6RXluWVJQZEZoQW85WkluV0JtbEdmcVhxVUxBLWFMY25IcWtmSGh4VkVhT0hFLVdZWUFac3c4NVFLODJFYVNUdEwwVWtiNVpYZU1qX1UxV3Y1b0pBY09qZzNpQ0lvWVZoNl85VTFCeTNsZTR5YVRQNXVuMFZR?oc=5",
-     "tone": ""
-    }
-   ],
-   "key": "hgs"
+   "key": "maxwell engineering solutions",
+   "stale": true
   },
   {
    "chittorgarh_url": "https://www.chittorgarh.com/ipo/johnsoncab-electricals-ipo/3217/",
@@ -2624,13 +2030,13 @@
     "ISO and BIS certified products and quality standards."
    ],
    "status": "upcoming",
-   "day_label": "Opens in 2 days",
+   "day_label": "Opens tomorrow",
    "gmp": {
-    "gmp": 0.0,
-    "gmp_pct": 0.0,
-    "est_listing": 200.0,
+    "gmp": 10.0,
+    "gmp_pct": 5.0,
+    "est_listing": 210.0,
     "updated": null,
-    "trend": "🟡"
+    "trend": "🟢"
    },
    "ipowatch_url": "https://ipowatch.in/johnsoncab-electricals-ipo-gmp-today/",
    "insights": {
@@ -2683,7 +2089,385 @@
      "tone": ""
     }
    ],
-   "key": "johnsoncab electricals"
+   "key": "johnsoncab electricals",
+   "stale": true
+  },
+  {
+   "chittorgarh_url": "https://www.chittorgarh.com/ipo/vectras-enprocon-ipo/2740/",
+   "name": "Vectras Enprocon",
+   "open_date": "2026-10-30",
+   "close_date": "2026-11-03",
+   "ipo_date_text": "30 Oct to 3 Nov, 2026",
+   "listing_date": "Fri, Nov 6, 2026",
+   "face_value": "₹ 10 per share",
+   "issue_type": "Bookbuilding IPO",
+   "sale_type": "Fresh capital cum OFS",
+   "listing_at": "BSE SME",
+   "type": "SME",
+   "lot_size": 1200,
+   "price_band": "₹99 to ₹105",
+   "price_high": 105.0,
+   "issue_size_cr": 53.0,
+   "min_application": {
+    "label": "Individual investors (IND) (Min)",
+    "lots": 2,
+    "shares": 2400,
+    "amount": 252000.0
+   },
+   "financials": {
+    "periods": [
+     "30 Sep 2026",
+     "31 Mar 2026",
+     "31 Mar 2025",
+     "31 Mar 2024"
+    ],
+    "rows": {
+     "Assets": [
+      90.91,
+      74.94,
+      46.5,
+      21.47
+     ],
+     "Total Income": [
+      72.2,
+      119.9,
+      80.53,
+      54.37
+     ],
+     "Profit After Tax": [
+      9.1,
+      15.43,
+      10.17,
+      5.81
+     ],
+     "EBITDA": [
+      14.54,
+      24.01,
+      15.05,
+      8.67
+     ],
+     "NET Worth": [
+      46.85,
+      37.75,
+      22.32,
+      12.15
+     ],
+     "Reserves and Surplus": [
+      31.85,
+      22.75,
+      19.82,
+      9.65
+     ],
+     "Total Borrowing": [
+      31.36,
+      22.21,
+      11.87,
+      4.16
+     ]
+    },
+    "unit": "Amount in ₹ Crore"
+   },
+   "objects": [
+    {
+     "object": "Repayment / prepayment, in full or part, of certain outstanding borrowings availed by Company",
+     "amount_cr": 14.0
+    },
+    {
+     "object": "To Meet Working Capital Requirements of Company",
+     "amount_cr": 20.0
+    },
+    {
+     "object": "General Corporate Purposes",
+     "amount_cr": null
+    }
+   ],
+   "kpis": {
+    "ROE": "21.52%",
+    "ROCE": "19.69%",
+    "Debt/Equity": "0.67",
+    "RoNW": "21.52%",
+    "PAT Margin": "12.65%",
+    "EBITDA Margin": "20.21%",
+    "NAV": "31.23",
+    "P/B (x)": "3.36"
+   },
+   "valuation": {
+    "EPS (₹)": {
+     "pre": "10.29",
+     "post": "9.55"
+    },
+    "P/E (x)": {
+     "pre": "10.2",
+     "post": "10.99"
+    },
+    "Market Cap at Offer Price": {
+     "pre": "₹157.50 Cr.",
+     "post": "₹200.09 Cr."
+    }
+   },
+   "reviews": {
+    "Subscribe": 0,
+    "May Apply": 0,
+    "Neutral": 0,
+    "Avoid": 0
+   },
+   "legal_name": "Vectras Enprocon Ltd.",
+   "about": [
+    "Vectras Enprocon Ltd. is a Gujarat-based Engineering, Procurement and Construction (EPC) company operating in the midstream and downstream segments of the Oil & Gas industry. The company specializes in laying pipeline networks, building combined stations, and constructing related facilities across multiple states in India."
+   ],
+   "about_lists": {
+    "Business Verticals": [
+     "Combined Oil and Gas station works: Mechanical, electrical, and civil work in Refineries, petrochemical complexes, Gas Processing Units, Oil & Gas Terminals, and Petroleum Depots. As of August 31, 2025, its unexecuted Order book for Oil & Gas station work stands at ₹15,088.80 lakh.",
+     "Midstream and Downstream pipeline projects and related facilities: As of September 30, 2026, its order book for Oil & Gas Pipeline work stands at ₹ 18,327.88 lakh",
+     "Other allied services: Civil and infrastructure projects in the Oil and gas industry; electrical, Instrumentation, and Inspection, Testing, and Safety Auditing services in the Oil and Gas Industry."
+    ],
+    "Competitive Strengths": [
+     "Track record of timely completion of complex project",
+     "Strong Order Book for existing project portfolio and geography",
+     "Strong Execution Capabilities",
+     "Track Record of Growth in Financial Performance",
+     "Experienced management team with significant industry experience"
+    ]
+   },
+   "strengths": [
+    "Track record of timely completion of complex project",
+    "Strong Order Book for existing project portfolio and geography",
+    "Strong Execution Capabilities",
+    "Track Record of Growth in Financial Performance",
+    "Experienced management team with significant industry experience"
+   ],
+   "status": "upcoming",
+   "day_label": "Opens tomorrow",
+   "gmp": {
+    "gmp": 0.0,
+    "gmp_pct": 0.0,
+    "est_listing": 105.0,
+    "updated": null,
+    "trend": "🟡"
+   },
+   "ipowatch_url": "https://ipowatch.in/vectras-enprocon-ipo-gmp-today/",
+   "insights": {
+    "metrics": [
+     "FY26 income ₹119.9 Cr",
+     "PAT ₹15.4 Cr",
+     "PAT margin 12.7%",
+     "Income +49% YoY",
+     "PAT +52% YoY",
+     "Post-issue P/E 11.0x"
+    ],
+    "flags": [
+     {
+      "tone": "good",
+      "text": "Strong growth: income +49%, profit +52%"
+     },
+     {
+      "tone": "good",
+      "text": "Profit up 3 years in a row"
+     },
+     {
+      "tone": "good",
+      "text": "High ROE 22%"
+     }
+    ],
+    "partial": "Period to 30 Sep 2026: income ₹72.2 Cr, PAT ₹9.1 Cr (part-year, not compared)"
+   },
+   "business_news": [],
+   "news": [
+    {
+     "title": "Oil And Gas Infrastructure Expertise Enters The Stock Market As Vectras Enprocon Plans IPO.",
+     "source": "TRIPURA STAR NEWS",
+     "date": "28 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUFowaGJpdTlJUU82TEdXc0huRDJwU0JxeFprYktJZVhwSTdKNVhIWmRyOW5UMTV4bFhDZGdsYnUxeGxCdHlqU0tBT1lGdGQxTjRlMnVHdTR4SFpWMUhMLVZzSkVPNVN2cHl6SW5kWFFaQUZDVHh1R3VOY3E3WUFvNUlETFlIVUp4Yy1rOG8wcjU4SVhZWTN6dkNRS3p2MFlhNlk0U1hPbFFyTTNhT0VITFpMWDZLdEItemlqTVkzQjY?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Vectras Enprocon IPO: Dates, Price & Lot Size",
+     "source": "HDFC Sky",
+     "date": "28 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tTzF0N09vc2lVU3UzWGRERDB1Z3d2Sk5YUlZhUVQxZmx0QjhWOHhCelp2OXR2MHdvb3A3X3U3UWZ4X3JJT0tUelZTZ296SmM4UC1XWFZIZERsQ3Y0?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Vectras Enprocon IPO DRHP: ₹34 crore fresh issue; revenue CAGR at 48.51%",
+     "source": "scanx.trade",
+     "date": "27 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOR1dOQ2t0Zm1KOVo3b1NsTmJlb1BlcGw3RWxYUVZCSGpWbXQtT2dBVFRWa0lqbEVPSEc0YzN5UTFWZDk2X0RmMFZrVXBOMTQ4b2VDTlI1bUl6YjMtXzRQcjJFaHdZRzFhYXVadW9kalZvcEttaUNCaktJbUU2YmF2YmpiQVFYUlhYaTJTajRiUW85M3ZpYkpGN3VudGVWa25sTUJZbWFlOU1jRnlUaDEtN0JpU09ndDNsZXRIVmYzX09ueGlRck02clhZLXJNdFMwcVB5TXVB?oc=5",
+     "tone": ""
+    }
+   ],
+   "key": "vectras enprocon",
+   "stale": true
+  },
+  {
+   "chittorgarh_url": "https://www.chittorgarh.com/ipo/hgs-india-ipo/2981/",
+   "name": "HGS (India)",
+   "open_date": "2026-10-30",
+   "close_date": "2026-11-03",
+   "ipo_date_text": "30 Oct to 3 Nov, 2026",
+   "listing_date": "Fri, Nov 6, 2026",
+   "face_value": "₹ 10 per share",
+   "issue_type": "Bookbuilding IPO",
+   "sale_type": "Fresh capital cum OFS",
+   "listing_at": "NSE SME",
+   "type": "SME",
+   "lot_size": 1200,
+   "price_band": "₹114 to ₹120",
+   "price_high": 120.0,
+   "issue_size_cr": 35.0,
+   "min_application": {
+    "label": "Individual investors (IND) (Min)",
+    "lots": 2,
+    "shares": 2400,
+    "amount": 288000.0
+   },
+   "financials": {
+    "periods": [
+     "30 Apr 2026",
+     "31 Mar 2026",
+     "31 Mar 2025",
+     "31 Mar 2024"
+    ],
+    "rows": {
+     "Assets": [
+      111.9,
+      110.12,
+      104.04,
+      113.7
+     ],
+     "Total Income": [
+      3.79,
+      48.91,
+      53.45,
+      37.93
+     ],
+     "Profit After Tax": [
+      1.11,
+      11.64,
+      10.51,
+      4.0
+     ],
+     "EBITDA": [
+      1.58,
+      16.89,
+      15.31,
+      6.16
+     ],
+     "NET Worth": [
+      90.41,
+      89.27,
+      85.16,
+      95.04
+     ],
+     "Reserves and Surplus": [
+      91.8,
+      90.66,
+      87.97,
+      95.47
+     ]
+    },
+    "unit": "Amount in ₹ Crore"
+   },
+   "objects": [
+    {
+     "object": "Funding the capital expenditure towards replacement of plant and machinery for our existing manufacturing facility at Manesar, Gurugram",
+     "amount_cr": 15.05
+    },
+    {
+     "object": "Funding the capital expenditure towards Backward Integration for setting up in-house gold plating facility",
+     "amount_cr": 1.05
+    },
+    {
+     "object": "Funding the capital expenditure towards Infrastructural development of building on 3rd Floor at our existing manufacturing facility at Manesar, Gurugram",
+     "amount_cr": 3.26
+    },
+    {
+     "object": "Pursuing unidentified acquisitions and general corporate purpose",
+     "amount_cr": null
+    }
+   ],
+   "kpis": {
+    "ROE": "1.24%",
+    "ROCE": "1.60%",
+    "RoNW": "1.23%",
+    "PAT Margin": "35.80%",
+    "EBITDA Margin": "50.81%",
+    "NAV": "105.96",
+    "P/B (x)": "1.13"
+   },
+   "valuation": {
+    "EPS (₹)": {
+     "pre": "13.64",
+     "post": "12.29"
+    },
+    "P/E (x)": {
+     "pre": "8.8",
+     "post": "9.76"
+    },
+    "Market Cap at Offer Price": {
+     "pre": "₹102.39 Cr.",
+     "post": "₹130.30 Cr."
+    }
+   },
+   "reviews": {
+    "Subscribe": 0,
+    "May Apply": 0,
+    "Neutral": 0,
+    "Avoid": 0
+   },
+   "legal_name": "HGS (India) Ltd.",
+   "about": [],
+   "about_lists": {},
+   "strengths": [],
+   "status": "upcoming",
+   "day_label": "Opens tomorrow",
+   "gmp": {
+    "gmp": 0.0,
+    "gmp_pct": 0.0,
+    "est_listing": 120.0,
+    "updated": null,
+    "trend": "🟡"
+   },
+   "ipowatch_url": "https://ipowatch.in/hgs-india-ipo-gmp-today/",
+   "insights": {
+    "metrics": [
+     "FY26 income ₹48.9 Cr",
+     "PAT ₹11.6 Cr",
+     "PAT margin 35.8%",
+     "Income -8% YoY",
+     "PAT +11% YoY",
+     "Post-issue P/E 9.8x"
+    ],
+    "flags": [
+     {
+      "tone": "warn",
+      "text": "Income fell 8% in FY26"
+     },
+     {
+      "tone": "good",
+      "text": "Profit up 3 years in a row"
+     }
+    ],
+    "partial": "Period to 30 Apr 2026: income ₹3.8 Cr, PAT ₹1.1 Cr (part-year, not compared)"
+   },
+   "business_news": [],
+   "news": [
+    {
+     "title": "HGS India Ltd IPO Date: Check Issue Date, Price, Lot size, Subscription, News and Details - Moneycontrol",
+     "source": "Moneycontrol.com",
+     "date": "27 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TVzNFemdZdlh1OHZnaUVDTGRNNU1LZDBtamlndWxHLTNpZy1LQmNlYzQ2dWM4VjB1SFd4OHdyX3lOREk1MGxZWmxDUXNVV2F6ODlSRlVWSWw3a0VHR3RQek52N2t0NG9YT21NX3BIYw?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "HGS (India) IPO DRHP: ₹19.36 crore capex plan; exports 84% of FY26 revenue",
+     "source": "scanx.trade",
+     "date": "27 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOURsdl9Jck80SkVJN2FpOEN1XzNHS3pJSXBRU19uT1FPbFZTUkdwRXdqRldGRTJqVExyMWdENWJmYVQ0SmQ4RE5XMW1sa3JESkFrWXcyRWFYZkkzYXNqTFh6RXluWVJQZEZoQW85WkluV0JtbEdmcVhxVUxBLWFMY25IcWtmSGh4VkVhT0hFLVdZWUFac3c4NVFLODJFYVNUdEwwVWtiNVpYZU1qX1UxV3Y1b0pBY09qZzNpQ0lvWVZoNl85VTFCeTNsZTR5YVRQNXVuMFZR?oc=5",
+     "tone": ""
+    }
+   ],
+   "key": "hgs",
+   "stale": true
   }
  ],
  "market": {
@@ -4607,8 +4391,8 @@
     "key": "mksons fine jewels",
     "name": "M.K.Sons Fine Jewels",
     "type": "Mainboard",
-    "gmp": 10.0,
-    "gmp_pct": 6.17,
+    "gmp": 15.0,
+    "gmp_pct": 9.26,
     "status": null,
     "updated": null
    },
@@ -4616,8 +4400,8 @@
     "key": "sfc environmental technologies",
     "name": "SFC Environmental Technologies",
     "type": "Mainboard",
-    "gmp": 18.0,
-    "gmp_pct": 5.45,
+    "gmp": 12.0,
+    "gmp_pct": 3.64,
     "status": null,
     "updated": null
    },
@@ -4625,8 +4409,8 @@
     "key": "bls polymers",
     "name": "BLS Polymers",
     "type": "Mainboard",
-    "gmp": 44.0,
-    "gmp_pct": 29.33,
+    "gmp": 51.0,
+    "gmp_pct": 34.0,
     "status": null,
     "updated": null
    },
@@ -4634,26 +4418,8 @@
     "key": "eaaa india alternatives",
     "name": "EAAA India Alternatives",
     "type": "Mainboard",
-    "gmp": 12.0,
-    "gmp_pct": 0.72,
-    "status": null,
-    "updated": null
-   },
-   {
-    "key": "jio platforms",
-    "name": "Jio Platforms",
-    "type": "Mainboard",
-    "gmp": 247.0,
-    "gmp_pct": 22.07,
-    "status": null,
-    "updated": null
-   },
-   {
-    "key": "paras healthcare",
-    "name": "Paras Healthcare",
-    "type": "Mainboard",
-    "gmp": 13.0,
-    "gmp_pct": 1.88,
+    "gmp": 30.0,
+    "gmp_pct": 1.8,
     "status": null,
     "updated": null
    },
@@ -4670,8 +4436,8 @@
     "key": "johnsoncab electricals",
     "name": "Johnsoncab Electricals",
     "type": "SME",
-    "gmp": 0.0,
-    "gmp_pct": 0.0,
+    "gmp": 10.0,
+    "gmp_pct": 5.0,
     "status": null,
     "updated": null
    },
@@ -4688,8 +4454,8 @@
     "key": "maxwell engineering",
     "name": "Maxwell Engineering",
     "type": "SME",
-    "gmp": 27.0,
-    "gmp_pct": 17.09,
+    "gmp": 40.0,
+    "gmp_pct": 25.32,
     "status": null,
     "updated": null
    },
@@ -4715,8 +4481,8 @@
     "key": "ajwa projects",
     "name": "Ajwa Projects",
     "type": "SME",
-    "gmp": 38.0,
-    "gmp_pct": 18.72,
+    "gmp": 35.0,
+    "gmp_pct": 17.24,
     "status": null,
     "updated": null
    },
@@ -4750,7 +4516,10 @@
   ]
  },
  "warnings": [
-  "Could not load Chittorgarh Mainboard performance tracker: no rows found (layout change?)",
-  "Could not load Chittorgarh SME performance tracker: no rows found (layout change?)"
+  "Could not load Chittorgarh Mainboard list: HTTP 522",
+  "Could not load Chittorgarh SME list: HTTP 522",
+  "Chittorgarh unavailable: showing the previous day's IPO list.",
+  "Could not load Chittorgarh Mainboard performance tracker: HTTP 522",
+  "Could not load Chittorgarh SME performance tracker: HTTP 522"
  ]
 }
