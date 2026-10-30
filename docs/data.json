@@ -1,224 +1,28 @@
 {
- "generated_at": "2026-10-29T14:18:08+05:30",
- "generated_display": "29 Oct 2026, 02:18 PM IST",
+ "generated_at": "2026-10-30T14:27:06+05:30",
+ "generated_display": "30 Oct 2026, 02:27 PM IST",
  "open": [
   {
-   "chittorgarh_url": "https://www.chittorgarh.com/ipo/bls-polymers-ipo/2559/",
-   "name": "BLS Polymers",
-   "open_date": "2026-10-27",
-   "close_date": "2026-10-29",
-   "ipo_date_text": "27 to 29 Oct, 2026",
-   "listing_date": "Tue, Nov 3, 2026",
+   "chittorgarh_url": "https://www.chittorgarh.com/ipo/mksons-fine-jewels-ipo/3100/",
+   "name": "M.K.Sons Fine Jewels",
+   "open_date": "2026-10-28",
+   "close_date": "2026-10-30",
+   "ipo_date_text": "28 to 30 Oct, 2026",
+   "listing_date": "Wed, Nov 4, 2026",
    "face_value": "₹ 10 per share",
-   "issue_type": "Bookbuilding IPO",
-   "sale_type": "Fresh capital only",
-   "listing_at": "BSE, NSE",
-   "type": "Mainboard",
-   "lot_size": 100,
-   "price_band": "₹142 to ₹150",
-   "price_high": 150.0,
-   "issue_price": 150.0,
-   "issue_size_cr": 255.0,
-   "min_application": {
-    "label": "Retail (Min)",
-    "lots": 1,
-    "shares": 100,
-    "amount": 15000.0
-   },
-   "financials": {
-    "periods": [
-     "30 Jun 2026",
-     "31 Mar 2026",
-     "31 Mar 2025",
-     "31 Mar 2024"
-    ],
-    "rows": {
-     "Assets": [
-      231.34,
-      206.13,
-      179.14,
-      168.49
-     ],
-     "Total Income": [
-      107.81,
-      354.41,
-      336.7,
-      301.5
-     ],
-     "Profit After Tax": [
-      10.23,
-      27.01,
-      21.14,
-      7.52
-     ],
-     "EBITDA": [
-      16.21,
-      46.6,
-      39.66,
-      21.05
-     ],
-     "NET Worth": [
-      105.17,
-      94.93,
-      67.94,
-      46.83
-     ],
-     "Reserves and Surplus": [
-      60.14,
-      49.9,
-      58.34,
-      37.23
-     ],
-     "Total Borrowing": [
-      62.91,
-      51.72,
-      73.92,
-      93.77
-     ]
-    },
-    "unit": "Amount in ₹ Crore"
-   },
-   "objects": [
-    {
-     "object": "Financing the capital expenditure requirement towards expansion of our Manufacturing Facility by increasing the manufacturing capacity of certain of the existing products",
-     "amount_cr": 77.56
-    },
-    {
-     "object": "Funding working capital requirements of the Company",
-     "amount_cr": 89.5
-    },
-    {
-     "object": "General Corporate Purposes",
-     "amount_cr": null
-    }
-   ],
-   "kpis": {
-    "ROE": "10.22%",
-    "ROCE": "9.11%",
-    "Debt/Equity": "0.61",
-    "RoNW": "9.73%",
-    "PAT Margin": "9.56%",
-    "EBITDA Margin": "15.15%",
-    "NAV": "23.35",
-    "P/B (x)": "6.42"
-   },
-   "valuation": {
-    "EPS (₹)": {
-     "pre": "6.00",
-     "post": "6.60"
-    },
-    "P/E (x)": {
-     "pre": "25",
-     "post": "22.73"
-    },
-    "Market Cap at Offer Price": {
-     "pre": "₹675.48 Cr.",
-     "post": "₹930.48 Cr."
-    }
-   },
-   "reviews": {
-    "Subscribe": 1,
-    "May Apply": 0,
-    "Neutral": 1,
-    "Avoid": 0
-   },
-   "legal_name": "BLS Polymers Ltd.",
-   "about": [],
-   "about_lists": {},
-   "strengths": [],
-   "status": "open",
-   "day_label": "Closes today",
-   "subscription": {
-    "as_of": "Oct 28, 2026 12:44",
-    "rows": [
-     {
-      "category": "Qualified Institutional",
-      "times": 12.06
-     },
-     {
-      "category": "Non Institutional",
-      "times": 39.15
-     },
-     {
-      "category": "Retail Individual",
-      "times": 17.8
-     }
-    ],
-    "total": 20.73
-   },
-   "gmp": {
-    "gmp": 51.0,
-    "gmp_pct": 34.0,
-    "est_listing": 201.0,
-    "updated": null,
-    "trend": "🟢"
-   },
-   "ipowatch_url": "https://www.ipowatch.in/bls-polymers-ipo-gmp-grey-market-premium/",
-   "insights": {
-    "metrics": [
-     "FY26 income ₹354.4 Cr",
-     "PAT ₹27.0 Cr",
-     "PAT margin 9.6%",
-     "Income +5% YoY",
-     "PAT +28% YoY",
-     "Post-issue P/E 22.7x"
-    ],
-    "flags": [
-     {
-      "tone": "good",
-      "text": "Profit up 3 years in a row"
-     }
-    ],
-    "partial": "Period to 30 Jun 2026: income ₹107.8 Cr, PAT ₹10.2 Cr (part-year, not compared)"
-   },
-   "business_news": [],
-   "news": [
-    {
-     "title": "BLS Polymers IPO: Business Model, Goa Expansion Plan and Key Risks Explained",
-     "source": "Kalkine India",
-     "date": "28 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORDZYd2hhVFJaVjJIUEdhU0lJRDV6c1dkUXVoay1sa3hMV1dOX2lOZE5oMlE4dDE0OE9lbW1Xbngta054YXdlMkgwSlR3NHJiMTRnWndVSG84eXdRdUlLanNIVUJlcDhKbnVCT0I4QTJLakJteUhpaWJ6aUhJQnNyY3JVQjVMc3JDUjlldnRBNWw1Snppelk3d21NU0JIYlFOQ3V0anUzSTBSSkpGVm81NEw2RXNqWnpoSTNv?oc=5",
-     "tone": "good"
-    },
-    {
-     "title": "BLS Polymers IPO Day 2 Subscription Status 28 Oct 2026",
-     "source": "Univest",
-     "date": "28 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR1FzNjN3dC1kYzBVX3pRRU81VVJyY0N1R19ISldJMnV5NTZiZDk5anMwZGF0RThnVnR3eWdzZS1BOWg0cXI2QkFGdU9JZE9ZZzFXLVlXUDNlNGUyekZGVmFJQklCWjJORUs1VjM3Zm5ybHdEdmdORTZPRld3MnpobE5yYjEwZnJYUHRPRGhVeDVJOHBFSl9rdmtJaUs?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "BLS Polymers IPO subscribed over 11x so far on Day 2; GMP rises to 30%",
-     "source": "Moneycontrol.com",
-     "date": "28 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ3I4VzlYdlkwOWY5YnNzTmpoV0RJTUVySm9xcnpadWd6ZzlQRDZOZUpFejlyc2o4NzFIMmpaRUFUZi1GOURyNlZ3c291XzlQMFVQMHJkcURWRDlDdV92aEs2emF5MURHYWR0UkM1OE1IZ3FmNVJIUWNHVG16V1FPV3hqaWpaQ1R4SzI1TmdodndfRVd3UXJWMDh4N3g2MFMzOFVONnN3N0FWODJsRWpYblBNaVhCQXZJTzgtOFRyMFdrYzJBUXBvUG5icWs3UdIB0wFBVV95cUxOZ1lRU1AzNHVQbnhEZ1J4allYVnFnQzZzeDhwaWVzenZDc0tGSlpteC1qRVhFX1d0SWk4S0FfeExqWXNObmlnMjdleGpEdGlmNFdTeGpXQ2hsWTQ3NjA5WFJ1dnA3NlYzUXEtYUpGVGo4bmM5bEoxM0tEaDhGaEU2QnFBR3l6UUUwblU1OElqX2o5RFBBLWV6YmJtVElkZ0oyY1dITWxNb0g3YkpZdUJ6b2hIYTRobVN4bExWSURscTF5WXJaSkQ3RGVGeUYzWWNWeUY4?oc=5",
-     "tone": ""
-    }
-   ],
-   "key": "bls polymers",
-   "stale": true
-  },
-  {
-   "chittorgarh_url": "https://www.chittorgarh.com/ipo/sfc-environmental-technologies-ipo/2070/",
-   "name": "SFC Environmental Technologies",
-   "open_date": "2026-10-27",
-   "close_date": "2026-10-29",
-   "ipo_date_text": "27 to 29 Oct, 2026",
-   "listing_date": "Tue, Nov 3, 2026",
-   "face_value": "₹ 2 per share",
    "issue_type": "Bookbuilding IPO",
    "sale_type": "Fresh capital cum OFS",
    "listing_at": "BSE, NSE",
    "type": "Mainboard",
-   "lot_size": 45,
-   "price_band": "₹313 to ₹330",
-   "price_high": 330.0,
-   "issue_size_cr": 668.0,
+   "lot_size": 91,
+   "price_band": "₹153 to ₹162",
+   "price_high": 162.0,
+   "issue_size_cr": 275.0,
    "min_application": {
     "label": "Retail (Min)",
     "lots": 1,
-    "shares": 45,
-    "amount": 14850.0
+    "shares": 91,
+    "amount": 14742.0
    },
    "financials": {
     "periods": [
@@ -229,58 +33,58 @@
     ],
     "rows": {
      "Assets": [
-      1224.56,
-      1323.43,
-      999.47,
-      904.94
+      305.68,
+      283.21,
+      219.64,
+      95.21
      ],
      "Total Income": [
-      137.9,
-      821.27,
-      726.96,
-      676.74
+      101.45,
+      538.86,
+      351.32,
+      217.4
      ],
      "Profit After Tax": [
-      1.48,
-      160.21,
-      152.01,
-      144.17
+      15.02,
+      51.8,
+      23.26,
+      8.17
      ],
      "EBITDA": [
-      9.86,
-      235.81,
-      207.48,
-      193.25
+      23.42,
+      82.94,
+      38.57,
+      12.87
      ],
      "NET Worth": [
-      805.49,
-      804.17,
-      648.68,
-      534.3
+      183.04,
+      168.01,
+      116.21,
+      22.27
      ],
      "Reserves and Surplus": [
-      784.14,
-      782.63,
-      628.54,
-      526.41
+      140.35,
+      125.32,
+      107.7,
+      17.79
      ],
      "Total Borrowing": [
-      204.77,
-      195.64,
-      83.71,
-      139.16
+      70.52,
+      68.44,
+      68.93,
+      38.64
      ]
     },
     "unit": "Amount in ₹ Crore"
    },
    "objects": [
     {
-     "object": "Prepayment of all or a portion of certain outstanding borrowings availed by Company and wholly owned Subsidiary, namely Vasudha Waste Treatment Pvt.Ltd.",
-     "amount_cr": 42.23
+     "object": "Funding expenditure towards setting up of 1 new showroom in Maharashtra (“New Showroom”) and expansion of existing showroom in Gujarat (“Expansion”)",
+     "amount_cr": 152.84
     },
     {
-     "object": "Funding working capital requirements",
-     "amount_cr": 74.92
+     "object": "Repayment and/or pre-payment, in full or part, of certain borrowings availed by the Company",
+     "amount_cr": 30.0
     },
     {
      "object": "General Corporate Purposes",
@@ -288,321 +92,139 @@
     }
    ],
    "kpis": {
-    "ROE": "0.18%",
-    "ROCE": "0.72%",
-    "Debt/Equity": "0.25",
-    "RoNW": "0.19%",
-    "PAT Margin": "1.11%",
-    "EBITDA Margin": "7.36%",
-    "NAV": "86.23"
+    "ROE": "8.20%",
+    "ROCE": "10.26%",
+    "Debt/Equity": "0.39",
+    "RoNW": "8.20%",
+    "PAT Margin": "14.80%",
+    "EBITDA Margin": "23.09%",
+    "NAV": "42.88",
+    "P/B (x)": "3.78"
    },
    "valuation": {
     "EPS (₹)": {
-     "pre": "17.15",
-     "post": "0.61"
+     "pre": "12.13",
+     "post": "10.06"
     },
     "P/E (x)": {
-     "pre": "19.24",
-     "post": "540.98"
+     "pre": "13.36",
+     "post": "16.1"
     },
     "Market Cap at Offer Price": {
-     "pre": "₹3,082.57 Cr.",
-     "post": "₹3,232.57 Cr."
+     "pre": "₹691.59 Cr.",
+     "post": "₹966.99 Cr."
     }
    },
    "reviews": {
-    "Subscribe": 5,
+    "Subscribe": 4,
     "May Apply": 0,
-    "Neutral": 2,
+    "Neutral": 3,
     "Avoid": 0
    },
-   "legal_name": "SFC Environmental Technologies Ltd.",
+   "legal_name": "M.K.Sons Fine Jewels Ltd.",
    "about": [
-    "Incorporated in March 2005, SFC Environmental Technologies Limited is an environmental technology company engaged in providing technology, design, engineering, manufacturing, supply, installation and commissioning solutions for wastewater treatment (“WWT”), wastewater recycling and reuse (“WRR”), and solid waste treatment (“SWT”). The Company’s wastewater treatment business is primarily based on its proprietary C-Tech technology, an advanced sequencing batch reactor (“SBR”) process used in sewage treatment plants and industrial effluent treatment. Its solutions include technology packages, equipment, automation systems, installation, commissioning and related services. As of July 31, 2026, the Company had commissioned 728 wastewater treatment installations and its technologies facilitated the treatment of 17,511.11 million litres of wastewater per day. It has also expanded into wastewater recycling and reuse through ultrafiltration (“UF”), closed circuit reverse osmosis (“CCRO”) and membrane bioreactor (“MBR”) technologies, supported by an exclusive supply arrangement with DuPont for selected products in India.",
-    "The Company’s solid waste treatment business is based on its proprietary Organic Extraction (“OREX”) technology, designed to separate biodegradable organic matter from mixed municipal waste to support biogas generation and resource recovery. It provides end-to-end solutions covering design, engineering, construction, equipment supply, commissioning and operations and maintenance. The Company operates two integrated solid waste treatment facilities in Goa with an aggregate treatment capacity of up to 425 tonnes per day. Through its subsidiary, it has also secured orders for compressed biogas plants in Assam and Odisha, with cumulative order value of ₹5,017 million, and has expanded into projects involving agricultural waste and biomass.",
-    "The Company operates across 23 states and five Union Territories in India, with a business model involving technology supply, engineering solutions, project execution and operations and maintenance. Its customer relationships include engineering, procurement and construction companies, municipal bodies and government-owned entities. The Company’s growth strategy includes expanding its wastewater recycling and reuse capabilities and pursuing opportunities in solid waste treatment, compressed biogas and waste-to-energy projects.",
-    "As of August 31, 2026, the Company had 264 employees, including 149 engineers, supported by teams across design and engineering, electrical and instrumentation, erection and commissioning, manufacturing, proposals, sales, finance and other functions."
+    "Incorporated in 2012, M. K. Sons Fine Jewels Ltd. is engaged in the retail sale of gold, diamond, and CZ jewellery through its showroom network across Mumbai and Ahmedabad.",
+    "The company offers rings, necklaces, bangles, earrings, bracelets, Mangalsutras, solitaires, bridal jewellery, and customised jewellery under multiple collections such as Pavitra, Rivaaz, Sitaare, NAQSH, Sunhere, and One & Only.",
+    "The company operates 5 retail showrooms across Maharashtra and Gujarat in high-footfall locations including Bandra, Andheri, Zaveri Bazaar, C.G. Road, and Sindhu Bhavan Road.",
+    "Its business model focuses on retail jewellery sales, customer-centric collections, customised jewellery offerings, and diversified designs across multiple price points. The company procures finished jewellery from third-party vendors across Western India.",
+    "As on June 30, 2026, the company offered more than 19,442 SKUs, including over 14,582 gold jewellery designs and 4,860 diamond and precious stone jewellery designs.",
+    "The company caters to bridal, festive, daily wear, and premium jewellery customers with BIS Hallmark-certified jewellery products.",
+    "As on September 30, 2026 the company had 148 permanent employees."
    ],
    "about_lists": {
-    "Competitive Strengths": [
-     "Technology-Driven Market Leadership: Strong position in wastewater treatment, supported by proprietary C-Tech technology and over 80% market share in SBR technology in India.",
-     "Integrated Technology and Engineering Capabilities: Comprehensive solutions across design, engineering, equipment supply, installation, commissioning and operations and maintenance.",
-     "Established Presence in Wastewater Recycling and Reuse: Expansion into UF, CCRO and MBR technologies, supported by an exclusive supply arrangement with DuPont for selected products in India.",
-     "Proprietary Solid Waste Treatment Technology: OREX technology enables organic waste separation, biogas generation and recovery of recyclable resources.",
-     "Strong Order Book and Repeat Business: High repeat-customer revenue, contributing 91.98% of revenue in Fiscal 2026, alongside significant orders in wastewater recycling and compressed biogas projects.",
-     "Diversified Growth Opportunities: Presence across wastewater treatment, wastewater recycling and reuse, solid waste treatment, compressed biogas and waste-to-energy projects."
+    "Strengths": [
+     "Diversified jewellery portfolio across 11 collections",
+     "Strong regional presence in Mumbai and Ahmedabad",
+     "Wide range of gold, diamond, and CZ jewellery",
+     "Cluster-based showroom expansion strategy",
+     "BIS Hallmark-certified jewellery products",
+     "Experienced promoter with jewellery industry expertise since 1999",
+     "Customer-focused retail and customised jewellery offerings"
     ]
    },
    "strengths": [
-    "Technology-Driven Market Leadership: Strong position in wastewater treatment, supported by proprietary C-Tech technology and over 80% market share in SBR technology in India.",
-    "Integrated Technology and Engineering Capabilities: Comprehensive solutions across design, engineering, equipment supply, installation, commissioning and operations and maintenance.",
-    "Established Presence in Wastewater Recycling and Reuse: Expansion into UF, CCRO and MBR technologies, supported by an exclusive supply arrangement with DuPont for selected products in India.",
-    "Proprietary Solid Waste Treatment Technology: OREX technology enables organic waste separation, biogas generation and recovery of recyclable resources.",
-    "Strong Order Book and Repeat Business: High repeat-customer revenue, contributing 91.98% of revenue in Fiscal 2026, alongside significant orders in wastewater recycling and compressed biogas projects.",
-    "Diversified Growth Opportunities: Presence across wastewater treatment, wastewater recycling and reuse, solid waste treatment, compressed biogas and waste-to-energy projects."
+    "Diversified jewellery portfolio across 11 collections",
+    "Strong regional presence in Mumbai and Ahmedabad",
+    "Wide range of gold, diamond, and CZ jewellery",
+    "Cluster-based showroom expansion strategy",
+    "BIS Hallmark-certified jewellery products",
+    "Experienced promoter with jewellery industry expertise since 1999",
+    "Customer-focused retail and customised jewellery offerings"
    ],
    "status": "open",
    "day_label": "Closes today",
    "subscription": {
-    "as_of": "Oct 28, 2026 12:44",
+    "as_of": "Oct 30, 2026 13:59",
     "rows": [
      {
+      "category": "Qualified Institutional",
+      "times": 1.05
+     },
+     {
       "category": "Non Institutional",
-      "times": 0.2
+      "times": 8.18
      },
      {
       "category": "Retail Individual",
-      "times": 0.26
+      "times": 2.19
      }
     ],
-    "total": 0.17
+    "total": 3.15
    },
    "gmp": {
     "gmp": 12.0,
-    "gmp_pct": 3.64,
-    "est_listing": 342.0,
+    "gmp_pct": 7.41,
+    "est_listing": 174.0,
     "updated": null,
     "trend": "🔴"
    },
-   "ipowatch_url": "https://www.ipowatch.in/sfc-environmental-technologies-ipo-gmp-grey-market-premium/",
+   "ipowatch_url": "https://ipowatch.in/mksons-fine-jewels-ipo-gmp-today/",
    "insights": {
     "metrics": [
-     "FY26 income ₹821.3 Cr",
-     "PAT ₹160.2 Cr",
-     "PAT margin 1.1%",
-     "Income +13% YoY",
-     "PAT +5% YoY",
-     "Post-issue P/E 541.0x"
+     "FY26 income ₹538.9 Cr",
+     "PAT ₹51.8 Cr",
+     "PAT margin 14.8%",
+     "Income +53% YoY",
+     "PAT +123% YoY",
+     "Post-issue P/E 16.1x"
     ],
     "flags": [
+     {
+      "tone": "good",
+      "text": "Strong growth: income +53%, profit +123%"
+     },
      {
       "tone": "good",
       "text": "Profit up 3 years in a row"
      }
     ],
-    "partial": "Period to 30 Jun 2026: income ₹137.9 Cr, PAT ₹1.5 Cr (part-year, not compared)"
+    "partial": "Period to 30 Jun 2026: income ₹101.5 Cr, PAT ₹15.0 Cr (part-year, not compared)"
    },
    "business_news": [],
    "news": [
     {
-     "title": "SFC Environmental IPO: ₹668 Crore Issue at ₹313–330, About 20x Pre-Issue Earnings and a Small GMP",
-     "source": "Trade Brains",
-     "date": "28 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN3A4MDdOdVQtbVhxX24yakR6T2dqYmJLaWd3d1F3RDEtWENJNTktS0VsVVlHS1I0VzNzd2xBUEpVN1BPa2ljR3ZWUGZlWTBtLWxneWtwU3pYbTN6bGRPN0NJaEZPU2R6UjlFaVNLQ3M1VDlBcUstdGtfdzJjYThLUjlnSGFQaXQ0cng2QXBFSkdYZmkxcUF2ZjFuN09TYzhlbXBWNHcydWF2SUVodVZfZUdzazR2bUtQc0dfclRPWjR3Q1NVTEJ6MFdxbVdPT1R4WDc4Yg?oc=5",
-     "tone": ""
+     "title": "M.K.Sons Fine Jewels IPO Allotment Status: 0.70x Subscribed, Check Online",
+     "source": "Univest",
+     "date": "30 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPXzRycXB3LTNVR3VQWWlZbm5VWTM3RndXQmhzVlZjN1BlWlo3am9LUVBLcGxkeEFPQ21OY3c0MHN0S21SbXdCOC1DUXUwUkVtUjJfSmNlaEpVWi1waGg4ajRYNnFOeGY0MjdJVlRIVnVzc19XT2dEODVSUEoydFQ5M0tyRQ?oc=5",
+     "tone": "bad"
     },
     {
-     "title": "SFC Environmental Technologies IPO booked 16% so far on Day 2; retail investors lead demand",
+     "title": "M.K.Sons Fine Jewels IPO Subscription Day 1: 0.65x",
+     "source": "HDFC Sky",
+     "date": "28 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9IR1pJd0tpNGNEV05MSkdZYldxYmVveUFieFZ3OVp0a3VvRXgzc2xyZVpmR1E3d3A4UXRTZFRDSXM5VzEycmRxc2RGVktDdTg5R2lQY2c3dkdINVBDeFBMV0hYYTk3Mzh5TVF0YXpRVTBnREs0dGxZ?oc=5",
+     "tone": "bad"
+    },
+    {
+     "title": "Subscribe for M.K.Sons Fine Jewels Ltd IPO; Anand Rathi",
      "source": "Moneycontrol.com",
      "date": "28 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNklZQ0FhT0tycVRsVjZRMmdxRlZKd01GTTNibjgyMlllblpKUl9JOGtPUEVHQ2dTVWN3TVZZWVBIM2RyNE5zYlJnUDJ2a2lJeEpUVDNMVU9MYmR5bUVLU0Y4a0hocl90SURtOXNNbXkxbnhjemswNjZ3NDNQVTA5YWtqdzVRc05pSXQ3OVc5M0VTZjdJaVh1cFN5RHlrR2pnN3FYMlkyV3ctTGFPOU1TWlM3QmplNVNaUlNzOHhNcWEwcExCckxXVUU3bHdlaXdNa2dNSzBaQWpyWHlQc1BsRjRjUU7SAeoBQVVfeXFMUFJQbnNXQjNsZk01SjBrbXBpS0lwQ2l6OHJSTEZwNEY4YnktYmUydHNORWkwT2lkOTdfcERydnBzZFNsa2ZFYk5VN1VYWjRkYkR4Y1k0RXdGTUtJQnhRUFBwM2N0YWRlTm5KR293S2JFWTJzOUtGYThWWTBaY1dzWG1UTlFXaFY5M295bDRKcW1BSl9hVUR3T0tDdW80Z3gyRkM3TlJYcm9zTmV1QWZNU3g0cW5mSl9rOU83VEJ4WnhDNm9LSm45WW01TzFiTDZVQm90WEVNQ0UzMlAwMjhTY3lQX1FseWRORDVR?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "SFC Environmental Technologies IPO Day 2: Subscribed 0.15x; retail leads at 0.23x with QIB yet to participate",
-     "source": "scanx.trade",
-     "date": "28 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZFZFdXRhdmoyc0VBUFpCc2VRSms4SzN0YmZIYUozaDY5Vl9DWUVmNm1TSGVDS1owa0V0Xy13cVNhd2c5bEE2d2VVQlFjMjRzVG0zOFhSWTlCSnNiUF9yMEJRMGdxM1N2clpibWVDeTR4S1UzR2ExNHpCTFprR2ZLU1c0bk5lcVBHaUJfREgyM3BrQnJ2T2ZLaHBpUS0zRkdiTW9VOTdxaHlRTnhuTWhZWVhhUWJpdkF1N1lSWUYwakFmcTZLNHpNZjU5cW5oQ0RHRm1WSw?oc=5",
-     "tone": ""
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTTZtZ3FlOTB0RFE4b0QwZXRVQ0k4VUhsd2NsNlhYamRkNU5yb1lWdFUzUDZQMlZRT0x5b2NWWUI3OUlNZWlVMWxKQjhxWHR5eWZoQkhhc1pzWEtxS3lhVXY0UnZHYmNUby1OWVBBNHJHNTdzaEZSM0dSb09VdGgwQjN4aldKaGlOcGI4cjV6X09QMk1EN1FmRk5EbUhUMnIxU01kcWd2WGJFTkRfeXY2VXB2QzZnOWp3a0dV0gG7AUFVX3lxTE5NNm1ncWU5MHREUThvRDBldFVDSThVSGx3Y2w2WFhqZGQ1TnJvWVZ0VTNQNlAyVlFPTHlvY1ZZQjc5SU1laVUxbEpCOHFYdHl5ZmhCSGFzWnNYS3FLeWFVdjRSdkdiY1RvLU5ZUEE0ckc1N3NoRlIzR1JvT1V0aDBCM3hqV0poaU5wYjhyNXpfT1AyTUQ3UWZGTkRtSFQycjFTTWRxZ3ZYYkVORF95djZVcHZDNmc5andrR1U?oc=5",
+     "tone": "bad"
     }
    ],
-   "key": "sfc environmental technologies",
-   "stale": true
-  },
-  {
-   "chittorgarh_url": "https://www.chittorgarh.com/ipo/wiscon-industries-ipo/3202/",
-   "name": "Wiscon Industries",
-   "open_date": "2026-10-27",
-   "close_date": "2026-10-29",
-   "ipo_date_text": "27 to 29 Oct, 2026",
-   "listing_date": "Tue, Nov 3, 2026",
-   "face_value": "₹ 10 per share",
-   "issue_type": "Bookbuilding IPO",
-   "sale_type": "Fresh capital cum OFS",
-   "listing_at": "BSE SME",
-   "type": "SME",
-   "lot_size": 600,
-   "price_band": "₹194 to ₹204",
-   "price_high": 204.0,
-   "issue_size_cr": 110.0,
-   "min_application": {
-    "label": "Individual investors (IND) (Min)",
-    "lots": 2,
-    "shares": 1200,
-    "amount": 244800.0
-   },
-   "financials": {
-    "periods": [
-     "30 Jun 2026",
-     "31 Mar 2026"
-    ],
-    "rows": {
-     "Assets": [
-      144.79,
-      90.75
-     ],
-     "Total Income": [
-      69.85,
-      197.13
-     ],
-     "Profit After Tax": [
-      7.89,
-      20.41
-     ],
-     "EBITDA": [
-      11.0,
-      28.09
-     ],
-     "NET Worth": [
-      38.49,
-      30.61
-     ],
-     "Reserves and Surplus": [
-      22.82,
-      25.38
-     ],
-     "Total Borrowing": [
-      36.97,
-      25.26
-     ]
-    },
-    "unit": "Amount in ₹ Crore"
-   },
-   "objects": [
-    {
-     "object": "Investment in the WOS, Dalmia Technologies Limited for financing its capital expenditure towards purchase of Plant and Machinery",
-     "amount_cr": 15.04
-    },
-    {
-     "object": "Investment in the WOS, Dalmia Technologies Limited for funding its incremental working capital requirements",
-     "amount_cr": 35.0
-    },
-    {
-     "object": "To meet Working Capital requirements of the Company",
-     "amount_cr": 17.0
-    },
-    {
-     "object": "To Fund Marketing and Promotional Activities in the Company",
-     "amount_cr": 5.23
-    },
-    {
-     "object": "General Corporate Purposes",
-     "amount_cr": null
-    },
-    {
-     "object": "Issue expenses",
-     "amount_cr": null
-    }
-   ],
-   "kpis": {
-    "ROE": "22.83%",
-    "ROCE": "14.72%",
-    "Debt/Equity": "0.96",
-    "RoNW": "20.49%",
-    "PAT Margin": "11.29%",
-    "EBITDA Margin": "15.74%",
-    "NAV": "24.56"
-   },
-   "valuation": {
-    "EPS (₹)": {
-     "pre": "13.02",
-     "post": "15.78"
-    },
-    "P/E (x)": {
-     "pre": "15.67",
-     "post": "12.93"
-    },
-    "Market Cap at Offer Price": {
-     "pre": "₹319.74 Cr.",
-     "post": "₹407.75 Cr."
-    }
-   },
-   "reviews": {
-    "Subscribe": 0,
-    "May Apply": 0,
-    "Neutral": 0,
-    "Avoid": 0
-   },
-   "legal_name": "Wiscon Industries Ltd.",
-   "about": [
-    "Incorporated in September 2022, Wiscon Industries Limited is a Delhi-based company engaged in the trading and supply of consumer electronic products across India.",
-    "The company offers a broad range of products, including LED TVs, air coolers, washing machines, and air conditioners under its flagship \"Wiscon\" brand.",
-    "It also sells electric scooters sourced from third-party brands.",
-    "Wiscon serves both business customers (B2B) and individual consumers (B2C). Its products are distributed through an offline dealer and distributor network as well as its own online platform, allowing the company to reach customers across the country. Sales operations are managed by a dedicated team working from the company's registered office.",
-    "The company has reported strong revenue growth since its incorporation. Revenue from operations increased from ₹ 321.45 lakh in FY 2023-24 to ₹1,449.27 lakh in FY 2024-25, and further to ₹7,339.16 lakh in FY 2025-26, reflecting significant business expansion over the three-year period.",
-    "As of September 30, 2026, Wiscon Industries had 76 permanent employees supporting its operations."
-   ],
-   "about_lists": {},
-   "strengths": [],
-   "status": "open",
-   "day_label": "Closes today",
-   "subscription": {
-    "as_of": "Oct 28, 2026 12:38",
-    "rows": [
-     {
-      "category": "Qualified Institutional",
-      "times": 2.0
-     },
-     {
-      "category": "Non Institutional",
-      "times": 0.01
-     },
-     {
-      "category": "Retail Individual",
-      "times": 0.39
-     }
-    ],
-    "total": 0.83
-   },
-   "gmp": {
-    "gmp": 0.0,
-    "gmp_pct": 0.0,
-    "est_listing": 204.0,
-    "updated": null,
-    "trend": "🟡"
-   },
-   "ipowatch_url": "https://www.ipowatch.in/wiscon-industries-ipo-gmp-today/",
-   "insights": {
-    "metrics": [
-     "FY26 income ₹197.1 Cr",
-     "PAT ₹20.4 Cr",
-     "PAT margin 11.3%",
-     "Post-issue P/E 12.9x"
-    ],
-    "flags": [
-     {
-      "tone": "good",
-      "text": "High ROE 23%"
-     }
-    ],
-    "partial": "Period to 30 Jun 2026: income ₹69.8 Cr, PAT ₹7.9 Cr (part-year, not compared)"
-   },
-   "business_news": [],
-   "news": [
-    {
-     "title": "Wiscon Industries IPO Day 2: Subscribed 0.93x; QIB leads at 2x while Retail lags",
-     "source": "scanx.trade",
-     "date": "28 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQM2pXUk9pTUNYYThReWxvVXlqNEhLNFVWQThvT2pabVNFNTVZVlJySDdjcUdpZTdDNzIyQ1hIWktWenl4UW1VMXVsN3Fra3NTMmwxaHNsbFMtLXhnYXk5SWVoNzgxb3c0TXBiTGdiOEhBbE41NUJFUWFzcVNnUTdwSGp1dHJMMVFnRWhMX3RiV0NacHdqMFFsaW5palBHYUJjSDZabFg3aG82SDhxX2oxQWIxU3Q1VTJPLXltcVgxSHdwUzdzdXhoLVdkZ18zcUhCTmpB?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Wiscon Industries IPO Day 2 Subscription Status 28 Oct 2026",
-     "source": "Univest",
-     "date": "28 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTEJJLTNJYmhpUGRmcXpVenVQLXZheVN3X1VsbmFhRnhjZXJhZ3MwOFhmN196RXl1cXZMV1lHZ0hoTDBITGZGazJsUXJCY2tVZGE0RUliUjNwRUZ5Y2E3dHpUM244VEhiZERJcHlscXc1T1duSW5nMHdnZVRxNFVXc2UtdDVVcWVxUFNUOFBiYlEzV0pwaU9tVmszZTdiVDlqV3Bz?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Wiscon Industries IPO Subscription Status Day 1: Issue Subscribed 0.91 Times",
-     "source": "HDFC Sky",
-     "date": "27 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBmdjFWLUc2UmdKemJfU2JVRTFzVTh6Q25YQzhiODk5TzktLWxkLW9nNFh0NEJVRFpPa3hSV2tWMTIzVnZfd1pHVFpMLTVYMGJpOVpxRnY4d2xIME1nTWNCQ0FUTF9JYmZXQVRjSF9YWlJWbjlKd0c4Z1h6RWw?oc=5",
-     "tone": ""
-    }
-   ],
-   "key": "wiscon industries",
-   "stale": true
+   "key": "mksons fine jewels"
   },
   {
    "chittorgarh_url": "https://www.chittorgarh.com/ipo/ajwa-projects-ipo/2761/",
@@ -762,25 +384,25 @@
     "Skilled Workforce and Operational Capability"
    ],
    "status": "open",
-   "day_label": "Closes tomorrow",
+   "day_label": "Closes today",
    "subscription": {
-    "as_of": "Oct 28, 2026 13:04",
+    "as_of": "Oct 30, 2026 11:54",
     "rows": [
      {
       "category": "Non Institutional",
-      "times": 0.04
+      "times": 0.2
      },
      {
       "category": "Retail Individual",
-      "times": 0.28
+      "times": 1.77
      }
     ],
-    "total": 0.16
+    "total": 0.99
    },
    "gmp": {
-    "gmp": 35.0,
-    "gmp_pct": 17.24,
-    "est_listing": 238.0,
+    "gmp": 5.0,
+    "gmp_pct": 2.46,
+    "est_listing": 208.0,
     "updated": null,
     "trend": "🔴"
    },
@@ -809,254 +431,28 @@
    "business_news": [],
    "news": [
     {
-     "title": "Ajwa Projects IPO Day 1 Subscription Status 28 Oct 2026",
+     "title": "Ajwa Projects IPO Day 3: Subscribed 1.03x; Retail leads at 1.76x as issue crosses fully subscribed mark",
+     "source": "scanx.trade",
+     "date": "30 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRkNpa0tHUXJrczdDQkhkNklxMmxyZzE0Z0Z5aTlKTW1GN2M5Xzlabk5DaGF4cEdfd1RIeWJPTTUzTTlMSXA2MDlPcWw3MEhSMUxuaGNiOTZPTkZxSl94bEYwcHEzOFF1aEJreU1NM04td3M5Z3VVazk4ZzhicmZfMDhRekwxT2J4QmNkQndmbDd1STFBX2FtWHVTdVhBS19wcC04U2x1S09VOE11MjhaY1Mxc1VOeHZXRjJJNUZPSmxwWHdKZjNNZDAzT2lNREMyeXBNYS1n?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Ajwa Projects IPO Allotment Status: 0.93x Subscribed, Check Online",
      "source": "Univest",
-     "date": "28 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTHNRVGV3ZWJPYWs2eVRyLTBacG9pRGIyV3RGVWV0eFNvdlFtRktXLXhFM0VwNjU4TFo0ODFlM2dKZUU1U2s1eGRIWGNobWFtUnJwWURWZ3dRZG1oX041NmlfUlZ0SFlHTWlOcWt0RjljSDhDNHdQdzViYjdfVXIxdzdvLU5Ld2thMW9ZaTFKdkdmUW9zRzlrMG1xQk96dw?oc=5",
+     "date": "30 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5EdXpPaURXbkhOV3FPT0Y5TFlOT2xFZTNGOWJTZG50c1ZobEJ0TEk0bkFwcXRKYlI4ZzB4SGczLTlnMkJERXpDc1ZvanhlU2RwTVEzTDI1d3FVTTd2RVNQaGVhWDlsQWV5ZGN4SERTQ05Pb2swd09HSWV0QjE?oc=5",
      "tone": ""
     },
     {
-     "title": "Two SME IPOs open today: Ajwa Projects, Carver Roboweld. Check price band and key details",
-     "source": "The Economic Times",
-     "date": "28 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNNk9paC00NGE3ZnpTWHB2ZDdGYXBpSnN0VGROcnB6Y0x2TlMtdlZ2Uk5kTmx3VUZJcmZuRDJCYkxHaTlKRUpLVmhvSzdfd0JhMGF6b00yTFdUdzZFejl0cmFfYWVPdEJPclNmZkcxWFRKM0EybXhQOTVQTFM5RXRILTlBYl9tMUY5QVhIZ1k2SHFDTUR1N2xlaEpDa1lOdkI3M1RCa1h1aXNkdmd2S3ZQT25IeFVyQ0tIRkdrOFl4UWdqY3kyWnVCSmVvUklVXzdiYWFWYXU2OU96ZThrVmtDd1dkREhLVEF4dWZKLU1ua2xNaDBHdG5CZFZUMNIB9AFBVV95cUxQNVBJWm93WURxckRSSC1kUEMzeE9lYzJtMm9kM0hyOHo3dlhrRVMwcUV3dlJ2TmtveG9SZDd0TjRKSGpTYTlDd1ZBYU9KTDVvdll4WjhlSFNvUXN0QURoN1JkM3dyMUl4MGdRMFVCRWdfZjF0M0Rfek50S1BKT01MMlZsWVpzS2lXSmZNbE5xbUJ6UVdqZWxvb1VNazNvY0lSamo4MmxTX1o1MzhxRHJYSW1pNXdnMDBKYmlOMy1jQlJhYndWUm9CazdOWlpONXNIYVhKd09mT2xvN2I4RDFqZWZDNi0ydnBxTUMxZ2otTlRKRmox?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Ajwa Projects Limited IPO will open on October 28 and close on October 30, 2026",
-     "source": "ThePrint",
-     "date": "27 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWDR2XzVGRlpaal9iVXg2ZmtFbFRQejFzRWdSTUJKWjRkdW9uNjhpb2gwc2dSX0p1T204dDVtSzFOdEJfM3hOWnhTaXlxUjJGWDUxZ0VDTmFXUmVCaVc4LWw5a0VsZEpaa3EtT2RyN1VCcnVvRTM2cmpLV1FTaHdaNW4yMHAxYWNsVDN6N2FiLVhSRldPaGYtMmZ3WUpZS1VuWlczbDFUZXE1N0htcUcwaEJBUnE4WHNoa2hYVTBNYzdycGlf0gHKAUFVX3lxTE1vcjZ6UVZGbGx3ZmlJMnYtcUk5cGtWTlRYY3k0RHVaSW4xc1VQTFl2eVM4VzRpUlF4ZFA1VnlMemNfVk41LU1JT0pCV3RuUjNEYjZFQW1QSENrWkI5U0ozWks3d3drRzZORFNpODh0N3JNcjF5SlhvNW0xQTZRdEN5VXhRQXZ5ekFRRHJVOU5PVGJoX3JJaEJtU3RkRXBvRUJ4eUFfNW50R25MZlQ2RnJqQkMxdS1sV1lRTVlSSTBzUGpLZFQ2M3FCT2c?oc=5",
-     "tone": ""
-    }
-   ],
-   "key": "ajwa projects",
-   "stale": true
-  },
-  {
-   "chittorgarh_url": "https://www.chittorgarh.com/ipo/mksons-fine-jewels-ipo/3100/",
-   "name": "M.K.Sons Fine Jewels",
-   "open_date": "2026-10-28",
-   "close_date": "2026-10-30",
-   "ipo_date_text": "28 to 30 Oct, 2026",
-   "listing_date": "Wed, Nov 4, 2026",
-   "face_value": "₹ 10 per share",
-   "issue_type": "Bookbuilding IPO",
-   "sale_type": "Fresh capital cum OFS",
-   "listing_at": "BSE, NSE",
-   "type": "Mainboard",
-   "lot_size": 91,
-   "price_band": "₹153 to ₹162",
-   "price_high": 162.0,
-   "issue_size_cr": 275.0,
-   "min_application": {
-    "label": "Retail (Min)",
-    "lots": 1,
-    "shares": 91,
-    "amount": 14742.0
-   },
-   "financials": {
-    "periods": [
-     "30 Jun 2026",
-     "31 Mar 2026",
-     "31 Mar 2025",
-     "31 Mar 2024"
-    ],
-    "rows": {
-     "Assets": [
-      305.68,
-      283.21,
-      219.64,
-      95.21
-     ],
-     "Total Income": [
-      101.45,
-      538.86,
-      351.32,
-      217.4
-     ],
-     "Profit After Tax": [
-      15.02,
-      51.8,
-      23.26,
-      8.17
-     ],
-     "EBITDA": [
-      23.42,
-      82.94,
-      38.57,
-      12.87
-     ],
-     "NET Worth": [
-      183.04,
-      168.01,
-      116.21,
-      22.27
-     ],
-     "Reserves and Surplus": [
-      140.35,
-      125.32,
-      107.7,
-      17.79
-     ],
-     "Total Borrowing": [
-      70.52,
-      68.44,
-      68.93,
-      38.64
-     ]
-    },
-    "unit": "Amount in ₹ Crore"
-   },
-   "objects": [
-    {
-     "object": "Funding expenditure towards setting up of 1 new showroom in Maharashtra (“New Showroom”) and expansion of existing showroom in Gujarat (“Expansion”)",
-     "amount_cr": 152.84
-    },
-    {
-     "object": "Repayment and/or pre-payment, in full or part, of certain borrowings availed by the Company",
-     "amount_cr": 30.0
-    },
-    {
-     "object": "General Corporate Purposes",
-     "amount_cr": null
-    }
-   ],
-   "kpis": {
-    "ROE": "8.20%",
-    "ROCE": "10.26%",
-    "Debt/Equity": "0.39",
-    "RoNW": "8.20%",
-    "PAT Margin": "14.80%",
-    "EBITDA Margin": "23.09%",
-    "NAV": "42.88",
-    "P/B (x)": "3.78"
-   },
-   "valuation": {
-    "EPS (₹)": {
-     "pre": "12.13",
-     "post": "10.06"
-    },
-    "P/E (x)": {
-     "pre": "13.36",
-     "post": "16.1"
-    },
-    "Market Cap at Offer Price": {
-     "pre": "₹691.59 Cr.",
-     "post": "₹966.99 Cr."
-    }
-   },
-   "reviews": {
-    "Subscribe": 0,
-    "May Apply": 0,
-    "Neutral": 1,
-    "Avoid": 0
-   },
-   "legal_name": "M.K.Sons Fine Jewels Ltd.",
-   "about": [
-    "Incorporated in 2012, M. K. Sons Fine Jewels Ltd. is engaged in the retail sale of gold, diamond, and CZ jewellery through its showroom network across Mumbai and Ahmedabad.",
-    "The company offers rings, necklaces, bangles, earrings, bracelets, Mangalsutras, solitaires, bridal jewellery, and customised jewellery under multiple collections such as Pavitra, Rivaaz, Sitaare, NAQSH, Sunhere, and One & Only.",
-    "The company operates 5 retail showrooms across Maharashtra and Gujarat in high-footfall locations including Bandra, Andheri, Zaveri Bazaar, C.G. Road, and Sindhu Bhavan Road.",
-    "Its business model focuses on retail jewellery sales, customer-centric collections, customised jewellery offerings, and diversified designs across multiple price points. The company procures finished jewellery from third-party vendors across Western India.",
-    "As on June 30, 2026, the company offered more than 19,442 SKUs, including over 14,582 gold jewellery designs and 4,860 diamond and precious stone jewellery designs.",
-    "The company caters to bridal, festive, daily wear, and premium jewellery customers with BIS Hallmark-certified jewellery products.",
-    "As on September 30, 2026 the company had 148 permanent employees."
-   ],
-   "about_lists": {
-    "Strengths": [
-     "Diversified jewellery portfolio across 11 collections",
-     "Strong regional presence in Mumbai and Ahmedabad",
-     "Wide range of gold, diamond, and CZ jewellery",
-     "Cluster-based showroom expansion strategy",
-     "BIS Hallmark-certified jewellery products",
-     "Experienced promoter with jewellery industry expertise since 1999",
-     "Customer-focused retail and customised jewellery offerings"
-    ]
-   },
-   "strengths": [
-    "Diversified jewellery portfolio across 11 collections",
-    "Strong regional presence in Mumbai and Ahmedabad",
-    "Wide range of gold, diamond, and CZ jewellery",
-    "Cluster-based showroom expansion strategy",
-    "BIS Hallmark-certified jewellery products",
-    "Experienced promoter with jewellery industry expertise since 1999",
-    "Customer-focused retail and customised jewellery offerings"
-   ],
-   "status": "open",
-   "day_label": "Closes tomorrow",
-   "subscription": {
-    "as_of": "Oct 28, 2026 12:44",
-    "rows": [
-     {
-      "category": "Qualified Institutional",
-      "times": 0.22
-     },
-     {
-      "category": "Non Institutional",
-      "times": 0.54
-     },
-     {
-      "category": "Retail Individual",
-      "times": 0.12
-     }
-    ],
-    "total": 0.24
-   },
-   "gmp": {
-    "gmp": 15.0,
-    "gmp_pct": 9.26,
-    "est_listing": 177.0,
-    "updated": null,
-    "trend": "🟢"
-   },
-   "ipowatch_url": "https://ipowatch.in/mksons-fine-jewels-ipo-gmp-today/",
-   "insights": {
-    "metrics": [
-     "FY26 income ₹538.9 Cr",
-     "PAT ₹51.8 Cr",
-     "PAT margin 14.8%",
-     "Income +53% YoY",
-     "PAT +123% YoY",
-     "Post-issue P/E 16.1x"
-    ],
-    "flags": [
-     {
-      "tone": "good",
-      "text": "Strong growth: income +53%, profit +123%"
-     },
-     {
-      "tone": "good",
-      "text": "Profit up 3 years in a row"
-     }
-    ],
-    "partial": "Period to 30 Jun 2026: income ₹101.5 Cr, PAT ₹15.0 Cr (part-year, not compared)"
-   },
-   "business_news": [],
-   "news": [
-    {
-     "title": "Subscribe for M.K.Sons Fine Jewels Ltd IPO; Anand Rathi",
-     "source": "Moneycontrol.com",
-     "date": "28 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTTZtZ3FlOTB0RFE4b0QwZXRVQ0k4VUhsd2NsNlhYamRkNU5yb1lWdFUzUDZQMlZRT0x5b2NWWUI3OUlNZWlVMWxKQjhxWHR5eWZoQkhhc1pzWEtxS3lhVXY0UnZHYmNUby1OWVBBNHJHNTdzaEZSM0dSb09VdGgwQjN4aldKaGlOcGI4cjV6X09QMk1EN1FmRk5EbUhUMnIxU01kcWd2WGJFTkRfeXY2VXB2QzZnOWp3a0dV0gG7AUFVX3lxTE5NNm1ncWU5MHREUThvRDBldFVDSThVSGx3Y2w2WFhqZGQ1TnJvWVZ0VTNQNlAyVlFPTHlvY1ZZQjc5SU1laVUxbEpCOHFYdHl5ZmhCSGFzWnNYS3FLeWFVdjRSdkdiY1RvLU5ZUEE0ckc1N3NoRlIzR1JvT1V0aDBCM3hqV0poaU5wYjhyNXpfT1AyTUQ3UWZGTkRtSFQycjFTTWRxZ3ZYYkVORF95djZVcHZDNmc5andrR1U?oc=5",
-     "tone": "bad"
-    },
-    {
-     "title": "M.K.Sons Fine Jewels IPO: From Issue Details to Financials, Here’s What You Need to Know",
-     "source": "Trade Brains",
-     "date": "27 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSW1fRjRtdVR5TzRtb2xwNHJReVR3NEVzaUVrUEdZQXNZT2Vzc2piQmtlZzN0cGZqWnNlMGpJaWUtUC0tZUtXUjdTdEM2MEV2S18wQXlOcGdyeEM5QWVLcFpzZmdfdlBCYVpCU1hsWW5sWFpVdS01dDBfLS1MRjlLbUk2blZwZ3hseUt1dGxsUWRQSHY2dTZDR21pbEd2UlhFRnh1cEk0NXpSS2hIM3hBZ2M4b3ZhVVpkQUFoRU9IRVI3X3JVb2RmVFpB?oc=5",
-     "tone": "bad"
-    },
-    {
-     "title": "M.K.Sons Fine Jewels IPO 2026: Dates, Review and Risks",
+     "title": "Ajwa Projects IPO Day 3 Subscription Status 30 Oct 2026",
      "source": "Univest",
-     "date": "23 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN1NTa29GdWxxZE1Da0Z1eDRJaXU4TVlrdnpqR0hQbkZCRWZ6VXFGc0NqVlktVWRlLUh3N0dQUERvYWtqNDgzTHNNZXQ2OVY2WXpibmdMU1U1dEJmZ01XVnNMRTNCNEIwbnBoSjFxVElBOHpHWGxhdDFKamNSV3h1bw?oc=5",
-     "tone": "bad"
+     "date": "30 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdjhYYURSYS1zMTROUjFHYTV4YnFTNlMyUE5WZzZVM2pkR0thMjAwNXVUMmFuUlNfTWRwanlWa2NBeFNTVjBxMnpzRGJwQkd6NTdoaE9Gd09qdlctZnpkQllXdWRZQ1NNZjNLcnA2dWdCd1pQSWRlN05MV216YmpiQnhXeVBZWWN2WUo4LW9qRzJ4RmZLc3pOMUZWTUZsQQ?oc=5",
+     "tone": ""
     }
    ],
-   "key": "mksons fine jewels",
-   "stale": true
+   "key": "ajwa projects"
   },
   {
    "chittorgarh_url": "https://www.chittorgarh.com/ipo/carver-roboweld-ipo/3239/",
@@ -1203,20 +599,20 @@
     "Robot rental model supporting long-term customer engagement and recurring revenue."
    ],
    "status": "open",
-   "day_label": "Closes tomorrow",
+   "day_label": "Closes today",
    "subscription": {
-    "as_of": "Oct 28, 2026 12:40",
+    "as_of": "Oct 30, 2026 12:00",
     "rows": [
      {
       "category": "Non Institutional",
-      "times": 0.16
+      "times": 7.04
      },
      {
       "category": "Retail Individual",
-      "times": 0.09
+      "times": 3.06
      }
     ],
-    "total": 0.08
+    "total": 3.06
    },
    "gmp": {
     "gmp": 0.0,
@@ -1250,29 +646,28 @@
    "business_news": [],
    "news": [
     {
-     "title": "Carver Roboweld IPO Day 1 Subscription Status 28 Oct 2026",
+     "title": "Carver Roboweld IPO Day 3: Subscribed 2.76x; NII leads with 8.19x demand",
+     "source": "scanx.trade",
+     "date": "30 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc1pYdGtvMExpWmtrNWlQUjFlNE90YXY1MklsYkhzcFFWczhPNVhYRTRPTUY2ZVVRZXBacGd1VXBxeFkxTHpZdlhQNXFmMUo3b0ZKNkJobkxjYktQVWFDY25hZWtjeWxsN0s1bUdTb0hfTWJWc3dtYUdtajVEZlFIU3VSWVRxZmF1cy00eVlFNmxTSkhnbklyaE9aLTRfcFEtRHJYS2xqM3JZZEpuc3UyR3JBMDd6eGtudWdvVFU4QzZBOEt0UlNZUGEtY1o2Rkp5dWwzSGZ3?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Carver Roboweld IPO Allotment Status: 0.84x Subscribed, Check Online",
      "source": "Univest",
-     "date": "28 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdjRJZHlRdG9NTGVNQmN6a3hKRTR2SVA2NHpJQXBrdDgzck4ycDZObVhaMEdjSDV1WnQ0OC1aTjkxd095SW9MSXdsaXYyTDZaQy1OMm1kTEpIOHpHUEZCYnNJUlVIcFpXMjI4NHVBM3lPc3ByNEhudHpZdmp3bmlJMjJQa0xaQ3RvNXdCdlloZHZuZEVCLU5lekVISk1rLTRI?oc=5",
+     "date": "30 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tODNnR0lkamI1QjNxa0JMaVExUGswWmt5bjh6eTVhS1BNMkFxRWZFbmx2R19ObEpYYlZtS3BsejdyM2FNeHZVeEtKZFR1QlZibVJGb2dkcnVfa09CejFQeXpuWllEUmNvUzdOQ0xIdGRuQTVjWkdwM3ppT2lKOFU?oc=5",
      "tone": ""
     },
     {
-     "title": "Two SME IPOs open today: Ajwa Projects, Carver Roboweld. Check price band and key details",
-     "source": "The Economic Times",
-     "date": "28 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNNk9paC00NGE3ZnpTWHB2ZDdGYXBpSnN0VGROcnB6Y0x2TlMtdlZ2Uk5kTmx3VUZJcmZuRDJCYkxHaTlKRUpLVmhvSzdfd0JhMGF6b00yTFdUdzZFejl0cmFfYWVPdEJPclNmZkcxWFRKM0EybXhQOTVQTFM5RXRILTlBYl9tMUY5QVhIZ1k2SHFDTUR1N2xlaEpDa1lOdkI3M1RCa1h1aXNkdmd2S3ZQT25IeFVyQ0tIRkdrOFl4UWdqY3kyWnVCSmVvUklVXzdiYWFWYXU2OU96ZThrVmtDd1dkREhLVEF4dWZKLU1ua2xNaDBHdG5CZFZUMNIB9AFBVV95cUxQNVBJWm93WURxckRSSC1kUEMzeE9lYzJtMm9kM0hyOHo3dlhrRVMwcUV3dlJ2TmtveG9SZDd0TjRKSGpTYTlDd1ZBYU9KTDVvdll4WjhlSFNvUXN0QURoN1JkM3dyMUl4MGdRMFVCRWdfZjF0M0Rfek50S1BKT01MMlZsWVpzS2lXSmZNbE5xbUJ6UVdqZWxvb1VNazNvY0lSamo4MmxTX1o1MzhxRHJYSW1pNXdnMDBKYmlOMy1jQlJhYndWUm9CazdOWlpONXNIYVhKd09mT2xvN2I4RDFqZWZDNi0ydnBxTUMxZ2otTlRKRmox?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Carver Roboweld Ltd IPO: Check IPO Date, GMP, Market Lot Size, Face Value, Price, Subscription Details and News",
-     "source": "ET Now",
-     "date": "27 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE84Y1Fsa3BtZVJJeDRvVWZ0akQtZ3dtZXJPaTRram1UNFNMa2pndTJqVU1KMk85Zmhvc0xDTGJqR2pQM0pXRzV2U3FkMlBkUENYeEJQQjJOOUpSbVZBQ1FRdHl0UVA2M1l1T3NPR2J2Y2lhYkVPR3c0NEozN3ZRZw?oc=5",
+     "title": "Carver Roboweld IPO Day 3 Subscription Status 30 Oct 2026",
+     "source": "Univest",
+     "date": "30 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOU5TNUVyWVhjb1VIUlVqNTQ5OHI5NjQ5TjBRUHJGNE9ZYkVVTDFHYml6dHBTVmozWTdJU3JFMUItSGhSWVNKVkdScmc2cGxPTDlzaFRabVhNRFhlcVRyTF9RcGdVYVhWbVpORnVVUExpSzVoVjVkMEVob2lneDV1VnhSRFRTdFZKNGpWVzdlREZSSmYwODZ6VXBWWGxxV29a?oc=5",
      "tone": ""
     }
    ],
-   "key": "carver roboweld",
-   "stale": true
+   "key": "carver roboweld"
   },
   {
    "chittorgarh_url": "https://www.chittorgarh.com/ipo/bombay-coated-and-special-steels-ipo/2671/",
@@ -1289,6 +684,7 @@
    "lot_size": 182,
    "price_band": "₹78 to ₹82",
    "price_high": 82.0,
+   "issue_price": 82.0,
    "issue_size_cr": 183.0,
    "min_application": {
     "label": "Retail (Min)",
@@ -1389,7 +785,7 @@
    "reviews": {
     "Subscribe": 0,
     "May Apply": 0,
-    "Neutral": 0,
+    "Neutral": 1,
     "Avoid": 0
    },
    "legal_name": "Bombay Coated & Special Steels Ltd.",
@@ -1418,7 +814,25 @@
     "Established Relationship with JSWSCPL."
    ],
    "status": "open",
-   "day_label": "Closes in 4 days",
+   "day_label": "Closes in 3 days",
+   "subscription": {
+    "as_of": "Oct 30, 2026 13:59",
+    "rows": [
+     {
+      "category": "Qualified Institutional",
+      "times": 6.89
+     },
+     {
+      "category": "Non Institutional",
+      "times": 1.42
+     },
+     {
+      "category": "Retail Individual",
+      "times": 2.59
+     }
+    ],
+    "total": 3.59
+   },
    "gmp": {
     "gmp": 9.0,
     "gmp_pct": 10.98,
@@ -1451,29 +865,28 @@
    "business_news": [],
    "news": [
     {
-     "title": "Subscribe for Bombay Coated and Special Steels Ltd IPO; Anand Rathi",
-     "source": "Moneycontrol.com",
-     "date": "28 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaEtCS1NlUXJSWmZTU3hTMXotZjJnTGZVcm1jM0pWUU9pb3lWRzExdVU4Z3JIVS0xSGRuT2lqbG9MdjB1eXpmTlVnNFZ1QnllcVYtQ0w2UmROUWZJaTZRTWdKSTB4Ty15VjVrM2stNlBQMTE5N2RlN1djajVoS1J1U0p6MVZyNDhQck9tM2xZeUY4THowZWlibjBISWgtbjF4NEw0Umc1cnFLTlI1Q1FYZFg0OWZvSHpjbk5UeTZLZEw2UzYza0JlR3Itb9IBywFBVV95cUxOaEtCS1NlUXJSWmZTU3hTMXotZjJnTGZVcm1jM0pWUU9pb3lWRzExdVU4Z3JIVS0xSGRuT2lqbG9MdjB1eXpmTlVnNFZ1QnllcVYtQ0w2UmROUWZJaTZRTWdKSTB4Ty15VjVrM2stNlBQMTE5N2RlN1djajVoS1J1U0p6MVZyNDhQck9tM2xZeUY4THowZWlibjBISWgtbjF4NEw0Umc1cnFLTlI1Q1FYZFg0OWZvSHpjbk5UeTZLZEw2UzYza0JlR3Itbw?oc=5",
+     "title": "Bombay Coated & Special Steels IPO: Issue booked over 3x so far on Day 2 as QIBs lead; check key dates, price band, other details",
+     "source": "Upstox",
+     "date": "30 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNcXZiVThuN2tyazdPREVtVFVMOHl5d2lRbml3amZ0U1FlZC1RT1NoaThsWkxCQXp3VXVodHp5aVF2N2lxUUNnRzQ5bU1KdElTVnpRM1FqRlpUbHpjWV9WY0lXWVlNZkZIQk1iNWh1YlQ1bTZZQ0F5ZzY5MjdsZXlTWms5YmgtSVNtUkp2RU5MSmRweWw4WGhsaUswRDJUNW4xaG9hSThBeENxMmxuNVJFSS1BQ0ZQM19kV0FrZUN1dlRLRWhjZmd5MTZua0tJY2otR1Roai0zcEo2UTFQN1lkXzhJN0c0SHFZaC1JS3RYN09jRDhPQzhabXBFcFpfT1RnMDdPc0NxOThrTkhDU1pHdF93?oc=5",
      "tone": ""
     },
     {
-     "title": "Bombay Coated & Special Steels IPO: Price Band, Key Dates, GMP And More — All You Need To Know",
-     "source": "NDTV Profit",
-     "date": "27 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSXhMb1FNd2ZWMXd1Zk5QaHhQY2dQM0NnOFRZZGhicXY1blNWZ25ORUdLcnBpV0Q5N2VqYXRDamtxdGRqc0ZkTWNVSWY2dmptbVl1VGYwUy13Y3FleDIwZUpnTUFyZnc0eDRTUGt2dVlrVUhud3BPZHNCckd3SUc5VGg5Y2hTY1VJTW1pNVFzX1Q2aE1ycXNVMzNEeG9jUlZidXZabHBmYjh4ajhhLU1DRmtldUZVSldfdnlWenRhMms0TDZ2RXUtU3BYZXhfcTRVM0hQOWJYV3RQMC0teHlZWkJIblJhX1Y0WG1wWkpuQWjSAfgBQVVfeXFMUHVwWWswWlN4ZDJqLVk1TzJHRjQ5U0pzdWk2V0tMWVQtQ0JBTnUycThqdG1paEZTaDAzYVV1VGNueFJhbUotc3JDMHM1aWdvbGd2VzE0VGxSTlEwTzJUdWNNUkViMVJLN0lWNUN4bi0ybmRHOFk3V3lNTms1M01kWU91amFoMDFXVzV2MG16VGhNRDAxdnpib3ZfQ1NRR0NGX0VIU21wNzhxS1dFR0RFWEZaSlJsX1JBVDBhaGhrWHlsbzZFSXlySGswaXE0bDZpTmpMR204VzJZTFpJenlKeGhvdFpvTWZrZU5Ca0Y5bHlVcWd4TmUxZHU?oc=5",
+     "title": "Bombay Coated & Special Steels IPO Day 2: Subscribed 3.09x; QIB demand surges to 6.55x",
+     "source": "scanx.trade",
+     "date": "30 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNa2RxNW9PcWtWemhLSEN6bTJJeDRCMFc2U0RVd295Y2VPUzNZUTVDU3FIblgzTGNpd25tYTgyX0JiZE8xVUhrUHVQMGtqUjlsRkd6RkRUbUpZRHN6V1pQcGRRdi10T3lPbl95cGZESzVkUlhSZFQ1NGxTUUYxUmhmZzF2anlzNklQbzBRalJwMm11WUVwZFZsdURpd1NlU0VwempwRFZTTDRxS2lQMmVqTzl1Z0lyX0RTb292M1ZXZnJmMTgtbjZqVDBmLW1ZVVhPWnQydzk0aw?oc=5",
      "tone": ""
     },
     {
-     "title": "Bombay Coated And Special Steels IPO Opens October 29, Rs 183.1 Crore Public Issue Price Band Fixed At Rs",
-     "source": "Free Press Journal",
-     "date": "23 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOampRYlltQTZ6T0VNYk1SckJtUW52TFRjLTljalhIa2pHWkY5VnNhcGo2ZzRVdVpsVDk3U3hNU0szOXQteFkwTnpwWm5aRUszOTlXQnFkZU5TZWxBR2R4RnZFMUVGZmlyTFp6X09uOWdTa1QzaDRURXNCNGZlMmF3MXd4REQ3OHFEaVFJQ2hxbWdrd2JEdlRxLXc5YnFLRGtFMG1WcThvcjZvcGY4Z1ZoLVlIS3U4cDZvZG1TeWFUTDBBVzRrNU5mdG00b3EtaGMyMVNadnJTZlFkamdJN1c5eGRZQ0wyUzM3ZmgzTS1LRFTSAfYBQVVfeXFMUGQtMWNlODlXUG1TUXg2Nk5USk5LOUdDYnljb0JwUWZTNjlDWjVPRHQyRmFxeVdrOXpSZlJGUGJhVFhpNmZqM0pYOXVTODQyWHFSMnVTT3htQ2haTjl0VWlpZnZTWE9LNlJsbDdOOHp2NDlqb0JCMHMwcEdlREpKbTFURkNxc3I5T2NDTlBJbElTNHMySC1zSjhDbGdoakcxMU9KUjJjQURLM0Q1aVh2ZFZ1MWdJTVRRSWJEODAzY1ZlNkFkVTVaWmUyN2lrYS0zdlZHNzJHY2NKMm5qZkk3elhQNUlaNldtQXdFTTJPVDhUSzRFaVBR?oc=5",
+     "title": "Bombay Coated & Special Steels IPO Day 1 Subscription Status",
+     "source": "HDFC Sky",
+     "date": "29 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZkpyeTNGWExLOHNRcHFCZDFObmxGRXAxRUNMYnFFSWM5OTBJQTA4SXpZOTFaM0I0azFCZUZRRnZ1R0V5MVdHcHlUbXFtaVZJNlp4UTFLRzJraGsyc053TW5ZVFo5UUVGRXNyQXh6XzhxeUY5Ykg0SktGWkttNUpWZ3VIbzBvS0ozNnVR?oc=5",
      "tone": ""
     }
    ],
-   "key": "bombay coated special steels",
-   "stale": true
+   "key": "bombay coated special steels"
   },
   {
    "chittorgarh_url": "https://www.chittorgarh.com/ipo/antala-industries-ipo/3221/",
@@ -1618,7 +1031,25 @@
     "Established supplier and customer relationships."
    ],
    "status": "open",
-   "day_label": "Closes in 4 days",
+   "day_label": "Closes in 3 days",
+   "subscription": {
+    "as_of": "Oct 30, 2026 11:59",
+    "rows": [
+     {
+      "category": "Qualified Institutional",
+      "times": 66.72
+     },
+     {
+      "category": "Non Institutional",
+      "times": 0.01
+     },
+     {
+      "category": "Retail Individual",
+      "times": 0.08
+     }
+    ],
+    "total": 0.79
+   },
    "gmp": {
     "gmp": 0.0,
     "gmp_pct": 0.0,
@@ -1655,32 +1086,29 @@
    "business_news": [],
    "news": [
     {
-     "title": "Antala Industries IPO to open tomorrow",
-     "source": "The Hans India",
-     "date": "28 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeXd5QXMyU1pCR0NxZGkyN1gxdzM4NWtvVWREbFpDTlk4VVhQUVNFMmJBYjV6Ri1lUW51NnF4V3R2OVJST1dJWDgzVkhZWUdhajI2ZHhheEx1dWI4TmtkV3BEUVlVX2p4c0tNYnJhY3ZzcG1CWEpRVEtjSVRkYlhiRkMzVHUyaGd5VXZqcm13d3pkMWhaS2tHWTFCUTdsUQ?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Antala Industries IPO Price Range, Listing Date, Subscription Data & More",
+     "title": "Antala Industries IPO Day 2: Subscribed 0.84x; QIBs at 66.72x; Retail lags",
      "source": "scanx.trade",
-     "date": "27 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yNXNDMGpEbElJcTd0bGprdTQ5d3J6OVI0QnVKYkFxNUFOalFDc2JrenJWbU5ScTgtWmVSLU5idVZ3RFVGeWNrdzRQN2FvS2ZkMVhIWTN5ejkyWmZpaXc?oc=5",
+     "date": "30 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWFJabnljSEQyQTN0d09QTG9wU19mQmhvck5mblpMcGJxcm1KaEVCdzlBT3dMd25lQ19yeTFDWjduWlhGcnQ4dExvbVI4VTZFMDhXWktET2VUX19mT3luQWh3el9rZlBQV2lqaFB2Y0owdzBrak4yaUFmTjZwZ1RkQ01aM3hLWHZyX0Nyc28tbktENUFzbmtZTG94M1pQc2JMOFkxRkRCalY4T1laNXYwSVloUm9Bb1pHSVNpc01xZk5KSGVINEEyYmZhV0dhbkhCanJuRl82T0JIUQ?oc=5",
      "tone": ""
     },
     {
-     "title": "Antala Industries Ltd IPO: Check IPO Date, GMP, Market Lot Size, Face Value, Price, Subscription Details and News",
-     "source": "ET Now",
-     "date": "27 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSEtQbWdXcndLT0N3cy0yQnl1ckVrWU1CUlkzMFRnOGU1d0VNaWFNR0lkX2dfZ3JhQW1lZ21Yd2x3MHNra0tHYmhnbmxLSGU1VEttN3FoT1lIbHpVa0N0MmJJQnItYll3b1Ywa0dSYnZzMEpaeXNIVkl2LWNGRU1HVQ?oc=5",
+     "title": "Antala Industries IPO Day 2: Subscription Status on 30 October 2026",
+     "source": "Univest",
+     "date": "30 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQc0pHRFI5ZWpseEtnX1hWanlWREtTWFUyNGZyTV9MS29LQ1NXVFZtRW9TX0hiNHp4N0JvdGIwNEJuUWVzM0RibGFPSjFvUTdBYTZha0JLZTNpUWVJbU9xS3hsamRxbmNHbXc0V3F0ZTFicFZWZkg5TXJqUWtxMkduQlp4ekc3cmlUN3dzVkdPU2lRV2wzdlBoOENLUnV5aXZVVWdz?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Antala Industries IPO Subscription Status Day 1: Issue Subscribed 0.78 Times",
+     "source": "HDFC Sky",
+     "date": "29 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1VRV9QeWNJR0gxTzJZc28zTjlTa3I1VTBoUU12OTRRT09zUEUzWmZIQnFLcUJHRk1PYlVMSVBzQUJJUDNfa0M3eTBOWURJZ2dWYzREWl9ZUGZzTFRhQXcwbmNfeGdFVnBnQUNudU51N29TSVBmTVNFaEFXT2o?oc=5",
      "tone": ""
     }
    ],
-   "key": "antala industries",
-   "stale": true
-  }
- ],
- "upcoming": [
+   "key": "antala industries"
+  },
   {
    "chittorgarh_url": "https://www.chittorgarh.com/ipo/maxwell-engineering-solutions-ipo/2704/",
    "name": "Maxwell Engineering Solutions",
@@ -1835,12 +1263,26 @@
     "Specialised Product Portfolio.",
     "Established Customer Relationships."
    ],
-   "status": "upcoming",
-   "day_label": "Opens tomorrow",
+   "status": "open",
+   "day_label": "Closes in 4 days",
+   "subscription": {
+    "as_of": "Oct 30, 2026 12:10",
+    "rows": [
+     {
+      "category": "Non Institutional",
+      "times": 1.17
+     },
+     {
+      "category": "Retail Individual",
+      "times": 2.6
+     }
+    ],
+    "total": 1.55
+   },
    "gmp": {
-    "gmp": 40.0,
-    "gmp_pct": 25.32,
-    "est_listing": 198.0,
+    "gmp": 70.0,
+    "gmp_pct": 44.3,
+    "est_listing": 228.0,
     "updated": null,
     "trend": "🟢"
    },
@@ -1869,15 +1311,28 @@
    "business_news": [],
    "news": [
     {
-     "title": "Maxwell Engineering Solutions Ltd – Share Price, Fundamentals & Ratios",
-     "source": "Multibagg AI",
-     "date": "28 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLU5ieGw3b0JGVmlta200bE1IOVlPRUFpaml5UzdILWs0cHZfelh3dU1xeEpwWGxhdEIwRkJJMzJuenFsc0dQMVV4bHlCa3lrX2FGSzZTQXpOaHJ4Q196Nl9HcEtsOFpjd0RhVFNjcFdOUHRURmd5a0xUMFBPd0RqdQ?oc=5",
+     "title": "Maxwell Engineering Solutions IPO Day 1: Subscribed 1.13x; Retail leads at 1.91x",
+     "source": "scanx.trade",
+     "date": "30 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYlNhakt1RDUzUkFpeldhNmY4ZjNGa0RONXBaVFhqRVZrV1NuSUIzN1ZidkxQa21XMjg1emtDX25TV2dzVUVhVldodGhaRnRQMXp3dmI3b19MejdNVUVhX01FUnU2NExuZlFXcXpTeU5KcXJpUTQ3S3hXQTZzYi1DMlI1RGdnLWRwQ3Q2UVI5Q1FHbTBnM3dvNlFuc3hWWmo2Q0hNSjBKcm1zOWRnVlBsSl9JUmRPbFdSWGdlWC1BRklGWTdScG5JY05hbXBaYXpOUmtac1NoRFZzaDQ?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Maxwell Engineering Solutions IPO Day 1: Subscription Opens Today, 30 October 2026",
+     "source": "Univest",
+     "date": "30 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdHVmcUFKMnlhcXBjbEdTXzlTZTZvNjJsTEpqaExHajhnN3hkZ1JkR2cwZWQycGhLLUNXZzFCYTMtN2c4ZlQyZE9jWFJzX3lGLWFremFxN3hjZElCNXYzblE2YlZ5ZEVWR3BqU3VsUTdPWjhJRFBlSHhJNVRxSUpGc0hyQTNIb082V3NSWGZvSkN3SzBfcTBfMWZadUNHeFdra0VhdmJPQUpSaGpwWG80V0FtTQ?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Maxwell Engineering, HGS India among 4 SME IPOs to open on October 30; issues to raise Rs 201 crore",
+     "source": "The Economic Times",
+     "date": "30 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQLVByWEFPOW52NnVYdzQ1LU1lSU5oRFJabktVNEY4Z3EwbmZldTVFRnBIT1pkc2RWd1Q5WjhhanVtcjRtOE9MQ1JtMU5pa2NNdWNGajk5Y1BNMkthRzF4dkpjMUFiTThnV3hwdkF2dTBVUnRRdzhtZUdsLVZvcWtzanJTWTNsemJpM3ZscFM4Ym9fVEtTN0pMellDYTZjQ1lXZkNmYjVyek4yT0FMWXpXaDQ5cmdKOTdTTFpYTlF1cU1vTFpqREo4OTBsVmVQYUJXWTBwU1lsd2x3ZkFDX2l0aWZvQV9NYWxTQlBON093V043RDlPcGh0UWRFbUtLbFMyejFYd0xfMjNxQdIBgwJBVV95cUxNcUp5Q0xPa2o4MHpSejc5YUFIWXF0UDFiUnZWUEhkd3pzZXhjazVWd2VMeFRGUUFSN1I3Y1UwSjU5dEh6VU1qU2dKV2FIUmxVNEpoSVZpUjlPQUxPYnlGaUx0U1JkUGJzUmlad1Q0R1NIX0wwZms1VVdfdTVqQ0pnRXVvY3ZNS0pqdnFXQnR0c3VSYkR6R0YyUm5UcHJuSThSTVhDLWVqZTRsOV9TZ0twSFZPOWlma3EtcnRMVzNSckZtMlJvRmVrUk44OWhOQkNpNGxleUN1MTNNR3c3NTd4TGNjelE5a0ViY1czSkVLNHpFb3M2akd1V21zZ0dIMVkzX2Vr?oc=5",
      "tone": ""
     }
    ],
-   "key": "maxwell engineering solutions",
-   "stale": true
+   "key": "maxwell engineering solutions"
   },
   {
    "chittorgarh_url": "https://www.chittorgarh.com/ipo/johnsoncab-electricals-ipo/3217/",
@@ -1903,42 +1358,50 @@
    },
    "financials": {
     "periods": [
+     "31 Aug 2026",
      "31 Mar 2026",
      "31 Mar 2025",
      "31 Mar 2024"
     ],
     "rows": {
      "Assets": [
+      132.07,
       126.64,
       64.28,
       48.44
      ],
      "Total Income": [
+      113.33,
       211.34,
       140.0,
       88.95
      ],
      "Profit After Tax": [
+      8.63,
       13.42,
       5.46,
       2.52
      ],
      "EBITDA": [
+      15.32,
       24.06,
       12.14,
       5.42
      ],
      "NET Worth": [
+      40.08,
       31.44,
       14.24,
       8.88
      ],
      "Reserves and Surplus": [
+      32.31,
       23.67,
       11.24,
       5.88
      ],
      "Total Borrowing": [
+      77.57,
       79.88,
       41.79,
       32.81
@@ -1948,19 +1411,19 @@
    },
    "objects": [
     {
-     "object": "Funding the capital expenditure requirements of the Company towards: Construction of additional Factory Shed for expansion",
-     "amount_cr": 7.89
+     "object": "Construction of additional Factory Shed for expansion",
+     "amount_cr": 8.46
     },
     {
-     "object": "Funding the capital expenditure requirements of the Company towards: Plant & Machinery a) Purchase of additional plant & machinery for increasing the production capacity",
+     "object": "Purchase of additional plant & machinery for increasing the production capacity",
      "amount_cr": 9.9
     },
     {
-     "object": "Funding the capital expenditure requirements of the Company towards: Plant & Machinery b) Purchase new machinery to manufacture “Paper Insulated Copper / Aluminium Conductors”",
-     "amount_cr": 6.89
+     "object": "Purchase new machinery to manufacture “Paper Insulated Copper / Aluminium Conductors",
+     "amount_cr": 8.5
     },
     {
-     "object": "Funding the capital expenditure requirements of the Company towards: Plant & Machinery Purchase and set up a rooftop solar power plant",
+     "object": "Purchase and set up a rooftop solar power plant",
      "amount_cr": 3.23
     },
     {
@@ -1973,23 +1436,23 @@
     }
    ],
    "kpis": {
-    "ROE": "58.75%",
-    "ROCE": "39.68%",
-    "Debt/Equity": "2.54",
-    "RoNW": "42.68%",
-    "PAT Margin": "6.38%",
-    "EBITDA Margin": "11.43%",
-    "NAV": "40.47",
-    "P/B (x)": "4.94"
+    "ROE": "24.14%",
+    "ROCE": "21.55%",
+    "Debt/Equity": "1.94",
+    "RoNW": "21.54%",
+    "PAT Margin": "7.64%",
+    "EBITDA Margin": "13.55%",
+    "NAV": "51.58",
+    "P/B (x)": "3.88"
    },
    "valuation": {
     "EPS (₹)": {
      "pre": "17.27",
-     "post": "12.69"
+     "post": "19.60"
     },
     "P/E (x)": {
      "pre": "11.58",
-     "post": "15.76"
+     "post": "10.2"
     },
     "Market Cap at Offer Price": {
      "pre": "₹155.40 Cr.",
@@ -2004,37 +1467,47 @@
    },
    "legal_name": "Johnsoncab Electricals Ltd.",
    "about": [
-    "Incorporated in November 2020, Johnsoncab Electricals Limited is engaged in the manufacturing of low voltage wires and cables up to 1.1 kV, catering to power infrastructure, transmission and distribution, renewable energy, railways and allied industrial applications. The company manufactures and sells its products under the brand name “JOHNSON CABLES” and caters to both private sector customers and government entities.",
-    "The company has a diversified product portfolio comprising control cables, power cables, industrial single and multicore control cables, housing and building wires, welding cables, solar/photovoltaic cables and submersible flat cables. It operates two manufacturing facilities in Mehsana, Gujarat, with a combined installed capacity of 79,950 KMS per annum as of Fiscal 2026. The manufacturing facilities are equipped with machinery for wire drawing, annealing, bunching, insulation, extrusion, testing and packaging.",
-    "Johnsoncab Electricals serves customers through direct orders, tender participation and vendor approval processes, with its products supported by ISO and BIS certifications. The company continues to invest in manufacturing infrastructure and product innovation to support its growth.",
-    "As of March 31, 2026, the company had 167 employees across various functions including production, operations, quality assurance, sales and marketing, supply chain, finance and administration."
+    "Incorporated on November 12, 2020, Johnsoncab Electricals Limited originated as a partnership firm named M/s. Johnson Cables in February 2012. It is engaged in the manufacturing of low-voltage wires and cables rated up to 1.1 kV and markets its products under the brand name “JOHNSON CABLES”, catering to power infrastructure, renewable energy, railways and industrial applications.The Company’s product portfolio includes control cables, power cables, industrial single-core and multicore cables, house and building wires, welding cables, solar/photovoltaic cables and submersible flat cables. Its products are designed for applications across power transmission and distribution, renewable energy integration, industrial operations and allied sectors. The Company holds ISO and BIS certifications to support product quality and compliance with applicable standards.",
+    "Johnsoncab Electricals operates two manufacturing units in Mehsana, Gujarat, with a combined annual installed manufacturing capacity of 79,950 kilometres as of Fiscal 2026. Its facilities are equipped with machinery for wire drawing, annealing, bunching, insulation, extrusion, testing and packaging. The Company has upgraded its manufacturing infrastructure with automatic and semi-automatic machinery to improve production capabilities and cater to varied product specifications.",
+    "The Company serves both government entities and private-sector customers through direct orders, tender participation and vendor approval processes. Revenue from operations increased from ₹88.34 crore in Fiscal 2024 to ₹210.47 crore in Fiscal 2026. For the five months ended August 31, 2026, the Company reported revenue from operations of ₹113.04 crore, EBITDA of ₹15.32 crore and profit after tax of ₹8.63 crore.",
+    "As of September 30, 2026, the Company had 193 employees across production, operations, finance, human resources, quality assurance, sales and marketing, supply chain, logistics and information technology."
    ],
    "about_lists": {
-    "Strengths": [
-     "Consistent growth in revenue demonstrating business scalability.",
-     "Continued investment in manufacturing infrastructure.",
-     "Ability to serve both government and private sector customers.",
-     "Diversified portfolio of low voltage wires and cables.",
-     "Product innovation supported by intellectual property.",
-     "Established vendor approvals and eligibility for government tenders.",
-     "ISO and BIS certified products and quality standards."
+    "Competitive Strengths": [
+     "Consistent Growth in Revenue from Operations.",
+     "Continued Investment in Manufacturing Infrastructure.",
+     "Product Innovation Supported by Intellectual Property.",
+     "Ability to Serve Government and Private-Sector Customers.",
+     "Established Vendor Approvals and Government Tender Eligibility."
     ]
    },
    "strengths": [
-    "Consistent growth in revenue demonstrating business scalability.",
-    "Continued investment in manufacturing infrastructure.",
-    "Ability to serve both government and private sector customers.",
-    "Diversified portfolio of low voltage wires and cables.",
-    "Product innovation supported by intellectual property.",
-    "Established vendor approvals and eligibility for government tenders.",
-    "ISO and BIS certified products and quality standards."
+    "Consistent Growth in Revenue from Operations.",
+    "Continued Investment in Manufacturing Infrastructure.",
+    "Product Innovation Supported by Intellectual Property.",
+    "Ability to Serve Government and Private-Sector Customers.",
+    "Established Vendor Approvals and Government Tender Eligibility."
    ],
-   "status": "upcoming",
-   "day_label": "Opens tomorrow",
+   "status": "open",
+   "day_label": "Closes in 4 days",
+   "subscription": {
+    "as_of": "Oct 30, 2026 14:19",
+    "rows": [
+     {
+      "category": "Non Institutional",
+      "times": 1.56
+     },
+     {
+      "category": "Retail Individual",
+      "times": 0.83
+     }
+    ],
+    "total": 0.75
+   },
    "gmp": {
-    "gmp": 10.0,
-    "gmp_pct": 5.0,
-    "est_listing": 210.0,
+    "gmp": 13.0,
+    "gmp_pct": 6.5,
+    "est_listing": 213.0,
     "updated": null,
     "trend": "🟢"
    },
@@ -2043,10 +1516,10 @@
     "metrics": [
      "FY26 income ₹211.3 Cr",
      "PAT ₹13.4 Cr",
-     "PAT margin 6.4%",
+     "PAT margin 7.6%",
      "Income +51% YoY",
      "PAT +146% YoY",
-     "Post-issue P/E 15.8x"
+     "Post-issue P/E 10.2x"
     ],
     "flags": [
      {
@@ -2063,34 +1536,40 @@
      },
      {
       "tone": "good",
-      "text": "High ROE 59%"
+      "text": "High ROE 24%"
      },
      {
       "tone": "warn",
-      "text": "High debt/equity 2.54"
+      "text": "High debt/equity 1.94"
      }
     ],
-    "partial": null
+    "partial": "Period to 31 Aug 2026: income ₹113.3 Cr, PAT ₹8.6 Cr (part-year, not compared)"
    },
    "business_news": [],
    "news": [
     {
-     "title": "Johnsoncab Electricals Ltd IPO Date: Check Issue Date, Price, Lot size, Subscription, News and Details - Moneycontrol",
-     "source": "Moneycontrol.com",
-     "date": "28 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51N3pfNjZaTjBLTmlGNENyb1ZseUlQMUVHbk8zX3Z0ZmpMOTNCWF85SWNpb1hJRWRaZHRlZ054YWd2MVlYcUlrRGl1UkVGSEd1d2xkN3k2V1BsTlhyelVKaTdCV1JPZkt4TGZfaEZKNFZCazVXUnRhUm55UlY1QQ?oc=5",
+     "title": "Johnsoncab Electricals IPO Day 1 Subscription Status 30 Oct 2026",
+     "source": "Univest",
+     "date": "30 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOFhYYVJURnZ0Z21OOHRxSEFpbEhzdEViQlRHQkNZQVUyZ1ZLenFvVk43ZDBoTTZMbDVlOGdpS3NNSEZXcWcyUnU4U1FJSlZXYVFqS0NndV9PNUItM09OcjJpMUR0RHB5dXQ2aHlwN3VOcHRjM2ZUd056MUVLVkNZX05HNUpXNC1kbjgtcGVjZDR3TmhUM1k0d0pZN1gwQV9Bb09SZVQ1dFltZw?oc=5",
      "tone": ""
     },
     {
-     "title": "Johnsoncab Electricals IPO 2026: Dates, Review and Risks",
-     "source": "Univest",
-     "date": "27 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaFl5Q1dTdWpFVnpNUFh1bEVxdnJCeEtNS0xOVXo4UUI2ZGd6d2hxdFJ5TzJnOG1xY2Fja011RjZWZzkzRWZCTFQxMDFiUnhKV3VJdDJOWTdZeExVcl9RalFwVHNtckl5NzdQendndFZNVEZQQlN3VVBYN3p0YVlvazdNblI?oc=5",
+     "title": "Johnsoncab Electricals IPO GMP, Date, Price Band & Review",
+     "source": "IndiaIPO",
+     "date": "30 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1keXlVWU5jN1VtLVQ4ODBSMkR1aHJtX2VocnduNS13LTliR2lKUHRCbUE5RGIzSmpZdURSdm1Sc181RjBsNGFYZ1VrNzFyTURrNGI1ZFhuQkkxT3h6TW9peUp1NFRoN242SlZ1Qg?oc=5",
      "tone": ""
+    },
+    {
+     "title": "Johnsoncab lacks order book as top 10 drive FY2025-26 revenue",
+     "source": "Multibagg AI",
+     "date": "29 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa1N0SlctQ1ZfcjVOVmZGQ1hLNE1wd2hSamFKbGZfRXFZTXhqN1FERmNRWVYxeVVIcW1RSmlXTzVXMEpEN1hZVVBnQzFzS0lBYzc0aS1ZQmJEYlVDSWdRMTVBY1BDTG80RWloaDVsYV9uLUR1MTAxbVFTUUlyWUpSTlRGUkNudHhocGhCSmRqZnA3ZzdmenNJZk9VOGlwVUhZN19RZGJrOFhienQtYkx0WWJqOEI2UkU?oc=5",
+     "tone": "good"
     }
    ],
-   "key": "johnsoncab electricals",
-   "stale": true
+   "key": "johnsoncab electricals"
   },
   {
    "chittorgarh_url": "https://www.chittorgarh.com/ipo/vectras-enprocon-ipo/2740/",
@@ -2236,8 +1715,22 @@
     "Track Record of Growth in Financial Performance",
     "Experienced management team with significant industry experience"
    ],
-   "status": "upcoming",
-   "day_label": "Opens tomorrow",
+   "status": "open",
+   "day_label": "Closes in 4 days",
+   "subscription": {
+    "as_of": "Oct 30, 2026 14:19",
+    "rows": [
+     {
+      "category": "Non Institutional",
+      "times": 0.87
+     },
+     {
+      "category": "Retail Individual",
+      "times": 0.67
+     }
+    ],
+    "total": 0.52
+   },
    "gmp": {
     "gmp": 0.0,
     "gmp_pct": 0.0,
@@ -2274,29 +1767,28 @@
    "business_news": [],
    "news": [
     {
-     "title": "Oil And Gas Infrastructure Expertise Enters The Stock Market As Vectras Enprocon Plans IPO.",
-     "source": "TRIPURA STAR NEWS",
-     "date": "28 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUFowaGJpdTlJUU82TEdXc0huRDJwU0JxeFprYktJZVhwSTdKNVhIWmRyOW5UMTV4bFhDZGdsYnUxeGxCdHlqU0tBT1lGdGQxTjRlMnVHdTR4SFpWMUhMLVZzSkVPNVN2cHl6SW5kWFFaQUZDVHh1R3VOY3E3WUFvNUlETFlIVUp4Yy1rOG8wcjU4SVhZWTN6dkNRS3p2MFlhNlk0U1hPbFFyTTNhT0VITFpMWDZLdEItemlqTVkzQjY?oc=5",
+     "title": "Vectras Enprocon IPO Day 1: Subscription Opens Today, 30 October 2026",
+     "source": "Univest",
+     "date": "30 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdkFaZkx4djZ6eHowakhrc0w3N1BTRm1IVENGNm1md1hfTmR0cmN1VGRTZHdHLS1hVXR6bTlyTzNTajJTVGcyWEE1N1czdUxoclpPcHltZ29yT0ZyY3ZvOEtsNVdCR1BuTUJxUm9BTG9ESFlrYmZnUVM5WEltZWpBN3c4QXd4alhRMnRLZ1BqRXUwZVVnXzN6Rk9HSDJ4MklyYkE?oc=5",
      "tone": ""
     },
     {
-     "title": "Vectras Enprocon IPO: Dates, Price & Lot Size",
-     "source": "HDFC Sky",
-     "date": "28 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tTzF0N09vc2lVU3UzWGRERDB1Z3d2Sk5YUlZhUVQxZmx0QjhWOHhCelp2OXR2MHdvb3A3X3U3UWZ4X3JJT0tUelZTZ296SmM4UC1XWFZIZERsQ3Y0?oc=5",
+     "title": "IPO Opening Announcement of Vectras Enprocon Limited on BSE SME Platform",
+     "source": "Magzter",
+     "date": "30 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQUliODdJa1dIcklScmxFZzJnZFhtQ3BDbWhzdzJ4YUN1RUprZXZfSFh5YWNuVWxmSG1POUo0SWViTEk5eU1rX2JpZjBoc0xGSHN0b2d0Nm9KU3hkQlY0U2x0LVdfcWJGd09rQ29WUGRHdmJiQ1NXRVBiR0VUTm9EekxkWUdUZ1JOREVRZmpRWXIzUVAzZGtwMEl4WUpXY2RNNU9wNEQ3Z1JFVC13ZzRsUEN3ZFV2VF90QjFuVFBvQ3pkVllBeTJiaWN2NTBRWU96dkE?oc=5",
      "tone": ""
     },
     {
-     "title": "Vectras Enprocon IPO DRHP: ₹34 crore fresh issue; revenue CAGR at 48.51%",
-     "source": "scanx.trade",
-     "date": "27 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOR1dOQ2t0Zm1KOVo3b1NsTmJlb1BlcGw3RWxYUVZCSGpWbXQtT2dBVFRWa0lqbEVPSEc0YzN5UTFWZDk2X0RmMFZrVXBOMTQ4b2VDTlI1bUl6YjMtXzRQcjJFaHdZRzFhYXVadW9kalZvcEttaUNCaktJbUU2YmF2YmpiQVFYUlhYaTJTajRiUW85M3ZpYkpGN3VudGVWa25sTUJZbWFlOU1jRnlUaDEtN0JpU09ndDNsZXRIVmYzX09ueGlRck02clhZLXJNdFMwcVB5TXVB?oc=5",
+     "title": "Vectras Enprocon Ltd IPO - Date, Price, GMP, Details",
+     "source": "Value Research",
+     "date": "30 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvZE1Ra1pvckZTd2FGT1RPRHFKdGc3b2RKX3p1VHVnR2xlTENHWjVEeEFzYUc4dElCbFZndF9QektrRWx4OHprNDIzS29UQ0tmeWZ3cDAyZ29sdlVydDVjcXp2YkMyTWwzbDhIV0poUHliQlVhc0o4?oc=5",
      "tone": ""
     }
    ],
-   "key": "vectras enprocon",
-   "stale": true
+   "key": "vectras enprocon"
   },
   {
    "chittorgarh_url": "https://www.chittorgarh.com/ipo/hgs-india-ipo/2981/",
@@ -2418,8 +1910,26 @@
    "about": [],
    "about_lists": {},
    "strengths": [],
-   "status": "upcoming",
-   "day_label": "Opens tomorrow",
+   "status": "open",
+   "day_label": "Closes in 4 days",
+   "subscription": {
+    "as_of": "Oct 30, 2026 14:19",
+    "rows": [
+     {
+      "category": "Qualified Institutional",
+      "times": 1.41
+     },
+     {
+      "category": "Non Institutional",
+      "times": 0.13
+     },
+     {
+      "category": "Retail Individual",
+      "times": 0.14
+     }
+    ],
+    "total": 0.77
+   },
    "gmp": {
     "gmp": 0.0,
     "gmp_pct": 0.0,
@@ -2452,22 +1962,240 @@
    "business_news": [],
    "news": [
     {
-     "title": "HGS India Ltd IPO Date: Check Issue Date, Price, Lot size, Subscription, News and Details - Moneycontrol",
-     "source": "Moneycontrol.com",
-     "date": "27 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TVzNFemdZdlh1OHZnaUVDTGRNNU1LZDBtamlndWxHLTNpZy1LQmNlYzQ2dWM4VjB1SFd4OHdyX3lOREk1MGxZWmxDUXNVV2F6ODlSRlVWSWw3a0VHR3RQek52N2t0NG9YT21NX3BIYw?oc=5",
+     "title": "HGS IPO Day 1: Subscribed 0.06x; bHNI leads early demand at 0.17x",
+     "source": "scanx.trade",
+     "date": "30 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQa0JqRnF0dUcxN3NlTWFTSm93TFY5TTJmNkloc3JQMGZkOS1vUGpnbkJvc2VEMUFFZV9DVnlZckNTMGhTY01KcVk1Qzd1U1o5eUxkTGVCYVQzZUpFVy1uWDc2ckp3WGxzR0JCNHZ0YzdTbWpSdTUyTVZQWFFlOXBSeUh6Vkk1SkU4R0RpV2dMTVUyT192N2lFMXI5MW1GUGVoRm1WcXcwT3VDYnc1X19ocFV0SWN0ZjZIdzVTbEJBMlhWSDMwbzFSUnlrZGRBSUU?oc=5",
      "tone": ""
     },
     {
-     "title": "HGS (India) IPO DRHP: ₹19.36 crore capex plan; exports 84% of FY26 revenue",
-     "source": "scanx.trade",
-     "date": "27 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOURsdl9Jck80SkVJN2FpOEN1XzNHS3pJSXBRU19uT1FPbFZTUkdwRXdqRldGRTJqVExyMWdENWJmYVQ0SmQ4RE5XMW1sa3JESkFrWXcyRWFYZkkzYXNqTFh6RXluWVJQZEZoQW85WkluV0JtbEdmcVhxVUxBLWFMY25IcWtmSGh4VkVhT0hFLVdZWUFac3c4NVFLODJFYVNUdEwwVWtiNVpYZU1qX1UxV3Y1b0pBY09qZzNpQ0lvWVZoNl85VTFCeTNsZTR5YVRQNXVuMFZR?oc=5",
+     "title": "HGS India IPO Day 1 Subscription Status 30 Oct 2026",
+     "source": "Univest",
+     "date": "30 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRDdXSXVZS21zcXRtRkpZM29YZkdGTC1HZTJTVVF0NG5CVThoeEhKWWZsMWZvMkN2MlRJYzZDek5ZYUZyLXB4eXMzeDVPNXB6M055V2stNkpkZEFxUGpWSnJuQjdiMW8zTUE3X3c3M1lSTjByLVJ2TFNubGd1YUU4YmdpZjRDSUZlajd0OWV2V05BTnhGVXloYg?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Maxwell Engineering, HGS India among 4 SME IPOs to open on October 30; issues to raise Rs 201 crore",
+     "source": "The Economic Times",
+     "date": "30 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQLVByWEFPOW52NnVYdzQ1LU1lSU5oRFJabktVNEY4Z3EwbmZldTVFRnBIT1pkc2RWd1Q5WjhhanVtcjRtOE9MQ1JtMU5pa2NNdWNGajk5Y1BNMkthRzF4dkpjMUFiTThnV3hwdkF2dTBVUnRRdzhtZUdsLVZvcWtzanJTWTNsemJpM3ZscFM4Ym9fVEtTN0pMellDYTZjQ1lXZkNmYjVyek4yT0FMWXpXaDQ5cmdKOTdTTFpYTlF1cU1vTFpqREo4OTBsVmVQYUJXWTBwU1lsd2x3ZkFDX2l0aWZvQV9NYWxTQlBON093V043RDlPcGh0UWRFbUtLbFMyejFYd0xfMjNxQdIBgwJBVV95cUxNcUp5Q0xPa2o4MHpSejc5YUFIWXF0UDFiUnZWUEhkd3pzZXhjazVWd2VMeFRGUUFSN1I3Y1UwSjU5dEh6VU1qU2dKV2FIUmxVNEpoSVZpUjlPQUxPYnlGaUx0U1JkUGJzUmlad1Q0R1NIX0wwZms1VVdfdTVqQ0pnRXVvY3ZNS0pqdnFXQnR0c3VSYkR6R0YyUm5UcHJuSThSTVhDLWVqZTRsOV9TZ0twSFZPOWlma3EtcnRMVzNSckZtMlJvRmVrUk44OWhOQkNpNGxleUN1MTNNR3c3NTd4TGNjelE5a0ViY1czSkVLNHpFb3M2akd1V21zZ0dIMVkzX2Vr?oc=5",
      "tone": ""
     }
    ],
-   "key": "hgs",
-   "stale": true
+   "key": "hgs"
+  }
+ ],
+ "upcoming": [
+  {
+   "chittorgarh_url": "https://www.chittorgarh.com/ipo/vedant-poly-fabs-ipo/3143/",
+   "name": "Vedant Poly Fabs",
+   "open_date": "2026-11-02",
+   "close_date": "2026-11-04",
+   "ipo_date_text": "2 to 4 Nov, 2026",
+   "listing_date": "Mon, Nov 9, 2026",
+   "face_value": "₹ 10 per share",
+   "issue_type": "Bookbuilding IPO",
+   "sale_type": "Fresh capital cum OFS",
+   "listing_at": "NSE SME",
+   "type": "SME",
+   "lot_size": 1200,
+   "price_band": "₹88 to ₹94",
+   "price_high": 94.0,
+   "issue_size_cr": 57.0,
+   "min_application": {
+    "label": "Individual investors (IND) (Min)",
+    "lots": 2,
+    "shares": 2400,
+    "amount": 225600.0
+   },
+   "financials": {
+    "periods": [
+     "30 Jun 2026",
+     "31 Mar 2026",
+     "31 Mar 2025",
+     "31 Mar 2024"
+    ],
+    "rows": {
+     "Assets": [
+      100.88,
+      97.8,
+      55.4,
+      18.88
+     ],
+     "Total Income": [
+      30.49,
+      115.31,
+      81.58,
+      49.73
+     ],
+     "Profit After Tax": [
+      3.48,
+      10.97,
+      456060.0,
+      0.64
+     ],
+     "EBITDA": [
+      6.59,
+      19.0,
+      7.74,
+      1.29
+     ],
+     "NET Worth": [
+      45.6,
+      42.26,
+      15.42,
+      3.86
+     ],
+     "Reserves and Surplus": [
+      30.88,
+      27.53,
+      4.57,
+      3.75
+     ],
+     "Total Borrowing": [
+      44.81,
+      46.82,
+      13.32,
+      6.35
+     ]
+    },
+    "unit": "Amount in ₹ Crore"
+   },
+   "objects": [
+    {
+     "object": "Funding incremental working capital requirements of the Company",
+     "amount_cr": 17.59
+    },
+    {
+     "object": "Prepayment or Repayment of all or a portion of certain secured or/and unsecured outstanding borrowings availed by the company",
+     "amount_cr": 8.0
+    },
+    {
+     "object": "Funding Capital Expenditure for purchase and installation of Plant and Machinery at its existing manufacturing facility",
+     "amount_cr": 6.51
+    },
+    {
+     "object": "General Corporate Purposes",
+     "amount_cr": null
+    },
+    {
+     "object": "To meet the offer related expenses",
+     "amount_cr": null
+    }
+   ],
+   "kpis": {
+    "ROE": "7.92%",
+    "ROCE": "8.93%",
+    "Debt/Equity": "0.98",
+    "RoNW": "30.52%",
+    "PAT Margin": "11.48%",
+    "EBITDA Margin": "21.76%",
+    "NAV": "30.97",
+    "P/B (x)": "3.04"
+   },
+   "valuation": {
+    "EPS (₹)": {
+     "pre": "7.45",
+     "post": "6.90"
+    },
+    "P/E (x)": {
+     "pre": "12.62",
+     "post": "13.62"
+    },
+    "Market Cap at Offer Price": {
+     "pre": "₹138.42 Cr.",
+     "post": "₹189.43 Cr."
+    }
+   },
+   "reviews": {
+    "Subscribe": 0,
+    "May Apply": 0,
+    "Neutral": 0,
+    "Avoid": 0
+   },
+   "legal_name": "Vedant Poly Fabs Ltd.",
+   "about": [
+    "Vedant Poly Fabs Limited was incorporated in December 2018 and manufactures flexible packaging materials for businesses across India. The company operates as a B2B supplier and offers a diverse range of packaging products, including 3-layer and 5-layer LD films, shrink films, barrier films, printed laminates, and milk and oil pouches, catering to industries such as food & beverages and other consumer goods.",
+    "Since commencing operations, the company has expanded its product portfolio, strengthened its manufacturing capabilities, and established dedicated teams across sales, design, production, logistics, and dispatch. In March 2026, it further increased manufacturing capacity by adding lamination, slitting, and pouching machines, and installed a reprocessing unit to improve resource utilization and recycle manufacturing waste.",
+    "The company follows an integrated manufacturing process covering raw material procurement, film extrusion, printing, lamination, slitting, quality control, packing, and dispatch."
+   ],
+   "about_lists": {
+    "Strengths": [
+     "Integrated manufacturing operations",
+     "Diversified flexible packaging product portfolio",
+     "Strong quality control systems",
+     "Strategic manufacturing location",
+     "In-house transportation and logistics capabilities",
+     "Direct sales model with diversified customer base",
+     "Product development and customization capabilities."
+    ]
+   },
+   "strengths": [
+    "Integrated manufacturing operations",
+    "Diversified flexible packaging product portfolio",
+    "Strong quality control systems",
+    "Strategic manufacturing location",
+    "In-house transportation and logistics capabilities",
+    "Direct sales model with diversified customer base",
+    "Product development and customization capabilities."
+   ],
+   "status": "upcoming",
+   "day_label": "Opens in 3 days",
+   "gmp": {
+    "gmp": 0.0,
+    "gmp_pct": 0.0,
+    "est_listing": 94.0,
+    "updated": null,
+    "trend": "🟡"
+   },
+   "ipowatch_url": "https://ipowatch.in/vedant-poly-fabs-ipo-gmp-today/",
+   "insights": {
+    "metrics": [
+     "FY26 income ₹115.3 Cr",
+     "PAT ₹11.0 Cr",
+     "PAT margin 11.5%",
+     "Income +41% YoY",
+     "PAT -100% YoY",
+     "Post-issue P/E 13.6x"
+    ],
+    "flags": [
+     {
+      "tone": "bad",
+      "text": "Profit fell 100% in FY26"
+     },
+     {
+      "tone": "warn",
+      "text": "Borrowing up 252% (debt > net worth)"
+     }
+    ],
+    "partial": "Period to 30 Jun 2026: income ₹30.5 Cr, PAT ₹3.5 Cr (part-year, not compared)"
+   },
+   "business_news": [],
+   "news": [
+    {
+     "title": "Vedant Poly Fabs IPO: ₹32.10 Cr fresh issue; revenue up 132% to ₹115.14 Cr in FY26",
+     "source": "scanx.trade",
+     "date": "30 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOXlrTEZTLXpzVmZyWjJRZVY3RkswcEpDSUJmM1VoUExiR2ZUQjZtQld3V1ZYc2dMU3A3QzF5dlFXaHBrY1hHT1VtNGNKR1RCSzJHSXVMaFV0elpJYmczck5wbHVHQzlQb2Exc1YyMXN3S0g2Vm5WN3A3Rjl6dDkyZUdVOUx4V3J4VkJldm4yandnVjVfR2UzRllpUy1nLTh2cXhnUHVBMjVha1YycThpRm1ialIwWnlzZUtua095ZDN3Tjg3M0pQeEh1WGFqZ2JUX21IX0Q2Yw?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Vedant Poly Fabs Ltd – Share Price, Fundamentals & Ratios",
+     "source": "Multibagg AI",
+     "date": "30 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vcU9kZG8zYWlCUEFPZ1UyNXhLY21hZDg2N2kxYm5UTlFObnBVWmpuQkhLWUM0LTRDZ3ctanY0VFMxTnZJOWNsTXVmTFFxcnlsUWZmYmlOMjlERkF2eDJtUGxjMVBqRkdrVWNTMDQ5SQ?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Vedant Poly Fabs shifts to manufacturing, lifting FY26 PAT margin",
+     "source": "Multibagg AI",
+     "date": "29 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeVFCUk5zXzd0bm1tVzJwRnJ4OVIxRmd2Z0g0eVl5dDdwREJTM21qd3FXVnFzY3htQmRQSVYxbXltaXB5S19iRWRwZno1eWVFVS1LM08wWlN1UDJDSXdvZmlHMktFdnRfMmZrQmRoWEJ3eEVtUDNwWGhUYmJBbnM4dm9fbkI5VW8zM0dDUllOYjVpLWo3N2NyQS0yczRFU29Ycmt6MWJwd1VGSHNSN1YtaVlKNWU1bDlvcXQw?oc=5",
+     "tone": ""
+    }
+   ],
+   "key": "vedant poly fabs"
   }
  ],
  "market": {
@@ -4391,8 +4119,8 @@
     "key": "mksons fine jewels",
     "name": "M.K.Sons Fine Jewels",
     "type": "Mainboard",
-    "gmp": 15.0,
-    "gmp_pct": 9.26,
+    "gmp": 12.0,
+    "gmp_pct": 7.41,
     "status": null,
     "updated": null
    },
@@ -4400,8 +4128,8 @@
     "key": "sfc environmental technologies",
     "name": "SFC Environmental Technologies",
     "type": "Mainboard",
-    "gmp": 12.0,
-    "gmp_pct": 3.64,
+    "gmp": 20.0,
+    "gmp_pct": 6.06,
     "status": null,
     "updated": null
    },
@@ -4409,8 +4137,8 @@
     "key": "bls polymers",
     "name": "BLS Polymers",
     "type": "Mainboard",
-    "gmp": 51.0,
-    "gmp_pct": 34.0,
+    "gmp": 68.0,
+    "gmp_pct": 45.33,
     "status": null,
     "updated": null
    },
@@ -4418,8 +4146,8 @@
     "key": "eaaa india alternatives",
     "name": "EAAA India Alternatives",
     "type": "Mainboard",
-    "gmp": 30.0,
-    "gmp_pct": 1.8,
+    "gmp": 40.0,
+    "gmp_pct": 2.4,
     "status": null,
     "updated": null
    },
@@ -4436,8 +4164,8 @@
     "key": "johnsoncab electricals",
     "name": "Johnsoncab Electricals",
     "type": "SME",
-    "gmp": 10.0,
-    "gmp_pct": 5.0,
+    "gmp": 13.0,
+    "gmp_pct": 6.5,
     "status": null,
     "updated": null
    },
@@ -4454,8 +4182,8 @@
     "key": "maxwell engineering",
     "name": "Maxwell Engineering",
     "type": "SME",
-    "gmp": 40.0,
-    "gmp_pct": 25.32,
+    "gmp": 70.0,
+    "gmp_pct": 44.3,
     "status": null,
     "updated": null
    },
@@ -4481,8 +4209,8 @@
     "key": "ajwa projects",
     "name": "Ajwa Projects",
     "type": "SME",
-    "gmp": 35.0,
-    "gmp_pct": 17.24,
+    "gmp": 5.0,
+    "gmp_pct": 2.46,
     "status": null,
     "updated": null
    },
@@ -4516,10 +4244,7 @@
   ]
  },
  "warnings": [
-  "Could not load Chittorgarh Mainboard list: HTTP 522",
-  "Could not load Chittorgarh SME list: HTTP 522",
-  "Chittorgarh unavailable: showing the previous day's IPO list.",
-  "Could not load Chittorgarh Mainboard performance tracker: HTTP 522",
-  "Could not load Chittorgarh SME performance tracker: HTTP 522"
+  "Could not load Chittorgarh Mainboard performance tracker: no rows found (layout change?)",
+  "Could not load Chittorgarh SME performance tracker: no rows found (layout change?)"
  ]
 }
