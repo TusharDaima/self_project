@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-01T15:03:27+05:30",
- "generated_display": "01 Nov 2026, 03:03 PM IST",
+ "generated_at": "2026-11-02T15:22:04+05:30",
+ "generated_display": "02 Nov 2026, 03:22 PM IST",
  "open": [
   {
    "chittorgarh_url": "https://www.chittorgarh.com/ipo/bombay-coated-and-special-steels-ipo/2671/",
@@ -147,31 +147,32 @@
     "Established Relationship with JSWSCPL."
    ],
    "status": "open",
-   "day_label": "Closes tomorrow",
+   "day_label": "Closes today",
    "subscription": {
-    "as_of": "Oct 30, 2026 17:05",
+    "as_of": "Nov 02, 2026 13:59",
     "rows": [
      {
       "category": "Qualified Institutional",
-      "times": 6.89
+      "times": 10.54
      },
      {
       "category": "Non Institutional",
-      "times": 1.9
+      "times": 69.35
      },
      {
       "category": "Retail Individual",
-      "times": 3.17
+      "times": 18.46
      }
     ],
-    "total": 3.98
+    "total": 27.0
    },
    "gmp": {
     "gmp": 7.0,
     "gmp_pct": 8.54,
     "est_listing": 89.0,
     "updated": null,
-    "trend": "🔴"
+    "trend": "🔴",
+    "stale": true
    },
    "ipowatch_url": "https://www.ipowatch.in/bombay-coated-special-steels-ipo-gmp-grey-market-premium/",
    "insights": {
@@ -198,24 +199,24 @@
    "business_news": [],
    "news": [
     {
-     "title": "Bombay Coated & Special Steels IPO Day 2: Subscribed 1.13x; Retail leads at 1.84x; QIBs remain unsubscribed",
+     "title": "Bombay Coated & Special Steels IPO Day 3: Subscribed 32.69x; NII demand hits 104.28x",
      "source": "scanx.trade",
-     "date": "31 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNa2RxNW9PcWtWemhLSEN6bTJJeDRCMFc2U0RVd295Y2VPUzNZUTVDU3FIblgzTGNpd25tYTgyX0JiZE8xVUhrUHVQMGtqUjlsRkd6RkRUbUpZRHN6V1pQcGRRdi10T3lPbl95cGZESzVkUlhSZFQ1NGxTUUYxUmhmZzF2anlzNklQbzBRalJwMm11WUVwZFZsdURpd1NlU0VwempwRFZTTDRxS2lQMmVqTzl1Z0lyX0RTb292M1ZXZnJmMTgtbjZqVDBmLW1ZVVhPWnQydzk0aw?oc=5",
+     "date": "02 Nov 2026",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORE5QZnJGcFVYNXp4VFo3aDNVcHZZOXYtUkkyaDlPWU1tTVF1eTZ1RC1fYkw5UWlGNEhWRUlMRzF2aGZINlFTaUZjalQ1VGVNcjVrYl9SQ1d6Ni1EUTlTQkhzcm1XdW5mN3BpOHlIXy1ESEk0LUNkWlk5dkxVdThtYllVcmhhOERWR0lydFg1aS1QVEg3RkQwcVoxUDBIZ09KRG9ZdGljbkNxcGlaNDc0LXdhMWc3MUM4bzhNdFIwTTVTUFpRdGwweklaanQxZU05S0F0UFVYd1I?oc=5",
      "tone": ""
     },
     {
-     "title": "IPO Updates: M K Sons Fine Jewels Subscribed 5.04 Times; Bombay Coated & Special Steels Gets 3.73 Times",
-     "source": "The Indian Awaaz",
-     "date": "30 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcXJMTks5Ty1TWHVQS0ZrNWJNS2ltdUF3Zkg0WjdOZ0dNVVBHVW90ZXFkMHVVQlkteUZwTlRqd3ZTTnNMNEUzTG8yT0xSSFR3eml3YWt0V1haODMtSjFPUG9MSTJ5bVpLbU9pTDhaUVNkeHA0T0RRdC1mZ3FHQ0JtYXZoaFNWT1V5WWJtMVV1U01qVlRKRUd6NTRVSFpPUG5LVzRKM09HVWh1aXEyYXF1NktULTM5N05lTk44WlpxWUxNX0Q5U0E?oc=5",
-     "tone": "bad"
+     "title": "Bombay Coated & Special Steels Ltd IPO: Check Issue Date, Price Band, Lot Size, Subscription",
+     "source": "Upstox",
+     "date": "02 Nov 2026",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1lLXVpNkdWNEowODdzQkVuS0FTVWwwX05BWmEydkd0QmRRd05STUpRYnFsQ3JCcnNqTEdkRmFtcnhjU2pDM3FseU40Nno1RUVWeVctME9iRHlsc0tQWkdZT3IzeGFWVUxkRzJobGpLaDV3Q2hSVXhZ?oc=5",
+     "tone": ""
     },
     {
-     "title": "Bombay Coated & Special Steels IPO Subscription Status",
-     "source": "HDFC Sky",
-     "date": "30 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdGVNaXFjQ1VNMjFoU0lhYXZ0ZHhuZ3ZtOUVKbnFqcEY4bmJ2OGctajlnNW1LWlo0Z2ZoUGNxOEVPX2lpS2RWTGRRYU16XzJBUnY3d240TGRqXzNYaWItR1BzdFlQeDFZY0tTakZTTDBzdVlMOG1JWUF6UWhnbG5hVHZFbWRaNmI2TGtrM3VVc0VIdw?oc=5",
+     "title": "Bombay Coated & Special Steels IPO Last Day: Issue subscribed 7.40 times so far; NII portion booked 10.10 times",
+     "source": "Zee Business",
+     "date": "02 Nov 2026",
+     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNb1J4cEMwclowZzVnSmVEdEluOG9HejRhTXc0dlA4c0ZvUkJSM0lKTW1zLWgtRWlSWV9BdnVuRWNJSmhXb1dWMG9Xd2dfR2cxLUNpM1B2QjFOU0N3ZzJKZlEyRWpSRTlwSVJPTHcxNG05WERiQ0pmeGFJR1Z6ZXgtYVlGRkMyQTdWNFRCbHlodEwtcGNIeTBIaXpFWU9BVjB0SVZzd0xlb0h4a2VrOWxybGtRZE54eHNITW9QVnAxVGdPY0VDMEVvUmxWb2dHcl9OWXp5WXZzanh0VjVlYXUyU2lURUpFUG8?oc=5",
      "tone": ""
     }
    ],
@@ -364,9 +365,9 @@
     "Established supplier and customer relationships."
    ],
    "status": "open",
-   "day_label": "Closes tomorrow",
+   "day_label": "Closes today",
    "subscription": {
-    "as_of": "Oct 30, 2026 17:05",
+    "as_of": "Nov 02, 2026 12:04",
     "rows": [
      {
       "category": "Qualified Institutional",
@@ -374,21 +375,22 @@
      },
      {
       "category": "Non Institutional",
-      "times": 0.02
+      "times": 0.12
      },
      {
       "category": "Retail Individual",
-      "times": 0.1
+      "times": 0.24
      }
     ],
-    "total": 0.81
+    "total": 0.94
    },
    "gmp": {
     "gmp": 0.0,
     "gmp_pct": 0.0,
     "est_listing": 67.0,
     "updated": null,
-    "trend": "🟡"
+    "trend": "🟡",
+    "stale": true
    },
    "ipowatch_url": "https://ipowatch.in/antala-industries-ipo-gmp-today/",
    "insights": {
@@ -419,6 +421,13 @@
    "business_news": [],
    "news": [
     {
+     "title": "Antala Industries IPO Day 3: Subscribed 1.06x; QIB holds 66.72x; Retail surges 43%",
+     "source": "scanx.trade",
+     "date": "02 Nov 2026",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUnNtTks2bWZXbkxBNklMMW5XY3NBekZoMkg5NGY1Sl8yc2U2eWNnRmRna2FYX0gzTnZidGFDUzFfcHgxVUZBc1p5dzhqNnNqNUszMmdjaVpFNGhXR3d1RzRwQmJtZ1hZWjh3U1dXZUZJWXFVeDBQdURjUHgzTENmRjBNbnhkRjlHTzhfUU1aQldaOWlQcEw4WW1hWG5XeWFEeFVLbmhhVGxfQllHcXo4d0dleUtaaTFadFpnSXhaamRfM3YzU1U2dFlvUmxQVEZFMDNXMUtEUy1wdw?oc=5",
+     "tone": ""
+    },
+    {
      "title": "Antala Industries IPO Subscription Status: 0.81x",
      "source": "HDFC Sky",
      "date": "30 Oct 2026",
@@ -430,13 +439,6 @@
      "source": "scanx.trade",
      "date": "30 Oct 2026",
      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWFJabnljSEQyQTN0d09QTG9wU19mQmhvck5mblpMcGJxcm1KaEVCdzlBT3dMd25lQ19yeTFDWjduWlhGcnQ4dExvbVI4VTZFMDhXWktET2VUX19mT3luQWh3el9rZlBQV2lqaFB2Y0owdzBrak4yaUFmTjZwZ1RkQ01aM3hLWHZyX0Nyc28tbktENUFzbmtZTG94M1pQc2JMOFkxRkRCalY4T1laNXYwSVloUm9Bb1pHSVNpc01xZk5KSGVINEEyYmZhV0dhbkhCanJuRl82T0JIUQ?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Antala Industries Ltd IPO: Check IPO Date, GMP, Market Lot Size, Face Value, Price, Subscription Details and News",
-     "source": "ET Now",
-     "date": "30 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSEtQbWdXcndLT0N3cy0yQnl1ckVrWU1CUlkzMFRnOGU1d0VNaWFNR0lkX2dfZ3JhQW1lZ21Yd2x3MHNra0tHYmhnbmxLSGU1VEttN3FoT1lIbHpVa0N0MmJJQnItYll3b1Ywa0dSYnZzMEpaeXNIVkl2LWNGRU1HVQ?oc=5",
      "tone": ""
     }
    ],
@@ -598,27 +600,28 @@
     "Established Customer Relationships."
    ],
    "status": "open",
-   "day_label": "Closes in 2 days",
+   "day_label": "Closes tomorrow",
    "subscription": {
-    "as_of": "Oct 30, 2026 17:55",
+    "as_of": "Nov 02, 2026 15:00",
     "rows": [
      {
       "category": "Non Institutional",
-      "times": 4.35
+      "times": 73.47
      },
      {
       "category": "Retail Individual",
-      "times": 7.47
+      "times": 82.28
      }
     ],
-    "total": 4.67
+    "total": 56.97
    },
    "gmp": {
     "gmp": 70.0,
     "gmp_pct": 44.3,
     "est_listing": 228.0,
     "updated": null,
-    "trend": "🟢"
+    "trend": "🟢",
+    "stale": true
    },
    "ipowatch_url": "https://ipowatch.in/maxwell-engineering-solutions-ipo-gmp-today/",
    "insights": {
@@ -645,6 +648,13 @@
    "business_news": [],
    "news": [
     {
+     "title": "Maxwell Engineering Solutions IPO Day 2: Subscribed 52.2x; Retail demand surges to 75.43x",
+     "source": "scanx.trade",
+     "date": "02 Nov 2026",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNalpZNGhQdTZyem9BOEdBSzVULVNaMFU4c3BTclZhT0psSWZXbk5zbmh5NXRKQXJaTWctZlc2QVZzUVhfNTRtVXgtdDkyYzEyVHdPcUNULUR4NzY5dF9DVGR5ZzJwM3VfR240YlcwOGdabjMzbFN5a05hS0NlRjYta2lNRmFxY3hEdkhEVGRtQkI2MjJ6RkVJMlV3Q1F3RTlsNDJCRjlWZ0tRcHJvSllpYkhIRXJpdEJVU3p2VjlnUzV2UndRVUJRZ3hNZkRsbmJTaWt1RQ?oc=5",
+     "tone": ""
+    },
+    {
      "title": "Maxwell Engineering Solutions Limited Announces IPO Opening On October 30, 2026",
      "source": "Outlook Business",
      "date": "31 Oct 2026",
@@ -656,13 +666,6 @@
      "source": "HDFC Sky",
      "date": "30 Oct 2026",
      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVGdSa1hTSEhkMVNSVEw2OFRRTHpkNzZfZW85SzJWUGhBU1U5Wk1mUXNMZGVFX0tnOVlMb0wzbDBWVkFZZHRlLTFrLVc1U3k4YlBlTkhObk4tZlM3ZGs4UDduN2NKek9tdEFRRThqVEVpOUhFdWVkdVFBeTlNZmVlWXdkdUhLRHBPVHVVUnQyYlB6S2s?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Maxwell Engineering Solutions IPO Day 1: Subscribed 4.65x; Retail demand surges to 7.43x",
-     "source": "scanx.trade",
-     "date": "30 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYlNhakt1RDUzUkFpeldhNmY4ZjNGa0RONXBaVFhqRVZrV1NuSUIzN1ZidkxQa21XMjg1emtDX25TV2dzVUVhVldodGhaRnRQMXp3dmI3b19MejdNVUVhX01FUnU2NExuZlFXcXpTeU5KcXJpUTQ3S3hXQTZzYi1DMlI1RGdnLWRwQ3Q2UVI5Q1FHbTBnM3dvNlFuc3hWWmo2Q0hNSjBKcm1zOWRnVlBsSl9JUmRPbFdSWGdlWC1BRklGWTdScG5JY05hbXBaYXpOUmtac1NoRFZzaDQ?oc=5",
      "tone": ""
     }
    ],
@@ -789,31 +792,32 @@
    "about_lists": {},
    "strengths": [],
    "status": "open",
-   "day_label": "Closes in 2 days",
+   "day_label": "Closes tomorrow",
    "subscription": {
-    "as_of": "Oct 30, 2026 17:55",
+    "as_of": "Nov 02, 2026 14:54",
     "rows": [
      {
       "category": "Qualified Institutional",
-      "times": 1.77
+      "times": 4.88
      },
      {
       "category": "Non Institutional",
-      "times": 1.24
+      "times": 19.51
      },
      {
       "category": "Retail Individual",
-      "times": 0.25
+      "times": 17.48
      }
     ],
-    "total": 1.16
+    "total": 14.33
    },
    "gmp": {
     "gmp": 30.0,
     "gmp_pct": 25.0,
     "est_listing": 150.0,
     "updated": null,
-    "trend": "🟢"
+    "trend": "🟢",
+    "stale": true
    },
    "ipowatch_url": "https://ipowatch.in/hgs-india-ipo-gmp-today/",
    "insights": {
@@ -840,24 +844,24 @@
    "business_news": [],
    "news": [
     {
-     "title": "HGS (India) IPO DRHP: ₹19.36 crore fresh issue; exports 84% of FY26 revenue; EBITDA at 37%",
-     "source": "scanx.trade",
-     "date": "31 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOURsdl9Jck80SkVJN2FpOEN1XzNHS3pJSXBRU19uT1FPbFZTUkdwRXdqRldGRTJqVExyMWdENWJmYVQ0SmQ4RE5XMW1sa3JESkFrWXcyRWFYZkkzYXNqTFh6RXluWVJQZEZoQW85WkluV0JtbEdmcVhxVUxBLWFMY25IcWtmSGh4VkVhT0hFLVdZWUFac3c4NVFLODJFYVNUdEwwVWtiNVpYZU1qX1UxV3Y1b0pBY09qZzNpQ0lvWVZoNl85VTFCeTNsZTR5YVRQNXVuMFZR?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "HGS IPO Day 1: Subscribed 1.65x; QIB demand surges to 4.41x",
-     "source": "scanx.trade",
-     "date": "30 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQa0JqRnF0dUcxN3NlTWFTSm93TFY5TTJmNkloc3JQMGZkOS1vUGpnbkJvc2VEMUFFZV9DVnlZckNTMGhTY01KcVk1Qzd1U1o5eUxkTGVCYVQzZUpFVy1uWDc2ckp3WGxzR0JCNHZ0YzdTbWpSdTUyTVZQWFFlOXBSeUh6Vkk1SkU4R0RpV2dMTVUyT192N2lFMXI5MW1GUGVoRm1WcXcwT3VDYnc1X19ocFV0SWN0ZjZIdzVTbEJBMlhWSDMwbzFSUnlrZGRBSUU?oc=5",
-     "tone": ""
-    },
-    {
      "title": "HGS India IPO Day 1 Subscription Status 30 Oct 2026",
      "source": "Univest",
      "date": "30 Oct 2026",
      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRDdXSXVZS21zcXRtRkpZM29YZkdGTC1HZTJTVVF0NG5CVThoeEhKWWZsMWZvMkN2MlRJYzZDek5ZYUZyLXB4eXMzeDVPNXB6M055V2stNkpkZEFxUGpWSnJuQjdiMW8zTUE3X3c3M1lSTjByLVJ2TFNubGd1YUU4YmdpZjRDSUZlajd0OWV2V05BTnhGVXloYg?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Maxwell Engineering, HGS India among 4 SME IPOs to open on October 30; issues to raise Rs 201 crore",
+     "source": "The Economic Times",
+     "date": "30 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQLVByWEFPOW52NnVYdzQ1LU1lSU5oRFJabktVNEY4Z3EwbmZldTVFRnBIT1pkc2RWd1Q5WjhhanVtcjRtOE9MQ1JtMU5pa2NNdWNGajk5Y1BNMkthRzF4dkpjMUFiTThnV3hwdkF2dTBVUnRRdzhtZUdsLVZvcWtzanJTWTNsemJpM3ZscFM4Ym9fVEtTN0pMellDYTZjQ1lXZkNmYjVyek4yT0FMWXpXaDQ5cmdKOTdTTFpYTlF1cU1vTFpqREo4OTBsVmVQYUJXWTBwU1lsd2x3ZkFDX2l0aWZvQV9NYWxTQlBON093V043RDlPcGh0UWRFbUtLbFMyejFYd0xfMjNxQdIBgwJBVV95cUxNcUp5Q0xPa2o4MHpSejc5YUFIWXF0UDFiUnZWUEhkd3pzZXhjazVWd2VMeFRGUUFSN1I3Y1UwSjU5dEh6VU1qU2dKV2FIUmxVNEpoSVZpUjlPQUxPYnlGaUx0U1JkUGJzUmlad1Q0R1NIX0wwZms1VVdfdTVqQ0pnRXVvY3ZNS0pqdnFXQnR0c3VSYkR6R0YyUm5UcHJuSThSTVhDLWVqZTRsOV9TZ0twSFZPOWlma3EtcnRMVzNSckZtMlJvRmVrUk44OWhOQkNpNGxleUN1MTNNR3c3NTd4TGNjelE5a0ViY1czSkVLNHpFb3M2akd1V21zZ0dIMVkzX2Vr?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "HGS (India) Limited inheritance made Ramel Sowar’s largest holder",
+     "source": "Multibagg AI",
+     "date": "29 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOHpqQU5VbXl4VTlWdHN4dk5xTkZWd0hZNm5waHhXYXNOcXVRMDdzM2NLdkd1VEZzYkdUVldOeUVkN1pybGpzVWstMXdpbFVMYVhVQkFLOHZIaVBxWGVHcWNaeGtPVUVHRnNpbm9XNjZMQkVzQ25leWVOLUk4ZENBV2h3bTQ2Qnk2akwwLWZSb0VfQ2RBTjVSaVZVZFNiZHJBcC1JTVctNFdUVk10cWxXT1paemllMmtfRlE?oc=5",
      "tone": ""
     }
    ],
@@ -1018,27 +1022,32 @@
     "Established Vendor Approvals and Government Tender Eligibility."
    ],
    "status": "open",
-   "day_label": "Closes in 2 days",
+   "day_label": "Closes tomorrow",
    "subscription": {
-    "as_of": "Oct 30, 2026 17:05",
+    "as_of": "Nov 02, 2026 14:59",
     "rows": [
      {
+      "category": "Qualified Institutional",
+      "times": 0.99
+     },
+     {
       "category": "Non Institutional",
-      "times": 2.27
+      "times": 2.62
      },
      {
       "category": "Retail Individual",
-      "times": 1.3
+      "times": 1.98
      }
     ],
-    "total": 1.14
+    "total": 1.84
    },
    "gmp": {
     "gmp": 10.0,
     "gmp_pct": 5.0,
     "est_listing": 210.0,
     "updated": null,
-    "trend": "🔴"
+    "trend": "🔴",
+    "stale": true
    },
    "ipowatch_url": "https://ipowatch.in/johnsoncab-electricals-ipo-gmp-today/",
    "insights": {
@@ -1084,17 +1093,17 @@
      "tone": ""
     },
     {
-     "title": "Johnsoncab Electricals IPO Day 1 Subscription Status 30 Oct 2026",
-     "source": "Univest",
-     "date": "30 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOFhYYVJURnZ0Z21OOHRxSEFpbEhzdEViQlRHQkNZQVUyZ1ZLenFvVk43ZDBoTTZMbDVlOGdpS3NNSEZXcWcyUnU4U1FJSlZXYVFqS0NndV9PNUItM09OcjJpMUR0RHB5dXQ2aHlwN3VOcHRjM2ZUd056MUVLVkNZX05HNUpXNC1kbjgtcGVjZDR3TmhUM1k0d0pZN1gwQV9Bb09SZVQ1dFltZw?oc=5",
-     "tone": ""
-    },
-    {
      "title": "Johnsoncab Electricals IPO GMP, Date, Price Band & Review",
      "source": "IndiaIPO",
      "date": "30 Oct 2026",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1keXlVWU5jN1VtLVQ4ODBSMkR1aHJtX2VocnduNS13LTliR2lKUHRCbUE5RGIzSmpZdURSdm1Sc181RjBsNGFYZ1VrNzFyTURrNGI1ZFhuQkkxT3h6TW9peUp1NFRoN242SlZ1Qg?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Johnsoncab Electricals IPO Day 1 Subscription Status 30 Oct 2026",
+     "source": "Univest",
+     "date": "30 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOFhYYVJURnZ0Z21OOHRxSEFpbEhzdEViQlRHQkNZQVUyZ1ZLenFvVk43ZDBoTTZMbDVlOGdpS3NNSEZXcWcyUnU4U1FJSlZXYVFqS0NndV9PNUItM09OcjJpMUR0RHB5dXQ2aHlwN3VOcHRjM2ZUd056MUVLVkNZX05HNUpXNC1kbjgtcGVjZDR3TmhUM1k0d0pZN1gwQV9Bb09SZVQ1dFltZw?oc=5",
      "tone": ""
     }
    ],
@@ -1245,9 +1254,9 @@
     "Experienced management team with significant industry experience"
    ],
    "status": "open",
-   "day_label": "Closes in 2 days",
+   "day_label": "Closes tomorrow",
    "subscription": {
-    "as_of": "Oct 30, 2026 17:05",
+    "as_of": "Nov 02, 2026 15:04",
     "rows": [
      {
       "category": "Qualified Institutional",
@@ -1255,21 +1264,22 @@
      },
      {
       "category": "Non Institutional",
-      "times": 1.3
+      "times": 1.09
      },
      {
       "category": "Retail Individual",
-      "times": 1.03
+      "times": 1.28
      }
     ],
-    "total": 1.2
+    "total": 1.28
    },
    "gmp": {
     "gmp": 0.0,
     "gmp_pct": 0.0,
     "est_listing": 105.0,
     "updated": null,
-    "trend": "🟡"
+    "trend": "🟡",
+    "stale": true
    },
    "ipowatch_url": "https://ipowatch.in/vectras-enprocon-ipo-gmp-today/",
    "insights": {
@@ -1300,31 +1310,29 @@
    "business_news": [],
    "news": [
     {
+     "title": "Vectras Enprocon IPO Day 2: Subscribed 1.35x; QIB holds at 1.42x",
+     "source": "scanx.trade",
+     "date": "02 Nov 2026",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUkJqMll5X3E3S05zR2JJTjRZRl9nZUJBMlI0YmxpUC1YV1RiVG1TcHZWZFRueWlvOHFLZ0RkWW9sbm5YYWlwLXYzT1gzSjEzSW5LVEdjYUtkVllPcnF0N3liYVNxNUJzazlBc0NGX2dtNVluY3lHQWZyT2FBZnJyVHRhMjBuZVVRZ3ZWNlViaWhsMTYyclVra2R0VzU1elBWWmxqMkNfMGRSNmhsenQ3QWYwU0dMUkNfV2VuSnZkNnZZbmxPRUEyaXZjeWZJaU1LNVNrdlhIRQ?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Vectras to Vedant Poly Fabs: 5 IPOs to Raise Rs 258 Crore, Check Prices",
+     "source": "Analytics Insight",
+     "date": "02 Nov 2026",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMjJuYVJ5SEdVc1JWNWZGUW9zU0Z5WXVSLTVJOXJCTlNfYnVheWo5bmpTWm1pMEhQb0dTci01QXZnams5aVVNdWtvYWVNY1ZlOGQ4ajJOS1NKcEdOQ0MxTndQanl6QXcycm8wUEQtdTdpRlQtZXVzOURDZV9hMmJZaHlxTFY1N0o2eE9RemJESUZ5MGFJWEtUd2YwWjM2cHNXa0xiSEFRVkdZeDTSAbgBQVVfeXFMT3ZyR0psVVF0Ym5zLW5LSFVLUWp5Wjl4dmhaUFVkZGtKcWhhay1QX2lDSW0zVGZQTVdkclRJMzNzcTJDSklEUEZMMW1ES1RmcENCenp0X1hVNC1aMy15RHpCQzBkYXFDYl94Y2JTQUduckduanBoRGZ1cXEtSHhIaDFvOG9icjZhMEI2dk4wVUFpLUxMUkplVFJlZFNtanVLU0NhcGNWWTV6ekp4YVBjYTk5aWRYYl93Yw?oc=5",
+     "tone": ""
+    },
+    {
      "title": "IPO Opening Announcement Of Vectras Enprocon Limited On BSE SME Platform",
      "source": "Outlook Business",
      "date": "31 Oct 2026",
      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPc0E2NlVRQ3ViQzhZYzgweTFGLThLdVhWV3BXZkgxTXl5RExXZHF6MXhxajB6dHRaN1YwUkljWUlmU08xNUZyUzctS3o1c0JtWUI5T2lwTk5zYjlQNXJpbExlMHQwUllQWm9qdW4xcmVfUld0WnlQdHc4bUw3S1Y0bEtVSnRJOUxQb0lIQ1RDdnhLZElnOWJRNlR5NC1qQVQ0TlVmTHo0bzVudTdrdFVwbElRRWU3WWJvclpXQ1Q2QUZRWmJiSnpUN3Nlc2Z3NDDSAc8BQVVfeXFMT3NBNjZVUUN1YkM4WWM4MHkxRi04S3VYVldwV2ZIMU15eURMV2RxejF4cWowenR0WjdWMFJJY1lJZlNPMTVGclM3LUt6NXNCbVlCOU9pcE5Oc2I5UDVyaWxMZTB0MFJZUFpvanVuMXJlX1JXdFp5UHR3OG1MN0tWNGxLVUp0STlMUG9JSENUQ3Z4S2RJZzliUTZUeTQtakFUNE5VZkx6NG81bnU3a3RVcGxJUUVlN1lib3JaV0NUNkFGUVpiYkp6VDdzZXNmdzQw?oc=5",
      "tone": ""
-    },
-    {
-     "title": "Vectras Enprocon IPO Subscription Status Day 1",
-     "source": "HDFC Sky",
-     "date": "30 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTExPX05OaFFKLU1sOUQtUzI2c3ZXZC1NYkZrRmtTa244dlhJV0F1QktJaVNzU2tXdVZDZEkxanNLZ0lBNDdhdXVYYjJIYlV6ZENYX3BPMFlmMXI3TUxzLXNQRnExaWY4bENoQ0p0dkVyZVJWeEpIR2UwaFJKOWFxZ29R?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Vectras Enprocon IPO Day 1: Subscribed 1.20x; QIB demand hits 1.42x; Retail crosses 1x",
-     "source": "scanx.trade",
-     "date": "30 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOX2k1UDJHUnE3Q3o1S2trMlVkYm9KZmRNb2Z6MC1xM1hwUjBIQmpLdTFxWlFmTkYwdFVCajU3UFpHWVVfajM5aXJZcTZIV0MyeWFSMzVKVC15NDMtb0ZvYmYxT2tfUmZOcFFIZl8td3dGQk5FWFowNlF6dkg1bm0xUXVZRFNHRE0yZnlEQ3Y5SHVrSDlmSC0yZVVJQXBkWEMwRk04UGtua2g3LXpOaVNrSmlsVkF6dWJ0MUFHQ0hvWEVDdzQ4VzBYYmdlclFYUWJGZXNFdExvWE1GUQ?oc=5",
-     "tone": ""
     }
    ],
    "key": "vectras enprocon"
-  }
- ],
- "upcoming": [
+  },
   {
    "chittorgarh_url": "https://www.chittorgarh.com/ipo/vedant-poly-fabs-ipo/3143/",
    "name": "Vedant Poly Fabs",
@@ -1479,14 +1487,29 @@
     "Direct sales model with diversified customer base",
     "Product development and customization capabilities."
    ],
-   "status": "upcoming",
-   "day_label": "Opens tomorrow",
+   "status": "open",
+   "day_label": "Closes in 2 days",
+   "subscription": {
+    "as_of": "Nov 02, 2026 12:00",
+    "rows": [
+     {
+      "category": "Non Institutional",
+      "times": 0.67
+     },
+     {
+      "category": "Retail Individual",
+      "times": 0.03
+     }
+    ],
+    "total": 0.28
+   },
    "gmp": {
     "gmp": 0.0,
     "gmp_pct": 0.0,
     "est_listing": 94.0,
     "updated": null,
-    "trend": "🟡"
+    "trend": "🟡",
+    "stale": true
    },
    "ipowatch_url": "https://ipowatch.in/vedant-poly-fabs-ipo-gmp-today/",
    "insights": {
@@ -1513,30 +1536,31 @@
    "business_news": [],
    "news": [
     {
-     "title": "Vedant Poly Fabs Ltd. IPO - Date, Price, GMP, Details",
-     "source": "Value Research",
-     "date": "01 Nov 2026",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55TFN3WEozLTlBamY4OTF5YV8xbEtrRmd5RTJPeXpVVVJvMGhvRk9RdmtOYlNldGRGdjZuVTdrdkdfQzA3N2lrNDVkMXQzNzU0dV80N3h0ZDFmSEpCSU4xcDhlUmd1aWQwOEJ3RVVwd3ZyM0dIM200?oc=5",
+     "title": "Vectras to Vedant Poly Fabs: 5 IPOs to Raise Rs 258 Crore, Check Prices",
+     "source": "Analytics Insight",
+     "date": "02 Nov 2026",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMjJuYVJ5SEdVc1JWNWZGUW9zU0Z5WXVSLTVJOXJCTlNfYnVheWo5bmpTWm1pMEhQb0dTci01QXZnams5aVVNdWtvYWVNY1ZlOGQ4ajJOS1NKcEdOQ0MxTndQanl6QXcycm8wUEQtdTdpRlQtZXVzOURDZV9hMmJZaHlxTFY1N0o2eE9RemJESUZ5MGFJWEtUd2YwWjM2cHNXa0xiSEFRVkdZeDTSAbgBQVVfeXFMT3ZyR0psVVF0Ym5zLW5LSFVLUWp5Wjl4dmhaUFVkZGtKcWhhay1QX2lDSW0zVGZQTVdkclRJMzNzcTJDSklEUEZMMW1ES1RmcENCenp0X1hVNC1aMy15RHpCQzBkYXFDYl94Y2JTQUduckduanBoRGZ1cXEtSHhIaDFvOG9icjZhMEI2dk4wVUFpLUxMUkplVFJlZFNtanVLU0NhcGNWWTV6ekp4YVBjYTk5aWRYYl93Yw?oc=5",
      "tone": ""
     },
     {
-     "title": "Vedant Poly Fabs IPO Opens on NSE Emerge to Fund Expansion",
-     "source": "Lokmat Times",
-     "date": "31 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeVJCUnNxMThLYUw1dzY3WXY4aGVNZzVreUlXSmN2bU95U0dsbWNBUUk5aEdUU0k0TXc1TF9pUVg1SDV5ZWV0XzdkSFVNSW1rM2o1SnIyelFncG1jc3BkcU5UX1Q1eGZDU0kyc09yZDE5bGY5d0w5VUd0TndJZmF4RDZoMlBnLXJwbFcybC0zQkpMTzF6bDM5S1VKaWZUTEE5bWQ2WTBvMnbSAa4BQVVfeXFMTVNxUS1uMzhmV1NQNXVCbmxRZVc2NHgyQWdRQ3hKbTdNMkNtVTJ0cnBVYnk4YTQydDN0X0lMcEJKZFRDWjl6N3N3NVJnMEtucUlVcGhERjFJeUxyNWZncEM3bmc0aS1SZXllRlRxWFRtUkhWUm5zX3dqVlRiMlBsZnNBZm1Oal9qWUl5MS0zQWlVMUgzTVFkLWE4UHVQdGlMTURuVksxcGc3VDZwaGlB?oc=5",
-     "tone": "good"
+     "title": "Vedant Poly Fabs IPO Day 1: Subscribed 0.35x; NII demand surges 6400%",
+     "source": "scanx.trade",
+     "date": "02 Nov 2026",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdklXMjlWSDVFOGFQT1hLaE5iemFEY2Y3d29mZDhUNkplTlVzLWtwR0pfY2JGRnJNU3RrQmZRblNUOFdwMk9MWllpaVV3amIydGZmOXhyUUZ6VFhOTDVqQU1DZWdCYWhkNWdhVmswdUgyRXlIZkFYNllickZGTUtTZDhxcnlFMlpRc3dab1BTWjVUc2FQN0RfSjlSaVBwZnVvcjRWemk4Z25SQUxkNE1FWTNSR1NxVDBqRlZ4Szk3TTd5cng5cE5PY0loZ28wRlV1N2dxdDdR?oc=5",
+     "tone": ""
     },
     {
-     "title": "Vedant Poly Fabs Limited is engaged in the manufacturing of flexible packaging materials for businesses",
-     "source": "Devdiscourse",
-     "date": "31 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcGg0TlRSQ1E1bkYxUW0wc2dmRGxHZXFpam5CenVXamkzQkRLaXJhaUc5Q1ByaDdKMWlRMVkySGlQbGhfckJuRDB4VTdTM3pvbWRRa1RrekNYY3IxS1N6ZjJ2RVhXZ21JazZZbDlQS2Zvc3JZWnkwSmNaUkpLb2UwekRpM1dwRXhQQlV6OFBNeWo5ZVdCMGxWQ29ZUFhBTzF1d0UwY09US1p3SVAtLW1QS2E0cnNwYWNPbVpwX3RKVklZeUtzdUtfUWJrbm4zcUdTbWJoaDY0QTBvekhoV2ZHaEhxRlhoV2xSdU8zTXdJOGZGazDSAfMBQVVfeXFMTnBoNE5UUkNRNW5GMVFtMHNnZkRsR2VxaWpuQnp1V2ppM0JES2lyYWlHOUNQcmg3SjFpUTFZMkhpUGxoX3JCbkQweFU3UzN6b21kUWtUa3pDWGNyMUtTemYydkVYV2dtSWs2WWw5UEtmb3NyWVp5MEpjWlJKS29lMHpEaTNXcEV4UEJVejhQTXlqOWVXQjBsVkNvWVBYQU8xdXdFMGNPVEtad0lQLS1tUEthNHJzcGFjT21acF90SlZJWXlLc3VLX1Fia25uM3FHU21iaGg2NEEwb3pIaFdmR2hIcUZYaFdsUnVPM013SThmRmsw?oc=5",
+     "title": "Vedant Poly Fabs SME IPO opens today; GMP at 16%, check key details",
+     "source": "The Economic Times",
+     "date": "02 Nov 2026",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMThoSTI0dWsxcDNTNVQyRFlxLUgtcExSRzlYb2lxd05ETVItSHFNSDEwdDRKOWJ5MUI4UHNvSldFQkZobXdZdS1DZ3NZS2N2X0c5NW00TnFqSVBuU3h1TGZ0SEg5RThZalF2UDY5cW1rNDMyMjAtZTJiUjhXTnRmWlBUWnRES1BQb2QyZk9sa0I3dVo4MW9sRDlZZ0QzNUpTeExtOUYwS1g1d24xYlRHT2VCSFVwZVRiYVhWNWJFYmZHSW44T1pNRlFwVVRmRjhwLUHSAdcBQVVfeXFMTlN4N1JhcFY0aVRHWmUxaGZHb2NkVVBVUnFiR2dBdDVYSTd6M2VlOTFZQ1BTQkFUZW5OMTlFbUFOZFZQWFUzZnpsNlV5eGpsanREV0p6allTY2F0Sk16X3ZRSEpsdFZFSjNPam5TcVcxMjZIWFdxVjVSSlRtd1dUbEF3SmxEN3dyNnJ5XzFOLTVzUVphTWhvMHRnWnh3MFZfRXNENGVQTkJuckhHZHlZbzFfTG5EYVd4b3pRLTlCSHBtbUp3SWRDSnNGaE44NGR0Njk4WnZ6OGs?oc=5",
      "tone": ""
     }
    ],
    "key": "vedant poly fabs"
   }
  ],
+ "upcoming": [],
  "market": {
   "performance": [
    {
@@ -3583,6 +3607,7 @@
   ]
  },
  "warnings": [
+  "Could not load IPOWatch GMP: ConnectionError. Showing last known GMP values.",
   "Could not load Chittorgarh Mainboard performance tracker: no rows found (layout change?)",
   "Could not load Chittorgarh SME performance tracker: no rows found (layout change?)"
  ]
