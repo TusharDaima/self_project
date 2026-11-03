@@ -1,449 +1,7 @@
 {
- "generated_at": "2026-11-02T15:22:04+05:30",
- "generated_display": "02 Nov 2026, 03:22 PM IST",
+ "generated_at": "2026-11-03T15:24:59+05:30",
+ "generated_display": "03 Nov 2026, 03:24 PM IST",
  "open": [
-  {
-   "chittorgarh_url": "https://www.chittorgarh.com/ipo/bombay-coated-and-special-steels-ipo/2671/",
-   "name": "Bombay Coated & Special Steels",
-   "open_date": "2026-10-29",
-   "close_date": "2026-11-02",
-   "ipo_date_text": "29 Oct to 2 Nov, 2026",
-   "listing_date": "Thu, Nov 5, 2026",
-   "face_value": "₹ 10 per share",
-   "issue_type": "Bookbuilding IPO",
-   "sale_type": "Fresh capital only",
-   "listing_at": "BSE, NSE",
-   "type": "Mainboard",
-   "lot_size": 182,
-   "price_band": "₹78 to ₹82",
-   "price_high": 82.0,
-   "issue_price": 82.0,
-   "issue_size_cr": 183.0,
-   "min_application": {
-    "label": "Retail (Min)",
-    "lots": 1,
-    "shares": 182,
-    "amount": 14924.0
-   },
-   "financials": {
-    "periods": [
-     "30 Jun 2026",
-     "31 Mar 2026",
-     "31 Mar 2025",
-     "31 Mar 2024"
-    ],
-    "rows": {
-     "Assets": [
-      526.11,
-      571.47,
-      458.21,
-      350.21
-     ],
-     "Total Income": [
-      397.55,
-      1269.83,
-      1058.65,
-      765.41
-     ],
-     "Profit After Tax": [
-      15.08,
-      30.54,
-      28.67,
-      21.14
-     ],
-     "EBITDA": [
-      32.17,
-      86.09,
-      74.09,
-      49.17
-     ],
-     "NET Worth": [
-      136.62,
-      121.58,
-      83.05,
-      54.36
-     ],
-     "Reserves and Surplus": [
-      96.12,
-      81.08,
-      73.15,
-      44.46
-     ],
-     "Total Borrowing": [
-      273.69,
-      338.45,
-      276.96,
-      234.16
-     ]
-    },
-    "unit": "Amount in ₹ Crore"
-   },
-   "objects": [
-    {
-     "object": "Repayment/pre-payment, in full or in part, of certain borrowings availed by Company",
-     "amount_cr": 125.0
-    },
-    {
-     "object": "Financing the cost towards acquisition of capital equipment under existing lease arrangements with Siemens Financial Services Pvt.Ltd.",
-     "amount_cr": 15.77
-    },
-    {
-     "object": "General Corporate Purposes",
-     "amount_cr": null
-    }
-   ],
-   "kpis": {
-    "ROE": "11.65%",
-    "ROCE": "7.01%",
-    "Debt/Equity": "2.00",
-    "RoNW": "11.03%",
-    "PAT Margin": "3.80%",
-    "EBITDA Margin": "8.10%",
-    "NAV": "33.73"
-   },
-   "valuation": {
-    "EPS (₹)": {
-     "pre": "7.54",
-     "post": "9.60"
-    },
-    "P/E (x)": {
-     "pre": "10.88",
-     "post": "8.54"
-    },
-    "Market Cap at Offer Price": {
-     "pre": "₹332.10 Cr.",
-     "post": "₹515.16 Cr."
-    }
-   },
-   "reviews": {
-    "Subscribe": 0,
-    "May Apply": 0,
-    "Neutral": 1,
-    "Avoid": 0
-   },
-   "legal_name": "Bombay Coated & Special Steels Ltd.",
-   "about": [
-    "Incorporated in December 2019, Bombay Coated and Special Steels Limited is a steel processing centre engaged in converting steel coils into value-added processed steel products for Original Equipment Manufacturers (“OEMs”) and Original Design Manufacturers (“ODMs”). The Company specialises in precision slitting, cut-to-length processing, shearing and embossing of steel coils to manufacture slit coils, embossed slit coils, blanks, embossed blanks and sheared blanks. Its products serve multiple end-use industries, including home and commercial appliances, automotive and auto components, electrical equipment, pharmaceutical cleanroom infrastructure, ventilation systems and general engineering. In addition to processing steel coils, the Company provides logistics and inventory management services and supports customers through just-in-time delivery solutions.",
-    "The Company operates four strategically located manufacturing facilities at Wada and Bhiwandi in Maharashtra, Ghiloth in Rajasthan, and Sri City in Andhra Pradesh. Spread across an aggregate area of 42,209 square metres, these facilities are equipped with slitting, cut-to-length, shearing and embossing lines. The Company has an authorised service partnership with JSW Steel Coated Products Limited (“JSWSCPL”) and/or its holding company since 2021, supporting regular access to steel coils. As of June 30, 2026, its aggregate installed processing capacity was 1,23,153 metric tonnes per annum, calculated on a quarterly basis for Fiscal 2027.",
-    "The Company serves a diversified customer base across consumer durables, home appliances, refrigeration, automotive, electrical equipment, electronics, industrial engineering and other manufacturing sectors. Its customers include OEMs and ODMs such as Haier Appliances India Private Limited, IFB Refrigeration Limited, Dixon Electro Manufacturing Private Limited, Amber Enterprises India Limited and Western Refrigeration Private Limited.",
-    "As of June 30, 2026, the Company had 164 personnel, comprising 160 permanent employees and 4 employees on retainership."
-   ],
-   "about_lists": {
-    "Competitive Strengths": [
-     "High Entry Barriers.",
-     "Growing Processing Capacity.",
-     "Integrated Steel Processing Infrastructure.",
-     "Strategically Located Manufacturing Network.",
-     "Long-Standing Customer Relationships.",
-     "Established Relationship with JSWSCPL."
-    ]
-   },
-   "strengths": [
-    "High Entry Barriers.",
-    "Growing Processing Capacity.",
-    "Integrated Steel Processing Infrastructure.",
-    "Strategically Located Manufacturing Network.",
-    "Long-Standing Customer Relationships.",
-    "Established Relationship with JSWSCPL."
-   ],
-   "status": "open",
-   "day_label": "Closes today",
-   "subscription": {
-    "as_of": "Nov 02, 2026 13:59",
-    "rows": [
-     {
-      "category": "Qualified Institutional",
-      "times": 10.54
-     },
-     {
-      "category": "Non Institutional",
-      "times": 69.35
-     },
-     {
-      "category": "Retail Individual",
-      "times": 18.46
-     }
-    ],
-    "total": 27.0
-   },
-   "gmp": {
-    "gmp": 7.0,
-    "gmp_pct": 8.54,
-    "est_listing": 89.0,
-    "updated": null,
-    "trend": "🔴",
-    "stale": true
-   },
-   "ipowatch_url": "https://www.ipowatch.in/bombay-coated-special-steels-ipo-gmp-grey-market-premium/",
-   "insights": {
-    "metrics": [
-     "FY26 income ₹1,269.8 Cr",
-     "PAT ₹30.5 Cr",
-     "PAT margin 3.8%",
-     "Income +20% YoY",
-     "PAT +7% YoY",
-     "Post-issue P/E 8.5x"
-    ],
-    "flags": [
-     {
-      "tone": "good",
-      "text": "Profit up 3 years in a row"
-     },
-     {
-      "tone": "warn",
-      "text": "High debt/equity 2.00"
-     }
-    ],
-    "partial": "Period to 30 Jun 2026: income ₹397.6 Cr, PAT ₹15.1 Cr (part-year, not compared)"
-   },
-   "business_news": [],
-   "news": [
-    {
-     "title": "Bombay Coated & Special Steels IPO Day 3: Subscribed 32.69x; NII demand hits 104.28x",
-     "source": "scanx.trade",
-     "date": "02 Nov 2026",
-     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORE5QZnJGcFVYNXp4VFo3aDNVcHZZOXYtUkkyaDlPWU1tTVF1eTZ1RC1fYkw5UWlGNEhWRUlMRzF2aGZINlFTaUZjalQ1VGVNcjVrYl9SQ1d6Ni1EUTlTQkhzcm1XdW5mN3BpOHlIXy1ESEk0LUNkWlk5dkxVdThtYllVcmhhOERWR0lydFg1aS1QVEg3RkQwcVoxUDBIZ09KRG9ZdGljbkNxcGlaNDc0LXdhMWc3MUM4bzhNdFIwTTVTUFpRdGwweklaanQxZU05S0F0UFVYd1I?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Bombay Coated & Special Steels Ltd IPO: Check Issue Date, Price Band, Lot Size, Subscription",
-     "source": "Upstox",
-     "date": "02 Nov 2026",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1lLXVpNkdWNEowODdzQkVuS0FTVWwwX05BWmEydkd0QmRRd05STUpRYnFsQ3JCcnNqTEdkRmFtcnhjU2pDM3FseU40Nno1RUVWeVctME9iRHlsc0tQWkdZT3IzeGFWVUxkRzJobGpLaDV3Q2hSVXhZ?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Bombay Coated & Special Steels IPO Last Day: Issue subscribed 7.40 times so far; NII portion booked 10.10 times",
-     "source": "Zee Business",
-     "date": "02 Nov 2026",
-     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNb1J4cEMwclowZzVnSmVEdEluOG9HejRhTXc0dlA4c0ZvUkJSM0lKTW1zLWgtRWlSWV9BdnVuRWNJSmhXb1dWMG9Xd2dfR2cxLUNpM1B2QjFOU0N3ZzJKZlEyRWpSRTlwSVJPTHcxNG05WERiQ0pmeGFJR1Z6ZXgtYVlGRkMyQTdWNFRCbHlodEwtcGNIeTBIaXpFWU9BVjB0SVZzd0xlb0h4a2VrOWxybGtRZE54eHNITW9QVnAxVGdPY0VDMEVvUmxWb2dHcl9OWXp5WXZzanh0VjVlYXUyU2lURUpFUG8?oc=5",
-     "tone": ""
-    }
-   ],
-   "key": "bombay coated special steels"
-  },
-  {
-   "chittorgarh_url": "https://www.chittorgarh.com/ipo/antala-industries-ipo/3221/",
-   "name": "Antala Industries",
-   "open_date": "2026-10-29",
-   "close_date": "2026-11-02",
-   "ipo_date_text": "29 Oct to 2 Nov, 2026",
-   "listing_date": "Thu, Nov 5, 2026",
-   "face_value": "₹ 10 per share",
-   "issue_type": "Bookbuilding IPO",
-   "sale_type": "Fresh capital only",
-   "listing_at": "BSE SME",
-   "type": "SME",
-   "lot_size": 2000,
-   "price_band": "₹63 to ₹67",
-   "price_high": 67.0,
-   "issue_size_cr": 23.0,
-   "min_application": {
-    "label": "Individual investors (IND) (Min)",
-    "lots": 2,
-    "shares": 4000,
-    "amount": 268000.0
-   },
-   "financials": {
-    "periods": [
-     "30 Sep 2026",
-     "31 Mar 2026",
-     "31 Mar 2025",
-     "31 Mar 2024"
-    ],
-    "rows": {
-     "Assets": [
-      34.88,
-      28.41,
-      25.47,
-      5.97
-     ],
-     "Total Income": [
-      30.2,
-      47.53,
-      31.98,
-      12.59
-     ],
-     "Profit After Tax": [
-      4.19,
-      4.24,
-      1.82,
-      0.89
-     ],
-     "EBITDA": [
-      5.76,
-      6.15,
-      2.82,
-      1.36
-     ],
-     "NET Worth": [
-      22.17,
-      17.03,
-      12.19,
-      3.54
-     ],
-     "Reserves and Surplus": [
-      13.49,
-      8.79,
-      3.02,
-      null
-     ],
-     "Total Borrowing": [
-      1.75,
-      4.19,
-      3.85,
-      0.36
-     ]
-    },
-    "unit": "Amount in ₹ Crore"
-   },
-   "objects": [
-    {
-     "object": "To meet Working Capital Requirements",
-     "amount_cr": 10.68
-    },
-    {
-     "object": "To meet the requirements of Capital Expenditure towards Purchase of Machinery",
-     "amount_cr": 5.89
-    },
-    {
-     "object": "General Corporate Purposes",
-     "amount_cr": null
-    }
-   ],
-   "kpis": {
-    "ROE": "21.36%",
-    "ROCE": "26.61%",
-    "Debt/Equity": "0.08",
-    "RoNW": "18.88%",
-    "PAT Margin": "13.90%",
-    "EBITDA Margin": "19.12%"
-   },
-   "valuation": {
-    "EPS (₹)": {
-     "pre": "4.88",
-     "post": "6.89"
-    },
-    "P/E (x)": {
-     "pre": "6.94",
-     "post": "9.72"
-    },
-    "Market Cap at Offer Price": {
-     "pre": "₹58.12 Cr.",
-     "post": "₹81.45 Cr."
-    }
-   },
-   "reviews": {
-    "Subscribe": 0,
-    "May Apply": 0,
-    "Neutral": 0,
-    "Avoid": 0
-   },
-   "legal_name": "Antala Industries Ltd.",
-   "about": [
-    "Incorporated in August 2024, Antala Industries Limited is engaged in the manufacturing, processing, printing, laminating and supply of industrial and commercial packaging products. The Company specializes in BOPP bags, BOPP printing rolls, BOPP lamination rolls, PP woven bags and PP woven lamination rolls, serving customers across industries such as food processing, fertilizers, chemicals, cement and seeds. The Company operates an integrated manufacturing facility in Rajkot, Gujarat, with capabilities including extrusion, coating and lamination, rotogravure printing, stitching and finishing."
-   ],
-   "about_lists": {
-    "Products": [
-     "BOPP Bags: Premium packaging bags used in food, fertilizers, chemicals, seeds, and consumer products."
-    ],
-    "Strengths ": [
-     "Experienced promoters and management team with extensive packaging industry expertise.",
-     "Diversified product portfolio with customization capabilities.",
-     "Presence across multiple end-user industries.",
-     "Integrated manufacturing capabilities supporting operational efficiency.",
-     "Customer-focused manufacturing and delivery process.",
-     "Established supplier and customer relationships."
-    ]
-   },
-   "strengths": [
-    "Experienced promoters and management team with extensive packaging industry expertise.",
-    "Diversified product portfolio with customization capabilities.",
-    "Presence across multiple end-user industries.",
-    "Integrated manufacturing capabilities supporting operational efficiency.",
-    "Customer-focused manufacturing and delivery process.",
-    "Established supplier and customer relationships."
-   ],
-   "status": "open",
-   "day_label": "Closes today",
-   "subscription": {
-    "as_of": "Nov 02, 2026 12:04",
-    "rows": [
-     {
-      "category": "Qualified Institutional",
-      "times": 66.72
-     },
-     {
-      "category": "Non Institutional",
-      "times": 0.12
-     },
-     {
-      "category": "Retail Individual",
-      "times": 0.24
-     }
-    ],
-    "total": 0.94
-   },
-   "gmp": {
-    "gmp": 0.0,
-    "gmp_pct": 0.0,
-    "est_listing": 67.0,
-    "updated": null,
-    "trend": "🟡",
-    "stale": true
-   },
-   "ipowatch_url": "https://ipowatch.in/antala-industries-ipo-gmp-today/",
-   "insights": {
-    "metrics": [
-     "FY26 income ₹47.5 Cr",
-     "PAT ₹4.2 Cr",
-     "PAT margin 13.9%",
-     "Income +49% YoY",
-     "PAT +133% YoY",
-     "Post-issue P/E 9.7x"
-    ],
-    "flags": [
-     {
-      "tone": "good",
-      "text": "Strong growth: income +49%, profit +133%"
-     },
-     {
-      "tone": "good",
-      "text": "Profit up 3 years in a row"
-     },
-     {
-      "tone": "good",
-      "text": "High ROE 21%"
-     }
-    ],
-    "partial": "Period to 30 Sep 2026: income ₹30.2 Cr, PAT ₹4.2 Cr (part-year, not compared)"
-   },
-   "business_news": [],
-   "news": [
-    {
-     "title": "Antala Industries IPO Day 3: Subscribed 1.06x; QIB holds 66.72x; Retail surges 43%",
-     "source": "scanx.trade",
-     "date": "02 Nov 2026",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUnNtTks2bWZXbkxBNklMMW5XY3NBekZoMkg5NGY1Sl8yc2U2eWNnRmRna2FYX0gzTnZidGFDUzFfcHgxVUZBc1p5dzhqNnNqNUszMmdjaVpFNGhXR3d1RzRwQmJtZ1hZWjh3U1dXZUZJWXFVeDBQdURjUHgzTENmRjBNbnhkRjlHTzhfUU1aQldaOWlQcEw4WW1hWG5XeWFEeFVLbmhhVGxfQllHcXo4d0dleUtaaTFadFpnSXhaamRfM3YzU1U2dFlvUmxQVEZFMDNXMUtEUy1wdw?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Antala Industries IPO Subscription Status: 0.81x",
-     "source": "HDFC Sky",
-     "date": "30 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcWhHRFVjRmRLN1VxQUg1ZElZRWJ0bDBTRUtkRmJteklCaXJhN3VwRVBLX2hld0NhUzBxeEVKVTNJa0JtLVVNSWtJT1N0N3RJWmVORzBENVo2X0tQTEp4Vm5vQTJhTUF2NkQ1UXV0Z3BjcG5SeHRDZ1VZZllWa0w1cUloOA?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Antala Industries IPO Day 2: Subscribed 0.87x; bHNI demand jumps 75%; QIB holds firm",
-     "source": "scanx.trade",
-     "date": "30 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWFJabnljSEQyQTN0d09QTG9wU19mQmhvck5mblpMcGJxcm1KaEVCdzlBT3dMd25lQ19yeTFDWjduWlhGcnQ4dExvbVI4VTZFMDhXWktET2VUX19mT3luQWh3el9rZlBQV2lqaFB2Y0owdzBrak4yaUFmTjZwZ1RkQ01aM3hLWHZyX0Nyc28tbktENUFzbmtZTG94M1pQc2JMOFkxRkRCalY4T1laNXYwSVloUm9Bb1pHSVNpc01xZk5KSGVINEEyYmZhV0dhbkhCanJuRl82T0JIUQ?oc=5",
-     "tone": ""
-    }
-   ],
-   "key": "antala industries"
-  },
   {
    "chittorgarh_url": "https://www.chittorgarh.com/ipo/maxwell-engineering-solutions-ipo/2704/",
    "name": "Maxwell Engineering Solutions",
@@ -460,7 +18,7 @@
    "price_band": "₹150 to ₹158",
    "price_high": 158.0,
    "issue_price": 158.0,
-   "issue_size_cr": 58.0,
+   "issue_size_cr": 57.64,
    "min_application": {
     "label": "Individual investors (IND) (Min)",
     "lots": 2,
@@ -600,28 +158,31 @@
     "Established Customer Relationships."
    ],
    "status": "open",
-   "day_label": "Closes tomorrow",
+   "day_label": "Closes today",
    "subscription": {
-    "as_of": "Nov 02, 2026 15:00",
+    "as_of": "Nov 03, 2026 14:30",
     "rows": [
      {
+      "category": "Qualified Institutional",
+      "times": 86.25
+     },
+     {
       "category": "Non Institutional",
-      "times": 73.47
+      "times": 615.18
      },
      {
       "category": "Retail Individual",
-      "times": 82.28
+      "times": 416.87
      }
     ],
-    "total": 56.97
+    "total": 365.62
    },
    "gmp": {
-    "gmp": 70.0,
-    "gmp_pct": 44.3,
-    "est_listing": 228.0,
+    "gmp": 80.0,
+    "gmp_pct": 50.63,
+    "est_listing": 238.0,
     "updated": null,
-    "trend": "🟢",
-    "stale": true
+    "trend": "🟢"
    },
    "ipowatch_url": "https://ipowatch.in/maxwell-engineering-solutions-ipo-gmp-today/",
    "insights": {
@@ -648,24 +209,24 @@
    "business_news": [],
    "news": [
     {
+     "title": "Maxwell Engineering Solutions IPO Day 3: Subscribed 289.22x; QIB surges 1225% to 46.79x",
+     "source": "scanx.trade",
+     "date": "03 Nov 2026",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUlR4Z3l1ckEydExfTkc5SHJESnlBUzFnMlM1bHhHNFo0MGpNSWZfNS04WUxEUUZHQXctSGJMZW11bUFSQi1vTUZrU05rT2k2ei12RTktWW4wZC02N1pzZ1FlU2pxOWI3S1JpZXpiR1pILWd1VzNSRmFET0drSGRaWkFFeWJxazJNWDhHaUN0VU80WWJkVEJXMjE4bld1Z0VxRVF4dUw5ZFdnUUYtY0dwSjMwY1BIMEJ1LVJjR0Y5OUJ0dDRSQlhiRTFpVUI3V1dWLXdHdkxR?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Maxwell Engineering Solutions IPO Subscription Status Day 2: Issue Subscribed 79.81 Times",
+     "source": "HDFC Sky",
+     "date": "02 Nov 2026",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSnUyWVFkbGl1UmVzQ3E4WlVPMjhma0Nuci1FRHFTUkpSYWFZQm9nWWhCMGU3bXg3V3hGUWxOVS1ueF9odl9pYmhFWFJvVnFzN0VXdzdMVXJEMWZ3TmVYX05DSGZ4bHYyNU9FTnQxdFY2cWxwM1NyMDhjM2tib1ZLYVV6TWZHTUtxa0NVTg?oc=5",
+     "tone": ""
+    },
+    {
      "title": "Maxwell Engineering Solutions IPO Day 2: Subscribed 52.2x; Retail demand surges to 75.43x",
      "source": "scanx.trade",
      "date": "02 Nov 2026",
      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNalpZNGhQdTZyem9BOEdBSzVULVNaMFU4c3BTclZhT0psSWZXbk5zbmh5NXRKQXJaTWctZlc2QVZzUVhfNTRtVXgtdDkyYzEyVHdPcUNULUR4NzY5dF9DVGR5ZzJwM3VfR240YlcwOGdabjMzbFN5a05hS0NlRjYta2lNRmFxY3hEdkhEVGRtQkI2MjJ6RkVJMlV3Q1F3RTlsNDJCRjlWZ0tRcHJvSllpYkhIRXJpdEJVU3p2VjlnUzV2UndRVUJRZ3hNZkRsbmJTaWt1RQ?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Maxwell Engineering Solutions Limited Announces IPO Opening On October 30, 2026",
-     "source": "Outlook Business",
-     "date": "31 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeURXU1Q0MEJLOWt4MDVXd1ltYm5UVXFrZGNhX1VPS01QTU5xNF81UWFWX2JZV1pYVnZvaEJOU2xCUHNMVDF1SXBZT0YzM19CeXk2bTBKMkgwX3NMcGNPXzZ4dG5QM3pSSkNvdXdWVFV0dHlTWkc1cU82MlRQNHhJdzNFSTBoSGNCSXZkQzlBalZtSi1TZmswNGpZRWltZEhOLTBJSkI0N1dxaEVja1NmUTNOa05oWUNzN3JIOXNyNVBZR0dwY3VkTkFBdkRoX0hBTk1JTXI2a9IB1wFBVV95cUxQeURXU1Q0MEJLOWt4MDVXd1ltYm5UVXFrZGNhX1VPS01QTU5xNF81UWFWX2JZV1pYVnZvaEJOU2xCUHNMVDF1SXBZT0YzM19CeXk2bTBKMkgwX3NMcGNPXzZ4dG5QM3pSSkNvdXdWVFV0dHlTWkc1cU82MlRQNHhJdzNFSTBoSGNCSXZkQzlBalZtSi1TZmswNGpZRWltZEhOLTBJSkI0N1dxaEVja1NmUTNOa05oWUNzN3JIOXNyNVBZR0dwY3VkTkFBdkRoX0hBTk1JTXI2aw?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Maxwell Engineering Solutions IPO Subscribed 4.62 Times on Day 1",
-     "source": "HDFC Sky",
-     "date": "30 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVGdSa1hTSEhkMVNSVEw2OFRRTHpkNzZfZW85SzJWUGhBU1U5Wk1mUXNMZGVFX0tnOVlMb0wzbDBWVkFZZHRlLTFrLVc1U3k4YlBlTkhObk4tZlM3ZGs4UDduN2NKek9tdEFRRThqVEVpOUhFdWVkdVFBeTlNZmVlWXdkdUhLRHBPVHVVUnQyYlB6S2s?oc=5",
      "tone": ""
     }
    ],
@@ -686,7 +247,8 @@
    "lot_size": 1200,
    "price_band": "₹114 to ₹120",
    "price_high": 120.0,
-   "issue_size_cr": 35.0,
+   "issue_price": 120.0,
+   "issue_size_cr": 34.56,
    "min_application": {
     "label": "Individual investors (IND) (Min)",
     "lots": 2,
@@ -792,32 +354,31 @@
    "about_lists": {},
    "strengths": [],
    "status": "open",
-   "day_label": "Closes tomorrow",
+   "day_label": "Closes today",
    "subscription": {
-    "as_of": "Nov 02, 2026 14:54",
+    "as_of": "Nov 03, 2026 14:30",
     "rows": [
      {
       "category": "Qualified Institutional",
-      "times": 4.88
+      "times": 45.62
      },
      {
       "category": "Non Institutional",
-      "times": 19.51
+      "times": 277.6
      },
      {
       "category": "Retail Individual",
-      "times": 17.48
+      "times": 155.51
      }
     ],
-    "total": 14.33
+    "total": 150.52
    },
    "gmp": {
     "gmp": 30.0,
     "gmp_pct": 25.0,
     "est_listing": 150.0,
     "updated": null,
-    "trend": "🟢",
-    "stale": true
+    "trend": "🟢"
    },
    "ipowatch_url": "https://ipowatch.in/hgs-india-ipo-gmp-today/",
    "insights": {
@@ -844,24 +405,24 @@
    "business_news": [],
    "news": [
     {
-     "title": "HGS India IPO Day 1 Subscription Status 30 Oct 2026",
-     "source": "Univest",
-     "date": "30 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRDdXSXVZS21zcXRtRkpZM29YZkdGTC1HZTJTVVF0NG5CVThoeEhKWWZsMWZvMkN2MlRJYzZDek5ZYUZyLXB4eXMzeDVPNXB6M055V2stNkpkZEFxUGpWSnJuQjdiMW8zTUE3X3c3M1lSTjByLVJ2TFNubGd1YUU4YmdpZjRDSUZlajd0OWV2V05BTnhGVXloYg?oc=5",
+     "title": "HGS (India) IPO GMP Today, Expected Listing Gain & Price Band",
+     "source": "IndiaIPO",
+     "date": "03 Nov 2026",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zNWppcC1FYi1KaVVpV3c3OGM2dHZOM243Vm5kdWZTUEt5MDlrRnRQUVNSeXd6aXZGUHpCZkxCM1YwS2x6bkIwZ21OYXRGczJCQnMzbE9oTll5dnp2amxneWtVYkFmemM?oc=5",
      "tone": ""
     },
     {
-     "title": "Maxwell Engineering, HGS India among 4 SME IPOs to open on October 30; issues to raise Rs 201 crore",
-     "source": "The Economic Times",
-     "date": "30 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQLVByWEFPOW52NnVYdzQ1LU1lSU5oRFJabktVNEY4Z3EwbmZldTVFRnBIT1pkc2RWd1Q5WjhhanVtcjRtOE9MQ1JtMU5pa2NNdWNGajk5Y1BNMkthRzF4dkpjMUFiTThnV3hwdkF2dTBVUnRRdzhtZUdsLVZvcWtzanJTWTNsemJpM3ZscFM4Ym9fVEtTN0pMellDYTZjQ1lXZkNmYjVyek4yT0FMWXpXaDQ5cmdKOTdTTFpYTlF1cU1vTFpqREo4OTBsVmVQYUJXWTBwU1lsd2x3ZkFDX2l0aWZvQV9NYWxTQlBON093V043RDlPcGh0UWRFbUtLbFMyejFYd0xfMjNxQdIBgwJBVV95cUxNcUp5Q0xPa2o4MHpSejc5YUFIWXF0UDFiUnZWUEhkd3pzZXhjazVWd2VMeFRGUUFSN1I3Y1UwSjU5dEh6VU1qU2dKV2FIUmxVNEpoSVZpUjlPQUxPYnlGaUx0U1JkUGJzUmlad1Q0R1NIX0wwZms1VVdfdTVqQ0pnRXVvY3ZNS0pqdnFXQnR0c3VSYkR6R0YyUm5UcHJuSThSTVhDLWVqZTRsOV9TZ0twSFZPOWlma3EtcnRMVzNSckZtMlJvRmVrUk44OWhOQkNpNGxleUN1MTNNR3c3NTd4TGNjelE5a0ViY1czSkVLNHpFb3M2akd1V21zZ0dIMVkzX2Vr?oc=5",
+     "title": "HGS (India) IPO Subscription Status Day 2: Issue Subscribed 20.84 Times",
+     "source": "HDFC Sky",
+     "date": "02 Nov 2026",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6TjNCS0ZkUXlEMlBscEN0YzJDTU5RN0tROTAwNjl1XzlhSTBwaFBuU2Q1UUFaRGZpYXpuVkIwWXlfNmZORkJrS2xpOS1EM2RTaW5VWENMLXpIRlFyZUlRc2VOR05VRGJZYkJwbWJFVEN2UQ?oc=5",
      "tone": ""
     },
     {
-     "title": "HGS (India) Limited inheritance made Ramel Sowar’s largest holder",
-     "source": "Multibagg AI",
-     "date": "29 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOHpqQU5VbXl4VTlWdHN4dk5xTkZWd0hZNm5waHhXYXNOcXVRMDdzM2NLdkd1VEZzYkdUVldOeUVkN1pybGpzVWstMXdpbFVMYVhVQkFLOHZIaVBxWGVHcWNaeGtPVUVHRnNpbm9XNjZMQkVzQ25leWVOLUk4ZENBV2h3bTQ2Qnk2akwwLWZSb0VfQ2RBTjVSaVZVZFNiZHJBcC1JTVctNFdUVk10cWxXT1paemllMmtfRlE?oc=5",
+     "title": "HGS (India) IPO DRHP: ₹19.36 crore fresh issue; exports 84% of FY26 revenue; EBITDA at 37%",
+     "source": "scanx.trade",
+     "date": "30 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOURsdl9Jck80SkVJN2FpOEN1XzNHS3pJSXBRU19uT1FPbFZTUkdwRXdqRldGRTJqVExyMWdENWJmYVQ0SmQ4RE5XMW1sa3JESkFrWXcyRWFYZkkzYXNqTFh6RXluWVJQZEZoQW85WkluV0JtbEdmcVhxVUxBLWFMY25IcWtmSGh4VkVhT0hFLVdZWUFac3c4NVFLODJFYVNUdEwwVWtiNVpYZU1qX1UxV3Y1b0pBY09qZzNpQ0lvWVZoNl85VTFCeTNsZTR5YVRQNXVuMFZR?oc=5",
      "tone": ""
     }
    ],
@@ -882,7 +443,8 @@
    "lot_size": 600,
    "price_band": "₹190 to ₹200",
    "price_high": 200.0,
-   "issue_size_cr": 56.0,
+   "issue_price": 200.0,
+   "issue_size_cr": 56.02,
    "min_application": {
     "label": "Individual investors (IND) (Min)",
     "lots": 2,
@@ -1022,32 +584,31 @@
     "Established Vendor Approvals and Government Tender Eligibility."
    ],
    "status": "open",
-   "day_label": "Closes tomorrow",
+   "day_label": "Closes today",
    "subscription": {
-    "as_of": "Nov 02, 2026 14:59",
+    "as_of": "Nov 03, 2026 14:29",
     "rows": [
      {
       "category": "Qualified Institutional",
-      "times": 0.99
+      "times": 8.29
      },
      {
       "category": "Non Institutional",
-      "times": 2.62
+      "times": 12.79
      },
      {
       "category": "Retail Individual",
-      "times": 1.98
+      "times": 7.06
      }
     ],
-    "total": 1.84
+    "total": 8.64
    },
    "gmp": {
     "gmp": 10.0,
     "gmp_pct": 5.0,
     "est_listing": 210.0,
     "updated": null,
-    "trend": "🔴",
-    "stale": true
+    "trend": "🟢"
    },
    "ipowatch_url": "https://ipowatch.in/johnsoncab-electricals-ipo-gmp-today/",
    "insights": {
@@ -1086,24 +647,24 @@
    "business_news": [],
    "news": [
     {
+     "title": "Johnsoncab Electricals Ltd IPO: Check Issue Date, Price Band, Lot Size, Subscription",
+     "source": "Upstox",
+     "date": "03 Nov 2026",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSdWlCbGpRNXFJV2h2UVdrQnN4b2Z1NjR3QUdLaFVoRGRESllhOURIMkNadTRCbWEzVm5INTJxTjdTaGt6RDNZSjlZTGZBb1dMSFNsUHJyeTJYNll2ZDg1VEpSWWlBYmprcnc?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Johnsoncab Electricals IPO Subscription Status Day 2: Issue Subscribed 2.01 Times",
+     "source": "HDFC Sky",
+     "date": "02 Nov 2026",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcW82SnVNWEpCckpJNElBeF9pR2l2QUtHT3Y0STNxSXpMQTNQSEdCNjdVamVXZVNlSVNMbzg5RGRoSnllZXd6THc0SmE0Q0N2bklxc0gzaWk2NWg5ZVBlMHpKWTNITFNEV1VrYWhuclRkeWhGUkhtT1p4VHRab3VCYmo2MA?oc=5",
+     "tone": ""
+    },
+    {
      "title": "Johnsoncab Electricals IPO Subscribed 1.14 Times on Day 1",
      "source": "HDFC Sky",
      "date": "30 Oct 2026",
      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSnpTVnhPdnd1R3dnX2JJSktGMU8yWG4wUU40d2Z3Y0g0bVIyOVAxbktYWWJGQWRXT2YzR3VDeG5mRG9zamVZbVVlTmpxLU5XZlZIalNuOVZNVFdWakNkS0NKbF84VTJSajdUdmJTQXFRbm9kSmZaZm1ERFFpZVNWajR4bVE3M3RXZnc?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Johnsoncab Electricals IPO GMP, Date, Price Band & Review",
-     "source": "IndiaIPO",
-     "date": "30 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1keXlVWU5jN1VtLVQ4ODBSMkR1aHJtX2VocnduNS13LTliR2lKUHRCbUE5RGIzSmpZdURSdm1Sc181RjBsNGFYZ1VrNzFyTURrNGI1ZFhuQkkxT3h6TW9peUp1NFRoN242SlZ1Qg?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Johnsoncab Electricals IPO Day 1 Subscription Status 30 Oct 2026",
-     "source": "Univest",
-     "date": "30 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOFhYYVJURnZ0Z21OOHRxSEFpbEhzdEViQlRHQkNZQVUyZ1ZLenFvVk43ZDBoTTZMbDVlOGdpS3NNSEZXcWcyUnU4U1FJSlZXYVFqS0NndV9PNUItM09OcjJpMUR0RHB5dXQ2aHlwN3VOcHRjM2ZUd056MUVLVkNZX05HNUpXNC1kbjgtcGVjZDR3TmhUM1k0d0pZN1gwQV9Bb09SZVQ1dFltZw?oc=5",
      "tone": ""
     }
    ],
@@ -1124,7 +685,7 @@
    "lot_size": 1200,
    "price_band": "₹99 to ₹105",
    "price_high": 105.0,
-   "issue_size_cr": 53.0,
+   "issue_size_cr": 53.05,
    "min_application": {
     "label": "Individual investors (IND) (Min)",
     "lots": 2,
@@ -1254,9 +815,9 @@
     "Experienced management team with significant industry experience"
    ],
    "status": "open",
-   "day_label": "Closes tomorrow",
+   "day_label": "Closes today",
    "subscription": {
-    "as_of": "Nov 02, 2026 15:04",
+    "as_of": "Nov 03, 2026 13:29",
     "rows": [
      {
       "category": "Qualified Institutional",
@@ -1264,22 +825,21 @@
      },
      {
       "category": "Non Institutional",
-      "times": 1.09
+      "times": 2.43
      },
      {
       "category": "Retail Individual",
-      "times": 1.28
+      "times": 2.02
      }
     ],
-    "total": 1.28
+    "total": 1.93
    },
    "gmp": {
     "gmp": 0.0,
     "gmp_pct": 0.0,
     "est_listing": 105.0,
     "updated": null,
-    "trend": "🟡",
-    "stale": true
+    "trend": "🟡"
    },
    "ipowatch_url": "https://ipowatch.in/vectras-enprocon-ipo-gmp-today/",
    "insights": {
@@ -1310,6 +870,13 @@
    "business_news": [],
    "news": [
     {
+     "title": "Vectras Enprocon IPO Subscription Status Day 2: Issue Subscribed 1.31 Times",
+     "source": "HDFC Sky",
+     "date": "02 Nov 2026",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9CclduT293SUJUUTlYZWh4d05aQjJPSU5OWEpPekZXR1BBR2lkVERfX2I5a3J0anY3aW9VY1V4VS00Z0tYQkxmM0JCZGZKWVpJUmpuRkoyXzFVdWpjUUU2SFpRdDYzbDlfQUFFUjRWMGZSbDgzZDM4M3Z6SQ?oc=5",
+     "tone": ""
+    },
+    {
      "title": "Vectras Enprocon IPO Day 2: Subscribed 1.35x; QIB holds at 1.42x",
      "source": "scanx.trade",
      "date": "02 Nov 2026",
@@ -1321,13 +888,6 @@
      "source": "Analytics Insight",
      "date": "02 Nov 2026",
      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMjJuYVJ5SEdVc1JWNWZGUW9zU0Z5WXVSLTVJOXJCTlNfYnVheWo5bmpTWm1pMEhQb0dTci01QXZnams5aVVNdWtvYWVNY1ZlOGQ4ajJOS1NKcEdOQ0MxTndQanl6QXcycm8wUEQtdTdpRlQtZXVzOURDZV9hMmJZaHlxTFY1N0o2eE9RemJESUZ5MGFJWEtUd2YwWjM2cHNXa0xiSEFRVkdZeDTSAbgBQVVfeXFMT3ZyR0psVVF0Ym5zLW5LSFVLUWp5Wjl4dmhaUFVkZGtKcWhhay1QX2lDSW0zVGZQTVdkclRJMzNzcTJDSklEUEZMMW1ES1RmcENCenp0X1hVNC1aMy15RHpCQzBkYXFDYl94Y2JTQUduckduanBoRGZ1cXEtSHhIaDFvOG9icjZhMEI2dk4wVUFpLUxMUkplVFJlZFNtanVLU0NhcGNWWTV6ekp4YVBjYTk5aWRYYl93Yw?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "IPO Opening Announcement Of Vectras Enprocon Limited On BSE SME Platform",
-     "source": "Outlook Business",
-     "date": "31 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPc0E2NlVRQ3ViQzhZYzgweTFGLThLdVhWV3BXZkgxTXl5RExXZHF6MXhxajB6dHRaN1YwUkljWUlmU08xNUZyUzctS3o1c0JtWUI5T2lwTk5zYjlQNXJpbExlMHQwUllQWm9qdW4xcmVfUld0WnlQdHc4bUw3S1Y0bEtVSnRJOUxQb0lIQ1RDdnhLZElnOWJRNlR5NC1qQVQ0TlVmTHo0bzVudTdrdFVwbElRRWU3WWJvclpXQ1Q2QUZRWmJiSnpUN3Nlc2Z3NDDSAc8BQVVfeXFMT3NBNjZVUUN1YkM4WWM4MHkxRi04S3VYVldwV2ZIMU15eURMV2RxejF4cWowenR0WjdWMFJJY1lJZlNPMTVGclM3LUt6NXNCbVlCOU9pcE5Oc2I5UDVyaWxMZTB0MFJZUFpvanVuMXJlX1JXdFp5UHR3OG1MN0tWNGxLVUp0STlMUG9JSENUQ3Z4S2RJZzliUTZUeTQtakFUNE5VZkx6NG81bnU3a3RVcGxJUUVlN1lib3JaV0NUNkFGUVpiYkp6VDdzZXNmdzQw?oc=5",
      "tone": ""
     }
    ],
@@ -1348,7 +908,7 @@
    "lot_size": 1200,
    "price_band": "₹88 to ₹94",
    "price_high": 94.0,
-   "issue_size_cr": 57.0,
+   "issue_size_cr": 56.68,
    "min_application": {
     "label": "Individual investors (IND) (Min)",
     "lots": 2,
@@ -1488,28 +1048,31 @@
     "Product development and customization capabilities."
    ],
    "status": "open",
-   "day_label": "Closes in 2 days",
+   "day_label": "Closes tomorrow",
    "subscription": {
-    "as_of": "Nov 02, 2026 12:00",
+    "as_of": "Nov 03, 2026 14:30",
     "rows": [
      {
+      "category": "Qualified Institutional",
+      "times": 327.27
+     },
+     {
       "category": "Non Institutional",
-      "times": 0.67
+      "times": 0.85
      },
      {
       "category": "Retail Individual",
-      "times": 0.03
+      "times": 0.59
      }
     ],
-    "total": 0.28
+    "total": 0.7
    },
    "gmp": {
-    "gmp": 0.0,
-    "gmp_pct": 0.0,
-    "est_listing": 94.0,
+    "gmp": 15.0,
+    "gmp_pct": 15.96,
+    "est_listing": 109.0,
     "updated": null,
-    "trend": "🟡",
-    "stale": true
+    "trend": "🟢"
    },
    "ipowatch_url": "https://ipowatch.in/vedant-poly-fabs-ipo-gmp-today/",
    "insights": {
@@ -1536,24 +1099,24 @@
    "business_news": [],
    "news": [
     {
-     "title": "Vectras to Vedant Poly Fabs: 5 IPOs to Raise Rs 258 Crore, Check Prices",
-     "source": "Analytics Insight",
-     "date": "02 Nov 2026",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMjJuYVJ5SEdVc1JWNWZGUW9zU0Z5WXVSLTVJOXJCTlNfYnVheWo5bmpTWm1pMEhQb0dTci01QXZnams5aVVNdWtvYWVNY1ZlOGQ4ajJOS1NKcEdOQ0MxTndQanl6QXcycm8wUEQtdTdpRlQtZXVzOURDZV9hMmJZaHlxTFY1N0o2eE9RemJESUZ5MGFJWEtUd2YwWjM2cHNXa0xiSEFRVkdZeDTSAbgBQVVfeXFMT3ZyR0psVVF0Ym5zLW5LSFVLUWp5Wjl4dmhaUFVkZGtKcWhhay1QX2lDSW0zVGZQTVdkclRJMzNzcTJDSklEUEZMMW1ES1RmcENCenp0X1hVNC1aMy15RHpCQzBkYXFDYl94Y2JTQUduckduanBoRGZ1cXEtSHhIaDFvOG9icjZhMEI2dk4wVUFpLUxMUkplVFJlZFNtanVLU0NhcGNWWTV6ekp4YVBjYTk5aWRYYl93Yw?oc=5",
+     "title": "Vedant Poly Fabs IPO Opens at ₹88-94 Price Band, Check Issue Size, Financials and Key Details",
+     "source": "Dalal Street Investment Journal",
+     "date": "03 Nov 2026",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSW5xbU9MT3FfYlRSRmI3LXEzOUhvV1hBZDlpSW5wNFYxN0lZa0twaFd5MS14cy1yamxnVlNMQzg3N2pXS214NnlwZEs1eHQ3cnZPdHdtaTJGVHFueG1BdWhRS3B2OEttQWlMSTZ0alI2d1VSUTQxaXRjNmhVSW9WMWxOX1VsYk96UWljUjA1ZXppbEFKN293WGRaRTF6aDNzYnJVaUgyRFBGdElvNGw1NExKdUFkb0xoT3BBZGp6X2pmVjNJV0R2N1JTX183bEd0N180ZXdB?oc=5",
      "tone": ""
     },
     {
-     "title": "Vedant Poly Fabs IPO Day 1: Subscribed 0.35x; NII demand surges 6400%",
-     "source": "scanx.trade",
-     "date": "02 Nov 2026",
-     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdklXMjlWSDVFOGFQT1hLaE5iemFEY2Y3d29mZDhUNkplTlVzLWtwR0pfY2JGRnJNU3RrQmZRblNUOFdwMk9MWllpaVV3amIydGZmOXhyUUZ6VFhOTDVqQU1DZWdCYWhkNWdhVmswdUgyRXlIZkFYNllickZGTUtTZDhxcnlFMlpRc3dab1BTWjVUc2FQN0RfSjlSaVBwZnVvcjRWemk4Z25SQUxkNE1FWTNSR1NxVDBqRlZ4Szk3TTd5cng5cE5PY0loZ28wRlV1N2dxdDdR?oc=5",
+     "title": "Vedant Poly Fabs Ltd. GMP, Date, Price Band & Review",
+     "source": "IndiaIPO",
+     "date": "03 Nov 2026",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1SeW5md0RhLXY3UHFxWTgwVk9NcDE3SDZ6Mk1FVnNBMTl3RU5jdXF4WU9qNmk3TkZVVkwwM3RYbzMxUEJfQnVfRE53TVZfQ0NfZWdDd2ZNMUpWOHBlWHJyN3MtWHNIdXFLNnRsa1pWQV85R3ZETTdCeTYwVFY?oc=5",
      "tone": ""
     },
     {
-     "title": "Vedant Poly Fabs SME IPO opens today; GMP at 16%, check key details",
-     "source": "The Economic Times",
+     "title": "Vedant Poly Fabs IPO Subscription Status Day 1: Issue Subscribed 0.41 Times",
+     "source": "HDFC Sky",
      "date": "02 Nov 2026",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMThoSTI0dWsxcDNTNVQyRFlxLUgtcExSRzlYb2lxd05ETVItSHFNSDEwdDRKOWJ5MUI4UHNvSldFQkZobXdZdS1DZ3NZS2N2X0c5NW00TnFqSVBuU3h1TGZ0SEg5RThZalF2UDY5cW1rNDMyMjAtZTJiUjhXTnRmWlBUWnRES1BQb2QyZk9sa0I3dVo4MW9sRDlZZ0QzNUpTeExtOUYwS1g1d24xYlRHT2VCSFVwZVRiYVhWNWJFYmZHSW44T1pNRlFwVVRmRjhwLUHSAdcBQVVfeXFMTlN4N1JhcFY0aVRHWmUxaGZHb2NkVVBVUnFiR2dBdDVYSTd6M2VlOTFZQ1BTQkFUZW5OMTlFbUFOZFZQWFUzZnpsNlV5eGpsanREV0p6allTY2F0Sk16X3ZRSEpsdFZFSjNPam5TcVcxMjZIWFdxVjVSSlRtd1dUbEF3SmxEN3dyNnJ5XzFOLTVzUVphTWhvMHRnWnh3MFZfRXNENGVQTkJuckhHZHlZbzFfTG5EYVd4b3pRLTlCSHBtbUp3SWRDSnNGaE44NGR0Njk4WnZ6OGs?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5TVVR4ZDB5WU03NHFmZTRUcWc0QjZDdUF5YWJtQmVORVdpWEJXWE56dTBJTEFDb0k5VHM5ZHJLUWdzZjYxaTZodGNDQjBPXzNrVy1JSHlZOUdqLUp3VU83SnVTdk8tc1NxVGdqb1c5QVU5RUZjbFNIUVJGMA?oc=5",
      "tone": ""
     }
    ],
@@ -3473,8 +3036,8 @@
     "key": "bombay coated special steels",
     "name": "Bombay Coated and Special Steels",
     "type": "Mainboard",
-    "gmp": 7.0,
-    "gmp_pct": 8.54,
+    "gmp": 9.0,
+    "gmp_pct": 10.98,
     "status": null,
     "updated": null
    },
@@ -3482,8 +3045,8 @@
     "key": "mksons fine jewels",
     "name": "M.K.Sons Fine Jewels",
     "type": "Mainboard",
-    "gmp": 6.0,
-    "gmp_pct": 3.7,
+    "gmp": 7.0,
+    "gmp_pct": 4.32,
     "status": null,
     "updated": null
    },
@@ -3491,8 +3054,8 @@
     "key": "sfc environmental technologies",
     "name": "SFC Environmental Technologies",
     "type": "Mainboard",
-    "gmp": 20.0,
-    "gmp_pct": 6.06,
+    "gmp": 15.0,
+    "gmp_pct": 4.55,
     "status": null,
     "updated": null
    },
@@ -3506,20 +3069,11 @@
     "updated": null
    },
    {
-    "key": "eaaa india alternatives",
-    "name": "EAAA India Alternatives",
-    "type": "Mainboard",
-    "gmp": 52.0,
-    "gmp_pct": 3.12,
-    "status": null,
-    "updated": null
-   },
-   {
     "key": "vedant poly fabs",
     "name": "Vedant Poly Fabs",
     "type": "SME",
-    "gmp": 0.0,
-    "gmp_pct": 0.0,
+    "gmp": 15.0,
+    "gmp_pct": 15.96,
     "status": null,
     "updated": null
    },
@@ -3545,8 +3099,8 @@
     "key": "maxwell engineering",
     "name": "Maxwell Engineering",
     "type": "SME",
-    "gmp": 70.0,
-    "gmp_pct": 44.3,
+    "gmp": 80.0,
+    "gmp_pct": 50.63,
     "status": null,
     "updated": null
    },
@@ -3572,8 +3126,8 @@
     "key": "ajwa projects",
     "name": "Ajwa Projects",
     "type": "SME",
-    "gmp": 5.0,
-    "gmp_pct": 2.46,
+    "gmp": 1.0,
+    "gmp_pct": 0.49,
     "status": null,
     "updated": null
    },
@@ -3594,20 +3148,11 @@
     "gmp_pct": 0.0,
     "status": null,
     "updated": null
-   },
-   {
-    "key": "core4 engineers",
-    "name": "Core4 Engineers",
-    "type": "SME",
-    "gmp": 0.0,
-    "gmp_pct": 0.0,
-    "status": null,
-    "updated": null
    }
   ]
  },
  "warnings": [
-  "Could not load IPOWatch GMP: ConnectionError. Showing last known GMP values.",
+  "Chittorgarh Mainboard list page had no IPO links (layout change?)",
   "Could not load Chittorgarh Mainboard performance tracker: no rows found (layout change?)",
   "Could not load Chittorgarh SME performance tracker: no rows found (layout change?)"
  ]
