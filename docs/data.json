@@ -1,696 +1,29 @@
 {
- "generated_at": "2026-11-03T15:24:59+05:30",
- "generated_display": "03 Nov 2026, 03:24 PM IST",
+ "generated_at": "2026-11-05T15:15:10+05:30",
+ "generated_display": "05 Nov 2026, 03:15 PM IST",
  "open": [
   {
-   "chittorgarh_url": "https://www.chittorgarh.com/ipo/maxwell-engineering-solutions-ipo/2704/",
-   "name": "Maxwell Engineering Solutions",
-   "open_date": "2026-10-30",
-   "close_date": "2026-11-03",
-   "ipo_date_text": "30 Oct to 3 Nov, 2026",
-   "listing_date": "Fri, Nov 6, 2026",
-   "face_value": "₹ 10 per share",
-   "issue_type": "Bookbuilding IPO",
-   "sale_type": "Fresh capital only",
-   "listing_at": "NSE SME",
-   "type": "SME",
-   "lot_size": 800,
-   "price_band": "₹150 to ₹158",
-   "price_high": 158.0,
-   "issue_price": 158.0,
-   "issue_size_cr": 57.64,
-   "min_application": {
-    "label": "Individual investors (IND) (Min)",
-    "lots": 2,
-    "shares": 1600,
-    "amount": 252800.0
-   },
-   "financials": {
-    "periods": [
-     "31 Jul 2026",
-     "31 Mar 2026",
-     "31 Mar 2025",
-     "31 Mar 2024"
-    ],
-    "rows": {
-     "Assets": [
-      51.79,
-      47.55,
-      25.31,
-      8.51
-     ],
-     "Total Income": [
-      12.25,
-      30.76,
-      22.59,
-      10.87
-     ],
-     "Profit After Tax": [
-      3.05,
-      11.86,
-      9.18,
-      3.16
-     ],
-     "EBITDA": [
-      4.29,
-      15.19,
-      11.69,
-      4.25
-     ],
-     "NET Worth": [
-      27.92,
-      24.87,
-      13.01,
-      3.33
-     ],
-     "Reserves and Surplus": [
-      17.87,
-      14.82,
-      10.25,
-      3.32
-     ],
-     "Total Borrowing": [
-      15.77,
-      16.73,
-      8.6,
-      3.19
-     ]
-    },
-    "unit": "Amount in ₹ Crore"
-   },
-   "objects": [
-    {
-     "object": "Financing the capital expenditure requirement towards Purchase of New Machineries, Lab Equipment & Other utilities for Manufacturing Facility",
-     "amount_cr": 18.0
-    },
-    {
-     "object": "Financing the capital expenditure requirement for construction of New Office Building and Manufacturing facility",
-     "amount_cr": 6.5
-    },
-    {
-     "object": "Repayment / prepayment, in full or part, of certain outstanding borrowings availed by Company",
-     "amount_cr": 4.3
-    },
-    {
-     "object": "Funding working capital requirements of Company",
-     "amount_cr": 14.0
-    },
-    {
-     "object": "General Corporate Purposes",
-     "amount_cr": null
-    }
-   ],
-   "kpis": {
-    "ROE": "11.56%",
-    "ROCE": "9.87%",
-    "Debt/Equity": "0.56",
-    "RoNW": "10.93%",
-    "PAT Margin": "25.70%",
-    "EBITDA Margin": "36.11%",
-    "NAV": "27.78",
-    "P/B (x)": "5.69"
-   },
-   "valuation": {
-    "EPS (₹)": {
-     "pre": "11.80",
-     "post": "6.68"
-    },
-    "P/E (x)": {
-     "pre": "13.39",
-     "post": "23.65"
-    },
-    "Market Cap at Offer Price": {
-     "pre": "₹158.79 Cr.",
-     "post": "₹216.43 Cr."
-    }
-   },
-   "reviews": {
-    "Subscribe": 0,
-    "May Apply": 0,
-    "Neutral": 0,
-    "Avoid": 0
-   },
-   "legal_name": "Maxwell Engineering Solutions Ltd.",
-   "about": [
-    "Incorporated in September 2022, Maxwell Engineering Solutions Limited is a precision engineering company engaged in the manufacturing, trading and servicing of critical components for underwater pelletizing systems. The Company manufactures a range of components for underwater pelletizing systems, including pelletizing die plates, pelletizing blades and knives, blade holders, cutter hubs, tapped driving bushes and other spare parts. Its products cater to polymer compounding, masterbatches, engineering plastics, cable compounds, specialty polymers and plastics recycling industries. The Company also undertakes customised manufacturing based on customer specifications and offers white-label manufacturing, enabling customers to market products under their own brands. Its business operates through three segments: manufacturing, services and trading.",
-    "The Company commenced operations at its company-owned manufacturing facility at Waghodia GIDC, Vadodara, Gujarat, in July 2025 and has progressively transitioned manufacturing activities from its earlier leased facility in Makarpura, Vadodara. Its manufacturing infrastructure includes precision machining and testing equipment such as VMC, CNC, milling, EDM, wire-cut, lathe and surface-grinding machines. Certain specialised processes, including heat treatment, hardening and coating, are outsourced to job workers. The Company also provides refurbishment and repair services for used die plates, intermediary support for the marketing and supply of CJTEK components, and management consulting services for developing customer relationships.",
-    "The Company serves customers across India and international markets, including the USA, Germany, the Netherlands, Israel, Saudi Arabia, Japan, Australia, Italy and other countries. It holds ISO 9001:2015 certification for manufacturing and supplying pelletizing system components and received ZED Bronze Certification under the MSME Sustainable Certification Scheme in November 2025. Its operations are supported by an experienced promoter and management team, technical personnel and dedicated sales and marketing capabilities.",
-    "As of September 30, 2026, the Company had 71 full-time employees, excluding Directors, across production and operations, quality and testing, design, sales and marketing, finance, administration and other functions."
-   ],
-   "about_lists": {
-    "Competitive Strengths": [
-     "Diversified Business Segments.",
-     "Quality Standards and Certifications.",
-     "International Market Presence.",
-     "Customised and White-Label Manufacturing.",
-     "In-House Manufacturing and R&D Capabilities.",
-     "Specialised Product Portfolio.",
-     "Established Customer Relationships."
-    ]
-   },
-   "strengths": [
-    "Diversified Business Segments.",
-    "Quality Standards and Certifications.",
-    "International Market Presence.",
-    "Customised and White-Label Manufacturing.",
-    "In-House Manufacturing and R&D Capabilities.",
-    "Specialised Product Portfolio.",
-    "Established Customer Relationships."
-   ],
-   "status": "open",
-   "day_label": "Closes today",
-   "subscription": {
-    "as_of": "Nov 03, 2026 14:30",
-    "rows": [
-     {
-      "category": "Qualified Institutional",
-      "times": 86.25
-     },
-     {
-      "category": "Non Institutional",
-      "times": 615.18
-     },
-     {
-      "category": "Retail Individual",
-      "times": 416.87
-     }
-    ],
-    "total": 365.62
-   },
-   "gmp": {
-    "gmp": 80.0,
-    "gmp_pct": 50.63,
-    "est_listing": 238.0,
-    "updated": null,
-    "trend": "🟢"
-   },
-   "ipowatch_url": "https://ipowatch.in/maxwell-engineering-solutions-ipo-gmp-today/",
-   "insights": {
-    "metrics": [
-     "FY26 income ₹30.8 Cr",
-     "PAT ₹11.9 Cr",
-     "PAT margin 25.7%",
-     "Income +36% YoY",
-     "PAT +29% YoY",
-     "Post-issue P/E 23.6x"
-    ],
-    "flags": [
-     {
-      "tone": "good",
-      "text": "Strong growth: income +36%, profit +29%"
-     },
-     {
-      "tone": "good",
-      "text": "Profit up 3 years in a row"
-     }
-    ],
-    "partial": "Period to 31 Jul 2026: income ₹12.2 Cr, PAT ₹3.0 Cr (part-year, not compared)"
-   },
-   "business_news": [],
-   "news": [
-    {
-     "title": "Maxwell Engineering Solutions IPO Day 3: Subscribed 289.22x; QIB surges 1225% to 46.79x",
-     "source": "scanx.trade",
-     "date": "03 Nov 2026",
-     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUlR4Z3l1ckEydExfTkc5SHJESnlBUzFnMlM1bHhHNFo0MGpNSWZfNS04WUxEUUZHQXctSGJMZW11bUFSQi1vTUZrU05rT2k2ei12RTktWW4wZC02N1pzZ1FlU2pxOWI3S1JpZXpiR1pILWd1VzNSRmFET0drSGRaWkFFeWJxazJNWDhHaUN0VU80WWJkVEJXMjE4bld1Z0VxRVF4dUw5ZFdnUUYtY0dwSjMwY1BIMEJ1LVJjR0Y5OUJ0dDRSQlhiRTFpVUI3V1dWLXdHdkxR?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Maxwell Engineering Solutions IPO Subscription Status Day 2: Issue Subscribed 79.81 Times",
-     "source": "HDFC Sky",
-     "date": "02 Nov 2026",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSnUyWVFkbGl1UmVzQ3E4WlVPMjhma0Nuci1FRHFTUkpSYWFZQm9nWWhCMGU3bXg3V3hGUWxOVS1ueF9odl9pYmhFWFJvVnFzN0VXdzdMVXJEMWZ3TmVYX05DSGZ4bHYyNU9FTnQxdFY2cWxwM1NyMDhjM2tib1ZLYVV6TWZHTUtxa0NVTg?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Maxwell Engineering Solutions IPO Day 2: Subscribed 52.2x; Retail demand surges to 75.43x",
-     "source": "scanx.trade",
-     "date": "02 Nov 2026",
-     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNalpZNGhQdTZyem9BOEdBSzVULVNaMFU4c3BTclZhT0psSWZXbk5zbmh5NXRKQXJaTWctZlc2QVZzUVhfNTRtVXgtdDkyYzEyVHdPcUNULUR4NzY5dF9DVGR5ZzJwM3VfR240YlcwOGdabjMzbFN5a05hS0NlRjYta2lNRmFxY3hEdkhEVGRtQkI2MjJ6RkVJMlV3Q1F3RTlsNDJCRjlWZ0tRcHJvSllpYkhIRXJpdEJVU3p2VjlnUzV2UndRVUJRZ3hNZkRsbmJTaWt1RQ?oc=5",
-     "tone": ""
-    }
-   ],
-   "key": "maxwell engineering solutions"
-  },
-  {
-   "chittorgarh_url": "https://www.chittorgarh.com/ipo/hgs-india-ipo/2981/",
-   "name": "HGS (India)",
-   "open_date": "2026-10-30",
-   "close_date": "2026-11-03",
-   "ipo_date_text": "30 Oct to 3 Nov, 2026",
-   "listing_date": "Fri, Nov 6, 2026",
-   "face_value": "₹ 10 per share",
-   "issue_type": "Bookbuilding IPO",
-   "sale_type": "Fresh capital cum OFS",
-   "listing_at": "NSE SME",
-   "type": "SME",
-   "lot_size": 1200,
-   "price_band": "₹114 to ₹120",
-   "price_high": 120.0,
-   "issue_price": 120.0,
-   "issue_size_cr": 34.56,
-   "min_application": {
-    "label": "Individual investors (IND) (Min)",
-    "lots": 2,
-    "shares": 2400,
-    "amount": 288000.0
-   },
-   "financials": {
-    "periods": [
-     "30 Apr 2026",
-     "31 Mar 2026",
-     "31 Mar 2025",
-     "31 Mar 2024"
-    ],
-    "rows": {
-     "Assets": [
-      111.9,
-      110.12,
-      104.04,
-      113.7
-     ],
-     "Total Income": [
-      3.79,
-      48.91,
-      53.45,
-      37.93
-     ],
-     "Profit After Tax": [
-      1.11,
-      11.64,
-      10.51,
-      4.0
-     ],
-     "EBITDA": [
-      1.58,
-      16.89,
-      15.31,
-      6.16
-     ],
-     "NET Worth": [
-      90.41,
-      89.27,
-      85.16,
-      95.04
-     ],
-     "Reserves and Surplus": [
-      91.8,
-      90.66,
-      87.97,
-      95.47
-     ]
-    },
-    "unit": "Amount in ₹ Crore"
-   },
-   "objects": [
-    {
-     "object": "Funding the capital expenditure towards replacement of plant and machinery for our existing manufacturing facility at Manesar, Gurugram",
-     "amount_cr": 15.05
-    },
-    {
-     "object": "Funding the capital expenditure towards Backward Integration for setting up in-house gold plating facility",
-     "amount_cr": 1.05
-    },
-    {
-     "object": "Funding the capital expenditure towards Infrastructural development of building on 3rd Floor at our existing manufacturing facility at Manesar, Gurugram",
-     "amount_cr": 3.26
-    },
-    {
-     "object": "Pursuing unidentified acquisitions and general corporate purpose",
-     "amount_cr": null
-    }
-   ],
-   "kpis": {
-    "ROE": "1.24%",
-    "ROCE": "1.60%",
-    "RoNW": "1.23%",
-    "PAT Margin": "35.80%",
-    "EBITDA Margin": "50.81%",
-    "NAV": "105.96",
-    "P/B (x)": "1.13"
-   },
-   "valuation": {
-    "EPS (₹)": {
-     "pre": "13.64",
-     "post": "12.29"
-    },
-    "P/E (x)": {
-     "pre": "8.8",
-     "post": "9.76"
-    },
-    "Market Cap at Offer Price": {
-     "pre": "₹102.39 Cr.",
-     "post": "₹130.30 Cr."
-    }
-   },
-   "reviews": {
-    "Subscribe": 0,
-    "May Apply": 0,
-    "Neutral": 0,
-    "Avoid": 0
-   },
-   "legal_name": "HGS (India) Ltd.",
-   "about": [],
-   "about_lists": {},
-   "strengths": [],
-   "status": "open",
-   "day_label": "Closes today",
-   "subscription": {
-    "as_of": "Nov 03, 2026 14:30",
-    "rows": [
-     {
-      "category": "Qualified Institutional",
-      "times": 45.62
-     },
-     {
-      "category": "Non Institutional",
-      "times": 277.6
-     },
-     {
-      "category": "Retail Individual",
-      "times": 155.51
-     }
-    ],
-    "total": 150.52
-   },
-   "gmp": {
-    "gmp": 30.0,
-    "gmp_pct": 25.0,
-    "est_listing": 150.0,
-    "updated": null,
-    "trend": "🟢"
-   },
-   "ipowatch_url": "https://ipowatch.in/hgs-india-ipo-gmp-today/",
-   "insights": {
-    "metrics": [
-     "FY26 income ₹48.9 Cr",
-     "PAT ₹11.6 Cr",
-     "PAT margin 35.8%",
-     "Income -8% YoY",
-     "PAT +11% YoY",
-     "Post-issue P/E 9.8x"
-    ],
-    "flags": [
-     {
-      "tone": "warn",
-      "text": "Income fell 8% in FY26"
-     },
-     {
-      "tone": "good",
-      "text": "Profit up 3 years in a row"
-     }
-    ],
-    "partial": "Period to 30 Apr 2026: income ₹3.8 Cr, PAT ₹1.1 Cr (part-year, not compared)"
-   },
-   "business_news": [],
-   "news": [
-    {
-     "title": "HGS (India) IPO GMP Today, Expected Listing Gain & Price Band",
-     "source": "IndiaIPO",
-     "date": "03 Nov 2026",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zNWppcC1FYi1KaVVpV3c3OGM2dHZOM243Vm5kdWZTUEt5MDlrRnRQUVNSeXd6aXZGUHpCZkxCM1YwS2x6bkIwZ21OYXRGczJCQnMzbE9oTll5dnp2amxneWtVYkFmemM?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "HGS (India) IPO Subscription Status Day 2: Issue Subscribed 20.84 Times",
-     "source": "HDFC Sky",
-     "date": "02 Nov 2026",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6TjNCS0ZkUXlEMlBscEN0YzJDTU5RN0tROTAwNjl1XzlhSTBwaFBuU2Q1UUFaRGZpYXpuVkIwWXlfNmZORkJrS2xpOS1EM2RTaW5VWENMLXpIRlFyZUlRc2VOR05VRGJZYkJwbWJFVEN2UQ?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "HGS (India) IPO DRHP: ₹19.36 crore fresh issue; exports 84% of FY26 revenue; EBITDA at 37%",
-     "source": "scanx.trade",
-     "date": "30 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOURsdl9Jck80SkVJN2FpOEN1XzNHS3pJSXBRU19uT1FPbFZTUkdwRXdqRldGRTJqVExyMWdENWJmYVQ0SmQ4RE5XMW1sa3JESkFrWXcyRWFYZkkzYXNqTFh6RXluWVJQZEZoQW85WkluV0JtbEdmcVhxVUxBLWFMY25IcWtmSGh4VkVhT0hFLVdZWUFac3c4NVFLODJFYVNUdEwwVWtiNVpYZU1qX1UxV3Y1b0pBY09qZzNpQ0lvWVZoNl85VTFCeTNsZTR5YVRQNXVuMFZR?oc=5",
-     "tone": ""
-    }
-   ],
-   "key": "hgs"
-  },
-  {
-   "chittorgarh_url": "https://www.chittorgarh.com/ipo/johnsoncab-electricals-ipo/3217/",
-   "name": "Johnsoncab Electricals",
-   "open_date": "2026-10-30",
-   "close_date": "2026-11-03",
-   "ipo_date_text": "30 Oct to 3 Nov, 2026",
-   "listing_date": "Fri, Nov 6, 2026",
+   "chittorgarh_url": "https://www.chittorgarh.com/ipo/antala-industries-ipo/3221/",
+   "name": "Antala Industries",
+   "open_date": "2026-10-29",
+   "close_date": "2026-11-05",
+   "ipo_date_text": "29 Oct to 5 Nov, 2026",
+   "listing_date": "Wed, Nov 11, 2026",
    "face_value": "₹ 10 per share",
    "issue_type": "Bookbuilding IPO",
    "sale_type": "Fresh capital only",
    "listing_at": "BSE SME",
    "type": "SME",
-   "lot_size": 600,
-   "price_band": "₹190 to ₹200",
-   "price_high": 200.0,
-   "issue_price": 200.0,
-   "issue_size_cr": 56.02,
+   "lot_size": 2000,
+   "price_band": "₹62 to ₹66",
+   "price_high": 66.0,
+   "issue_price": 66.0,
+   "issue_size_cr": 22.98,
    "min_application": {
     "label": "Individual investors (IND) (Min)",
     "lots": 2,
-    "shares": 1200,
-    "amount": 240000.0
-   },
-   "financials": {
-    "periods": [
-     "31 Aug 2026",
-     "31 Mar 2026",
-     "31 Mar 2025",
-     "31 Mar 2024"
-    ],
-    "rows": {
-     "Assets": [
-      132.07,
-      126.64,
-      64.28,
-      48.44
-     ],
-     "Total Income": [
-      113.33,
-      211.34,
-      140.0,
-      88.95
-     ],
-     "Profit After Tax": [
-      8.63,
-      13.42,
-      5.46,
-      2.52
-     ],
-     "EBITDA": [
-      15.32,
-      24.06,
-      12.14,
-      5.42
-     ],
-     "NET Worth": [
-      40.08,
-      31.44,
-      14.24,
-      8.88
-     ],
-     "Reserves and Surplus": [
-      32.31,
-      23.67,
-      11.24,
-      5.88
-     ],
-     "Total Borrowing": [
-      77.57,
-      79.88,
-      41.79,
-      32.81
-     ]
-    },
-    "unit": "Amount in ₹ Crore"
-   },
-   "objects": [
-    {
-     "object": "Construction of additional Factory Shed for expansion",
-     "amount_cr": 8.46
-    },
-    {
-     "object": "Purchase of additional plant & machinery for increasing the production capacity",
-     "amount_cr": 9.9
-    },
-    {
-     "object": "Purchase new machinery to manufacture “Paper Insulated Copper / Aluminium Conductors",
-     "amount_cr": 8.5
-    },
-    {
-     "object": "Purchase and set up a rooftop solar power plant",
-     "amount_cr": 3.23
-    },
-    {
-     "object": "Additional Working Capital Requirement",
-     "amount_cr": 14.0
-    },
-    {
-     "object": "General Corporate Purposes",
-     "amount_cr": null
-    }
-   ],
-   "kpis": {
-    "ROE": "24.14%",
-    "ROCE": "21.55%",
-    "Debt/Equity": "1.94",
-    "RoNW": "21.54%",
-    "PAT Margin": "7.64%",
-    "EBITDA Margin": "13.55%",
-    "NAV": "51.58",
-    "P/B (x)": "3.88"
-   },
-   "valuation": {
-    "EPS (₹)": {
-     "pre": "17.27",
-     "post": "19.60"
-    },
-    "P/E (x)": {
-     "pre": "11.58",
-     "post": "10.2"
-    },
-    "Market Cap at Offer Price": {
-     "pre": "₹155.40 Cr.",
-     "post": "₹211.42 Cr."
-    }
-   },
-   "reviews": {
-    "Subscribe": 0,
-    "May Apply": 0,
-    "Neutral": 0,
-    "Avoid": 0
-   },
-   "legal_name": "Johnsoncab Electricals Ltd.",
-   "about": [
-    "Incorporated on November 12, 2020, Johnsoncab Electricals Limited originated as a partnership firm named M/s. Johnson Cables in February 2012. It is engaged in the manufacturing of low-voltage wires and cables rated up to 1.1 kV and markets its products under the brand name “JOHNSON CABLES”, catering to power infrastructure, renewable energy, railways and industrial applications.The Company’s product portfolio includes control cables, power cables, industrial single-core and multicore cables, house and building wires, welding cables, solar/photovoltaic cables and submersible flat cables. Its products are designed for applications across power transmission and distribution, renewable energy integration, industrial operations and allied sectors. The Company holds ISO and BIS certifications to support product quality and compliance with applicable standards.",
-    "Johnsoncab Electricals operates two manufacturing units in Mehsana, Gujarat, with a combined annual installed manufacturing capacity of 79,950 kilometres as of Fiscal 2026. Its facilities are equipped with machinery for wire drawing, annealing, bunching, insulation, extrusion, testing and packaging. The Company has upgraded its manufacturing infrastructure with automatic and semi-automatic machinery to improve production capabilities and cater to varied product specifications.",
-    "The Company serves both government entities and private-sector customers through direct orders, tender participation and vendor approval processes. Revenue from operations increased from ₹88.34 crore in Fiscal 2024 to ₹210.47 crore in Fiscal 2026. For the five months ended August 31, 2026, the Company reported revenue from operations of ₹113.04 crore, EBITDA of ₹15.32 crore and profit after tax of ₹8.63 crore.",
-    "As of September 30, 2026, the Company had 193 employees across production, operations, finance, human resources, quality assurance, sales and marketing, supply chain, logistics and information technology."
-   ],
-   "about_lists": {
-    "Competitive Strengths": [
-     "Consistent Growth in Revenue from Operations.",
-     "Continued Investment in Manufacturing Infrastructure.",
-     "Product Innovation Supported by Intellectual Property.",
-     "Ability to Serve Government and Private-Sector Customers.",
-     "Established Vendor Approvals and Government Tender Eligibility."
-    ]
-   },
-   "strengths": [
-    "Consistent Growth in Revenue from Operations.",
-    "Continued Investment in Manufacturing Infrastructure.",
-    "Product Innovation Supported by Intellectual Property.",
-    "Ability to Serve Government and Private-Sector Customers.",
-    "Established Vendor Approvals and Government Tender Eligibility."
-   ],
-   "status": "open",
-   "day_label": "Closes today",
-   "subscription": {
-    "as_of": "Nov 03, 2026 14:29",
-    "rows": [
-     {
-      "category": "Qualified Institutional",
-      "times": 8.29
-     },
-     {
-      "category": "Non Institutional",
-      "times": 12.79
-     },
-     {
-      "category": "Retail Individual",
-      "times": 7.06
-     }
-    ],
-    "total": 8.64
-   },
-   "gmp": {
-    "gmp": 10.0,
-    "gmp_pct": 5.0,
-    "est_listing": 210.0,
-    "updated": null,
-    "trend": "🟢"
-   },
-   "ipowatch_url": "https://ipowatch.in/johnsoncab-electricals-ipo-gmp-today/",
-   "insights": {
-    "metrics": [
-     "FY26 income ₹211.3 Cr",
-     "PAT ₹13.4 Cr",
-     "PAT margin 7.6%",
-     "Income +51% YoY",
-     "PAT +146% YoY",
-     "Post-issue P/E 10.2x"
-    ],
-    "flags": [
-     {
-      "tone": "good",
-      "text": "Strong growth: income +51%, profit +146%"
-     },
-     {
-      "tone": "good",
-      "text": "Profit up 3 years in a row"
-     },
-     {
-      "tone": "warn",
-      "text": "Borrowing up 91% (debt > net worth)"
-     },
-     {
-      "tone": "good",
-      "text": "High ROE 24%"
-     },
-     {
-      "tone": "warn",
-      "text": "High debt/equity 1.94"
-     }
-    ],
-    "partial": "Period to 31 Aug 2026: income ₹113.3 Cr, PAT ₹8.6 Cr (part-year, not compared)"
-   },
-   "business_news": [],
-   "news": [
-    {
-     "title": "Johnsoncab Electricals Ltd IPO: Check Issue Date, Price Band, Lot Size, Subscription",
-     "source": "Upstox",
-     "date": "03 Nov 2026",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSdWlCbGpRNXFJV2h2UVdrQnN4b2Z1NjR3QUdLaFVoRGRESllhOURIMkNadTRCbWEzVm5INTJxTjdTaGt6RDNZSjlZTGZBb1dMSFNsUHJyeTJYNll2ZDg1VEpSWWlBYmprcnc?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Johnsoncab Electricals IPO Subscription Status Day 2: Issue Subscribed 2.01 Times",
-     "source": "HDFC Sky",
-     "date": "02 Nov 2026",
-     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcW82SnVNWEpCckpJNElBeF9pR2l2QUtHT3Y0STNxSXpMQTNQSEdCNjdVamVXZVNlSVNMbzg5RGRoSnllZXd6THc0SmE0Q0N2bklxc0gzaWk2NWg5ZVBlMHpKWTNITFNEV1VrYWhuclRkeWhGUkhtT1p4VHRab3VCYmo2MA?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Johnsoncab Electricals IPO Subscribed 1.14 Times on Day 1",
-     "source": "HDFC Sky",
-     "date": "30 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSnpTVnhPdnd1R3dnX2JJSktGMU8yWG4wUU40d2Z3Y0g0bVIyOVAxbktYWWJGQWRXT2YzR3VDeG5mRG9zamVZbVVlTmpxLU5XZlZIalNuOVZNVFdWakNkS0NKbF84VTJSajdUdmJTQXFRbm9kSmZaZm1ERFFpZVNWajR4bVE3M3RXZnc?oc=5",
-     "tone": ""
-    }
-   ],
-   "key": "johnsoncab electricals"
-  },
-  {
-   "chittorgarh_url": "https://www.chittorgarh.com/ipo/vectras-enprocon-ipo/2740/",
-   "name": "Vectras Enprocon",
-   "open_date": "2026-10-30",
-   "close_date": "2026-11-03",
-   "ipo_date_text": "30 Oct to 3 Nov, 2026",
-   "listing_date": "Fri, Nov 6, 2026",
-   "face_value": "₹ 10 per share",
-   "issue_type": "Bookbuilding IPO",
-   "sale_type": "Fresh capital cum OFS",
-   "listing_at": "BSE SME",
-   "type": "SME",
-   "lot_size": 1200,
-   "price_band": "₹99 to ₹105",
-   "price_high": 105.0,
-   "issue_size_cr": 53.05,
-   "min_application": {
-    "label": "Individual investors (IND) (Min)",
-    "lots": 2,
-    "shares": 2400,
-    "amount": 252000.0
+    "shares": 4000,
+    "amount": 264000.0
    },
    "financials": {
     "periods": [
@@ -701,58 +34,58 @@
     ],
     "rows": {
      "Assets": [
-      90.91,
-      74.94,
-      46.5,
-      21.47
+      34.88,
+      28.41,
+      25.47,
+      5.97
      ],
      "Total Income": [
-      72.2,
-      119.9,
-      80.53,
-      54.37
+      30.2,
+      47.53,
+      31.98,
+      12.59
      ],
      "Profit After Tax": [
-      9.1,
-      15.43,
-      10.17,
-      5.81
+      4.19,
+      4.24,
+      1.82,
+      0.89
      ],
      "EBITDA": [
-      14.54,
-      24.01,
-      15.05,
-      8.67
+      5.76,
+      6.15,
+      2.82,
+      1.36
      ],
      "NET Worth": [
-      46.85,
-      37.75,
-      22.32,
-      12.15
+      22.17,
+      17.03,
+      12.19,
+      3.54
      ],
      "Reserves and Surplus": [
-      31.85,
-      22.75,
-      19.82,
-      9.65
+      13.49,
+      8.79,
+      3.02,
+      null
      ],
      "Total Borrowing": [
-      31.36,
-      22.21,
-      11.87,
-      4.16
+      1.75,
+      4.19,
+      3.85,
+      0.36
      ]
     },
     "unit": "Amount in ₹ Crore"
    },
    "objects": [
     {
-     "object": "Repayment / prepayment, in full or part, of certain outstanding borrowings availed by Company",
-     "amount_cr": 14.0
+     "object": "To meet Working Capital Requirements",
+     "amount_cr": 10.68
     },
     {
-     "object": "To Meet Working Capital Requirements of Company",
-     "amount_cr": 20.0
+     "object": "To meet the requirements of Capital Expenditure towards Purchase of Machinery",
+     "amount_cr": 5.89
     },
     {
      "object": "General Corporate Purposes",
@@ -760,27 +93,25 @@
     }
    ],
    "kpis": {
-    "ROE": "21.52%",
-    "ROCE": "19.69%",
-    "Debt/Equity": "0.67",
-    "RoNW": "21.52%",
-    "PAT Margin": "12.65%",
-    "EBITDA Margin": "20.21%",
-    "NAV": "31.23",
-    "P/B (x)": "3.36"
+    "ROE": "21.36%",
+    "ROCE": "26.61%",
+    "Debt/Equity": "0.08",
+    "RoNW": "18.88%",
+    "PAT Margin": "13.90%",
+    "EBITDA Margin": "19.12%"
    },
    "valuation": {
     "EPS (₹)": {
-     "pre": "10.29",
-     "post": "9.55"
+     "pre": "4.88",
+     "post": "6.89"
     },
     "P/E (x)": {
-     "pre": "10.2",
-     "post": "10.99"
+     "pre": "13.52",
+     "post": "9.58"
     },
     "Market Cap at Offer Price": {
-     "pre": "₹157.50 Cr.",
-     "post": "₹200.09 Cr."
+     "pre": "₹57.25 Cr.",
+     "post": "₹80.23 Cr."
     }
    },
    "reviews": {
@@ -789,72 +120,72 @@
     "Neutral": 0,
     "Avoid": 0
    },
-   "legal_name": "Vectras Enprocon Ltd.",
+   "legal_name": "Antala Industries Ltd.",
    "about": [
-    "Vectras Enprocon Ltd. is a Gujarat-based Engineering, Procurement and Construction (EPC) company operating in the midstream and downstream segments of the Oil & Gas industry. The company specializes in laying pipeline networks, building combined stations, and constructing related facilities across multiple states in India."
+    "Incorporated in August 2024, Antala Industries Limited is engaged in the manufacturing, processing, printing, laminating and supply of industrial and commercial packaging products. The Company specializes in BOPP bags, BOPP printing rolls, BOPP lamination rolls, PP woven bags and PP woven lamination rolls, serving customers across industries such as food processing, fertilizers, chemicals, cement and seeds. The Company operates an integrated manufacturing facility in Rajkot, Gujarat, with capabilities including extrusion, coating and lamination, rotogravure printing, stitching and finishing."
    ],
    "about_lists": {
-    "Business Verticals": [
-     "Combined Oil and Gas station works: Mechanical, electrical, and civil work in Refineries, petrochemical complexes, Gas Processing Units, Oil & Gas Terminals, and Petroleum Depots. As of August 31, 2025, its unexecuted Order book for Oil & Gas station work stands at ₹15,088.80 lakh.",
-     "Midstream and Downstream pipeline projects and related facilities: As of September 30, 2026, its order book for Oil & Gas Pipeline work stands at ₹ 18,327.88 lakh",
-     "Other allied services: Civil and infrastructure projects in the Oil and gas industry; electrical, Instrumentation, and Inspection, Testing, and Safety Auditing services in the Oil and Gas Industry."
+    "Products": [
+     "BOPP Bags: Premium packaging bags used in food, fertilizers, chemicals, seeds, and consumer products."
     ],
-    "Competitive Strengths": [
-     "Track record of timely completion of complex project",
-     "Strong Order Book for existing project portfolio and geography",
-     "Strong Execution Capabilities",
-     "Track Record of Growth in Financial Performance",
-     "Experienced management team with significant industry experience"
+    "Strengths ": [
+     "Experienced promoters and management team with extensive packaging industry expertise.",
+     "Diversified product portfolio with customization capabilities.",
+     "Presence across multiple end-user industries.",
+     "Integrated manufacturing capabilities supporting operational efficiency.",
+     "Customer-focused manufacturing and delivery process.",
+     "Established supplier and customer relationships."
     ]
    },
    "strengths": [
-    "Track record of timely completion of complex project",
-    "Strong Order Book for existing project portfolio and geography",
-    "Strong Execution Capabilities",
-    "Track Record of Growth in Financial Performance",
-    "Experienced management team with significant industry experience"
+    "Experienced promoters and management team with extensive packaging industry expertise.",
+    "Diversified product portfolio with customization capabilities.",
+    "Presence across multiple end-user industries.",
+    "Integrated manufacturing capabilities supporting operational efficiency.",
+    "Customer-focused manufacturing and delivery process.",
+    "Established supplier and customer relationships."
    ],
    "status": "open",
    "day_label": "Closes today",
    "subscription": {
-    "as_of": "Nov 03, 2026 13:29",
+    "as_of": "Nov 05, 2026 10:54",
     "rows": [
      {
       "category": "Qualified Institutional",
-      "times": 1.42
+      "times": 66.72
      },
      {
       "category": "Non Institutional",
-      "times": 2.43
+      "times": 23.81
      },
      {
       "category": "Retail Individual",
-      "times": 2.02
+      "times": 1.65
      }
     ],
-    "total": 1.93
+    "total": 5.78
    },
    "gmp": {
     "gmp": 0.0,
     "gmp_pct": 0.0,
-    "est_listing": 105.0,
+    "est_listing": 66.0,
     "updated": null,
     "trend": "🟡"
    },
-   "ipowatch_url": "https://ipowatch.in/vectras-enprocon-ipo-gmp-today/",
+   "ipowatch_url": "https://ipowatch.in/antala-industries-ipo-gmp-today/",
    "insights": {
     "metrics": [
-     "FY26 income ₹119.9 Cr",
-     "PAT ₹15.4 Cr",
-     "PAT margin 12.7%",
+     "FY26 income ₹47.5 Cr",
+     "PAT ₹4.2 Cr",
+     "PAT margin 13.9%",
      "Income +49% YoY",
-     "PAT +52% YoY",
-     "Post-issue P/E 11.0x"
+     "PAT +133% YoY",
+     "Post-issue P/E 9.6x"
     ],
     "flags": [
      {
       "tone": "good",
-      "text": "Strong growth: income +49%, profit +52%"
+      "text": "Strong growth: income +49%, profit +133%"
      },
      {
       "tone": "good",
@@ -862,265 +193,44 @@
      },
      {
       "tone": "good",
-      "text": "High ROE 22%"
+      "text": "High ROE 21%"
      }
     ],
-    "partial": "Period to 30 Sep 2026: income ₹72.2 Cr, PAT ₹9.1 Cr (part-year, not compared)"
+    "partial": "Period to 30 Sep 2026: income ₹30.2 Cr, PAT ₹4.2 Cr (part-year, not compared)"
    },
-   "business_news": [],
+   "business_news": [
+    {
+     "title": "Antala Industries Limited Stock () - Quote Bombay S.E.",
+     "source": "www.marketscreener.com",
+     "date": "04 Nov 2026",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOFpVSm9BT1VwSVNnUlVLSElKeS1EUkE0SW9jRjlmUUo4bjNCT3R5WVJsUWVzOWlYOHB1cm9vY0tRODFRRV93dGthSEExdl9LMEM3QVdDbkFBdEkzLXZCd1BydkxlRUxZSnVMUEJsMHVoU1JwZFNmOHdMZ3A3ejdMZFpjRTFDZw?oc=5",
+     "tone": ""
+    }
+   ],
    "news": [
     {
-     "title": "Vectras Enprocon IPO Subscription Status Day 2: Issue Subscribed 1.31 Times",
-     "source": "HDFC Sky",
-     "date": "02 Nov 2026",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9CclduT293SUJUUTlYZWh4d05aQjJPSU5OWEpPekZXR1BBR2lkVERfX2I5a3J0anY3aW9VY1V4VS00Z0tYQkxmM0JCZGZKWVpJUmpuRkoyXzFVdWpjUUU2SFpRdDYzbDlfQUFFUjRWMGZSbDgzZDM4M3Z6SQ?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Vectras Enprocon IPO Day 2: Subscribed 1.35x; QIB holds at 1.42x",
-     "source": "scanx.trade",
-     "date": "02 Nov 2026",
-     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUkJqMll5X3E3S05zR2JJTjRZRl9nZUJBMlI0YmxpUC1YV1RiVG1TcHZWZFRueWlvOHFLZ0RkWW9sbm5YYWlwLXYzT1gzSjEzSW5LVEdjYUtkVllPcnF0N3liYVNxNUJzazlBc0NGX2dtNVluY3lHQWZyT2FBZnJyVHRhMjBuZVVRZ3ZWNlViaWhsMTYyclVra2R0VzU1elBWWmxqMkNfMGRSNmhsenQ3QWYwU0dMUkNfV2VuSnZkNnZZbmxPRUEyaXZjeWZJaU1LNVNrdlhIRQ?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Vectras to Vedant Poly Fabs: 5 IPOs to Raise Rs 258 Crore, Check Prices",
-     "source": "Analytics Insight",
-     "date": "02 Nov 2026",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMjJuYVJ5SEdVc1JWNWZGUW9zU0Z5WXVSLTVJOXJCTlNfYnVheWo5bmpTWm1pMEhQb0dTci01QXZnams5aVVNdWtvYWVNY1ZlOGQ4ajJOS1NKcEdOQ0MxTndQanl6QXcycm8wUEQtdTdpRlQtZXVzOURDZV9hMmJZaHlxTFY1N0o2eE9RemJESUZ5MGFJWEtUd2YwWjM2cHNXa0xiSEFRVkdZeDTSAbgBQVVfeXFMT3ZyR0psVVF0Ym5zLW5LSFVLUWp5Wjl4dmhaUFVkZGtKcWhhay1QX2lDSW0zVGZQTVdkclRJMzNzcTJDSklEUEZMMW1ES1RmcENCenp0X1hVNC1aMy15RHpCQzBkYXFDYl94Y2JTQUduckduanBoRGZ1cXEtSHhIaDFvOG9icjZhMEI2dk4wVUFpLUxMUkplVFJlZFNtanVLU0NhcGNWWTV6ekp4YVBjYTk5aWRYYl93Yw?oc=5",
-     "tone": ""
-    }
-   ],
-   "key": "vectras enprocon"
-  },
-  {
-   "chittorgarh_url": "https://www.chittorgarh.com/ipo/vedant-poly-fabs-ipo/3143/",
-   "name": "Vedant Poly Fabs",
-   "open_date": "2026-11-02",
-   "close_date": "2026-11-04",
-   "ipo_date_text": "2 to 4 Nov, 2026",
-   "listing_date": "Mon, Nov 9, 2026",
-   "face_value": "₹ 10 per share",
-   "issue_type": "Bookbuilding IPO",
-   "sale_type": "Fresh capital cum OFS",
-   "listing_at": "NSE SME",
-   "type": "SME",
-   "lot_size": 1200,
-   "price_band": "₹88 to ₹94",
-   "price_high": 94.0,
-   "issue_size_cr": 56.68,
-   "min_application": {
-    "label": "Individual investors (IND) (Min)",
-    "lots": 2,
-    "shares": 2400,
-    "amount": 225600.0
-   },
-   "financials": {
-    "periods": [
-     "30 Jun 2026",
-     "31 Mar 2026",
-     "31 Mar 2025",
-     "31 Mar 2024"
-    ],
-    "rows": {
-     "Assets": [
-      100.88,
-      97.8,
-      55.4,
-      18.88
-     ],
-     "Total Income": [
-      30.49,
-      115.31,
-      81.58,
-      49.73
-     ],
-     "Profit After Tax": [
-      3.48,
-      10.97,
-      456060.0,
-      0.64
-     ],
-     "EBITDA": [
-      6.59,
-      19.0,
-      7.74,
-      1.29
-     ],
-     "NET Worth": [
-      45.6,
-      42.26,
-      15.42,
-      3.86
-     ],
-     "Reserves and Surplus": [
-      30.88,
-      27.53,
-      4.57,
-      3.75
-     ],
-     "Total Borrowing": [
-      44.81,
-      46.82,
-      13.32,
-      6.35
-     ]
-    },
-    "unit": "Amount in ₹ Crore"
-   },
-   "objects": [
-    {
-     "object": "Funding incremental working capital requirements of the Company",
-     "amount_cr": 24.61
-    },
-    {
-     "object": "Prepayment or Repayment of all or a portion of certain secured or/and unsecured outstanding borrowings availed by the company",
-     "amount_cr": 8.0
-    },
-    {
-     "object": "Funding Capital Expenditure for purchase and installation of Plant and Machinery at its existing manufacturing facility",
-     "amount_cr": 6.51
-    },
-    {
-     "object": "General Corporate Purposes",
-     "amount_cr": null
-    },
-    {
-     "object": "To meet the offer related expenses",
-     "amount_cr": null
-    }
-   ],
-   "kpis": {
-    "ROE": "7.92%",
-    "ROCE": "8.93%",
-    "Debt/Equity": "0.98",
-    "RoNW": "30.52%",
-    "PAT Margin": "11.48%",
-    "EBITDA Margin": "21.76%",
-    "NAV": "30.97",
-    "P/B (x)": "3.04"
-   },
-   "valuation": {
-    "EPS (₹)": {
-     "pre": "7.45",
-     "post": "6.90"
-    },
-    "P/E (x)": {
-     "pre": "12.62",
-     "post": "13.62"
-    },
-    "Market Cap at Offer Price": {
-     "pre": "₹138.42 Cr.",
-     "post": "₹189.43 Cr."
-    }
-   },
-   "reviews": {
-    "Subscribe": 0,
-    "May Apply": 0,
-    "Neutral": 0,
-    "Avoid": 0
-   },
-   "legal_name": "Vedant Poly Fabs Ltd.",
-   "about": [
-    "Vedant Poly Fabs Limited was incorporated in December 2018 and manufactures flexible packaging materials for businesses across India. The company operates as a B2B supplier and offers a diverse range of packaging products, including 3-layer and 5-layer LD films, shrink films, barrier films, printed laminates, and milk and oil pouches, catering to industries such as food & beverages and other consumer goods.",
-    "Since commencing operations, the company has expanded its product portfolio, strengthened its manufacturing capabilities, and established dedicated teams across sales, design, production, logistics, and dispatch. In March 2026, it further increased manufacturing capacity by adding lamination, slitting, and pouching machines, and installed a reprocessing unit to improve resource utilization and recycle manufacturing waste.",
-    "The company follows an integrated manufacturing process covering raw material procurement, film extrusion, printing, lamination, slitting, quality control, packing, and dispatch.",
-    "As of June 30, 2026, the Company had 61 employees across its manufacturing facility and office operations, including Directors, Key Managerial Personnel, and Senior Managerial Personnel responsible for business operations, compliance, administration, marketing, and accounting."
-   ],
-   "about_lists": {
-    "Strengths": [
-     "Integrated manufacturing operations",
-     "Diversified flexible packaging product portfolio",
-     "Strong quality control systems",
-     "Strategic manufacturing location",
-     "In-house transportation and logistics capabilities",
-     "Direct sales model with diversified customer base",
-     "Product development and customization capabilities."
-    ]
-   },
-   "strengths": [
-    "Integrated manufacturing operations",
-    "Diversified flexible packaging product portfolio",
-    "Strong quality control systems",
-    "Strategic manufacturing location",
-    "In-house transportation and logistics capabilities",
-    "Direct sales model with diversified customer base",
-    "Product development and customization capabilities."
-   ],
-   "status": "open",
-   "day_label": "Closes tomorrow",
-   "subscription": {
-    "as_of": "Nov 03, 2026 14:30",
-    "rows": [
-     {
-      "category": "Qualified Institutional",
-      "times": 327.27
-     },
-     {
-      "category": "Non Institutional",
-      "times": 0.85
-     },
-     {
-      "category": "Retail Individual",
-      "times": 0.59
-     }
-    ],
-    "total": 0.7
-   },
-   "gmp": {
-    "gmp": 15.0,
-    "gmp_pct": 15.96,
-    "est_listing": 109.0,
-    "updated": null,
-    "trend": "🟢"
-   },
-   "ipowatch_url": "https://ipowatch.in/vedant-poly-fabs-ipo-gmp-today/",
-   "insights": {
-    "metrics": [
-     "FY26 income ₹115.3 Cr",
-     "PAT ₹11.0 Cr",
-     "PAT margin 11.5%",
-     "Income +41% YoY",
-     "PAT -100% YoY",
-     "Post-issue P/E 13.6x"
-    ],
-    "flags": [
-     {
-      "tone": "bad",
-      "text": "Profit fell 100% in FY26"
-     },
-     {
-      "tone": "warn",
-      "text": "Borrowing up 252% (debt > net worth)"
-     }
-    ],
-    "partial": "Period to 30 Jun 2026: income ₹30.5 Cr, PAT ₹3.5 Cr (part-year, not compared)"
-   },
-   "business_news": [],
-   "news": [
-    {
-     "title": "Vedant Poly Fabs IPO Opens at ₹88-94 Price Band, Check Issue Size, Financials and Key Details",
-     "source": "Dalal Street Investment Journal",
-     "date": "03 Nov 2026",
-     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSW5xbU9MT3FfYlRSRmI3LXEzOUhvV1hBZDlpSW5wNFYxN0lZa0twaFd5MS14cy1yamxnVlNMQzg3N2pXS214NnlwZEs1eHQ3cnZPdHdtaTJGVHFueG1BdWhRS3B2OEttQWlMSTZ0alI2d1VSUTQxaXRjNmhVSW9WMWxOX1VsYk96UWljUjA1ZXppbEFKN293WGRaRTF6aDNzYnJVaUgyRFBGdElvNGw1NExKdUFkb0xoT3BBZGp6X2pmVjNJV0R2N1JTX183bEd0N180ZXdB?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Vedant Poly Fabs Ltd. GMP, Date, Price Band & Review",
+     "title": "Antala Industries IPO GMP Today, Expected Listing Gain & Price Band",
      "source": "IndiaIPO",
-     "date": "03 Nov 2026",
-     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1SeW5md0RhLXY3UHFxWTgwVk9NcDE3SDZ6Mk1FVnNBMTl3RU5jdXF4WU9qNmk3TkZVVkwwM3RYbzMxUEJfQnVfRE53TVZfQ0NfZWdDd2ZNMUpWOHBlWHJyN3MtWHNIdXFLNnRsa1pWQV85R3ZETTdCeTYwVFY?oc=5",
+     "date": "05 Nov 2026",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE16cW1wcVlDbGxNWHcxTF90RDAxRUdmWnBoRkJuWFhNV2xCblNpZzVzRXk0Sm01T2libEV0cnZ0YVJwY0lscXJGMnhvMmpIdW14NHFJdDM1aC04UmU4aS1WckV2eHVlbUxOV1M3VmZlNVVtdw?oc=5",
      "tone": ""
     },
     {
-     "title": "Vedant Poly Fabs IPO Subscription Status Day 1: Issue Subscribed 0.41 Times",
-     "source": "HDFC Sky",
-     "date": "02 Nov 2026",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5TVVR4ZDB5WU03NHFmZTRUcWc0QjZDdUF5YWJtQmVORVdpWEJXWE56dTBJTEFDb0k5VHM5ZHJLUWdzZjYxaTZodGNDQjBPXzNrVy1JSHlZOUdqLUp3VU83SnVTdk8tc1NxVGdqb1c5QVU5RUZjbFNIUVJGMA?oc=5",
+     "title": "Antala Industries IPO Day 6 Subscription Status 5 Nov 2026",
+     "source": "Univest",
+     "date": "05 Nov 2026",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOejNWQjczcHJYT0VYZTJMUHJvb3N6TFJVRG1FaExKYjFTQW1LSkY2SmJSN1paZ0x2MjNQbUMwLTViN0t4Q0hVSXp6d3NUUG55TGZTNER4YlUwV3pYQThaWHdmN1FuYzN2QTkwdDhubHZkY05sbkFmMDhsMW1pcV9fR3hUNHFTYUlXUUlRYjJRYlU0YS1US0RXbW5Ja3A4cTdtcHA4?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Antala Industries IPO Allotment Status: 2.19x Subscribed, Check Online",
+     "source": "Univest",
+     "date": "05 Nov 2026",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOHRqalBrbGN0ZDFBeHdXaHUzakFPdzhfOU42RlJqbGk0d3lFLUJ3SWloTUgyUXNNR3BUcTZuek5wLTdGdVBRN2FybW9zTWU0MlVOQmdONHNFTWwwV3U0anRSRl9fQ0xDTElTVnFZRWlXWWQwczY4UGFrZGxaQk1DOTVR?oc=5",
      "tone": ""
     }
    ],
-   "key": "vedant poly fabs"
+   "key": "antala industries"
   }
  ],
  "upcoming": [],
@@ -3042,38 +2152,11 @@
     "updated": null
    },
    {
-    "key": "mksons fine jewels",
-    "name": "M.K.Sons Fine Jewels",
-    "type": "Mainboard",
-    "gmp": 7.0,
-    "gmp_pct": 4.32,
-    "status": null,
-    "updated": null
-   },
-   {
-    "key": "sfc environmental technologies",
-    "name": "SFC Environmental Technologies",
-    "type": "Mainboard",
-    "gmp": 15.0,
-    "gmp_pct": 4.55,
-    "status": null,
-    "updated": null
-   },
-   {
-    "key": "bls polymers",
-    "name": "BLS Polymers",
-    "type": "Mainboard",
-    "gmp": 70.0,
-    "gmp_pct": 46.67,
-    "status": null,
-    "updated": null
-   },
-   {
     "key": "vedant poly fabs",
     "name": "Vedant Poly Fabs",
     "type": "SME",
-    "gmp": 15.0,
-    "gmp_pct": 15.96,
+    "gmp": 1.0,
+    "gmp_pct": 1.06,
     "status": null,
     "updated": null
    },
@@ -3081,8 +2164,8 @@
     "key": "johnsoncab electricals",
     "name": "Johnsoncab Electricals",
     "type": "SME",
-    "gmp": 10.0,
-    "gmp_pct": 5.0,
+    "gmp": 8.0,
+    "gmp_pct": 4.0,
     "status": null,
     "updated": null
    },
@@ -3090,8 +2173,8 @@
     "key": "hgs",
     "name": "HGS (India)",
     "type": "SME",
-    "gmp": 30.0,
-    "gmp_pct": 25.0,
+    "gmp": 28.0,
+    "gmp_pct": 23.33,
     "status": null,
     "updated": null
    },
@@ -3099,8 +2182,8 @@
     "key": "maxwell engineering",
     "name": "Maxwell Engineering",
     "type": "SME",
-    "gmp": 80.0,
-    "gmp_pct": 50.63,
+    "gmp": 113.0,
+    "gmp_pct": 71.52,
     "status": null,
     "updated": null
    },
@@ -3116,33 +2199,6 @@
    {
     "key": "antala industries",
     "name": "Antala Industries",
-    "type": "SME",
-    "gmp": 0.0,
-    "gmp_pct": 0.0,
-    "status": null,
-    "updated": null
-   },
-   {
-    "key": "ajwa projects",
-    "name": "Ajwa Projects",
-    "type": "SME",
-    "gmp": 1.0,
-    "gmp_pct": 0.49,
-    "status": null,
-    "updated": null
-   },
-   {
-    "key": "carver roboweld",
-    "name": "Carver Roboweld",
-    "type": "SME",
-    "gmp": 5.0,
-    "gmp_pct": 6.25,
-    "status": null,
-    "updated": null
-   },
-   {
-    "key": "wiscon industries",
-    "name": "Wiscon Industries",
     "type": "SME",
     "gmp": 0.0,
     "gmp_pct": 0.0,
