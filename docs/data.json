@@ -1,8 +1,228 @@
 {
- "generated_at": "2026-11-12T15:36:05+05:30",
- "generated_display": "12 Nov 2026, 03:36 PM IST",
+ "generated_at": "2026-11-13T15:22:46+05:30",
+ "generated_display": "13 Nov 2026, 03:22 PM IST",
  "open": [],
- "upcoming": [],
+ "upcoming": [
+  {
+   "chittorgarh_url": "https://www.chittorgarh.com/ipo/crystal-crop-protection-ipo/2813/",
+   "name": "Crystal Crop Protection",
+   "open_date": "2026-11-18",
+   "close_date": "2026-11-20",
+   "ipo_date_text": "18 to 20 Nov, 2026",
+   "listing_date": "Thu, Nov 26, 2026",
+   "face_value": "₹ 10 per share",
+   "issue_type": "Bookbuilding IPO",
+   "sale_type": "Fresh capital cum OFS",
+   "listing_at": "BSE, NSE",
+   "type": "Mainboard",
+   "lot_size": 55,
+   "price_band": "₹259 to ₹272",
+   "price_high": 272.0,
+   "issue_size_cr": 455.49,
+   "min_application": {
+    "label": "Retail (Min)",
+    "lots": 1,
+    "shares": 55,
+    "amount": 14960.0
+   },
+   "financials": {
+    "periods": [
+     "30 Jun 2026",
+     "31 Mar 2026",
+     "31 Mar 2025",
+     "31 Mar 2024"
+    ],
+    "rows": {
+     "Assets": [
+      4498.27,
+      3927.24,
+      3538.43,
+      2541.92
+     ],
+     "Total Income": [
+      1209.21,
+      3180.98,
+      2731.94,
+      2271.71
+     ],
+     "Profit After Tax": [
+      135.78,
+      144.91,
+      118.39,
+      87.24
+     ],
+     "EBITDA": [
+      241.78,
+      456.23,
+      315.28,
+      209.06
+     ],
+     "NET Worth": [
+      null,
+      2039.76,
+      1600.1,
+      1488.39
+     ],
+     "Reserves and Surplus": [
+      1524.85,
+      1386.12,
+      1296.9,
+      1197.23
+     ],
+     "Total Borrowing": [
+      952.02,
+      820.04,
+      947.02,
+      577.29
+     ]
+    },
+    "unit": "Amount in ₹ Crore"
+   },
+   "objects": [
+    {
+     "object": "Repayment/pre-payment, in full or part, of certain borrowings availed by the Company",
+     "amount_cr": 247.94
+    },
+    {
+     "object": "Investment in Material Subsidiary namely Saffire Crop Science Private Limited for repayment/ pre-payment, in full or in part, of all or a portion of certain of its outstanding borrowings",
+     "amount_cr": 22.06
+    },
+    {
+     "object": "Funding inorganic growth through unidentified acquisitions and strategic initiatives and general corporate purposes",
+     "amount_cr": null
+    }
+   ],
+   "kpis": {
+    "ROE": "6.91%",
+    "ROCE": "9.78%",
+    "Debt/Equity": "0.41",
+    "RoNW": "6.25%",
+    "PAT Margin": "11.23%",
+    "EBITDA Margin": "20.20%",
+    "NAV": "170.57",
+    "P/B (x)": "1.59"
+   },
+   "valuation": {
+    "EPS (₹)": {
+     "pre": "9.65",
+     "post": "33.29"
+    },
+    "P/E (x)": {
+     "pre": "28.19",
+     "post": "8.17"
+    },
+    "Market Cap at Offer Price": {
+     "pre": "₹4,083.17 Cr.",
+     "post": "₹4,438.18 Cr."
+    }
+   },
+   "reviews": {
+    "Subscribe": 0,
+    "May Apply": 0,
+    "Neutral": 0,
+    "Avoid": 0
+   },
+   "legal_name": "Crystal Crop Protection Ltd.",
+   "about": [
+    "Incorporated in 1994, Crystal Crop Protection is a crop solutions company with agrochemicals and seeds as its core offerings. Its portfolio includes crop protection products such as herbicides, fungicides and insecticides, along with natural crop solutions like bio-stimulants, bio-protectants, plant growth regulators, liquid fertilizers and micronutrients. It also offer seeds for field crops, vegetable crops and flowers. The offerings are customized for Indian farmers through research and development (“R&D”) including by collaborations with various multinational companies, delivering relevant solutions that aim to enhance farm economics, yield, productivity and profitability."
+   ],
+   "about_lists": {
+    "Product Portfolio": [
+     "Crop protection products and natural crop solutions",
+     "Seed business"
+    ],
+    "Competitive strengths": [
+     "Strong R&D capabilities backed by advanced technology infrastructure and collaborations",
+     "A deep connect with Indian farmers resulting in strong brand equity",
+     "Operational excellence with focus on our multi-pronged go-to-market strategy",
+     "Vertically integrated manufacturing operations backed by robust R&D capabilities and strong supply chain",
+     "Strategic acquisitions and successful integration of growth opportunities",
+     "Diversification across business verticals, geographies, product categories and crops"
+    ]
+   },
+   "strengths": [
+    "Strong R&D capabilities backed by advanced technology infrastructure and collaborations",
+    "A deep connect with Indian farmers resulting in strong brand equity",
+    "Operational excellence with focus on our multi-pronged go-to-market strategy",
+    "Vertically integrated manufacturing operations backed by robust R&D capabilities and strong supply chain",
+    "Strategic acquisitions and successful integration of growth opportunities",
+    "Diversification across business verticals, geographies, product categories and crops"
+   ],
+   "status": "upcoming",
+   "day_label": "Opens in 5 days",
+   "insights": {
+    "metrics": [
+     "FY26 income ₹3,181.0 Cr",
+     "PAT ₹144.9 Cr",
+     "PAT margin 11.2%",
+     "Income +16% YoY",
+     "PAT +22% YoY",
+     "Post-issue P/E 8.2x"
+    ],
+    "flags": [
+     {
+      "tone": "good",
+      "text": "Profit up 3 years in a row"
+     }
+    ],
+    "partial": "Period to 30 Jun 2026: income ₹1,209.2 Cr, PAT ₹135.8 Cr (part-year, not compared)"
+   },
+   "business_news": [
+    {
+     "title": "2026 LiveLaw (SC) 1126 | CRYSTAL CROP PROTECTION LTD v DHANUKA AGRITECH LTD & ORS.",
+     "source": "Live Law",
+     "date": "03 Nov 2026",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNN2h0SXVJSjNfQk9VTWd5UnIwZHRfYV9JM3NqcGxJaGdXVDlVT0hOdmNBeUFEMFdVN2JXcFRpNXZibGVNSkdkN0RveENLdnB6NmU1T1lfazRUb2RoalR6b21YZ2UwWlZSelZoVTRqWl9XejM4eXg2dnp4V0gwR0xMZGI4UjVEQTlkZjNIZXA1YTJyOVA2ZmhPZFE1eGl3c09hTDhyTUZ5QnZCTkE4RUdPRGR1UjZ6SXEzZFHSAb8BQVVfeXFMTVZ3cVBsb2pvZkotYmxzd19oMnpzc096Smk0R084RzNGMGJTeEM1QlNROFE5N0F3LUFESUY4TkNPZDE2Tm1zeWxnamhvQ2pFNGd6TERiOVdsMmpwZXNJVXVRMjNBRzkwZ2xvTzJpUnc5YkVDM3lTWUdnWndBNjJsNmdYOTFJVlhRYy1RcW55WU5kdFN2WTFPS3FZTzVJY1AwNDIwNVBaNF8xMTdUZHVzZm9lbzlsZ0o5QkgwdkpfUGc?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Supreme Court restores Crystal Crop’s Halosulfuron-Methyl registration in Dhanuka dispute",
+     "source": "AgroSpectrum India",
+     "date": "03 Nov 2026",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeDAxMWV5MTVrd3RXN2oxS1ktb1lOMUV2Y0tQaDh6UFhnMmVJdHVZUDdVZnVQN1BKYUZPSkF5TlB5RG02SFhvZ2YwR19YQm9wVldVMjlIZnU3QnNwWE1GUlB1bFRBNnVyVWJUNDZaeElEbDIxTkNsam93V0FhOTdmbkFSdkdmS2hBYTdjUVJoU2ZGYmRkcGZRX1RnQXh0TWxJNzNjRFVTZnhtalFDYjN4ZHlaMDBmbTRXOFpGX2hsU2JRX1ZYTUZjX0RDcTk2dGpFaEM4?oc=5",
+     "tone": "bad"
+    },
+    {
+     "title": "Cibus and Crystal Crop Team Up to Develop Gene-Edited Mustard for India",
+     "source": "iGrow News",
+     "date": "09 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBHOWF6LXlEbGVtSmEwaG03Nll6WE1DTHdGR3V2TDBGM3phM2ZSS05MamlwRGEzRHAteTgyam1wTkRTVTZWRFNlSXBLOWx5U1lJV3l4SG04TQ?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "CCI Approves Crystal Crop’s Acquisition of FMC India",
+     "source": "Global Agriculture",
+     "date": "01 Oct 2026",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdVZyRDRDd3JuRFY0WkpyaUpDQUgtNzQ4bUlScGFna2Vmc0ZvRklyczctWGY1S1U3U2lKeDZ6WWNqeFlLUkhKbXJCRG9rdkxRandMOWtBY1RteS1JSzlnSHJUdldYVzE1RTRRUlY0d3RkNjhJcFItNGNKWmc0TnpqNld6UHdNX3BoWVVYekZCc3JkbV9LNXpCQ2Z6OGxsajdMcDVUTlRB?oc=5",
+     "tone": ""
+    }
+   ],
+   "news": [
+    {
+     "title": "Crystal Crop Protection IPO: Company sets price band, aims to raise ₹456 crore",
+     "source": "News9live",
+     "date": "13 Nov 2026",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONTZ3aExhQ2JZUXJ6bFk0VUMzWVpCaDVhWkp3NU9GRnZBTG54N3JmNjh1U0ZtcjE1bE5hcnpBNFEwcHRjZGZ5S2Z5NGdWdnU3OUFMQU9UUHBfbWhxUEp1b3IxUHZMSzRTUmNPNHV3Vy1vMk1UR3o5ZVNsTDJVa3BYc3NmazdVQi1kTFBxaVRKT2FMNzVreUE4QmpTOXZTNmtvdXR4c0Rfc2Q3RFFQTUZjeEFvdDNwVno0N3d2VkVfR2thcGJC0gHKAUFVX3lxTE1kcE0tYUY2Y2lsSkhBWDAxVFNjMTZMUktmUmhPMnBNREhJOE1SbFB6NjZWN190djZWekphVDhTR1ZqM3RtdzhCSF9DSks3elhzLVYyanJGSEhJNVNQOUdlMWZUVkRUQVFXYXBVUWtyU3VMX1I3a1ZyQU5WcUpXN2Z2VFkyMFkzdFI3RTFlMkJZMjNwSFQtcXk3bld1TFN4VE02M3oyMW5WZEY3RVNyRllHWnpaT3JBbmk5bDh1LUlNV19jNUM2RmdsOEE?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Crystal Crop Protection lines up November debut with ₹4,438 crore valuation target",
+     "source": "Indiatimes",
+     "date": "13 Nov 2026",
+     "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPd29NSE80MFNMbUZ5dkMycjA2NVVsd25YZVJHVkJFR3pYWEE0b29lcEJDRG4xRUd6U3VqaWZ4THhycFNPQmxEc3R1b2VvWWRaSFplVV92QzlOVDNBdVNyWk5NdEQ0UXRRTnRyWml4LXctVWtkYVcxY3l5ZnIyMXRBVlNyQTdRdXdIeUFyWTB3VU4zUngtRnAzZ2pxM3IyZ0FNVWxIOGdGYm1xVU9lODRCenVJczM0R0NDbVVtaU1Fa1N5c2k3MDVNS2pyd1dPdkNxeEtYVXMwN0taTUljbXR2QW9SM0VXUTlscHVsWTlaZERaS1Y1QWtRbG9iMGNEbTBhTDdXWHVLdHVvazdfYUxBanVJZG80MUlGTlBPUzExR1NSRDDSAfIBQVVfeXFMTlNnZWNsSUtTRjBXQlgxYmo1dDU2d3laRDBMWDhKZDcxT2pEUmhOa19DYkFWVDVjSG1MT2FWMy00aENaWXE2bW5mSVhiUEUwbFFsSVdKaDROY2hvN3RvRktpclplZW53SXIzLXFoTzczUVZfRGtBNVhHTjZ1enFVdkpza05VVGdsc2hkaU1rUkRXLVZkcldlQWNjRzBvUXJNYzRydmdPODhjNjlFalhrb0txeU03eDNOa09iRUh6Y0prX282T3hZNlJoM0hJanFFQTZEakU2bE9rTzdRa2VUQndXZGJtNE00QjFPNXBydzRLT0E?oc=5",
+     "tone": ""
+    },
+    {
+     "title": "Crystal Crop Protection to raise up to Rs 456 cr via IPO; issue opens on Nov 18",
+     "source": "cfo.economictimes.indiatimes.com",
+     "date": "13 Nov 2026",
+     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRGMxUzUzM1FRUjU3c2oxZHZoWC01YVhtT25PcnFXWFJMQVVITjBzMnlkYmw1NnQ3UWFZa0REdFY1Y0pYbE9iV3FxY1NjeEdkdGpaNUlVenJSSmhJSkNDYVZ2TERfa1NoVElScXJ5SjhoUHE1Y1U2WnNNMmRYUzhMUEJUVUhlLURQUjc2ZnhwT3h6X1BDUzRpXzdvd3FzRTRSMkZLc3JFTHNraF9PemlWdWRscXBPNS1yQk1lR1Nrckx0aGQ5NHdUQXVsd21FVWpiX09rblJ0WGd6TUxmeTRCcTdaVUZyQTNFa1ZWQtIB7AFBVV95cUxNRGMxUzUzM1FRUjU3c2oxZHZoWC01YVhtT25PcnFXWFJMQVVITjBzMnlkYmw1NnQ3UWFZa0REdFY1Y0pYbE9iV3FxY1NjeEdkdGpaNUlVenJSSmhJSkNDYVZ2TERfa1NoVElScXJ5SjhoUHE1Y1U2WnNNMmRYUzhMUEJUVUhlLURQUjc2ZnhwT3h6X1BDUzRpXzdvd3FzRTRSMkZLc3JFTHNraF9PemlWdWRscXBPNS1yQk1lR1Nrckx0aGQ5NHdUQXVsd21FVWpiX09rblJ0WGd6TUxmeTRCcTdaVUZyQTNFa1ZWQg?oc=5",
+     "tone": ""
+    }
+   ],
+   "key": "crystal crop protection"
+  }
+ ],
  "market": {
   "performance": [
    {
@@ -1978,9 +2198,7 @@
  },
  "warnings": [
   "Could not load IPOWatch GMP: ConnectionError. Showing last known GMP values.",
-  "Chittorgarh Mainboard list page had no IPO links (layout change?)",
   "Chittorgarh SME list page had no IPO links (layout change?)",
-  "Chittorgarh unavailable: showing the previous day's IPO list.",
   "Could not load Chittorgarh Mainboard performance tracker: no rows found (layout change?)",
   "Could not load Chittorgarh SME performance tracker: no rows found (layout change?)"
  ]
