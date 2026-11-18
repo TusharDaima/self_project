@@ -1,8 +1,7 @@
 {
- "generated_at": "2026-11-17T16:29:30+05:30",
- "generated_display": "17 Nov 2026, 04:29 PM IST",
- "open": [],
- "upcoming": [
+ "generated_at": "2026-11-18T16:01:30+05:30",
+ "generated_display": "18 Nov 2026, 04:01 PM IST",
+ "open": [
   {
    "chittorgarh_url": "https://www.chittorgarh.com/ipo/crystal-crop-protection-ipo/2813/",
    "name": "Crystal Crop Protection",
@@ -119,7 +118,7 @@
    "reviews": {
     "Subscribe": 0,
     "May Apply": 0,
-    "Neutral": 0,
+    "Neutral": 1,
     "Avoid": 0
    },
    "legal_name": "Crystal Crop Protection Ltd.",
@@ -148,8 +147,30 @@
     "Strategic acquisitions and successful integration of growth opportunities",
     "Diversification across business verticals, geographies, product categories and crops"
    ],
-   "status": "upcoming",
-   "day_label": "Opens tomorrow",
+   "status": "open",
+   "day_label": "Closes in 2 days",
+   "subscription": {
+    "as_of": "Nov 18, 2026 15:04",
+    "rows": [
+     {
+      "category": "Qualified Institutional",
+      "times": 1.5
+     },
+     {
+      "category": "Non Institutional",
+      "times": 0.48
+     },
+     {
+      "category": "Retail Individual",
+      "times": 1.16
+     },
+     {
+      "category": "Employee Reservations",
+      "times": 2.65
+     }
+    ],
+    "total": 1.12
+   },
    "insights": {
     "metrics": [
      "FY26 income ₹3,181.0 Cr",
@@ -176,6 +197,13 @@
      "tone": ""
     },
     {
+     "title": "Supreme Court restores Crystal Crop’s Halosulfuron-Methyl registration in Dhanuka dispute",
+     "source": "AgroSpectrum India",
+     "date": "03 Nov 2026",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeDAxMWV5MTVrd3RXN2oxS1ktb1lOMUV2Y0tQaDh6UFhnMmVJdHVZUDdVZnVQN1BKYUZPSkF5TlB5RG02SFhvZ2YwR19YQm9wVldVMjlIZnU3QnNwWE1GUlB1bFRBNnVyVWJUNDZaeElEbDIxTkNsam93V0FhOTdmbkFSdkdmS2hBYTdjUVJoU2ZGYmRkcGZRX1RnQXh0TWxJNzNjRFVTZnhtalFDYjN4ZHlaMDBmbTRXOFpGX2hsU2JRX1ZYTUZjX0RDcTk2dGpFaEM4?oc=5",
+     "tone": "bad"
+    },
+    {
      "title": "Crystal Seeds, Bayer Partner to Expand Access to Quality Seeds in India",
      "source": "Global Agriculture",
      "date": "23 Oct 2026",
@@ -188,40 +216,35 @@
      "date": "09 Oct 2026",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBHOWF6LXlEbGVtSmEwaG03Nll6WE1DTHdGR3V2TDBGM3phM2ZSS05MamlwRGEzRHAteTgyam1wTkRTVTZWRFNlSXBLOWx5U1lJV3l4SG04TQ?oc=5",
      "tone": ""
-    },
-    {
-     "title": "Crystal Crop cleared to acquire FMC India's crop protection business",
-     "source": "MLex",
-     "date": "01 Oct 2026",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT3QybFNWUWhlSzFXdEVuVF9tWm5ZaGg5VkR3cTFuSE5ndkpZRGkxcFZXeTNqM1h4NnZpQjZQTGlNQjdsbzhFSFVvcVFBZEtkeUxra3B3TlQ1NWFFbVFwcGJHd0k2aEhWOGhPTUp6NjlJMUFsSkpxNWZ5Qjk3c3JIa0s2QXZHdUxYemQzSTVyRllRSzZobXNnLUJKQmFzcmpzM0F3b29jUG5SV1pxcFQ0TdIBWkFVX3lxTE8tWlZHOHU3aXgyS2hzMDlCQWNWbjNwMUVSWEk5dzJkeXNmQVlSWVUtOHU5VURPRzdDUEh3T3dZOFpvT0ZjTGNYdGhJbW1fVDRqczAwTkNTcUpZQQ?oc=5",
-     "tone": "good"
     }
    ],
    "news": [
     {
-     "title": "All You Need to Know About Crystal Crop Protection IPO",
-     "source": "HDFC Sky",
-     "date": "17 Nov 2026",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZTJ4UE5qZmFyUlFiQ3hqdDRpeVA5WWpKUzdQZ18tMDI4dDlFSDJBZUx0NHRicmx6TGdFVDJrNGdxVHpUaU9LM3JZdEtDaHJoQ2xXWkYwMlZYdEQ2WjVrT1BTZVlqWHV1UTBIYWlpV2RZUGVUb3VIWjNsQU56LVpVem94TDdIQlFnZU5sZHBWaWhZdw?oc=5",
+     "title": "Crystal Crop Protection IPO subscribed 55% so far; GMP signals 7% listing premium",
+     "source": "The Economic Times",
+     "date": "18 Nov 2026",
+     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWVp6MU1ySXhXZGhOM1FwUUJBZTZhRHcxRmtMY2UydHE4SEtJWG93ZjlyMmk3VTJxN0lHX08xYXRHVFRkVnRydnA4eTVtTjVkcURZamt2dWdzTDRISWJ4anVpQ3JtVHc5a3FsaThxajZuMDBFZkZBVnMtNHRFbWNsTkEyUDB6eFVZQmdRc1lWWG9qNHg0b1hRSjBRTTRVUUpNakZUeVBfS0NXSklsWHhjOERrMm1BRDRzdk5xaUVXWi1uUEdOQ0t6eWM3eUV1d0txVlVlLVFLRE83akN5MlNJV1BnYlHSAeoBQVVfeXFMT1lGQUhVakdzcXNvOE5wdTJQTVVvZVVQcnQ3c09Ja3RDZjZKdEJYNVZ3TDlIUlJSNkVqQ3kzNWpqZ0lKbmdPbEhXYjFNQk1XZFU1YUVPTFQ4VWtHWGF1WjZTbjA1NGFqZWZ0cFAyTjRTMEpKcHV0S0Y5OWFxdDQyRTZQUkFGTTdVSnc5b096YlVWalNLNThDeFZMU3hYNHZma1lqdFNrUWptbW9JekQ1Y3NzZE1GTno2S1NoUWxkak43c0VuNUoyT1pBb2toS0JQNGVYVHMyOHZsNEphWGlxM0lLSnFUVkdUdHNn?oc=5",
      "tone": ""
     },
     {
-     "title": "IPO calendar firms up as Crystal Crop, Coal India arm and Watrana Rentals prepare to tap markets",
-     "source": "Indiatimes",
-     "date": "17 Nov 2026",
-     "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNaDZ4eXlmZ2Z5dE1GNlFsZTZzUFh0MFEwTVJKSHdOZkJ3cDdub3hfazg5SWFxakRIZTFIUnNyNU1hMGo1RDNlQkZiYzJyY2tUWjFiX3FzNTZCcXVkMXBGanVvZXZES043ZEE1emlraUdMNUxVUzRLb2Vab0pVcUQwMVp1QjRBX20yRVhlOEdHNGt2QlRiRWI5VGJCcWY1YzhwX1ZwMUhfTEFhdVBnZU5lcFdkM050Y3dZY3U5R2NsWUpsZ1V3aVpjb2F6RFdVQ3NrVEg1X1JiNmxPaDdjaWJ1eXpoeXB6RWI0MGRNa3hvTHB1M3pwX1FibWtsdzRiNEtfTktFaE1VMNIBjAJBVV95cUxPSWpsNTFRdFFWbjlHTU43YXBDUnQwMzlHTXdIOC1POVl6OWtxM3J2bHBoZzR3empET3M1djJKbXBHdF80NXVHZWd1dGxxdERSQUVZYjJYVDlRaV9EZ0t2VmVPaWVVQUNTUkdGQzhmaTIzNE5aQWxIRGpoLWRqMS0yd09zN3pyeExlMTJyVXpFMWh2Z2Jmb2xaMldzU01ocnhEX2IzTE1INEllZzFRQXBGYUlZYlRVVF9DV0NHMGhXM0NaVzNER3k5UGEyYjFhQ1hnSmVrU2R2OU5nTlIwVy02eU5mRmFYWWZ0ODloNXNLZVZWemJ4OHVRUGJ1d3ZEcFF5Y1F4SFpyVmF3V1Nq?oc=5",
+     "title": "Crystal Crop Protection IPO fully subscribed on day 1; check latest GMP and other details",
+     "source": "India TV News",
+     "date": "18 Nov 2026",
+     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOM3FUNUl3cm1WaUMzcTdpdnotd1J1NXhDNElpT3VVcDFPcUpPV2VoMWRNNFZORm95RWRoQUFMSlVxa2hGYTFRSS0zdEQ5WDY0aWtJZGxJWG1NNDlOajFxZWdjNTVtUUxaMkRwZ29zSFF0OUIzekw3bkV6alc0RjJrUmU4MktBcExpcHJLNXFrRWwyOUhLSkd5VjdwNHhXYkxIY3lPcnl5OVVNd21idmlzUkhZZG5kZVl5bTZhTUdMRlBNVm5FQXYyUEpwc1lxZXVUUVd5NUUxNUxRTk5PdGljRk5QdlFJNzNhWnVz0gHwAUFVX3lxTE55QVZDUjMzd25UUUhOVTVGaU51UlVBUjFya1BxcGNBUUtURDV4a3pid3k4OVNGenBGYjh3bUtJc2JkUXNnVnhQbE5ZVGxZRVByQTBzTS1CSVlnS3VnQmdoWHBoR003Zk1CVGZPTHJlU3ZpVEM0UzJQa0p0RTNLTDBtSUp6OGVBaE14NzZObkZKSTAybmlMNzgzV1d0NnpMUnhIdmZXQWw0dGRDUFVYWjJSR1p2enl4ZlNyNFRKUDk5SUVKYkg0SFBXWXRZS3hxczljalVTekQyR2t6LUV1RFpnMlZ0dk1JSHlBSkdPdHpURA?oc=5",
      "tone": ""
     },
     {
-     "title": "Crystal Crop Protection IPO set to open with muted grey market cues",
-     "source": "Indiatimes",
-     "date": "17 Nov 2026",
-     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWW1CLWl4Z3ZreUM3Tk13cGZKeTVKUW5EWHMwdE1ONUFNanlrc25GbFh3LXBHSEktYkFRTWRpQU91NElybnlWRzFKV2xJYVdOOVczSGlPdzFCYWZjZkZNM2JZSjJacVVhcTdmelk4SW1vMTVHU2dJTnV2b3FNUnNnZmVsbXJ0ak9iU0JFQjlLd1hWbzFVN3RFdkYzYXpsNTBKR0NhbE1uVVNwT280ejVJdnhzNWdyTXFUZXVpSXdiQjhWYnNWdURCRTZpd21nTUdWdmtQRTFBSUl0MGdiNWw2RTQwanllLXPSAecBQVVfeXFMTlltQi1peGd2a3lDN05Nd3BmSnk1SlFuRFhzMHRNTjVBTWp5a3NuRmxYdy1wR0hJLWJBUU1kaUFPdTRJcm55VkcxSldsSWFXTjlXM0hpT3cxQmFmY2ZGTTNiWUoyWnFVYXE3ZnpZOEltbzE1R1NnSU51dm9xTVJzZ2ZlbG1ydGpPYlNCRUI5S3dYVm8xVTd0RXZGM2F6bDUwSkdDYWxNblVTcE9vNHo1SXZ4czVnck1xVGV1aUl3YkI4VmJzVnVEQkU2aXdtZ01HVnZrUEUxQUlJdDBnYjVsNkU0MGp5ZS1z?oc=5",
+     "title": "Crystal Crop Protection IPO: Price Band, GMP, Lot Size & Listing Details | Should Investors Apply?",
+     "source": "Business Today",
+     "date": "18 Nov 2026",
+     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQWG9CZzE3YTVmZUtJWnU0b1Q5R3ozY2FnSW8wTlVHY2ZZWXc0VENnQXJQOWI2azJBMkFHRnFBbGZjeVNqUko1WGRCR0NBaWJ5QW5CRExYYVNnU2Z2YlBVMXRFSjlJLUFCVWQ1QXJsTkZKZWN2VEZIRWF6YkdMakRfQy14NXVYN1dyV2VFbkN2X0ZGanRIVmxLRFBTR3p0MXdUVGd5eTNVS1cyb1R4M19tVnVWRWhTVUNpNTluckJsRXJSQy1rTTU4MW83N3VUM2RuSUlkSVVmOTcyTWxvTE83UzM5Nm9mYk5MWE9z?oc=5",
      "tone": ""
     }
    ],
    "key": "crystal crop protection"
-  },
+  }
+ ],
+ "upcoming": [
   {
    "chittorgarh_url": "https://www.chittorgarh.com/ipo/mahanadi-coalfields-ipo/3247/",
    "name": "Mahanadi Coalfields",
@@ -321,8 +344,8 @@
    },
    "reviews": {
     "Subscribe": 0,
-    "May Apply": 0,
-    "Neutral": 0,
+    "May Apply": 1,
+    "Neutral": 1,
     "Avoid": 0
    },
    "legal_name": "Mahanadi Coalfields Ltd.",
@@ -361,7 +384,7 @@
     "Strong customer relationships with major power utilities and geographically diversified customer base."
    ],
    "status": "upcoming",
-   "day_label": "Opens in 2 days",
+   "day_label": "Opens tomorrow",
    "insights": {
     "metrics": [
      "FY26 income ₹33,899.3 Cr",
@@ -411,24 +434,24 @@
    ],
    "news": [
     {
-     "title": "Mahanadi Coalfields IPO: Here is how BCCL and CMPDI are performing post listing",
+     "title": "Mahanadi Coalfields vs Coal India: Is the subsidiary worth a higher valuation than its parent?",
      "source": "Upstox",
-     "date": "17 Nov 2026",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTmNLOEUwQ3NiYnBzZVlUNmRTUEFlOUt3ZEtYRWJXdnlHOWdBeGZndmY2cHZqUWVrWWVxekM4Wm9xY0xIQVY2TC1qZjJrUVRFNHhBcFlrbkdwZHM0Y0ExZlVoV2RBWVVoTnluaWJ3M1BwXzl2aTlzZmxtczBtTm5ZVjZTajllRlhZd2w4XzVpcE9ySFBuSUlsWHkxaC1iRVBsNndZOXJ1eHdUclNPREw5RWxORHFvMFVSZW5UMGZ6LUlCOVNlOFR4bXpNWXhLdFE?oc=5",
+     "date": "18 Nov 2026",
+     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSUJOM2F1cGVxQVFuS2lRbU9zdkZsVlZOU1owcDhaN01RWHgwelpPNGZReW9lQ3M1Yk9URmpVRE04SU5EX2RYb3d2MjVRWTlXeDdSOXltTzJ5R0x0cGJLVl9Tc1d2M3lqc3NJeXJYM213ZU5RbENfWGNjcGJTRHZ5QXVBT1A1cmkwYS1tUTZSaEV1SHhKVk1LN0REMkRDMnI5S2hPR0JfR0dPWHQ4Wl9XTEs3TlZaNHFqSS1GZllfQTlQTEljV3JJaWktNzBCb2lHa2JGWktZUzhndmU4Y2owNElB?oc=5",
      "tone": ""
     },
     {
-     "title": "Mahanadi Coalfields IPO single profit calculator basis latest GMP: What investors may earn on listing?",
+     "title": "Mahanadi Coalfields IPO: Should you bet on Coal India’s cash cow despite muted growth?",
      "source": "Livemint",
-     "date": "17 Nov 2026",
-     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZFVNX0kzbEIwb1FyTDdxQ3Y1UjVVeGpZY19kZU9XYzM3VVZJSlJFUkM5QVJyZU5KZ3hadU5xSjdkakkxZlhUZXRWbE9RQzlNNzNrampwaVFhWVlLZ0RyYUZLRTRxYnVyVGs1Qy16UlhoTU05aDhONklrRmZBenQyMFFJVURfSExHRV9QZkE1Sk5YUFk3cV8zVEtMOXpOTG9HSEVxNUFjMmt4NmNfSzlOb2ZjSVdzZGhiQU1vMU56b3lHZlB1VzhQVGt3dVRUakVUWjhpTDNoOVBZUGFzMTVCOHBvaFdqSWlrNnhNOdIB8gFBVV95cUxNdmZ1bC1LM05rdThmc2ZCc3dQWlB6Q1F4V3BkSk14ajhXY3NSdWxWaTh4Z25CaHBlZ0FQYUREV2FaNlhVQnZheUFMd1RqdzEwVW8tVjhFdE1GZDhFcWY2UnFxb1FrVkh2bzJKaEo3SzNCSWE3SEJVSS1pdmdYLWVhTWpnaGpQQUhIZ0xqVl9QWU85N3YxejU1TFU3cjNkNmw4SFBJWFFrVFEwaUdvdjFPbTBublptLXF2cl9JNURWTmZqcEx1NXVxUml1R0E1Z2MwT0NKZm5FRFdrelNYUUZnRHFySTljdGdfMlk5bGN3eDB4Zw?oc=5",
+     "date": "18 Nov 2026",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNanNqRTY3ZkJ4ZTcwVUY2eXY3VWN2ZUd0TmFGRjZXQ0tCem05a2MtdzNfdEcyVnVkVmE3TE9XUmVNek5DVENodDVwaE81YXVsUGo3bEFVQW1WeHlzSDZyMVI5djlsLUl6S1laLXNvSzB6bGRLYmZhODhYME1oSUNtQ1VMUy1haG5RTExxZDVDYVFyckNJQmdRWndPSFBqSFhOT0ZTT2pIS2dUZnFwQnRVTFlJTW5LenVZeUFkSDViTHJ4SU1jU2fSAcsBQVVfeXFMTVpqQUZCT1liVUs0QzhmdzhCajF2dGxERUlRUHl3bkFtM3ZNcmNhMGh5RE55eDJId3l4RERRbVlqUHROZkhQTi1RT094aUxJczROeFhzbTZCZHVEWEtkOHU1dmhkaUFuVDdwekFORlJaN3FQZ3N3V3hkdEMweTZZbmo3RVl5cWFHQmdCYXd4dE85cVZ6MjVmQ3Z3OHgyQl9JdVFya2lsd2ZHdWR0anNmWmUwNzF6QzhyVTIzRUd6Rm9KSXVxb3IyZlpUSm8?oc=5",
      "tone": ""
     },
     {
-     "title": "Mahanadi Coalfields IPO: Price, Dates, Lot Size & Details",
-     "source": "HDFC Sky",
-     "date": "17 Nov 2026",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tb3QtaURSM1dqdFF1Y0FrT2ZBYmNBYnpkYVhiYlphN1lyMU5qYjhQaTNYSjZ3V0phNmF2NnpYd0xnYXJzMFRQbnlpdGFvSnN5ZTFwUVdvTHBkOVpRSlBDNUE4ZlBlSTlLZ2RxTDBTeHAtbWo2X2c?oc=5",
+     "title": "Mahanadi Coalfields raises ₹2,295 crore from investors ahead of IPO",
+     "source": "Business Standard",
+     "date": "18 Nov 2026",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbjBIa2lYbUgwZGdHQjZyVXEtSkZRd1hLSnBIcFJlcGNWUGRCM09XaTQ5Ti11bnlCS0R5VnNMNlNweUVSVU55VVpELS1YZVQxcHBFMnowOTU3S3BhTEJhZW1lVDBobUc4dU9uNGdMT0xZR1MwWk5yT0xyUjQtRWRhNGUzd21JaWdXYmtiS2NyT2pkaDM0amVhUlVOcEs3WWl4TWdZUzg3Nko4OHo2TjhoSE5ZdzJNYzN3eklZV0wyYzUtTkJmTlRtdDFKajJLdjJf0gHWAUFVX3lxTFB5X3Z6aElNUTluOU9nWWFhZGZwZjB1VWVjU1E2NkloVnd2dHhCX084Rk9YakRRRmdSOURnVE5KSHhQVEs3c05ZUDNpQUVZWjdmSm4zZ0VKTFRoaFpJSmZfS3FYV2RUd0kxZUZOTDFsTzB3aU41TmE1YXBBQkR6SXJmbjVGdHBFb0h4MDJCX0lmMkFjWTB1RFFGNmlPUlFXYmtmdVdCUzdkZU1veTdWUUROOTVhTEZsWWZpdlN2bGd2R3hIQkVnSlRUclRuV1VTUU9vX1lHVkE?oc=5",
      "tone": ""
     }
    ],
@@ -559,7 +582,7 @@
    "about_lists": {},
    "strengths": [],
    "status": "upcoming",
-   "day_label": "Opens in 2 days",
+   "day_label": "Opens tomorrow",
    "insights": {
     "metrics": [
      "FY26 income ₹211.7 Cr",
@@ -580,24 +603,24 @@
    "business_news": [],
    "news": [
     {
-     "title": "IPO calendar firms up as Crystal Crop, Coal India arm and Watrana Rentals prepare to tap markets",
-     "source": "Indiatimes",
-     "date": "17 Nov 2026",
-     "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNaDZ4eXlmZ2Z5dE1GNlFsZTZzUFh0MFEwTVJKSHdOZkJ3cDdub3hfazg5SWFxakRIZTFIUnNyNU1hMGo1RDNlQkZiYzJyY2tUWjFiX3FzNTZCcXVkMXBGanVvZXZES043ZEE1emlraUdMNUxVUzRLb2Vab0pVcUQwMVp1QjRBX20yRVhlOEdHNGt2QlRiRWI5VGJCcWY1YzhwX1ZwMUhfTEFhdVBnZU5lcFdkM050Y3dZY3U5R2NsWUpsZ1V3aVpjb2F6RFdVQ3NrVEg1X1JiNmxPaDdjaWJ1eXpoeXB6RWI0MGRNa3hvTHB1M3pwX1FibWtsdzRiNEtfTktFaE1VMNIBjAJBVV95cUxPSWpsNTFRdFFWbjlHTU43YXBDUnQwMzlHTXdIOC1POVl6OWtxM3J2bHBoZzR3empET3M1djJKbXBHdF80NXVHZWd1dGxxdERSQUVZYjJYVDlRaV9EZ0t2VmVPaWVVQUNTUkdGQzhmaTIzNE5aQWxIRGpoLWRqMS0yd09zN3pyeExlMTJyVXpFMWh2Z2Jmb2xaMldzU01ocnhEX2IzTE1INEllZzFRQXBGYUlZYlRVVF9DV0NHMGhXM0NaVzNER3k5UGEyYjFhQ1hnSmVrU2R2OU5nTlIwVy02eU5mRmFYWWZ0ODloNXNLZVZWemJ4OHVRUGJ1d3ZEcFF5Y1F4SFpyVmF3V1Nq?oc=5",
+     "title": "Watrana Rentals Limited Announces Initial Public Offering (IPO), Opens on November 19, 2026",
+     "source": "The Tribune",
+     "date": "18 Nov 2026",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPd2JDOFRfZ3p2TXVpbG1ZbDdZNlY0QXV4WVFjY2R5aWtJbzZlemJzWWVnVmFVMWhwWFI2VmNvTndSNlgwaENjblV0a1RlelFwTFA1cjRQbldOaTl1NVY5N3pqVi10bzVTQ0x5Q0ZoR21xcm5oaDVCaUxtVkVyajFpdkZJQm5DWVFwVVNJVFVQOVppRUZQV2lBT1A3VzZkajk4MnhWaWpUeHBfSXhRM1Q2M0NVTW1rMkFhbHJualVLT3RhenlnNlBrUkN3WdIBzwFBVV95cUxNSHExcFJrOXp3ZkwyZnAxdzJVbVBfWlQzSTN0U2JXMGZxekYycWZ2Vlp6TmVlbGVfb19rR2FLYmJ4NWpvblpZLVJnOVhOSG9QbjhRNklnNVMyUDBlYkdoU0h2YV80TklLLVJ3cGxaVUs1QzV0NWNkY2c1STIwdE5TTGw2R1ZVVXN3aG5YUjJaSzdpNVlwekktOHU1Vk5SLVpMR1lobG01SzVzSGU2RkxsdThtbF9NRFZ4N2pIa1Zva3Z6S0VwajlyRGMyNmIxdzg?oc=5",
      "tone": ""
     },
     {
-     "title": "Watrana Rentals IPO 2026: Dates, Review and Key Risks",
-     "source": "Univest",
-     "date": "17 Nov 2026",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8ya1VrZ2otSmlMT2VSU1ZvSEJGU1lzRXRkak9ZMVgzRFVTU0F3UU5hQ2lUZkd5UEs2bko3SlRENFhYcWhkeHRyc3hUU0JLZUZaSzZmQ2dRUnM5dmVFWkpDZDRHakFWWklHMUlPbTFib1FXblJwNGlpVzZiMA?oc=5",
+     "title": "Watrana Rentals IPO GMP LIVE: Today's Grey Market Rate",
+     "source": "ET Now",
+     "date": "18 Nov 2026",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRDA1dTVaUUtMYlk3eUxDMldEelllN2xrcExVeGcxVkVMSEJRMWhTOFhqNXpkNFFpTzhSMTVPbTYyZjFxdUp6RFNma0NWYnlyc0huaEVZLWY3MFdvRW5TVFdibFA1ejRhWXVRTXo4c3c5V25CVXJvUDFvcVRvYy1NVFBYZFRJY3Y1czR3d254bmEta1p6TnF3YTEtNm5IMVIzM3UxZUtJSDJyYlNKOXRnRzZFRUNlQ3lyWGxKWExxOTZ0cGlDTm9V0gG0AUFVX3lxTE4wVjB2Sl9Yd0I4NGhCQk9KTzIxTFlLV3NmdzB3RDBxTF9PWGRxdUJqY2NibERvQ091YmYzSDRCNmJfdlFhbm1wZWFpNHI4VzVCQ01nYWZEbzc2ZE5zbG9OdVMtSGlXQWx3NFY5ejY2T1p4ZWJTZ1plOXhuMTFmbjcyMHZMcXZmWS1wRGxyVmlkbjNzY2FheVJHWlNRR2xqVnljS3I2LXBfTElFd01OUU5ZMTNUQQ?oc=5",
      "tone": ""
     },
     {
-     "title": "Upcoming IPOs This Week: Crystal Crop Protection, Mahanadi Coalfields, Watrana Rentals To Open For Subscription",
-     "source": "Outlook Money",
-     "date": "16 Nov 2026",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa0puNmdfejBKb2MxcUQ3YXhQX2dnY1kxMVF3ZVFDc3RnVXF6LWNKQkdTNkFiZmw5RmlnOTM4Z2pMY2xScDVnY0NvaUlERWlTNEUwOWV6a3RDaWxPMzRwdm54X2Rja3ZUbHFtMVJ2clYxMG5oR25XdUlIY24zanFZeFNGUXJCYnFFcUdHWmQ4dkVzZzFiSXluR19GaXZkM2hoZjRORWFNTHFoakJnTzZoWDNsb2ZMT0xVMUNV0gHIAUFVX3lxTE5MQk9LX3F6ZXN2bGRaYXl2bU5kYTZHenB1NW0tSy1Wd0E2dWlyWUdMWDBRb2diOFdhd21iakRwM0hVY2Y3QmkxN0loM1NJOEEzbkkwZFRFVHZOY2U2eU1UQ3JCT2JjZWN6ejNnRzY0YmlZc0FxVlRMUUY5cUdBcnR6SWRBTXVDdDRua0M0R0F3TVRySmUzY01FZy1DVnhjTjUtZ09PVDJDbk93QWtESlEyMFA0cnZjNVlYRnVZWTdnQmRPYjF3dkMw?oc=5",
+     "title": "Mahanadi Coalfields IPO, Crystal Crop Protection IPO, Watrana Rentals IPO: Price, GMP, Allotment Dates",
+     "source": "ETV Bharat",
+     "date": "18 Nov 2026",
+     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdURaZkE5NWZNWHJ1NGtkZEZocjFqYlJwRmxCeE5QQ090ZVMzSm9ZU3hpQV9fX3AzdEZKUGE0S01Gd3VHc0ZadnBsNUxvRFh4Q2VEajZIZ3JtdzFYNFNQa2oyWGZQLTMxTzBUZ3Z1enY3SGZYMm9Xd0xUeVNKaS04Um9sdHNyVDJ6elR6NWoxMHpXcmJLWWJUTEk1bHgwTDQ1MWhwcHlUVGFqeWt2NUFRR3UwbDVfSm1hZGJFRVMxb1V0NFdTT1l2WmRZWGJnT2xfWm1SS29rTFgwcWp6Tk9hV09JemXSAeoBQVVfeXFMTTRzSUVLWlF1bHNVLXVxTHBSV0wzVUJ5akdtQ2xoTkZNN2ZRaVlEdVB1VzlMR0tkd3ZWZXhjempYRk05QkRuaXQ4bklvelZzMVJuMGs0bFpqVFBZN0Y1dzA1N1hGQWNSUXdYVnZzMlVSMUpCamdJTGxjaHM4OEFQd2NmOVhxY1ZoS2FQeVBNRXRuam9CSGd1RHhzV3lNdkVpRVVSVWlGeWJaMFJRS3hWdmdpUm0xOGxxYlZ3ejIxRGs5Rmx5RDlxU3Ntal8yeXNyZ3lyZm0xZjlBQ056ekt5cnJBZVBsaTJWVlVR?oc=5",
      "tone": ""
     }
    ],
