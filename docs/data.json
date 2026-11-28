@@ -1,207 +1,7 @@
 {
- "generated_at": "2026-11-27T16:44:55+05:30",
- "generated_display": "27 Nov 2026, 04:44 PM IST",
+ "generated_at": "2026-11-28T16:15:35+05:30",
+ "generated_display": "28 Nov 2026, 04:15 PM IST",
  "open": [
-  {
-   "chittorgarh_url": "https://www.chittorgarh.com/ipo/shree-siddhivinayak-greentech-industries-ipo/3195/",
-   "name": "Shree Siddhivinayak Greentech Industries",
-   "open_date": "2026-11-25",
-   "close_date": "2026-11-27",
-   "ipo_date_text": "25 to 27 Nov, 2026",
-   "listing_date": "Wed, Dec 2, 2026",
-   "face_value": "₹ 10 per share",
-   "issue_type": "Bookbuilding IPO",
-   "sale_type": "Fresh capital only",
-   "listing_at": "NSE SME",
-   "type": "SME",
-   "lot_size": 1000,
-   "price_band": "₹130 to ₹142",
-   "price_high": 142.0,
-   "issue_size_cr": 93.66,
-   "min_application": {
-    "label": "Individual investors (IND) (Min)",
-    "lots": 2,
-    "shares": 2000,
-    "amount": 284000.0
-   },
-   "financials": {
-    "periods": [
-     "31 Jul 2026",
-     "31 Mar 2026",
-     "31 Mar 2025",
-     "31 Mar 2024"
-    ],
-    "rows": {
-     "Assets": [
-      121.8,
-      145.86,
-      115.22,
-      114.78
-     ],
-     "Total Income": [
-      37.42,
-      78.32,
-      61.13,
-      36.9
-     ],
-     "Profit After Tax": [
-      3.45,
-      11.59,
-      5.5,
-      3.08
-     ],
-     "EBITDA": [
-      4.68,
-      20.46,
-      14.54,
-      8.61
-     ],
-     "NET Worth": [
-      28.52,
-      25.07,
-      18.48,
-      12.98
-     ],
-     "Reserves and Surplus": [
-      16.27,
-      20.17,
-      8.58,
-      3.08
-     ],
-     "Total Borrowing": [
-      74.72,
-      89.95,
-      72.76,
-      76.45
-     ]
-    },
-    "unit": "Amount in ₹ Crore"
-   },
-   "objects": [
-    {
-     "object": "Capital Expenditure",
-     "amount_cr": 23.54
-    },
-    {
-     "object": "Pre-payment/re-payment, in part or full, of certain outstanding borrowings",
-     "amount_cr": 48.5
-    },
-    {
-     "object": "General Corporate Expenses",
-     "amount_cr": null
-    }
-   ],
-   "kpis": {
-    "ROE": "12.86%",
-    "ROCE": "6.20%",
-    "Debt/Equity": "2.62",
-    "RoNW": "12.08%",
-    "PAT Margin": "9.84%",
-    "EBITDA Margin": "13.35%",
-    "NAV": "23.28",
-    "P/B (x)": "6.10"
-   },
-   "valuation": {
-    "EPS (₹)": {
-     "pre": "9.46",
-     "post": "5.48"
-    },
-    "P/E (x)": {
-     "pre": "15.01",
-     "post": "25.91"
-    },
-    "Market Cap at Offer Price": {
-     "pre": "₹173.95 Cr.",
-     "post": "₹267.61 Cr."
-    }
-   },
-   "reviews": {
-    "Subscribe": 0,
-    "May Apply": 0,
-    "Neutral": 0,
-    "Avoid": 0
-   },
-   "legal_name": "Shree Siddhivinayak Greentech Industries Ltd.",
-   "about": [
-    "Incorporated in June 2022, Shree Siddhivinayak Greentech Industries Limited is an integrated agro-processing company engaged in the manufacturing of Jaggery Powder, Khandsari Sugar, jaggery-based value-added food products, and sugarcane by-products. The company also operates a Cane Seed nursery, enabling backward integration in sugarcane cultivation. It serves both B2B customers through jaggery powder, Khandsari sugar, and by-products, and B2C customers through its \"Feel Guddy\" branded jaggery-based premix products, including Jaggery Tea, Jaggery Coffee, Instant Rice Kheer, Jaggery Laddoo, and Jaggery Lapsi.",
-    "The company follows an integrated sugarcane processing model, utilizing sugarcane to manufacture primary products while efficiently monetizing by-products such as bagasse, molasses, press mud, and ash. With backward integration into sugarcane seed cultivation, captive processing facilities, and a focus on sustainable and zero-waste manufacturing, the company has established a diversified product portfolio catering to both industrial and retail markets.",
-    "Shree Siddhivinayak Greentech Industries emphasizes operational efficiency, quality control, sustainable manufacturing practices, and product innovation.",
-    "As of March 31, 2026, the company employed 155 permanent personnel across production, engineering, agriculture, administration, sales, finance, security, and other operational functions.",
-    "Competitive Strength"
-   ],
-   "about_lists": {},
-   "strengths": [],
-   "status": "open",
-   "day_label": "Closes today",
-   "subscription": {
-    "as_of": "Nov 27, 2026 15:49",
-    "rows": [
-     {
-      "category": "Qualified Institutional",
-      "times": 4.27
-     },
-     {
-      "category": "Non Institutional",
-      "times": 0.96
-     },
-     {
-      "category": "Retail Individual",
-      "times": 2.33
-     }
-    ],
-    "total": 1.68
-   },
-   "insights": {
-    "metrics": [
-     "FY26 income ₹78.3 Cr",
-     "PAT ₹11.6 Cr",
-     "PAT margin 9.8%",
-     "Income +28% YoY",
-     "PAT +111% YoY",
-     "Post-issue P/E 25.9x"
-    ],
-    "flags": [
-     {
-      "tone": "good",
-      "text": "Strong growth: income +28%, profit +111%"
-     },
-     {
-      "tone": "good",
-      "text": "Profit up 3 years in a row"
-     },
-     {
-      "tone": "warn",
-      "text": "High debt/equity 2.62"
-     }
-    ],
-    "partial": "Period to 31 Jul 2026: income ₹37.4 Cr, PAT ₹3.5 Cr (part-year, not compared)"
-   },
-   "business_news": [],
-   "news": [
-    {
-     "title": "Shree Siddhivinayak Greentech IPO Subscription Status Day 2: 1.26x Subscribed, Price Band ₹130-142, Key Details (Nov 27, 2026)",
-     "source": "PSU Connect",
-     "date": "27 Nov 2026",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcUxOeS1KZDdhVFQ0YlR5TzFtaGowTUVMWi1RMjU1Tk1tNnB6cE1wckhqY3VhSGlZMmppWjZpWVU3a201UXc0Z3l1VDIxVG1XNFNVS0hDNFpvWkV5SWQ3aWh1REJNMjJueE5mS09aMG5pREVzbDhab1I4RVQyVV9NOUF6VEx5Z3d1cXJQR0F4NU90a28?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Shree Siddhivinayak Greentech Industries IPO Day 3: Subscribed 1.52x; QIB demand leads at 4.27x",
-     "source": "scanx.trade",
-     "date": "27 Nov 2026",
-     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNX2doSmQ3S3B1NGhrUEFKV0poSW1VTmdPbmxDNmUxMDc0Nl9ia2RvWkh3YUZ3WnJnampibHNCR0lRV29GekpVa3NnT3ZIdDU0ZG1kYUY2SXQ1YjRXcmFLX2xFM2x5dEZZSDJGOUZ6ZTY0b3QzdkJxQjMzbFhaWjFDbW01LTJYR3FBbGgzSTlNWk5xY0pZNEoyZllrMTJLOUxVaC1BSDAxSlFNeUJFSUtodDRCX05XZEVDc2dmaXRNS1BGVEtOOWVrZ19ZYjB2QW9XSElVRW9SZFY?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Shree Siddhivinayak Greentech IPO Day 3: Subscription Closes Today, 27 November 2026",
-     "source": "Univest",
-     "date": "27 Nov 2026",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeTJ2bnpjSWFZWHhzQ2RxNGJ1aHhpdHVPSFN2TVZPYnRKbjF2OUM3bmVhQ3AtMHR5MVZmR0FJcDN5T1NGTUhQTmRwUUxQc0hFaXVYOUdXTlRlWlF5T2htZkNMcGF6MTh4VjZRVWFpTTduR1M5cFJkX0JOTTlycXJDQ1VRcjd1cGpJVWR6N2s0Z0Z5cDB6VnlSbGROQVh6MnliOWN5VWlmRjZVdzA5ZmFXTEJleG4?oc=5",
-     "tone": ""
-    }
-   ],
-   "key": "shree siddhivinayak greentech industries"
-  },
   {
    "chittorgarh_url": "https://www.chittorgarh.com/ipo/foodlink-fb-ipo/2493/",
    "name": "Foodlink F&B Holdings (India)",
@@ -352,9 +152,9 @@
     "Experienced promoter and professional management team with domain knowledge."
    ],
    "status": "open",
-   "day_label": "Closes in 3 days",
+   "day_label": "Closes in 2 days",
    "subscription": {
-    "as_of": "Nov 27, 2026 15:49",
+    "as_of": "Nov 27, 2026 17:54",
     "rows": [
      {
       "category": "Qualified Institutional",
@@ -362,14 +162,14 @@
      },
      {
       "category": "Non Institutional",
-      "times": 0.67
+      "times": 0.74
      },
      {
       "category": "Retail Individual",
-      "times": 3.95
+      "times": 4.09
      }
     ],
-    "total": 1.45
+    "total": 1.49
    },
    "insights": {
     "metrics": [
@@ -398,6 +198,13 @@
    ],
    "news": [
     {
+     "title": "Foodlink F&B Holdings IPO Subscribed 1.47x on Day 2",
+     "source": "Rediff MoneyWiz",
+     "date": "27 Nov 2026",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaWFkbnhaOFJNVnRqOENvWWFTVDR3QkExTWJOdzlDVTJLdlFEOWwxVEpKbjhVMFdSNk8zQnVvNldrejR6YXQ4bTZJcEVqdTRtNGpYc2hadTh0aGRlWW5SN2d2X3pzdERuMmRIdmVDTm5uVTFVc1lzeVg5SlExT2FsRUMtS3pxVUZoai0yVjRuUWctWEMxczJvNVJYYkt5QzR1M2N2enFB0gGrAUFVX3lxTE1vVTh2OEExUWVnMERSUTEyVXRTNVFLalhKeDQ2U0dNUExCMmM1TkVpTFRyOTk1S3ExUGowWkV0Tzk0REs4ei12RVpVYjh5eG5aeXdMT0lJN3hRZTljclBtMHN2MzdLMWt6RWVLUVRQTC1TUk5zTFk2M09kR2d6QXFNM3JrTm5PTGVMX1ZKSmlIMDcybmNUNmtGUzJSQ1pjdVNNcmxiYy05ZUJWRQ?oc=5",
+     "tone": ""
+    },
+    {
      "title": "All You Need to Know About Foodlink F&B Holdings (India) IPO",
      "source": "HDFC Sky",
      "date": "27 Nov 2026",
@@ -409,13 +216,6 @@
      "source": "FlipItMoney",
      "date": "27 Nov 2026",
      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSnlwLXVCWk0wQ0RyLTNnSGtGeTBCd2syZ0dXRUhlZEcxSkpNN3NBVW96UW5VNTRwOHhGeEcxbXJuQ01IblhiNGtiZjN5UDZpTEtGbGlSdkRKa1hacmYtT2RiN3lWQmd3UXRTbEo0UHpvTU1ZSGZqalA1U0I0N2dqTHNQa1RtUkh2M0Z6WEFPUFl1SWljR3BSeHRYek8tdw?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Foodlink F&B Holdings IPO subscribed 1.4 times on Day 2 so far; retail portion booked 4 times",
-     "source": "Moneycontrol.com",
-     "date": "27 Nov 2026",
-     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeTFSbnZaZUpVVmZ0SHRDSHltSFE4SVd3ZzRyZ01uTkxPdG82dHcyM3dVaWtqOXI0Tnd0X2sydmFPT3Foc0pWQzV2X2VvaTREWWllUDhEdmxtcVExeDNhcG5odjVIbzI5ckZjRkdwZmJrdl9RNXgwMzltNV9PUkp4QXNSM2kyYUJ1QUxwUExDQkdSTFdoOXUwTW1rLTZjbVZyeF9QMmJhWFVZZUlKdUxhdlJLS1MwT20yZ3E0UExIRnJtdEJTVkU3QUlrRkdINXpvQy1weVQ4dUppeENNc0hqNVd3Tnk1UkxQ0gHuAUFVX3lxTE1FczBqQ2pwVmZ4VldNZXkyaVh2ZENWdUo0SDAwb2hJMFdybm9sZUJhc3lIdlZieElTdE9ETUZ0Qm5JelZPOHBlRFB4UXpZb2hnR3JfTExXb1B2cUtIRENvRGRsU0MyQlBQWGJodWZnX3VDdXNwTnpxQk9Gd2FIYnJpaVRheFVCWmM4Q0drNjVVVkFRT2NYbE05NXlOWU1HSm91bWQ1R01MWDVnMzM2UGlncHlrZDZmb08tVDB0RkNKYUFNVTZnZkthTU5HcGU3UGdvNlpZSmZyTDAyM1JFVllDbUR2QjlBWFp6RVBRaGc?oc=5",
      "tone": ""
     }
    ],
@@ -578,20 +378,20 @@
     "Hybrid Business Model Combining Product Design, Assembly and White-Label Solutions."
    ],
    "status": "open",
-   "day_label": "Closes in 4 days",
+   "day_label": "Closes in 3 days",
    "subscription": {
-    "as_of": "Nov 27, 2026 15:49",
+    "as_of": "Nov 27, 2026 17:54",
     "rows": [
      {
       "category": "Non Institutional",
-      "times": 0.5
+      "times": 0.59
      },
      {
       "category": "Retail Individual",
-      "times": 0.79
+      "times": 1.0
      }
     ],
-    "total": 0.65
+    "total": 0.8
    },
    "insights": {
     "metrics": [
@@ -621,6 +421,13 @@
    "business_news": [],
    "news": [
     {
+     "title": "Airpro Technology India IPO: Check Issue Date, Price Band, Review, Details",
+     "source": "Kotak Neo",
+     "date": "28 Nov 2026",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16Ym05WlA5N2k5SVJmbUxQVVFFbVkzeHh6N0V0LU9jekdRQlk1WV9DTVB4YVUtSjR1Z0tGR1ctcHVfWFBYeUpYM2JlWXBjMk9FcWwtYU1rbkZXQmhDSTRaZmxScU15X0ll?oc=5",
+     "tone": ""
+    },
+    {
      "title": "Airpro Technology India IPO Opens Today: ₹35.64 Crore SME Issue at ₹99, Check Lot Size, Dates and Listing Details",
      "source": "theopenpress.in",
      "date": "27 Nov 2026",
@@ -628,17 +435,10 @@
      "tone": ""
     },
     {
-     "title": "Airpro Technology India SME IPO From November 27",
-     "source": "Deccan Chronicle",
+     "title": "Airpro Technology India IPO Subscription Status Day 1: Issue Subscribed 0.79 Times",
+     "source": "HDFC Sky",
      "date": "27 Nov 2026",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRFg3dDRCNEJSS1BVQUp5emRWZWlrZWJhLTAwdTZoRGpyd09MSGRBOVNQemJuWmk4a1B6ZVc0Vm1VUEg0T3FyRDlqTjU5T0xSTWhfX0VXNmJINE13UFUtOGNsdDd1dS1FTHc3TFBXREZTRUdHSkd3SWdySVlsMERSR3VPek1qbmVRY3Y4RWlSdmJKbVlhY3BuUExaT3F5QdIBowFBVV95cUxNNUw5N0hYNWtfcmsyZkV4WF8tb1pUU1REaVF1UmVnTEVSVkN3THV1Z3NsWFU0ZkNuVEhvWUYwdnpnUXpWT2xoVFNmbHhxQy1tYWFYSHJ1MTZ4ZllNcS1Nc2hjcFdTWlMzd29uM1ctRDFDRjhEX1lqTURfUU1la1plYkxvMXFTLTRZakQxa1BrV1pZOEtSY202UXM0dVdzWHI1d1k0?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Airpro Technology India Hits Primary Market With ₹35.64 Crore IPO, Check Price & Minimum Investment",
-     "source": "Free Press Journal",
-     "date": "27 Nov 2026",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZDZ5NkFsdmE3dEhHVkl2QTcwQ190cE02QWh2Ql9tN01kV3Y4R29nSVRqQXpVTVFXeXl2aUhNOXFQSlhpc3MyRDdBdmRhQVE3V2xpNUFtbjVjMnNkRVl2dUdaRmtaRGh3RnNLelFYa2I4Y0xDV1lET25TYWI5OXpHeHdIMk5pTVpPUFRUT2RXZGMtdktYRDBUWVFQWmI0b3h3Nk9Da1lrSk9UMzRrcnRqaXIwejVQSS1IOVN5T0lEeEZhU2xrX3JmeWoybjZBekpS0gHWAUFVX3lxTE9fNUZVdmQ1MUJVN1dOM2pFbXQ5RC1fY2x5c05DQmtTY2p2Qlk1OTBhZFRqQ051N3R3NVZfV2lxQ1h5aTluVFBoc1E4UEhZWlpoQ24wTmZFdVRTVDdFNng0Wm9LdXJfVk1rX1pEdEMxT2I5SDRwZ3UxVHhtTzZhb2FkWFE0THZmYUNwZ2k3UC1DcFZnVC1OWS1LVE0tRlNMQnl5RWNRNXFoWEprT3ZMaTF0cVA2YzI1VC1GdEFiNXNVNE5tcWZBOFBoaW5WNlB5LTZjT2JtSHc?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaF9pUnViYXFuR3lPZ1BxZFlrSEVMNFNGUGpJTl93Z18yVFJ2TDRhcjNLRzg5UnBhbVd5alRoZEFDWE1iRHpvQWhFMm9lNmpKdjJVbGdpMkc0c3R3bjdLZGVjMVNmQ1NySl9oQ2RVQXp0emlFU3JDUXhGejhBd3ZHYkJqV0Y?oc=5",
      "tone": ""
     }
    ],
@@ -797,7 +597,7 @@
     "Diversified Business Model Covering Own-Brand Sales, Contract Manufacturing and Job Work."
    ],
    "status": "upcoming",
-   "day_label": "Opens in 4 days",
+   "day_label": "Opens in 3 days",
    "insights": {
     "metrics": [
      "FY26 income ₹132.2 Cr",
@@ -818,17 +618,17 @@
    "business_news": [],
    "news": [
     {
+     "title": "IPOs Next Week: Swara Baby Products, Matangi Rubber Among Five New Issues",
+     "source": "NDTV Profit",
+     "date": "27 Nov 2026",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUmY4MlRUbGJabHhQVDBFZTF4Qk9mOWxBZUpuOFp5eHQyQnJwZ1RJSzB5amk0RFUyZlA2bUxGRVl3N2ZOTVhCYloycUZGa1A1OF83NGRDSjlWSDVuZTJUVTVta3B4YzBhYndnR2pick1qanlucGNlUFhtcXlDZmNyX0RFRE1tcEd5blJrelJKdEg0eDRON1p3QUVTSlczbXhHYkY3OHhtaDEyRkpmLS1wN3ByUHd6d9IBvgFBVV95cUxQc09RWHhudjUtRE5MbVNLRV9CN3dDTXQwYnJ6cUItc2Q2ZkdSUURCVFBFZmh0ZnNuYkJBNm5Dc0lmZHBFdlFaaTRXcjhpU2NVc0kyRWdhRDVLdzdkeFUzUV9PNU1KR0hBVjU5d2ZvNEpRLTBiWWRDdWhWeHBWc0JIcHRIZ3NlNTFlYnBCWjF2RXBDbGZjVFdjVkxoNzdzcjFuNThiRld1MkNucFJuMmRCZmo3c00wdVIwZ1MzRGZR?oc=5",
+     "tone": ""
+    },
+    {
      "title": "All You Need to Know About Matangi Rubber IPO",
      "source": "HDFC Sky",
      "date": "27 Nov 2026",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLWhrVld6MGc0NG5yUzFENk1tV3JoLTJ5TUNoN0tPSHJtM0JuaHJOei1ERUVEYXQ0QjQzNmxnelFJdTFocTd6TTNTYkFvTVpXT1RjWVBGTmdCSGdLT0JieGpwek9mTVJRVzM3OEdCM0o3OHNQbmw2WERTZmlDd2F6UXBZQ0F5Zw?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "Upcoming IPOs next week: Matangi Rubber, Monomark Engineering, Swara Baby Products, 2 other issues to open; 3 listings scheduled",
-     "source": "Upstox",
-     "date": "27 Nov 2026",
-     "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOd0o4MGZoZnBQSi00M2pFTTlhb0o2TE8tLVBoaVVHZ2ZxMjZndW0yUE5lN2J1eFlPLUR6T1dsR1pXalZ5cUVYeWw5TEpBcGsxMlNzQnlDVzRTOER3bXh4bFVRemFIdXFsQk5hYkMtdU9uZXEwVXhNSXpVNnlpTXRmWml3M3piVFhpQlJaWE9aNTIwRU1vdG1ZUFNBRFBuV0EySVN6c0ZjcVhBTHBjWVdUUUxVZVlfeVdCdmhTLUsyTGdIeWh2bVp3YTAxNkhobEp1VTR0TTRHR2JrN2E0dE9sb0tCZ09jLTR2WWdTa2d3dHBOTUdnbl9IcTNjazQzUWJnRFhaOFBXcHlKTjJnSkd6X193?oc=5",
      "tone": ""
     },
     {
@@ -908,7 +708,7 @@
       21.86
      ],
      "Total Borrowing": [
-      null,
+      70.69,
       75.0,
       69.79,
       70.13
@@ -953,7 +753,7 @@
    },
    "reviews": {
     "Subscribe": 0,
-    "May Apply": 0,
+    "May Apply": 2,
     "Neutral": 0,
     "Avoid": 0
    },
@@ -987,7 +787,7 @@
     "Experienced management team with Industry expertise"
    ],
    "status": "upcoming",
-   "day_label": "Opens in 4 days",
+   "day_label": "Opens in 3 days",
    "insights": {
     "metrics": [
      "FY26 income ₹223.7 Cr",
@@ -1012,6 +812,13 @@
    "business_news": [],
    "news": [
     {
+     "title": "A J Packaging IPO Opens December 1; Company Seeks to Raise Rs 54 Crore at Rs 175–180 Per Share",
+     "source": "Dalal Street Investment Journal",
+     "date": "28 Nov 2026",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdUZJSHJROWhlcDdBcnNldFF6THdJZVFMLUpaWjVYWGM3NlNyZnJod2kxNFJIb0VVS0pPc3UtR3pXU0xvRzdpdGFFeUt5bjhxVmlrV2JET1pLbm8ydHdMZXpscGc1a1ZCTEdTT2YwTHNORi1kZlI1Q3FCUzF6aF9yOHpJa3BvUGQyQkNvMzZwTTV2cWJ5c1ZGSVNDUEdjMDFlQjVsOFRDdDRSR2h2ODBmenVyNk5wdGZKTmxqX005a3poYmNxUkk0eDdHZW02VmJRRzVGclZvRHFpZw?oc=5",
+     "tone": ""
+    },
+    {
      "title": "A J Packaging IPO to open for subscription on December 3, check price band, lot size and other details",
      "source": "India TV News",
      "date": "27 Nov 2026",
@@ -1023,13 +830,6 @@
      "source": "First India",
      "date": "26 Nov 2026",
      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWVdia2RVNlJaVDlmV3VzbndpZlcxWXJLYzFISmQ1cU03QmgxYzdhVTJqYk16bjc2VDZob2xLeTdIVS15RXJKMGxrTlc5QlNWTkJZSFVoVmxVT2dZZlpnVUFLaWU5YXJwN2VCd1lYUzZ5NmZ5YXZTRnFsU2FYV01YbFNUX2pCbkdiWUhQZWpWTXRiZklSVERUZVgxNzJNWk1rRlctWmZ2UQ?oc=5",
-     "tone": ""
-    },
-    {
-     "title": "A J Packaging Ltd IPO Review: Price Band, Dates, Lot Size, Financials and Risks",
-     "source": "Alice Blue",
-     "date": "25 Nov 2026",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTEp3dF8xcEhQNm0zSVdQN1RWa2lFMWtBdExpN0llRi1oUHlHdk43R05hN1pCVmNTZEpBalFMNVg5SjY5ekl0eHpMZWZBS3pOREQ0R2JCTFNuUktoUElSaDVFc2RMcnB2WWVuYUxDeWlUTXNOZGJsUDROR09BZ2JjZUhSdkhFSnBuUFBxdlU5Z21DUzM4b2ZhM2phM2JwSHk3N1NCX2x4WWlZeU1HMGE2NA?oc=5",
      "tone": ""
     }
    ],
@@ -1166,7 +966,7 @@
     "Integrated Engineering Service Capabilities Across O&M, Metal Fabrication and Project Execution."
    ],
    "status": "upcoming",
-   "day_label": "Opens in 5 days",
+   "day_label": "Opens in 4 days",
    "insights": {
     "metrics": [
      "FY26 income ₹564.7 Cr",
@@ -1378,10 +1178,10 @@
    ],
    "news": [
     {
-     "title": "Integris Medtech IPO: ₹600 Crore Fresh Issue Opens on November 27, 2026",
-     "source": "Multibagg AI",
-     "date": "25 Nov 2026",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONEo4dGZSa19mX0pidTNsOEhIMUdKTVFuemZvRkt0aWxtYUVaYUd0Y1JkcUJQRjJQX3ZHWThoXzdTUHNuOHl6YzcxZzlaLXl3X2VJY1R5aU1ZQUhtcklRemhkTlh1dDBweGYweTFSaTJYOW1TOTliZFduRDhzZWFmWFdoRDJjLVlmY1NnS1VEQV9sa3FZcHY5U1F3b1Q1VWlwZ3lFLQ?oc=5",
+     "title": "Integris Medtech to raise ₹600 crore via IPO",
+     "source": "Medical Buyer",
+     "date": "26 Nov 2026",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRUZlUC1lZDQ4cEszanJTcmRpaWVNbkFnaEZndV9rMEw2R0xnVzR5bGpWZm1ORWNYUXlNYnBiSkxtY3J1ZExmOVlSQUxOOFZZOEJHd1FEUTg0MlctMS1IaE1XcWVzOG1adnBOVEpZYjFPVUdBMDNScHhqSVV3d2xRVjAzaG5ReWs?oc=5",
      "tone": ""
     },
     {
